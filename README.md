@@ -4,8 +4,7 @@
 ---
 repo | releases | star
 ---|---|---
-lucene | 7.7.1 | 2337
-solr | 7.7.1 | 2337
+micronaut | 1.1.0.M2 | 1825
 
 ### 收录列表
 ---
@@ -63,7 +62,7 @@ shiro | 1.4.0 | 2145
 pmd | 6.12.0 | 2088 
 drools | 7.17.0.Final | 1977 
 kylin | 2.6.0 | 1927 
-micronaut | 1.1.0.M1 | 1744 
+micronaut | 1.1.0.M2 | 1825 
 flume | 1.9.0 | 1557 
 jackson | 2.9.8 | 1546 
 commons-lang3 | 3.8.1 | 1545 
