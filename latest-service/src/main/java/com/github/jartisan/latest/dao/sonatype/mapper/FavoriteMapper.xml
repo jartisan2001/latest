@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.github.jartisan.latest.dao.sonatype.mapper.FavoriteMapper">
+  <resultMap id="BaseResultMap" type="com.github.jartisan.latest.dao.sonatype.entity.Favorite">
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="name" jdbcType="VARCHAR" property="name" />
+    <result column="language" jdbcType="VARCHAR" property="language" />
+    <result column="deleted" jdbcType="INTEGER" property="deleted" />
+    <result column="last_version" jdbcType="VARCHAR" property="lastVersion" />
+    <result column="check_type" jdbcType="VARCHAR" property="checkType" />
+    <result column="github_api" jdbcType="VARCHAR" property="githubApi" />
+    <result column="star_count" jdbcType="INTEGER" property="starCount" />
+    <result column="watcher_count" jdbcType="INTEGER" property="watcherCount" />
+    <result column="fork_count" jdbcType="INTEGER" property="forkCount" />
+    <result column="gmt_create" jdbcType="TIMESTAMP" property="createdDate" />
+    <result column="gmt_modified" jdbcType="TIMESTAMP" property="modifieDate" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    id, name, language, deleted, last_version, check_type, github_api, star_count, watcher_count, 
+    fork_count, gmt_create, gmt_modified
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from tutorial_favorite
+    where id = #{id,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    delete from tutorial_favorite
+    where id = #{id,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Favorite">
+    <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
+      SELECT LAST_INSERT_ID()
+    </selectKey>
+    insert into tutorial_favorite (name, language, deleted, 
+      last_version, check_type, github_api, 
+      star_count, watcher_count, fork_count, 
+      gmt_create, gmt_modified)
+    values (#{name,jdbcType=VARCHAR}, #{language,jdbcType=VARCHAR}, #{deleted,jdbcType=INTEGER}, 
+      #{lastVersion,jdbcType=VARCHAR}, #{checkType,jdbcType=VARCHAR}, #{githubApi,jdbcType=VARCHAR}, 
+      #{starCount,jdbcType=INTEGER}, #{watcherCount,jdbcType=INTEGER}, #{forkCount,jdbcType=INTEGER}, 
+      #{createdDate,jdbcType=TIMESTAMP}, #{modifieDate,jdbcType=TIMESTAMP})
+  </insert>
+  <insert id="insertSelective" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Favorite">
+    <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
+      SELECT LAST_INSERT_ID()
+    </selectKey>
+    insert into tutorial_favorite
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="name != null">
+        name,
+      </if>
+      <if test="language != null">
+        language,
+      </if>
+      <if test="deleted != null">
+        deleted,
+      </if>
+      <if test="lastVersion != null">
+        last_version,
+      </if>
+      <if test="checkType != null">
+        check_type,
+      </if>
+      <if test="githubApi != null">
+        github_api,
+      </if>
+      <if test="starCount != null">
+        star_count,
+      </if>
+      <if test="watcherCount != null">
+        watcher_count,
+      </if>
+      <if test="forkCount != null">
+        fork_count,
+      </if>
+      <if test="createdDate != null">
+        gmt_create,
+      </if>
+      <if test="modifieDate != null">
+        gmt_modified,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="name != null">
+        #{name,jdbcType=VARCHAR},
+      </if>
+      <if test="language != null">
+        #{language,jdbcType=VARCHAR},
+      </if>
+      <if test="deleted != null">
+        #{deleted,jdbcType=INTEGER},
+      </if>
+      <if test="lastVersion != null">
+        #{lastVersion,jdbcType=VARCHAR},
+      </if>
+      <if test="checkType != null">
+        #{checkType,jdbcType=VARCHAR},
+      </if>
+      <if test="githubApi != null">
+        #{githubApi,jdbcType=VARCHAR},
+      </if>
+      <if test="starCount != null">
+        #{starCount,jdbcType=INTEGER},
+      </if>
+      <if test="watcherCount != null">
+        #{watcherCount,jdbcType=INTEGER},
+      </if>
+      <if test="forkCount != null">
+        #{forkCount,jdbcType=INTEGER},
+      </if>
+      <if test="createdDate != null">
+        #{createdDate,jdbcType=TIMESTAMP},
+      </if>
+      <if test="modifieDate != null">
+        #{modifieDate,jdbcType=TIMESTAMP},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Favorite">
+    update tutorial_favorite
+    <set>
+      <if test="name != null">
+        name = #{name,jdbcType=VARCHAR},
+      </if>
+      <if test="language != null">
+        language = #{language,jdbcType=VARCHAR},
+      </if>
+      <if test="deleted != null">
+        deleted = #{deleted,jdbcType=INTEGER},
+      </if>
+      <if test="lastVersion != null">
+        last_version = #{lastVersion,jdbcType=VARCHAR},
+      </if>
+      <if test="checkType != null">
+        check_type = #{checkType,jdbcType=VARCHAR},
+      </if>
+      <if test="githubApi != null">
+        github_api = #{githubApi,jdbcType=VARCHAR},
+      </if>
+      <if test="starCount != null">
+        star_count = #{starCount,jdbcType=INTEGER},
+      </if>
+      <if test="watcherCount != null">
+        watcher_count = #{watcherCount,jdbcType=INTEGER},
+      </if>
+      <if test="forkCount != null">
+        fork_count = #{forkCount,jdbcType=INTEGER},
+      </if>
+      <if test="createdDate != null">
+        gmt_create = #{createdDate,jdbcType=TIMESTAMP},
+      </if>
+      <if test="modifieDate != null">
+        gmt_modified = #{modifieDate,jdbcType=TIMESTAMP},
+      </if>
+    </set>
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Favorite">
+    update tutorial_favorite
+    set name = #{name,jdbcType=VARCHAR},
+      language = #{language,jdbcType=VARCHAR},
+      deleted = #{deleted,jdbcType=INTEGER},
+      last_version = #{lastVersion,jdbcType=VARCHAR},
+      check_type = #{checkType,jdbcType=VARCHAR},
+      github_api = #{githubApi,jdbcType=VARCHAR},
+      star_count = #{starCount,jdbcType=INTEGER},
+      watcher_count = #{watcherCount,jdbcType=INTEGER},
+      fork_count = #{forkCount,jdbcType=INTEGER},
+      gmt_create = #{createdDate,jdbcType=TIMESTAMP},
+      gmt_modified = #{modifieDate,jdbcType=TIMESTAMP}
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  
+   <select id="listAll" parameterType="java.lang.String" resultMap="BaseResultMap">
+		SELECT <include refid="Base_Column_List" />	FROM tutorial_favorite
+		<trim prefix="WHERE" prefixOverrides="AND |OR ">
+			<if test="_parameter != null">
+		    	check_type = #{checkType,jdbcType=VARCHAR}
+		  	</if> 
+		  	AND deleted = 0 ORDER BY id ASC
+		</trim> 
+  </select>
+</mapper>

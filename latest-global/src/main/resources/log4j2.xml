@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Properties>
+		<property name="app_name">/latest-global</property>
+	</Properties>
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t]->%L->%r %-5level %logger{36} - %msg%n" />
+		</Console>
+		<RollingFile name="File_Public" fileName="${app_name}/log.log"
+			filePattern="${app_name}/${app_name}-%d{yyyy-MM}-%i.log.gz">
+			<PatternLayout
+				pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t]->%L->%r %-5level %logger{36} - %msg%n" />
+			<Policies>
+				<TimeBasedTriggeringPolicy interval="1" />
+				<SizeBasedTriggeringPolicy size="50 MB" />
+			</Policies>
+			<DefaultRolloverStrategy max="20" />
+		</RollingFile>
+
+		<RollingFile name="File_Error" fileName="${app_name}/error.log"
+			filePattern="${app_name}/${app_name}-%d{yyyy-MM}-%i.error.gz">
+			<ThresholdFilter level="warn" onMatch="ACCEPT"
+				onMismatch="DENY" />
+			<PatternLayout
+				pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t]->%L->%r %-5level %logger{36} - %msg%n" />
+			<Policies>
+				<TimeBasedTriggeringPolicy interval="1" />
+				<SizeBasedTriggeringPolicy size="50 MB" />
+			</Policies>
+			<DefaultRolloverStrategy max="20" />
+		</RollingFile>
+	</Appenders>
+	<Loggers>
+		<Root level="info">
+			<AppenderRef ref="Console" />
+			<AppenderRef ref="File_Public" />
+			<AppenderRef ref="File_Error" />
+		</Root>
+	</Loggers>
+</Configuration>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.github.jartisan.latest.dao.sonatype.mapper.CheckinfoMapper">
+  <resultMap id="BaseResultMap" type="com.github.jartisan.latest.dao.sonatype.entity.Checkinfo">
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="favorite_id" jdbcType="INTEGER" property="favoriteId" />
+    <result column="check_type" jdbcType="VARCHAR" property="checkType" />
+    <result column="gmt_create" jdbcType="TIMESTAMP" property="createdDate" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    id, favorite_id, check_type, gmt_create
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from tutorial_checkinfo
+    where id = #{id,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    delete from tutorial_checkinfo
+    where id = #{id,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Checkinfo">
+    <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
+      SELECT LAST_INSERT_ID()
+    </selectKey>
+    insert into tutorial_checkinfo (favorite_id, check_type, gmt_create
+      )
+    values (#{favoriteId,jdbcType=INTEGER}, #{checkType,jdbcType=VARCHAR}, #{createdDate,jdbcType=TIMESTAMP}
+      )
+  </insert>
+  <insert id="insertSelective" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Checkinfo">
+    <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
+      SELECT LAST_INSERT_ID()
+    </selectKey>
+    insert into tutorial_checkinfo
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="favoriteId != null">
+        favorite_id,
+      </if>
+      <if test="checkType != null">
+        check_type,
+      </if>
+      <if test="createdDate != null">
+        gmt_create,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="favoriteId != null">
+        #{favoriteId,jdbcType=INTEGER},
+      </if>
+      <if test="checkType != null">
+        #{checkType,jdbcType=VARCHAR},
+      </if>
+      <if test="createdDate != null">
+        #{createdDate,jdbcType=TIMESTAMP},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Checkinfo">
+    update tutorial_checkinfo
+    <set>
+      <if test="favoriteId != null">
+        favorite_id = #{favoriteId,jdbcType=INTEGER},
+      </if>
+      <if test="checkType != null">
+        check_type = #{checkType,jdbcType=VARCHAR},
+      </if>
+      <if test="createdDate != null">
+        gmt_create = #{createdDate,jdbcType=TIMESTAMP},
+      </if>
+    </set>
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Checkinfo">
+    update tutorial_checkinfo
+    set favorite_id = #{favoriteId,jdbcType=INTEGER},
+      check_type = #{checkType,jdbcType=VARCHAR},
+      gmt_create = #{createdDate,jdbcType=TIMESTAMP}
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  
+  <select id="selectByFavoriteId" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+		SELECT <include refid="Base_Column_List" />	FROM tutorial_checkinfo WHERE favorite_id = #{favoriteId,jdbcType=INTEGER} LIMIT 1;
+  </select>
+</mapper>
