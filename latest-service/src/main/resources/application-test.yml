@@ -15,10 +15,10 @@ spring:
           
         
 #服务器相关配置       
-server:
+server: 
   port: 8080
-  context-path: /latest
-  connection-timeout: 30000
+  servlet: 
+    context-path: /latest
 #tomcat相关配置
   #tomcat:
    # basedir: /opt
