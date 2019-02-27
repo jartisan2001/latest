@@ -55,8 +55,8 @@ beam | 2.10.0 | 2551
 camel | 3.0.0-M1 | 2403 
 jetty server | 9.4.15.v20190215 | 2368 
 hive | 2.3.4 | 2354 
-lucene | 7.7.1 | 2337 
-solr | 7.7.1 | 2337 
+lucene | 7.7.1 | 2338 
+solr | 7.7.1 | 2338 
 mybatis-spring | 1.3.3 | 2318 
 ignite | 2.7.0 | 2294 
 shiro | 1.4.0 | 2145 
