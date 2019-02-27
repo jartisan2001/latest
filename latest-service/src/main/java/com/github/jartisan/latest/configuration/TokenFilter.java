@@ -41,7 +41,7 @@ public class TokenFilter implements Filter {
 		try {
             if(isProtectedUrl(request)) {
             	 //check jwt令牌, 如果令牌不合法或者过期, 里面会直接抛出异常, 下面的catch部分会直接返回
-            	Map<String, Object> jwt =JwtUtil.parserJavaWebToken(token, "3136339");
+            	Map<String, Object> jwt =JwtUtil.parserJavaWebToken(token, "xxx");
             	log.info("jwt: {}",jwt);
             }
         } catch (Exception e) {

@@ -22,18 +22,18 @@
   <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
     select 
     <include refid="Base_Column_List" />
-    from tutorial_favorite
+    from latest_favorite
     where id = #{id,jdbcType=INTEGER}
   </select>
   <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
-    delete from tutorial_favorite
+    delete from latest_favorite
     where id = #{id,jdbcType=INTEGER}
   </delete>
   <insert id="insert" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Favorite">
     <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
       SELECT LAST_INSERT_ID()
     </selectKey>
-    insert into tutorial_favorite (name, language, deleted, 
+    insert into latest_favorite (name, language, deleted, 
       last_version, check_type, github_api, 
       star_count, watcher_count, fork_count, 
       gmt_create, gmt_modified)
@@ -46,7 +46,7 @@
     <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
       SELECT LAST_INSERT_ID()
     </selectKey>
-    insert into tutorial_favorite
+    insert into latest_favorite
     <trim prefix="(" suffix=")" suffixOverrides=",">
       <if test="name != null">
         name,
@@ -119,7 +119,7 @@
     </trim>
   </insert>
   <update id="updateByPrimaryKeySelective" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Favorite">
-    update tutorial_favorite
+    update latest_favorite
     <set>
       <if test="name != null">
         name = #{name,jdbcType=VARCHAR},
@@ -158,7 +158,7 @@
     where id = #{id,jdbcType=INTEGER}
   </update>
   <update id="updateByPrimaryKey" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Favorite">
-    update tutorial_favorite
+    update latest_favorite
     set name = #{name,jdbcType=VARCHAR},
       language = #{language,jdbcType=VARCHAR},
       deleted = #{deleted,jdbcType=INTEGER},
@@ -174,7 +174,7 @@
   </update>
   
    <select id="listAll" parameterType="java.lang.String" resultMap="BaseResultMap">
-		SELECT <include refid="Base_Column_List" />	FROM tutorial_favorite
+		SELECT <include refid="Base_Column_List" />	FROM latest_favorite
 		<trim prefix="WHERE" prefixOverrides="AND |OR ">
 			<if test="_parameter != null">
 		    	check_type = #{checkType,jdbcType=VARCHAR}

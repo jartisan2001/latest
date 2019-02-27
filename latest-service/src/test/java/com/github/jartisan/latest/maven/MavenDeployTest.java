@@ -1,11 +1,8 @@
 package com.github.jartisan.latest.maven;
 
-import java.io.File;
 import java.io.IOException;
 import java.util.List;
-import java.util.Map;
 
-import org.apache.commons.io.FileUtils;
 import org.joda.time.DateTime;
 import org.jsoup.Jsoup;
 import org.junit.Test;
@@ -16,7 +13,6 @@ import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 import com.github.jartisan.latest.global.entity.Dependency;
 import com.github.jartisan.latest.global.utils.SonatypeUtil;
-import com.github.jartisan.latest.global.utils.XmlUtil;
 
 /**   
 * @Title: MavenDeployTest.java 
@@ -74,33 +70,6 @@ public class MavenDeployTest {
 	}
 	
 	@Test
-	public void testXmlToSqlRepository(){
-
-		File file = new File("E:\\maven\\apache-maven-3.6.0\\conf\\settings1.xml");
-		try {
-			String message = FileUtils.readFileToString(file, "utf-8");
-			Map<String, String> map = XmlUtil.xml2Map(message);
-			logger.info(map.get("/dependency/groupId"));
-			logger.info(map.get("/dependency/artifactId"));
-			logger.info(map.get("/dependency/version"));
-			
-			logger.info("INSERT INTO tutorial_favorite (, `name`, `group_id`, `artifact_id`, `last_version`, `gmt_create`) VALUES ("
-					+ "'"+map.get("/dependency/artifactId")+"', "
-							+ "'"+map.get("/dependency/groupId")+"'"
-									+ ", '"+map.get("/dependency/artifactId")+"+,'"
-									+ map.get("/dependency/version")+"',"
-									+ "'2019-01-23 15:53:45');");
-			
-
-			
-			//logger.info(XmlUtil.map2Xml(map));
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	
-		
-	}
-	
 	/***
 	 * 获取最新版本
 	 * @param groupId

@@ -15,18 +15,18 @@
   <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
     select 
     <include refid="Base_Column_List" />
-    from tutorial_favorite_daily
+    from latest_favorite_daily
     where id = #{id,jdbcType=INTEGER}
   </select>
   <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
-    delete from tutorial_favorite_daily
+    delete from latest_favorite_daily
     where id = #{id,jdbcType=INTEGER}
   </delete>
   <insert id="insert" parameterType="com.github.jartisan.latest.dao.sonatype.entity.FavoriteDaily">
     <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
       SELECT LAST_INSERT_ID()
     </selectKey>
-    insert into tutorial_favorite_daily (favorite_id, star_count, watcher_count, 
+    insert into latest_favorite_daily (favorite_id, star_count, watcher_count, 
       fork_count, gmt_create)
     values (#{favoriteId,jdbcType=INTEGER}, #{starCount,jdbcType=INTEGER}, #{watcherCount,jdbcType=INTEGER}, 
       #{forkCount,jdbcType=INTEGER}, #{createdDate,jdbcType=TIMESTAMP})
@@ -35,7 +35,7 @@
     <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
       SELECT LAST_INSERT_ID()
     </selectKey>
-    insert into tutorial_favorite_daily
+    insert into latest_favorite_daily
     <trim prefix="(" suffix=")" suffixOverrides=",">
       <if test="favoriteId != null">
         favorite_id,
@@ -72,7 +72,7 @@
     </trim>
   </insert>
   <update id="updateByPrimaryKeySelective" parameterType="com.github.jartisan.latest.dao.sonatype.entity.FavoriteDaily">
-    update tutorial_favorite_daily
+    update latest_favorite_daily
     <set>
       <if test="favoriteId != null">
         favorite_id = #{favoriteId,jdbcType=INTEGER},
@@ -93,7 +93,7 @@
     where id = #{id,jdbcType=INTEGER}
   </update>
   <update id="updateByPrimaryKey" parameterType="com.github.jartisan.latest.dao.sonatype.entity.FavoriteDaily">
-    update tutorial_favorite_daily
+    update latest_favorite_daily
     set favorite_id = #{favoriteId,jdbcType=INTEGER},
       star_count = #{starCount,jdbcType=INTEGER},
       watcher_count = #{watcherCount,jdbcType=INTEGER},

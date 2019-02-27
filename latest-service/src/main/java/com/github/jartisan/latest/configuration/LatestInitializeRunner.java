@@ -12,9 +12,9 @@ import org.springframework.stereotype.Component;
  *
  */
 @Component
-public class TutorialInitializeRunner implements CommandLineRunner {
+public class LatestInitializeRunner implements CommandLineRunner {
 	
-	private static final Logger log = LoggerFactory.getLogger(TutorialInitializeRunner.class);
+	private static final Logger log = LoggerFactory.getLogger(LatestInitializeRunner.class);
 	
 	@Override
     public void run(String... args) throws Exception {

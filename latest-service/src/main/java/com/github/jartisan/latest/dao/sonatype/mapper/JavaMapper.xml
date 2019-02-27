@@ -14,18 +14,18 @@
   <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
     select 
     <include refid="Base_Column_List" />
-    from tutorial_java
+    from latest_java
     where id = #{id,jdbcType=INTEGER}
   </select>
   <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
-    delete from tutorial_java
+    delete from latest_java
     where id = #{id,jdbcType=INTEGER}
   </delete>
   <insert id="insert" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Java">
     <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
       SELECT LAST_INSERT_ID()
     </selectKey>
-    insert into tutorial_java (favorite_id, group_id, artifact_id, 
+    insert into latest_java (favorite_id, group_id, artifact_id, 
       gmt_create)
     values (#{favoriteId,jdbcType=INTEGER}, #{groupId,jdbcType=VARCHAR}, #{artifactId,jdbcType=VARCHAR}, 
       #{createdDate,jdbcType=TIMESTAMP})
@@ -34,7 +34,7 @@
     <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
       SELECT LAST_INSERT_ID()
     </selectKey>
-    insert into tutorial_java
+    insert into latest_java
     <trim prefix="(" suffix=")" suffixOverrides=",">
       <if test="favoriteId != null">
         favorite_id,
@@ -65,7 +65,7 @@
     </trim>
   </insert>
   <update id="updateByPrimaryKeySelective" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Java">
-    update tutorial_java
+    update latest_java
     <set>
       <if test="favoriteId != null">
         favorite_id = #{favoriteId,jdbcType=INTEGER},
@@ -83,7 +83,7 @@
     where id = #{id,jdbcType=INTEGER}
   </update>
   <update id="updateByPrimaryKey" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Java">
-    update tutorial_java
+    update latest_java
     set favorite_id = #{favoriteId,jdbcType=INTEGER},
       group_id = #{groupId,jdbcType=VARCHAR},
       artifact_id = #{artifactId,jdbcType=VARCHAR},
@@ -92,6 +92,6 @@
   </update>
   
    <select id="selectByFavoriteId" parameterType="java.lang.Integer" resultMap="BaseResultMap">
-		SELECT <include refid="Base_Column_List" />	FROM tutorial_java WHERE favorite_id = #{favoriteId,jdbcType=INTEGER} LIMIT 1;
+		SELECT <include refid="Base_Column_List" />	FROM latest_java WHERE favorite_id = #{favoriteId,jdbcType=INTEGER} LIMIT 1;
   </select>
 </mapper>
