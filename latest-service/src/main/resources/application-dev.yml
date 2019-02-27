@@ -109,8 +109,8 @@ druid:
         maxOpenPreparedStatements: 20
       
 #第三方系统地址
-domain:
-  name: dev.mbs.api
+dingding:
+    token: https://oapi.dingtalk.com/robot/send?access_token=1111111
 #jwt信息  
 jwt:
    expirationTime: 1

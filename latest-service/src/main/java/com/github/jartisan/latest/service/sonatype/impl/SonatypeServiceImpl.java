@@ -13,6 +13,7 @@ import org.apache.commons.lang3.time.DateFormatUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.StopWatch;
@@ -69,7 +70,9 @@ public class SonatypeServiceImpl implements SonatypeService {
 	
 	private static String  pattern = "yyyy-MM-dd";
 	
-	public static final String CHATBOT_WEBHOOK_ADMIN = "https://oapi.dingtalk.com/robot/send?access_token=842a03578923ccec228ae89fd271cfeda9ead962e6df6fd21cf646eb544de91b";
+	@Value("${dingding.token}")
+	public String chatbot_webhook_admin;
+	
 	private DingtalkChatbotClient client = new DingtalkChatbotClient();
 	
 	
@@ -316,7 +319,7 @@ public class SonatypeServiceImpl implements SonatypeService {
 		 message.setTitle("Github News:");
 		 message.add(content);
 		 //message.add("\n\n");
-        client.send(CHATBOT_WEBHOOK_ADMIN, message);
+        client.send(chatbot_webhook_admin, message);
 		
 	}
 	
@@ -325,7 +328,7 @@ public class SonatypeServiceImpl implements SonatypeService {
 		 message.setTitle("Github News:");
 		 message.add(favorite.getName()+"_"+versionStr+"_ 失败");
 		 //message.add("\n\n");
-        client.send(CHATBOT_WEBHOOK_ADMIN, message);
+        client.send(chatbot_webhook_admin, message);
 	}
 	
 	
