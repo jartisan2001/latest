@@ -52,8 +52,6 @@ public class GithubUtil {
 	
 	private static final Logger log = LogManager.getLogger(GithubUtil.class);
 	
-	private static final String TOKEN = "797fc71c24b871b722095c16f5d5c998f44dbae5";
-	
 	/**
 	 *setConnectTimeout 设置连接超时时间，单位毫秒。 
 	 */
@@ -68,9 +66,9 @@ public class GithubUtil {
 	 * @param fullName 全名
 	 * @return
 	 */
-	public static GithubInfo getProjectInfo(String api) {
+	public static GithubInfo getProjectInfo(String api,String token) {
 		
-		String body =GithubUtil.httpGet(api,buildTokenParams());
+		String body =GithubUtil.httpGet(api,buildTokenParams(token));
 		
 		JSONObject json = JSON.parseObject(body);
 		int starCount = json.getIntValue("stargazers_count");
@@ -93,9 +91,9 @@ public class GithubUtil {
 	 * @param fullName 全名
 	 * @return
 	 */
-	public static GithubInfo getTags(String api) {
+	public static GithubInfo getTags(String api,String token) {
 		List<String> list = Lists.newArrayList();
-		String body =GithubUtil.httpGet(api+"/tags",buildTokenParams());
+		String body =GithubUtil.httpGet(api+"/tags",buildTokenParams(token));
 		
 		JSONArray array = JSON.parseArray(body);
 		for(Iterator<Object> iterator = array.iterator();iterator.hasNext();){
@@ -112,9 +110,9 @@ public class GithubUtil {
 	 * @param fullName 全名
 	 * @return
 	 */
-	public static String getLastTag(String api) {
+	public static String getLastTag(String api,String token) {
 		String tag = "unknown";
-		GithubInfo info =getTags(api);
+		GithubInfo info =getTags(api,token);
 		List<String> tags =info.getTags();
 		if(null!=tags&&tags.size()>0) {
 			return tags.get(0);
@@ -128,9 +126,9 @@ public class GithubUtil {
 	 * @param fullName 全名
 	 * @return
 	 */
-	public static GithubInfo getReleases(String api) {
+	public static GithubInfo getReleases(String api,String token) {
 		List<String> list = Lists.newArrayList();
-		String body =GithubUtil.httpGet(api+"/releases",buildTokenParams());
+		String body =GithubUtil.httpGet(api+"/releases",buildTokenParams(token));
 		
 		JSONArray array = JSON.parseArray(body);
 		for(Iterator<Object> iterator = array.iterator();iterator.hasNext();){
@@ -148,9 +146,9 @@ public class GithubUtil {
 	 * @param fullName 全名
 	 * @return
 	 */
-	public static GithubInfo getCommits(String api) {
+	public static GithubInfo getCommits(String api,String token) {
 		List<String> list = Lists.newArrayList();
-		String body =GithubUtil.httpGet(api+"/commits",buildTokenParams());
+		String body =GithubUtil.httpGet(api+"/commits",buildTokenParams(token));
 		
 		JSONArray array = JSON.parseArray(body);
 		for(Iterator<Object> iterator = array.iterator();iterator.hasNext();){
@@ -168,9 +166,9 @@ public class GithubUtil {
 	 * @param fullName 全名
 	 * @return
 	 */
-	public static GithubInfo commit(String api) {
+	public static GithubInfo commit(String api,String token) {
 		List<String> list = Lists.newArrayList();
-		String body =GithubUtil.httpGet(api+"/commits",buildTokenParams());
+		String body =GithubUtil.httpGet(api+"/commits",buildTokenParams(token));
 		
 		JSONArray array = JSON.parseArray(body);
 		for(Iterator<Object> iterator = array.iterator();iterator.hasNext();){
@@ -187,9 +185,9 @@ public class GithubUtil {
 	 * @param fullName 全名
 	 * @return
 	 */
-	public static GithubInfo getReleases4html(String fullName) {
+	public static GithubInfo getReleases4html(String fullName,String token) {
 		List<String> list = Lists.newArrayList();
-		String body =GithubUtil.httpGet("https://github.com/"+fullName+"/releases",buildTokenParams());
+		String body =GithubUtil.httpGet("https://github.com/"+fullName+"/releases",buildTokenParams(token));
 		Document doc = Jsoup.parse(body);
 		Elements divs = doc.select("div[class=commit js-details-container Details]");
 		for (org.jsoup.nodes.Element div : divs) {
@@ -209,9 +207,9 @@ public class GithubUtil {
 	 * @param fullName 全名
 	 * @return
 	 */
-	public static String getLastRelease(String api) {
+	public static String getLastRelease(String api,String token) {
 		String release = "unknown";
-		GithubInfo info =getReleases(api);
+		GithubInfo info =getReleases(api,token);
 		List<String> releases =info.getReleases();
 		if(null!=releases&&releases.size()>0) {
 			return releases.get(0);
@@ -221,9 +219,9 @@ public class GithubUtil {
 	
 	
 	
-	public static List<NameValuePair> buildTokenParams (){
+	public static List<NameValuePair> buildTokenParams (String token){
 		List<NameValuePair> params = Lists.newArrayList();
-		params.add(new BasicNameValuePair("access_token",TOKEN));
+		params.add(new BasicNameValuePair("access_token",token));
 		return params;
 	}
 	

@@ -21,7 +21,6 @@ import org.eclipse.jgit.lib.ObjectId;
 import org.eclipse.jgit.lib.Repository;
 import org.eclipse.jgit.revwalk.RevCommit;
 import org.eclipse.jgit.transport.PushResult;
-import org.eclipse.jgit.transport.RemoteRefUpdate;
 import org.eclipse.jgit.transport.UsernamePasswordCredentialsProvider;
 import org.eclipse.jgit.treewalk.TreeWalk;
 import org.eclipse.jgit.treewalk.filter.PathFilterGroup;
@@ -42,12 +41,12 @@ public class GitUtil {
 	/**
 	   * 拉取远程仓库内容到本地
 	 */
-    public static void pullToLocal(String gitRoot) throws IOException, GitAPIException {
+    public static void pullToLocal(String userName,String pwd,String gitRoot) throws IOException, GitAPIException {
         //git仓库地址
     	log.info("git pull : {}",gitRoot);
         @SuppressWarnings("resource")
 		Git git = new Git(new FileRepository(gitRoot + File.separator + GIT));
-        PullResult pullResult =git.pull().setRemoteBranchName("master").setCredentialsProvider(new UsernamePasswordCredentialsProvider("wjlei2001@sina.com", "wjlei3136339")).call();
+        PullResult pullResult =git.pull().setRemoteBranchName("master").setCredentialsProvider(new UsernamePasswordCredentialsProvider(userName, pwd)).call();
         log.info( "pullResult = " + pullResult.isSuccessful() + ", " + pullResult.getFetchedFrom() + ", fetch messages: " + pullResult.getFetchResult().getMessages() );
     }
 
@@ -60,7 +59,7 @@ public class GitUtil {
 	 * @return 返回本次提交的版本号
 	 * @throws IOException
 	 */
-	public static String commitToGitRepository(String gitRoot, List<String> files, String remark) throws Exception {
+	public static String commitToGitRepository(String userName,String pwd,String gitRoot, List<String> files, String remark) throws Exception {
 		if (StringUtils.isNotBlank(gitRoot) && files != null && files.size() > 0) {
 
 			File rootDir = new File(gitRoot);
@@ -112,12 +111,9 @@ public class GitUtil {
 				commitCmd.setOnly(file);
 			}
 			git.commit().setMessage(remark).call();
-			Iterable<PushResult> results = git.push().setCredentialsProvider(new UsernamePasswordCredentialsProvider("wjlei2001@sina.com", "wjlei3136339")).call();
-			for (PushResult result : results) {
-				for (RemoteRefUpdate update : result.getRemoteUpdates()) {
-					log.info(update.getStatus().toString());
-				}
-			}
+			Iterable<PushResult> results = git.push().setCredentialsProvider(new UsernamePasswordCredentialsProvider(userName, pwd)).call();
+			log.info("推送结果：" + results.iterator().next().getRemoteUpdates());
+			log.info("推送结果：" + results.iterator().next().getAdvertisedRefs());
 			return results.toString();
 		}
 		return null;

@@ -18,6 +18,7 @@ import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.StopWatch;
 import org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer;
 
+import com.github.jartisan.latest.configuration.GitHubConfig;
 import com.github.jartisan.latest.dao.sonatype.entity.Favorite;
 import com.github.jartisan.latest.dao.sonatype.entity.FavoriteDaily;
 import com.github.jartisan.latest.dao.sonatype.entity.Java;
@@ -51,14 +52,13 @@ import freemarker.template.Template;
 public class GithubServiceImpl implements GithubService {
 	private static Logger log = LoggerFactory.getLogger(GithubServiceImpl.class);
 	
-	private static final String FILE_NAME = File.separator + "README";
-	
-	public static final String LOCAL_REPOPATH = "." + File.separator + "greleases";
-
 	@Autowired
 	private FreeMarkerConfigurer freemarkerConfigurer;
 
 	private Configuration freeMarkerCfg;
+	
+	@Autowired
+	private GitHubConfig gitHubConfig;
 
 	@Autowired
 	private FavoriteLogMapper favoriteLogMapper;
@@ -80,7 +80,7 @@ public class GithubServiceImpl implements GithubService {
 		stopwatch.stop();
 		for (Favorite favorite : favorites) {
 			stopwatch.start("list_" + favorite.getName());
-			GithubInfo info = GithubUtil.getProjectInfo(favorite.getGithubApi());
+			GithubInfo info = GithubUtil.getProjectInfo(favorite.getGithubApi(),gitHubConfig.getToken());
 			FavoriteDaily daily = new FavoriteDaily();
 			daily.setFavoriteId(favorite.getId());
 			daily.setStarCount(info.getStarCount());
@@ -129,11 +129,11 @@ public class GithubServiceImpl implements GithubService {
 		Template template = null;
 		template = freeMarkerCfg.getTemplate("github-readme.ftl");
 
-		File dest = new File(LOCAL_REPOPATH+FILE_NAME + ".md");
+		File dest = new File(gitHubConfig.getLocalRepoPath()+File.separator+gitHubConfig.getFileName());
 		log.info("存在版本更新：{}",latests.toString());
 		if (dest.exists()) {
 			//先删除后创建
-			log.info("正在删除历史文件：{}",LOCAL_REPOPATH+FILE_NAME + ".md");
+			log.info("正在删除历史文件：{}",gitHubConfig.getLocalRepoPath()+File.separator+gitHubConfig.getFileName());
 			if(dest.delete()) {
 				log.info("删除成功");
 				Files.createParentDirs(dest);
@@ -149,11 +149,11 @@ public class GithubServiceImpl implements GithubService {
 		template.process(root, w);
 		
 		log.info("从模板生成文件");
-		GitUtil.pullToLocal(LOCAL_REPOPATH);
+		GitUtil.pullToLocal(gitHubConfig.getUserName(),gitHubConfig.getPassWord(),gitHubConfig.getLocalRepoPath());
 		
 		List<String> list = Lists.newArrayList();
 		list.add("README.md");
-		GitUtil.commitToGitRepository(LOCAL_REPOPATH, list, "update latest - "+DateFormatUtils.format(new Date(), "yyyy-MM-dd HH:mm:ss"));
+		GitUtil.commitToGitRepository(gitHubConfig.getUserName(),gitHubConfig.getPassWord(),gitHubConfig.getLocalRepoPath(), list, "update latest - "+DateFormatUtils.format(new Date(), "yyyy-MM-dd HH:mm:ss"));
 
 	}
 

@@ -20,9 +20,11 @@ import org.kohsuke.github.GHTag;
 import org.kohsuke.github.GitHub;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
+import com.github.jartisan.latest.configuration.GitHubConfig;
 import com.github.jartisan.latest.global.entity.GithubInfo;
 import com.github.jartisan.latest.global.utils.GithubUtil;
 import com.github.jartisan.latest.global.utils.HttpClientUtil;
@@ -31,6 +33,9 @@ public class GithubApiTest {
 	
 	private static Logger log = LoggerFactory.getLogger(GithubApiTest.class);
 	public static final String GITHUB_PROJECT_INFO = "https://api.github.com/repos/alibaba/fastjson";
+	
+	@Autowired
+	private GitHubConfig gitHubConfig;
 	
 
 	@Test
@@ -51,31 +56,31 @@ public class GithubApiTest {
 	
 	@Test
 	public void testGetProjectInfo() {
-		GithubInfo info =GithubUtil.getProjectInfo(GITHUB_PROJECT_INFO);
+		GithubInfo info =GithubUtil.getProjectInfo(GITHUB_PROJECT_INFO,gitHubConfig.getToken());
 		log.info("GithubInfo:{}",info);
 	}
 	
 	@Test
 	public void testGetTags() {
-		GithubInfo info =GithubUtil.getTags(GITHUB_PROJECT_INFO);
+		GithubInfo info =GithubUtil.getTags(GITHUB_PROJECT_INFO,gitHubConfig.getToken());
 		log.info("GithubInfo:{}",info);
 		log.info("tags:{}",info.getTags());
 	}
 	@Test
 	public void testGetLastTag() {
-		String tag =GithubUtil.getLastTag(GITHUB_PROJECT_INFO);
+		String tag =GithubUtil.getLastTag(GITHUB_PROJECT_INFO,gitHubConfig.getToken());
 		log.info("LastTag:{}",tag);
 	}
 	
 	@Test
 	public void testGetReleases() {
-		GithubInfo info =GithubUtil.getReleases(GITHUB_PROJECT_INFO);
+		GithubInfo info =GithubUtil.getReleases(GITHUB_PROJECT_INFO,gitHubConfig.getToken());
 		log.info("GithubInfo:{}",info);
 		log.info("tags:{}",info.getReleases());
 	}
 	@Test
 	public void testGetLastRelease() {
-		String release =GithubUtil.getLastRelease(GITHUB_PROJECT_INFO);
+		String release =GithubUtil.getLastRelease(GITHUB_PROJECT_INFO,gitHubConfig.getToken());
 		log.info("LastRelease:{}",release);
 	}
 	
@@ -127,12 +132,12 @@ public class GithubApiTest {
 	//curl -X PUT -H "Content-Type: application/json" https://api.github.com/repos/bookmark/bmarks/contents/dir/test?access_token=796365420b6bb92eca9d02ammm309a8032f0571e -d '{"message": "my commit message","content": "bXkgdXBkYXRlZCBmaWxlIGNvmmmlbnRz","sha": "0d5a690c8fad5e605a6e8766295d9d459d65de42"}'
 	@Test // issue 230
     public void listFiles() throws Exception {
-		GithubInfo info = GithubUtil.getCommits("https://api.github.com/repos/jartisan2001/greleases");
+		GithubInfo info = GithubUtil.getCommits("https://api.github.com/repos/jartisan2001/greleases",gitHubConfig.getToken());
          //7a9d85331ad988fedfb36511590b516e382a450a
 		log.info("getCommits:{}",info.getCommits());
 		String commiturl= "https://api.github.com/repos/jartisan2001/greleases/git/commits/7a9d85331ad988fedfb36511590b516e382a450a";
 		String outStr = "{\"message\": \"my commit message\",\"content\": \"bXkgdXBkYXRlZCBmaWxlIGNvmmmlbnRz\",\"sha\": \"7a9d85331ad988fedfb36511590b516e382a450a\"}";
-		String result = GithubUtil.httpPut(commiturl, outStr, GithubUtil.buildTokenParams());
+		String result = GithubUtil.httpPut(commiturl, outStr, GithubUtil.buildTokenParams(gitHubConfig.getToken()));
 		log.info("getCommits:{}",result);
     }
 	
@@ -144,7 +149,7 @@ public class GithubApiTest {
 				//"apple/swift"
 				};
 		for(String repo : repos) {
-			GithubInfo releases =GithubUtil.getReleases4html(repo);
+			GithubInfo releases =GithubUtil.getReleases4html(repo,gitHubConfig.getToken());
 			log.info("LastRelease:{}",releases.getReleases());	
 		}
 				

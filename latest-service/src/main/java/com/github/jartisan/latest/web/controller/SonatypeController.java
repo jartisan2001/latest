@@ -25,22 +25,23 @@ import com.github.jartisan.latest.service.sonatype.SonatypeService;
 @RestController
 @RequestMapping("/api/sonatype")
 public class SonatypeController {
-	
-private static final Logger logger = LoggerFactory.getLogger(SonatypeController.class);
 
-@Autowired
-private SonatypeService sonatypeService;
-	
-/***
-  *保存favorite
- * @return
- * @throws BaseException
- */
-@RequestMapping(value="/v1/favorite",method = RequestMethod.POST)
-public RestResult<Favorite> favorite(@Validated @RequestBody Dependency dependency) throws BaseException {
-	logger.info("favorite dependency : {}",dependency.toString());
-	Favorite favorite =sonatypeService.saveFavorite(dependency);
-	return RestResult.ok(favorite);
-}	
+	private static final Logger logger = LoggerFactory.getLogger(SonatypeController.class);
+
+	@Autowired
+	private SonatypeService sonatypeService;
+
+	/***
+	 * 保存favorite
+	 * 
+	 * @return
+	 * @throws BaseException
+	 */
+	@RequestMapping(value = "/v1/favorite", method = RequestMethod.POST)
+	public RestResult<Favorite> favorite(@Validated @RequestBody Dependency dependency) throws BaseException {
+		logger.info("favorite dependency : {}", dependency.toString());
+		Favorite favorite = sonatypeService.saveFavorite(dependency);
+		return RestResult.ok(favorite);
+	}
 
 }

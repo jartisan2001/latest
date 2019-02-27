@@ -114,9 +114,16 @@ domain:
 #jwt信息  
 jwt:
    expirationTime: 1
-   secret: P@ssw02d
+   secret: P@ssw02d11i1T
    prefix: Bearer
    headerString: Authorization
    issuer: jartisan.github.com
    audience: client
+   
+github:
+   fileName: README.md
+   localRepoPath: ./latest
+   userName: dev
+   passWord: dev  
+   token: dev
     

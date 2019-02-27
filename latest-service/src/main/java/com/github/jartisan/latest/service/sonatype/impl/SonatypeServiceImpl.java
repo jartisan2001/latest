@@ -18,6 +18,7 @@ import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.StopWatch;
 import org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer;
 
+import com.github.jartisan.latest.configuration.GitHubConfig;
 import com.github.jartisan.latest.dao.sonatype.entity.Checkinfo;
 import com.github.jartisan.latest.dao.sonatype.entity.Favorite;
 import com.github.jartisan.latest.dao.sonatype.entity.FavoriteLog;
@@ -73,6 +74,9 @@ public class SonatypeServiceImpl implements SonatypeService {
 	
 	
 	@Autowired
+	private GitHubConfig gitHubConfig;
+	
+	@Autowired
 	private FavoriteMapper favoriteMapper;
 	
 	@Autowired
@@ -98,12 +102,12 @@ public class SonatypeServiceImpl implements SonatypeService {
 		//默认
 		favorite.setDeleted(0);
 		//GithubInfo
-		GithubInfo info =GithubUtil.getProjectInfo(dependency.getGithubApi());
+		GithubInfo info =GithubUtil.getProjectInfo(dependency.getGithubApi(),gitHubConfig.getToken());
 		favorite.setStarCount(info.getStarCount());
 		favorite.setWatcherCount(info.getWatcherCount());
 		favorite.setForkCount(info.getForkCount());
 		//LastVersion
-		favorite.setLastVersion(GithubUtil.getLastTag(dependency.getGithubApi()));
+		favorite.setLastVersion(GithubUtil.getLastTag(dependency.getGithubApi(),gitHubConfig.getToken()));
 		favorite.setCheckType(dependency.getCheckType());
 		favorite.setGithubApi(dependency.getGithubApi());
 		
@@ -148,13 +152,13 @@ public class SonatypeServiceImpl implements SonatypeService {
 				}
 				switch (checkinfo.getCheckType()) {
 				case Const.CHECK_GITHUB_TAG:
-					version = GithubUtil.getLastTag(favorite.getGithubApi());
+					version = GithubUtil.getLastTag(favorite.getGithubApi(),gitHubConfig.getToken());
 					break;
 				case Const.CHECK_GITHUB_RELEASE:
-					version = GithubUtil.getLastRelease(favorite.getGithubApi());	
+					version = GithubUtil.getLastRelease(favorite.getGithubApi(),gitHubConfig.getToken());	
 					break;
 				default:
-					version = GithubUtil.getLastTag(favorite.getGithubApi());
+					version = GithubUtil.getLastTag(favorite.getGithubApi(),gitHubConfig.getToken());
 					break;
 				}
 				//判断是否更新
@@ -235,7 +239,7 @@ public class SonatypeServiceImpl implements SonatypeService {
 			//获取上一次更新记录
 			FavoriteLog lastLog = favoriteLogMapper.selectByLastVersion(favorite.getId());
 			//获取GithubInfo
-			GithubInfo githubInfo = GithubUtil.getProjectInfo(favorite.getGithubApi());
+			GithubInfo githubInfo = GithubUtil.getProjectInfo(favorite.getGithubApi(),gitHubConfig.getToken());
 			
 			if(null==lastLog) {
 				githubInfo.setLastUpdated(new Date());				
