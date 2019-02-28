@@ -46,7 +46,7 @@ public class FreeMarkerTest {
 	private FavoriteLogMapper favoriteLogMapper;
     
     public static final String MAVEN_SONATYPE = "http://search.maven.org/solrsearch/select";
-	public static final String CHATBOT_WEBHOOK_ADMIN = "https://oapi.dingtalk.com/robot/send?access_token=842a03578923ccec228ae89fd271cfeda9ead962e6df6fd21cf646eb544de91b";
+	public static final String CHATBOT_WEBHOOK_ADMIN = "https://oapi.dingtalk.com/robot/send?access_token=111111";
 	private DingtalkChatbotClient client = new DingtalkChatbotClient();
 	
 	
