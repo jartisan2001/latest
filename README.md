@@ -4,8 +4,8 @@
 ---
 repo | releases | star
 ---|---|---
-lucene | 7.7.1 | 2337
-solr | 7.7.1 | 2337
+micronaut | 1.1.0.M2 | 1825
+gerrit | 2.16.6 | 195
 
 ### 收录列表
 ---
@@ -55,15 +55,15 @@ beam | 2.10.0 | 2551
 camel | 3.0.0-M1 | 2403 
 jetty server | 9.4.15.v20190215 | 2368 
 hive | 2.3.4 | 2354 
-lucene | 7.7.1 | 2338 
-solr | 7.7.1 | 2338 
+lucene | 7.7.1 | 2339 
+solr | 7.7.1 | 2339 
 mybatis-spring | 1.3.3 | 2318 
 ignite | 2.7.0 | 2294 
 shiro | 1.4.0 | 2145 
 pmd | 6.12.0 | 2088 
 drools | 7.17.0.Final | 1977 
 kylin | 2.6.0 | 1927 
-micronaut | 1.1.0.M1 | 1744 
+micronaut | 1.1.0.M2 | 1827 
 flume | 1.9.0 | 1557 
 jackson | 2.9.8 | 1546 
 commons-lang3 | 3.8.1 | 1545 
@@ -87,7 +87,7 @@ cxf | 3.1.18 | 517
 github-api | 1.95 | 512 
 dom4j | 2.1.1 | 471 
 dsl-json | 1.8.5 | 452 
-gerrit | 2.15.11 | 192 
+gerrit | 2.16.6 | 195 
 commons-codec | 1.12 | 183 
 commons-dbcp2 | 2.6.0 | 183 
 commons-text | 1.6 | 119 
