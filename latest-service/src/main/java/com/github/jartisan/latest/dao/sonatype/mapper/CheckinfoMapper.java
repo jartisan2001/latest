@@ -6,7 +6,7 @@ import com.github.jartisan.latest.dao.sonatype.entity.Checkinfo;
 
 /***
  * 
- * @author ejb3
+ * @author jalen
  *
  */
 @Mapper

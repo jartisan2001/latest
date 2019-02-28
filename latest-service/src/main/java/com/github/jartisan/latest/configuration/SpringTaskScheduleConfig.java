@@ -10,7 +10,7 @@ import org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler;
  * @Title: SpringTaskScheduleConfig.java
  * @Package com.github.jartisan.springbootdemo.configuration
  * @Description: 定时任务
- * @author wjl
+ * @author jalen
  * @date 2017年11月9日 下午1:18:45
  * @version V1.0
  */

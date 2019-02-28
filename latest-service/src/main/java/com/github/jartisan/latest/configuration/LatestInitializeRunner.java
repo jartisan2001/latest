@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 /***
  * 
  * 初始化
- * @author wjl
+ * @author jalen
  *
  */
 @Component

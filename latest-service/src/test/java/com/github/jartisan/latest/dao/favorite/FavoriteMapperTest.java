@@ -17,7 +17,7 @@ import com.github.jartisan.latest.global.consts.Const;
 
 /***
  * 
- * @author ejb3 2015年2月4日 下午12:27:47
+ * @author jalen 2015年2月4日 下午12:27:47
  */
 @RunWith(SpringJUnit4ClassRunner.class)  
 @SpringBootTest

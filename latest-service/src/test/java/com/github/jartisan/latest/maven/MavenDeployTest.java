@@ -18,7 +18,7 @@ import com.github.jartisan.latest.global.utils.SonatypeUtil;
 * @Title: MavenDeployTest.java 
 * @Package com.github.jartisan.latest.maven 
 * @Description: http://search.maven.org 中央仓库类库 rest api 测试
-* @author wjl
+* @author jalen
 * @date 2018年5月26日 下午3:14:08 
 * @version V1.0   
 */

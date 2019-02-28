@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 * @Title: RestControllerAspect.java 
 * @Package com.github.jartisan.latest.web.interceptor 
 * @Description: RestController
-* @author wjl
+* @author jalen
 * @date 2018年1月2日 下午6:15:41 
 * @version V1.0   
 */

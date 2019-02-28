@@ -13,7 +13,7 @@ import com.github.jartisan.latest.service.sonatype.SonatypeService;
 
 /***
  * 订时任务
- * @author wjl
+ * @author jalen
  */
 @Component
 public class SchedulerTask {

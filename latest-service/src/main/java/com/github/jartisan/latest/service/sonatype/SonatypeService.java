@@ -7,7 +7,7 @@ import com.github.jartisan.latest.global.entity.Dependency;
 import com.github.jartisan.latest.global.exception.BaseException;
 /***
  * 
- * @author wjl
+ * @author jalen
  *
  */
 public interface SonatypeService {

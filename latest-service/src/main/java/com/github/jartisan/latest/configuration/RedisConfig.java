@@ -28,7 +28,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 /**
  * @ClassName: RedisConfig
  * @Description:RedisConfig
- * @author: wjl
+ * @author: jalen
  * @date: 2016年2月26日 上午11:39:24
  */
 @Configuration

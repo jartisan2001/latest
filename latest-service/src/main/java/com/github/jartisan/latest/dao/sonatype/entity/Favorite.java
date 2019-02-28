@@ -5,7 +5,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Date;
 /**
- * @author: wjl
+ * @author: jalen
  * @date: 2016年2月26日 上午11:39:24
  */
 

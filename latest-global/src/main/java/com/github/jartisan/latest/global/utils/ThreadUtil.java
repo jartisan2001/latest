@@ -10,7 +10,7 @@ import org.apache.logging.log4j.Logger;
 
 /****
  * ThreadUtil
- * @author ejb3
+ * @author jalen
  *
  */
 public class ThreadUtil {

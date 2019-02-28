@@ -15,7 +15,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 /**
  * @ClassName: DataSourceConfiguration
  * @Description:数据源配置
- * @author: wjl
+ * @author: jalen
  * @date: 2016年2月26日 上午11:39:24
  */
 @Configuration

@@ -19,7 +19,7 @@ import org.slf4j.LoggerFactory;
 
 /***
  * xml 工具类
- * @author ejb3
+ * @author jalen
  *
  */
 public class XmlUtil {

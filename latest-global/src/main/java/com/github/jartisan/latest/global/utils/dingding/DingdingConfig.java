@@ -4,7 +4,7 @@ package com.github.jartisan.latest.global.utils.dingding;
 * @Title: WEBHOOK
 * @Package com.xdf.bling.cloud.global.util.dingding.DingdingConfig
 * @Description: AccessFilter 
-* @author wjl
+* @author jalen
 * @date 2018年4月12日 上午11:15:06 
 * @version V1.0   
 */

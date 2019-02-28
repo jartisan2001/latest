@@ -2,7 +2,7 @@ package com.github.jartisan.latest.global.enums;
 
 /***
  * @description 全局响应码
- * @author wjl
+ * @author jalen
  * @ClassName: GlobalCode
  * @Version 版本
  * @ModifiedBy jartisan

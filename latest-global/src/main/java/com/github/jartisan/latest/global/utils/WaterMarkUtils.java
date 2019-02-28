@@ -13,7 +13,7 @@ import javax.imageio.ImageIO;
 /***
  * 利用Java代码给图片加水印
  * 
- * @author wjl
+ * @author jalen
  *
  */
 public class WaterMarkUtils {

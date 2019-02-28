@@ -33,7 +33,7 @@ import com.google.common.base.Preconditions;
 /***
  * HttpClentUtil
  * 
- * @author wjl
+ * @author jalen
  */
 public class HttpClientUtil {
 

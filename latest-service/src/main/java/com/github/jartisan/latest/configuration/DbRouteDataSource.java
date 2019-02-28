@@ -10,7 +10,7 @@ import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 /**   
  * @ClassName:  DbRouteDataSource   
  * @Description:自定义的动态路由数据源 继承自 spring jdbc的AbstractRoutingDataSource   
- * @author: wjl 
+ * @author: jalen 
  * @date:   2016年2月26日 上午11:35:56        
  */
 public class DbRouteDataSource extends AbstractRoutingDataSource {

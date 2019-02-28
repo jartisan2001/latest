@@ -18,7 +18,7 @@ import com.github.jartisan.latest.global.enums.GlobalCode;
 import com.github.jartisan.latest.global.exception.BaseException;
 import com.github.jartisan.latest.global.response.RestResult;
 /***
- * @author wjl
+ * @author jalen
  * @date: 2016年2月26日 上午11:39:24
  */
 @ControllerAdvice

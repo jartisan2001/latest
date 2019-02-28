@@ -13,7 +13,7 @@ import org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler;
  * @Title: ThreadPoolConfig.java
  * @Package com.github.jartisan.springbootdemo.configuration
  * @Description: 自定义线程池
- * @author wjl
+ * @author jalen
  * @date 2017年10月20日 上午12:13:57
  * @version V1.0
  */

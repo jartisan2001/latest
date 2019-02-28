@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 /**
  * @ClassName: SlaveDataSourceInterceptor
  * @Description:从库、只读库 切面
- * @author: wjl
+ * @author: jalen
  * @date: 2016年2月26日 上午11:39:24
  */
 @Aspect

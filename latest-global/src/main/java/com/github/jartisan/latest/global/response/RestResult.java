@@ -11,7 +11,7 @@ import com.github.jartisan.latest.global.enums.GlobalCode;
 
 /***
  * @description 反回结果类
- * @author wjl
+ * @author jalen
  * @ClassName: RestResult
  * @Version 版本
  * @ModifiedBy jartisan

@@ -25,7 +25,7 @@ import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 /**
  * @ClassName: MybatisConfiguration
  * @Description:MybatisConfiguration
- * @author: wjl
+ * @author: jalen
  * @date: 2016年2月26日 上午11:39:24
  */
 @Configuration

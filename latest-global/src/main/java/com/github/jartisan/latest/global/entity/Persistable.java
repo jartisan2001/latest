@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /***
  * 持久化
- * @author  wjl
+ * @author  jalen
  * @date 2017/10/16
  */
 public interface Persistable <ID extends Serializable> extends Serializable{

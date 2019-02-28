@@ -11,7 +11,7 @@ import org.springframework.web.client.RestTemplate;
 /**   
 * @Title: RestTemplateConfiguration.java 
 * @Package com.github.jartisan.springbootdemo.configuration 
-* @author wjl
+* @author jalen
 * @date 2017年10月17日 下午7:20:25 
 * @version V1.0   
 */

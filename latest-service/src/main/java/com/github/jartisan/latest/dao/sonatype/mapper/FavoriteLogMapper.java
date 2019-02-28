@@ -8,7 +8,7 @@ import com.github.jartisan.latest.dao.sonatype.entity.FavoriteLog;
 import com.github.jartisan.latest.dao.sonatype.query.LatestQuery;
 
 /**
- * @author: wjl
+ * @author: jalen
  * @date: 2016年2月26日 上午11:39:24
  */
 @Mapper

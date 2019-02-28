@@ -2,7 +2,7 @@ package com.github.jartisan.latest.global.enums;
 
 /***
  * 编程语言
- * @author ejb3
+ * @author jalen
  *
  */
 public enum Language {

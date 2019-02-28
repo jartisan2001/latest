@@ -15,7 +15,7 @@ import com.github.jartisan.latest.global.entity.Dependency;
 
 /***
  * SonatypeUtil
- * @author ejb3
+ * @author jalen
  *
  */
 public class SonatypeUtil {

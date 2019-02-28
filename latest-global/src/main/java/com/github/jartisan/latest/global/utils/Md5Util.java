@@ -5,7 +5,7 @@ import org.apache.commons.codec.digest.DigestUtils;
  * @Title: MD5Util.java
  * @Package com.github.jartisan.latest.global.utils
  * @Description: MD5+SALT
- * @author wjl
+ * @author jalen
  * @date 2018年8月28日 上午9:24:38
  * @version V1.0
  */

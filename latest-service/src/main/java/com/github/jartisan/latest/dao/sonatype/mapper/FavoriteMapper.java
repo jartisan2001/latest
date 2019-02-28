@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Mapper;
 import com.github.jartisan.latest.dao.sonatype.entity.Favorite;
 
 /**
- * @author: wjl
+ * @author: jalen
  * @date: 2016年2月26日 上午11:39:24
  */
 @Mapper

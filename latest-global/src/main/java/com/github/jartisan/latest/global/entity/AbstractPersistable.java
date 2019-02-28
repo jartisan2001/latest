@@ -7,7 +7,7 @@ import org.apache.commons.lang3.builder.ToStringBuilder;
 
 /***
  * 
- * @author  wjl
+ * @author  jalen
  * @date 2017/10/16
  */
 public class AbstractPersistable <PK extends Serializable> implements Persistable<PK> {

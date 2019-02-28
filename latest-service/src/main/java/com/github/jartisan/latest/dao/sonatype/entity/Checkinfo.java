@@ -7,7 +7,7 @@ import org.apache.commons.lang3.builder.ToStringBuilder;
 
 /***
  * 
- * @author ejb3
+ * @author jalen
  *
  */
 public class Checkinfo implements Serializable {

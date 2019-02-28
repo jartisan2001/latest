@@ -19,7 +19,7 @@ import com.github.jartisan.latest.service.sonatype.SonatypeService;
  * 
  * @ClassName: SonatypeController
  * @Description: sonatype
- * @author wjl
+ * @author jalen
  * @date 2017年3月27日
  */
 @RestController

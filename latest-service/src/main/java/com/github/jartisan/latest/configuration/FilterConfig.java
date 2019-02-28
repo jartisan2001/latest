@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 
 /***
  * FilterConfig
- * @author wjl
+ * @author jalen
  *
  */
 @Configuration

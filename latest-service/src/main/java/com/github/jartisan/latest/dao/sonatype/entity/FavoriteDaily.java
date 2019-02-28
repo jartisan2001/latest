@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Date;
 /***
  * FavoriteDaily
- * @author wjl
+ * @author jalen
  *
  */
 

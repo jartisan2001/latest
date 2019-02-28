@@ -4,7 +4,7 @@ package com.github.jartisan.latest.global.utils;
 * @Title: UserPrivacyUtil.java 
 * @Package com.github.jartisan.latest.global.utils 
 * @Description: 用户隐私信息遮挡工具类
-* @author wjl
+* @author jalen
 * @date 2018年9月11日 下午2:05:20 
 * @version V1.0   
 */

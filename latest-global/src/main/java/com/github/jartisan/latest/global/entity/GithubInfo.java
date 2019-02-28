@@ -8,7 +8,7 @@ import org.apache.commons.lang3.builder.ToStringBuilder;
 /***
  * 
  * GithubInfo
- * @author wjl
+ * @author jalen
  *
  */
 public class GithubInfo {

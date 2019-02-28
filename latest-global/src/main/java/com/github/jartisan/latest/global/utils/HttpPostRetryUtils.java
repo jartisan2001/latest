@@ -27,7 +27,7 @@ import java.util.concurrent.TimeUnit;
 
 /***
  * HttpPostRetryUtils
- * @author wjl
+ * @author jalen
  */
 public class HttpPostRetryUtils {
 	

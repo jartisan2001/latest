@@ -2,7 +2,7 @@ package com.github.jartisan.latest.global.exception;
 
 /***
  * @description 异常封类  
- * @author wjl
+ * @author jalen
  * @ClassName: BaseException 
  * @Version 版本 
  * @ModifiedBy jartisan

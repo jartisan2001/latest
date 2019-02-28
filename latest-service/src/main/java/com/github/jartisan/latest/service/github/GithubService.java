@@ -3,7 +3,7 @@ package com.github.jartisan.latest.service.github;
 import com.github.jartisan.latest.global.exception.BaseException;
 /***
  * 
- * @author ejb3
+ * @author jalen
  *
  */
 public interface GithubService {

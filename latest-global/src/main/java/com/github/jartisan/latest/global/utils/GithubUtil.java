@@ -45,7 +45,7 @@ import com.google.common.collect.Maps;
 
 /***
  * GithubUtil
- * @author ejb3
+ * @author jalen
  *
  */
 public class GithubUtil {

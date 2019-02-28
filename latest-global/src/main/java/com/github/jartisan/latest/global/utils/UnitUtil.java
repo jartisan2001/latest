@@ -2,7 +2,7 @@ package com.github.jartisan.latest.global.utils;
 
 /***
  *     单位可读性转换
- * @author ejb3
+ * @author jalen
  *
  */
 public class UnitUtil {

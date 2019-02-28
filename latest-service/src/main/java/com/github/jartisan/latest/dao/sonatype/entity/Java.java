@@ -3,7 +3,7 @@ package com.github.jartisan.latest.dao.sonatype.entity;
 import java.io.Serializable;
 import java.util.Date;
 /**
- * @author: wjl
+ * @author: jalen
  * @date: 2016年2月26日 上午11:39:24
  */
 public class Java implements Serializable {

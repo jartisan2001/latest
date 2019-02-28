@@ -21,7 +21,7 @@ import io.jsonwebtoken.SignatureAlgorithm;
  * @Title: JwtUtil.java
  * @Package com.github.jartisan.latest.global.utils
  * @Description: jwt utils
- * @author wjl
+ * @author jalen
  * @date 2018年4月13日 上午11:54:27
  * @version V1.0
  */

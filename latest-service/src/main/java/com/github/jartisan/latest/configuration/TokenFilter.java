@@ -21,7 +21,7 @@ import com.github.jartisan.latest.global.utils.JwtUtil;
 
 /***
  * token 过滤器
- * @author wjl
+ * @author jalen
  */
 public class TokenFilter implements Filter {
 	private static final Logger log = LoggerFactory.getLogger(TokenFilter.class);

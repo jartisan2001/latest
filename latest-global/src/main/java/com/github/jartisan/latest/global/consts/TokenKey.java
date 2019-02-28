@@ -5,7 +5,7 @@ package com.github.jartisan.latest.global.consts;
 * @Title: TokenKey.java 
 * @Package com.xdf.bling.cloud.global.consts 
 * @Description: jwt token key
-* @author wjl
+* @author jalen
 * @date 2018年4月19日 上午11:03:58 
 * @version V1.0   
 */
@@ -26,7 +26,7 @@ public class TokenKey {
 	/****
 	 * SECRET
 	 */
-	public static final String SECRET ="jartisan-wjlei";
+	public static final String SECRET ="jartisan-jalenei";
 	
 	/****
 	 * USER_CODE
