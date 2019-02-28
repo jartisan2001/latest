@@ -1,0 +1,28 @@
+spring:     application:      name: latest       
+    # 激活配置文件
+    profiles:
+      active: dev
+    
+    main:
+        banner-mode: "console"
+        allow-bean-definition-overriding: true 
+    #jsckson配置
+    jackson:
+      date-format: yyyy-MM-dd HH:mm:ss
+      time-zone: Asia/Shanghai
+      default-property-inclusion: always          freemarker:       suffix: .flt      content-type: '*/*'      check-template-location: true      charset: UTF-8      cache: false      template-loader-path:      - classpath:/templates      settings:        default_encoding: UTF-8        output_encoding: UTF-8        url_escaping_charset: UTF-8        tag_syntax: auto_detect        locale: zh_CN        datetime_format: yyyy-MM-dd HH:mm:ss        date_format: yyyy-MM-dd        time_format: HH:mm:ss              
+#mybatis相关配置       
+mybatis: 
+  mapperLocations: classpath*:com/github/jartisan/latest/dao/**/mapper/*Mapper*.xml
+  typeAliasesPackage: com.github.jartisan.latest.dao.entity
+  config-location: classpath:SqlMapConfig.xml        
+#pagehelper分页插件配置
+pagehelper:
+  helperDialect: mysql
+  reasonable: true
+  supportMethodsArguments: true
+  params: count=countSql
+  
+####第三方系统接口地址
+mbs: 
+ login: http://${domain.name}/mbs/login

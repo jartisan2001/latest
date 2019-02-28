@@ -1,0 +1,129 @@
+spring:
+    #redis 配置            
+    redis:
+        host: localhost
+        password:
+        timeout: 3000
+        database: 0
+        port: 6379
+        jedis: 
+          pool:
+            min-idle: 1
+            max-wait: -1
+            max-idle: 100
+            max-active: 1000 
+    batch:       job:        enabled: false      initialize-schema: always 
+          
+#服务器相关配置       
+server: 
+  port: 8080
+  servlet: 
+    context-path: /latest
+  
+  #tomcat相关配置
+  #tomcat:
+   # basedir: /opt
+    #max-connections: 3000 可选
+    #max-threads: 3000     可选
+    
+    #accesslog:
+     #pattern: "%t %a %r %s (%D ms)"
+      #enabled: true
+      #directory: /logs
+  undertow:
+    accesslog:
+      pattern: combined
+      enabled: true
+      dir: /opt/logs
+      
+    
+info: #定义各种额外的详情给服务端显示  
+  app:  
+    name: "@project.name@" #从pom.xml中获取  
+    description: "@project.description@"  
+    version: "@project.version@"  
+    spring-boot-version: "@project.parent.version@"     
+      
+#数据库访问配置
+# 使用druid数据源
+druid:
+    type: com.alibaba.druid.pool.DruidDataSource
+    master:
+        url: jdbc:mysql:///latest?useLegacyDatetimeCode=false&serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&characterSetResults=utf8&useSSL=false
+        username: root
+        password: root
+        
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        filters: stat
+        maxActive: 100
+        initialSize: 3
+        maxWait: 60000
+        minIdle: 3
+        timeBetweenEvictionRunsMillis: 60000
+        minEvictableIdleTimeMillis: 300000
+        validationQuery: select 'x'
+        testWhileIdle: true
+        testOnBorrow: false
+        testOnReturn: false
+        poolPreparedStatements: true
+        maxOpenPreparedStatements: 20
+        
+    slave1:
+        url: jdbc:mysql:///latest?useLegacyDatetimeCode=false&serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&characterSetResults=utf8&useSSL=false
+        username: root
+        password: root
+        
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        filters: stat
+        maxActive: 100
+        initialSize: 3
+        maxWait: 60000
+        minIdle: 3
+        timeBetweenEvictionRunsMillis: 60000
+        minEvictableIdleTimeMillis: 300000
+        validationQuery: select 'x'
+        testWhileIdle: true
+        testOnBorrow: false
+        testOnReturn: false
+        poolPreparedStatements: true
+        maxOpenPreparedStatements: 20
+        
+    slave2:
+        url: jdbc:mysql:///latest?useLegacyDatetimeCode=false&serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&characterSetResults=utf8&useSSL=false
+        username: root
+        password: root
+        
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        filters: stat
+        maxActive: 100
+        initialSize: 3
+        maxWait: 60000
+        minIdle: 3
+        timeBetweenEvictionRunsMillis: 60000
+        minEvictableIdleTimeMillis: 300000
+        validationQuery: select 'x'
+        testWhileIdle: true
+        testOnBorrow: false
+        testOnReturn: false
+        poolPreparedStatements: true
+        maxOpenPreparedStatements: 20
+      
+#第三方系统地址
+dingding:
+    token: https://oapi.dingtalk.com/robot/send?access_token=1111111
+#jwt信息  
+jwt:
+   expirationTime: 1
+   secret: P@ssw02d11i1T
+   prefix: Bearer
+   headerString: Authorization
+   issuer: jartisan.github.com
+   audience: client
+   
+github:
+   fileName: README.md
+   localRepoPath: ./latest
+   userName: dev
+   passWord: dev  
+   token: dev
+    

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.github.jartisan.latest.dao.sonatype.mapper.JavaMapper">
+  <resultMap id="BaseResultMap" type="com.github.jartisan.latest.dao.sonatype.entity.Java">
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="favorite_id" jdbcType="INTEGER" property="favoriteId" />
+    <result column="group_id" jdbcType="VARCHAR" property="groupId" />
+    <result column="artifact_id" jdbcType="VARCHAR" property="artifactId" />
+    <result column="gmt_create" jdbcType="TIMESTAMP" property="createdDate" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    id, favorite_id, group_id, artifact_id, gmt_create
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from latest_java
+    where id = #{id,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    delete from latest_java
+    where id = #{id,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Java">
+    <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
+      SELECT LAST_INSERT_ID()
+    </selectKey>
+    insert into latest_java (favorite_id, group_id, artifact_id, 
+      gmt_create)
+    values (#{favoriteId,jdbcType=INTEGER}, #{groupId,jdbcType=VARCHAR}, #{artifactId,jdbcType=VARCHAR}, 
+      #{createdDate,jdbcType=TIMESTAMP})
+  </insert>
+  <insert id="insertSelective" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Java">
+    <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
+      SELECT LAST_INSERT_ID()
+    </selectKey>
+    insert into latest_java
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="favoriteId != null">
+        favorite_id,
+      </if>
+      <if test="groupId != null">
+        group_id,
+      </if>
+      <if test="artifactId != null">
+        artifact_id,
+      </if>
+      <if test="createdDate != null">
+        gmt_create,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="favoriteId != null">
+        #{favoriteId,jdbcType=INTEGER},
+      </if>
+      <if test="groupId != null">
+        #{groupId,jdbcType=VARCHAR},
+      </if>
+      <if test="artifactId != null">
+        #{artifactId,jdbcType=VARCHAR},
+      </if>
+      <if test="createdDate != null">
+        #{createdDate,jdbcType=TIMESTAMP},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Java">
+    update latest_java
+    <set>
+      <if test="favoriteId != null">
+        favorite_id = #{favoriteId,jdbcType=INTEGER},
+      </if>
+      <if test="groupId != null">
+        group_id = #{groupId,jdbcType=VARCHAR},
+      </if>
+      <if test="artifactId != null">
+        artifact_id = #{artifactId,jdbcType=VARCHAR},
+      </if>
+      <if test="createdDate != null">
+        gmt_create = #{createdDate,jdbcType=TIMESTAMP},
+      </if>
+    </set>
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="com.github.jartisan.latest.dao.sonatype.entity.Java">
+    update latest_java
+    set favorite_id = #{favoriteId,jdbcType=INTEGER},
+      group_id = #{groupId,jdbcType=VARCHAR},
+      artifact_id = #{artifactId,jdbcType=VARCHAR},
+      gmt_create = #{createdDate,jdbcType=TIMESTAMP}
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  
+   <select id="selectByFavoriteId" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+		SELECT <include refid="Base_Column_List" />	FROM latest_java WHERE favorite_id = #{favoriteId,jdbcType=INTEGER} LIMIT 1;
+  </select>
+</mapper>

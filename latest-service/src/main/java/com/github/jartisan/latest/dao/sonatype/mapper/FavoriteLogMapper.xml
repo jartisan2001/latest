@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.github.jartisan.latest.dao.sonatype.mapper.FavoriteLogMapper">
+  <resultMap id="BaseResultMap" type="com.github.jartisan.latest.dao.sonatype.entity.FavoriteLog">
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="favorite_id" jdbcType="INTEGER" property="favoriteId" />
+    <result column="version" jdbcType="VARCHAR" property="version" />
+    <result column="star_count" jdbcType="INTEGER" property="starCount" />
+    <result column="watcher_count" jdbcType="INTEGER" property="watcherCount" />
+    <result column="fork_count" jdbcType="INTEGER" property="forkCount" />
+    <result column="gmt_create" jdbcType="TIMESTAMP" property="createdDate" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    id, favorite_id, version, star_count, watcher_count, fork_count, gmt_create
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from latest_favorite_log
+    where id = #{id,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    delete from latest_favorite_log
+    where id = #{id,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="com.github.jartisan.latest.dao.sonatype.entity.FavoriteLog">
+    <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
+      SELECT LAST_INSERT_ID()
+    </selectKey>
+    insert into latest_favorite_log (favorite_id, version, star_count, 
+      watcher_count, fork_count, gmt_create
+      )
+    values (#{favoriteId,jdbcType=INTEGER}, #{version,jdbcType=VARCHAR}, #{starCount,jdbcType=INTEGER}, 
+      #{watcherCount,jdbcType=INTEGER}, #{forkCount,jdbcType=INTEGER}, #{createdDate,jdbcType=TIMESTAMP}
+      )
+  </insert>
+  <insert id="insertSelective" parameterType="com.github.jartisan.latest.dao.sonatype.entity.FavoriteLog">
+    <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
+      SELECT LAST_INSERT_ID()
+    </selectKey>
+    insert into latest_favorite_log
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="favoriteId != null">
+        favorite_id,
+      </if>
+      <if test="version != null">
+        version,
+      </if>
+      <if test="starCount != null">
+        star_count,
+      </if>
+      <if test="watcherCount != null">
+        watcher_count,
+      </if>
+      <if test="forkCount != null">
+        fork_count,
+      </if>
+      <if test="createdDate != null">
+        gmt_create,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="favoriteId != null">
+        #{favoriteId,jdbcType=INTEGER},
+      </if>
+      <if test="version != null">
+        #{version,jdbcType=VARCHAR},
+      </if>
+      <if test="starCount != null">
+        #{starCount,jdbcType=INTEGER},
+      </if>
+      <if test="watcherCount != null">
+        #{watcherCount,jdbcType=INTEGER},
+      </if>
+      <if test="forkCount != null">
+        #{forkCount,jdbcType=INTEGER},
+      </if>
+      <if test="createdDate != null">
+        #{createdDate,jdbcType=TIMESTAMP},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="com.github.jartisan.latest.dao.sonatype.entity.FavoriteLog">
+    update latest_favorite_log
+    <set>
+      <if test="favoriteId != null">
+        favorite_id = #{favoriteId,jdbcType=INTEGER},
+      </if>
+      <if test="version != null">
+        version = #{version,jdbcType=VARCHAR},
+      </if>
+      <if test="starCount != null">
+        star_count = #{starCount,jdbcType=INTEGER},
+      </if>
+      <if test="watcherCount != null">
+        watcher_count = #{watcherCount,jdbcType=INTEGER},
+      </if>
+      <if test="forkCount != null">
+        fork_count = #{forkCount,jdbcType=INTEGER},
+      </if>
+      <if test="createdDate != null">
+        gmt_create = #{createdDate,jdbcType=TIMESTAMP},
+      </if>
+    </set>
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="com.github.jartisan.latest.dao.sonatype.entity.FavoriteLog">
+    update latest_favorite_log
+    set favorite_id = #{favoriteId,jdbcType=INTEGER},
+      version = #{version,jdbcType=VARCHAR},
+      star_count = #{starCount,jdbcType=INTEGER},
+      watcher_count = #{watcherCount,jdbcType=INTEGER},
+      fork_count = #{forkCount,jdbcType=INTEGER},
+      gmt_create = #{createdDate,jdbcType=TIMESTAMP}
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  
+  <select id="selectByLastVersion" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+		SELECT <include refid="Base_Column_List" />	FROM latest_favorite_log WHERE favorite_id = #{favoriteId,jdbcType=INTEGER} ORDER BY ID DESC LIMIT 1;
+  </select>
+  
+  
+  <select id="selectByVersions" parameterType="java.lang.Integer" resultType="java.lang.String">
+		SELECT version	FROM latest_favorite_log WHERE favorite_id = #{favoriteId,jdbcType=INTEGER} ORDER BY ID DESC;
+  </select>
+  
+  
+  <select id="listLatestByToday" parameterType="java.lang.String" resultType="com.github.jartisan.latest.dao.sonatype.query.LatestQuery">
+		SELECT 	log.id, fav.name, log.favorite_id, log.version, log.star_count, log.watcher_count, log.fork_count, log.gmt_create FROM 	latest_favorite_log log
+		LEFT JOIN latest_favorite fav ON log.favorite_id = fav.id
+		<trim prefix="WHERE" prefixOverrides="AND |OR ">
+			<if test="_parameter != null">
+		    	fav.check_type = #{checkType,jdbcType=VARCHAR}
+		  	</if> 
+		  	AND to_days(log.gmt_create) = to_days(now())
+		  	AND to_days(fav.gmt_create) != to_days(now())
+		</trim>
+  </select>
+  
+  <select id="listLatestBy3day" parameterType="java.lang.String"  resultType="com.github.jartisan.latest.dao.sonatype.query.LatestQuery">
+		SELECT 	log.id, fav.name, log.favorite_id, log.version, log.star_count, log.watcher_count, log.fork_count, log.gmt_create, COUNT(DISTINCT log.favorite_id) 
+		FROM latest_favorite_log log
+		LEFT JOIN latest_favorite fav ON log.favorite_id = fav.id
+		<trim prefix="WHERE" prefixOverrides="AND |OR ">
+			<if test="_parameter != null">
+		    	fav.check_type = #{checkType,jdbcType=VARCHAR}
+		  	</if> 
+		  	<![CDATA[
+			AND DATE_SUB(CURDATE(), INTERVAL 3 DAY) <= date(log.gmt_create) 
+			]]>
+		  	AND to_days(fav.gmt_create) != to_days(log.gmt_create)
+		</trim>
+			GROUP BY log.favorite_id
+			ORDER BY log.gmt_create DESC,log.favorite_id ASC;
+  </select>
+ </mapper>
