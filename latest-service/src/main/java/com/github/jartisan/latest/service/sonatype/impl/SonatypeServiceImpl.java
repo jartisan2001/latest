@@ -71,7 +71,7 @@ public class SonatypeServiceImpl implements SonatypeService {
 	private static String  pattern = "yyyy-MM-dd";
 	
 	@Value("${dingding.token}")
-	public String chatbot_webhook_admin;
+	public String chatbotWebhookAdmin;
 	
 	private DingtalkChatbotClient client = new DingtalkChatbotClient();
 	
@@ -319,7 +319,7 @@ public class SonatypeServiceImpl implements SonatypeService {
 		 message.setTitle("Github News:");
 		 message.add(content);
 		 //message.add("\n\n");
-        client.send(chatbot_webhook_admin, message);
+        client.send(chatbotWebhookAdmin, message);
 		
 	}
 	
@@ -328,7 +328,7 @@ public class SonatypeServiceImpl implements SonatypeService {
 		 message.setTitle("Github News:");
 		 message.add(favorite.getName()+"_"+versionStr+"_ 失败");
 		 //message.add("\n\n");
-        client.send(chatbot_webhook_admin, message);
+        client.send(chatbotWebhookAdmin, message);
 	}
 	
 	
