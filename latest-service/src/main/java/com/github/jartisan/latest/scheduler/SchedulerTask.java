@@ -69,12 +69,12 @@ public class SchedulerTask {
    
    
    /***
-    *  每隔10分钟
+    *  每隔30分钟
     *  以一个固定延迟时间1000*60*60秒钟调用一次执行
     *	这个周期是以上一个调用任务的##完成时间##为基准，在上一个任务完成之后，1000*60*10 s后再次执行
     *  @Scheduled(fixedDelay = 1000*60*10)
     */
-   @Scheduled(fixedDelay = 1000*60*10)
+   @Scheduled(fixedDelay = 1000*60*30)
    public void syncReadmeTask(){
 	   StopWatch stopwatch = new StopWatch("Readme统计");
 	   stopwatch.start();
