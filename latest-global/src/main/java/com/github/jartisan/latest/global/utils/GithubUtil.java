@@ -22,11 +22,8 @@ import org.apache.http.client.config.RequestConfig;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
-import org.apache.http.client.methods.HttpPut;
-import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
-import org.apache.http.message.BasicHeader;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 import org.apache.logging.log4j.LogManager;
@@ -273,67 +270,6 @@ public class GithubUtil {
 					EntityUtils.consume(response.getEntity());
 				} catch (IOException e) {
 					log.error("Can't send httpGet... " + e.getMessage(), e);
-				}
-			}
-				
-		}
-		stpWatch.stop();
-		log.debug("httpclient invoked,耗时:{}ms",stpWatch.getTime(TimeUnit.MILLISECONDS));
-		return body;
-	}
-	
-	
-	public static String httpPut(String url, String outStr,List<NameValuePair> params) {
-		log.debug("httpclient invoked,url:{},params:{},",url,outStr);
-		StopWatch stpWatch = new StopWatch();
-		stpWatch.start();
-		String body = null;
-		CloseableHttpClient httpclient = null;
-		CloseableHttpResponse response = null;
-		try {
-			Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
-			HttpPut httpput = new HttpPut(url);
-			RequestConfig requestConfig = RequestConfig.custom().setSocketTimeout(SET_CONNECT_TIMEOUT).setConnectTimeout(SET_SOCKET_TIMEOUT).build();
-			httpput.setConfig(requestConfig);
-			StringEntity stringEntity = new StringEntity(outStr, Consts.UTF_8);
-			httpput.setEntity(stringEntity);
-			Header[] headers = new BasicHeader[] { new BasicHeader("Content-Type", "application/json") };
-			httpput.setHeaders(headers);
-			httpclient = HttpClients.createDefault();
-			
-			// 设置参数
-			String str = EntityUtils.toString(new UrlEncodedFormEntity(params));
-			httpput.setURI(new URI(httpput.getURI().toString() + "?" + str));
-			
-			response = httpclient.execute(httpput);
-			
-			Header[] headerList = response.getAllHeaders();
-			Map<String,String> headerMap = Maps.newHashMap();
-			for (Header header : headerList) {
-				headerMap.put(header.getName(),header.getValue());
-			}
-			
-			log.info("http statuscode {}", response.getStatusLine().getStatusCode());
-			if (response.getStatusLine().getStatusCode() == HttpStatus.SC_OK) {
-				body = EntityUtils.toString(response.getEntity(),Consts.UTF_8);
-				log.info("X-RateLimit-Limit : {} , X-RateLimit-Remaining : {}",headerMap.get("X-RateLimit-Limit"),headerMap.get("X-RateLimit-Remaining"));
-				log.info("httpclient invoked,responsebody:{}",body);
-			}
-			EntityUtils.consume(stringEntity);
-		} catch (ClientProtocolException e) {
-			log.error("Can't send sendPost... " + e.getMessage(), e);
-		} catch (IOException e) {
-			log.error("Can't send sendPost... " + e.getMessage(), e);
-		} catch (IllegalArgumentException e) {
-			log.error("Can't send sendPost... " + e.getMessage(), e);
-		} catch (URISyntaxException e) {
-			log.error("Can't send sendPost... " + e.getMessage(), e);
-		} finally {
-			if (null != response){
-				try {
-					EntityUtils.consume(response.getEntity());
-				} catch (IOException e) {
-					log.error("Can't send sendPost... " + e.getMessage(), e);
 				}
 			}
 				

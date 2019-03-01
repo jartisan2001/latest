@@ -8,7 +8,7 @@
 repo | releases | star
 ---|---|---
 <#list latestList?sort_by(["starCount"])?reverse as latest>
-${latest.name} | ${latest.version} | ${latest.starCount?c}
+[${latest.name}](https://github.com/${latest.fullName}) | ${latest.version} | ${latest.starCount?c}
 </#list>
 
 ### 收录列表
@@ -16,7 +16,7 @@ ${latest.name} | ${latest.version} | ${latest.starCount?c}
 repo | releases | star
 ---|---|---
 <#list include?sort_by(["starCount"])?reverse as fav>
-${fav.name} | ${fav.lastVersion} | ${fav.starCount?c} 
+[${fav.name}](https://github.com/${fav.fullName}) | ${fav.lastVersion} | ${fav.starCount?c} 
 </#list>
 
 <#include "/github-readme-footer.ftl"/>

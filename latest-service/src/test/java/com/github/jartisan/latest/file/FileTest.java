@@ -58,7 +58,7 @@ public class FileTest {
 		
 		freeMarkerCfg = freemarkerConfigurer.getConfiguration();
 		
-		Template template = freeMarkerCfg.getTemplate("readme.ftl");
+		Template template = freeMarkerCfg.getTemplate("github-readme.ftl");
 
 		String fileName = "." + File.separator + "README"+"-"+DateFormatUtils.format(new Date(), "yyyyMMdd");
 		

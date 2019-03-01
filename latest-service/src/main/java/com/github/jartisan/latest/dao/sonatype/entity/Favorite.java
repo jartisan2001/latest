@@ -10,6 +10,7 @@ import java.util.Date;
  */
 
 import org.apache.commons.lang3.StringUtils;
+import org.springframework.data.annotation.Transient;
 public class Favorite implements Serializable {
     /**
      * 主键
@@ -45,6 +46,12 @@ public class Favorite implements Serializable {
      * github_api地址
      */
     private String githubApi;
+    
+    /**
+     * fullName
+     */
+    @Transient
+	private String fullName;
 
     /**
      * star_count
@@ -187,7 +194,6 @@ public class Favorite implements Serializable {
     public void setGithubApi(String githubApi) {
         this.githubApi = githubApi == null ? null : githubApi.trim();
     }
-    
     
     /**
      * 项目全名

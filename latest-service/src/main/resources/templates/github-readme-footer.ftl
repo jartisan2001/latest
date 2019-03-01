@@ -19,4 +19,4 @@
 
 ### 版本递的订阅号
 ---
-<img src="https://github.com/jartisan2001/greleases/blob/master/Image.jpg" width="400" hegiht="400" align=left />
+<img src="https://github.com/jartisan2001/latest/blob/master/Image.jpg" width="400" hegiht="400" align=left />

@@ -129,17 +129,6 @@ public class GithubApiTest {
 			fail();
 		}
 	}
-	//curl -X PUT -H "Content-Type: application/json" https://api.github.com/repos/bookmark/bmarks/contents/dir/test?access_token=796365420b6bb92eca9d02ammm309a8032f0571e -d '{"message": "my commit message","content": "bXkgdXBkYXRlZCBmaWxlIGNvmmmlbnRz","sha": "0d5a690c8fad5e605a6e8766295d9d459d65de42"}'
-	@Test // issue 230
-    public void listFiles() throws Exception {
-		GithubInfo info = GithubUtil.getCommits("https://api.github.com/repos/jartisan2001/greleases",gitHubConfig.getToken());
-         //7a9d85331ad988fedfb36511590b516e382a450a
-		log.info("getCommits:{}",info.getCommits());
-		String commiturl= "https://api.github.com/repos/jartisan2001/greleases/git/commits/7a9d85331ad988fedfb36511590b516e382a450a";
-		String outStr = "{\"message\": \"my commit message\",\"content\": \"bXkgdXBkYXRlZCBmaWxlIGNvmmmlbnRz\",\"sha\": \"7a9d85331ad988fedfb36511590b516e382a450a\"}";
-		String result = GithubUtil.httpPut(commiturl, outStr, GithubUtil.buildTokenParams(gitHubConfig.getToken()));
-		log.info("getCommits:{}",result);
-    }
 	
 	@Test
 	public void testGithubApiGetReleases4Html() {

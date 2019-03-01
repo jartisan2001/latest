@@ -126,7 +126,7 @@
   
   
   <select id="listLatestByToday" parameterType="java.lang.String" resultType="com.github.jartisan.latest.dao.sonatype.query.LatestQuery">
-		SELECT 	log.id, fav.name, log.favorite_id, log.version, log.star_count, log.watcher_count, log.fork_count, log.gmt_create FROM 	latest_favorite_log log
+		SELECT 	log.id, fav.name, log.favorite_id, log.version, log.star_count, log.watcher_count, log.fork_count, log.gmt_create,fav.github_api FROM 	latest_favorite_log log
 		LEFT JOIN latest_favorite fav ON log.favorite_id = fav.id
 		<trim prefix="WHERE" prefixOverrides="AND |OR ">
 			<if test="_parameter != null">
@@ -138,7 +138,7 @@
   </select>
   
   <select id="listLatestBy3day" parameterType="java.lang.String"  resultType="com.github.jartisan.latest.dao.sonatype.query.LatestQuery">
-		SELECT 	log.id, fav.name, log.favorite_id, log.version, log.star_count, log.watcher_count, log.fork_count, log.gmt_create, COUNT(DISTINCT log.favorite_id) 
+		SELECT 	log.id, fav.name, log.favorite_id, log.version, log.star_count, log.watcher_count, log.fork_count, log.gmt_create,fav.github_api, COUNT(DISTINCT log.favorite_id) 
 		FROM latest_favorite_log log
 		LEFT JOIN latest_favorite fav ON log.favorite_id = fav.id
 		<trim prefix="WHERE" prefixOverrides="AND |OR ">

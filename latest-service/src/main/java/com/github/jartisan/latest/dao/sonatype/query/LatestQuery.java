@@ -1,8 +1,12 @@
 package com.github.jartisan.latest.dao.sonatype.query;
 
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.Date;
 
+import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.builder.ToStringBuilder;
+import org.springframework.data.annotation.Transient;
 
 /***
  * Latest
@@ -43,6 +47,19 @@ public class LatestQuery {
 	 * fork
 	 */
 	private Integer forkCount;
+	
+	/**
+     * github_api地址
+     */
+    private String githubApi;
+    
+    
+    /**
+     * fullName
+     */
+    @Transient
+	private String fullName;
+	
 
 	/***
 	 * 创建时间
@@ -135,6 +152,30 @@ public class LatestQuery {
 		this.forkCount = forkCount;
 	}
 
+
+	
+	public String getGithubApi() {
+		return githubApi;
+	}
+
+
+	public void setGithubApi(String githubApi) {
+		this.githubApi = githubApi;
+	}
+
+
+	
+	 /**
+     * 项目全名
+     * @return 项目全名
+     * @throws MalformedURLException 
+     */
+    public String getFullName() throws MalformedURLException {
+    	URL url = new URL(this.githubApi);
+        return StringUtils.remove(url.getPath(), "/repos/");
+    }
+
+    
 
 	public Date getCreatedDate() {
 		if (this.createdDate != null) {
