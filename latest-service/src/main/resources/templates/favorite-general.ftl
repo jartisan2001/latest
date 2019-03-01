@@ -9,6 +9,7 @@
 > 开源协议 <font color=#FF0000> Apache 2.0 license.</font>
 
 > 上一次更新日期：${github.lastUpdated?string('yyyy-MM-dd')}
+
 > 项目创建日期：${github.createdDate?string('yyyy-MM-dd')}
 
 
