@@ -3,6 +3,7 @@ package com.github.jartisan.latest.dao.sonatype.mapper;
 import java.util.List;
 
 import org.apache.ibatis.annotations.Mapper;
+import org.apache.ibatis.annotations.Param;
 
 import com.github.jartisan.latest.dao.sonatype.entity.FavoriteLog;
 import com.github.jartisan.latest.dao.sonatype.query.LatestQuery;
@@ -76,10 +77,11 @@ public interface FavoriteLogMapper {
     List<LatestQuery> listLatestByToday(String checkType);
     
     /***
-     * 最近3天更新库
+     * 最近N天前更新库
      * @param checkType
+     * @param day
      * @return
      */
-    List<LatestQuery> listLatestBy3day(String checkType);
+    List<LatestQuery> listLatestBeforeDay(@Param("checkType") String checkType,@Param("day")int day);
     
 }

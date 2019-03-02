@@ -39,10 +39,10 @@ public class FavoriteLogMapperTest {
 	
 	@Test
 	public void TestList3day() {
-		List<LatestQuery> list = favoriteLogMapper.listLatestBy3day(null);
+		List<LatestQuery> list = favoriteLogMapper.listLatestBeforeDay(null,3);
 		log.info("Latest size : {}",list.size());
 		
-		List<LatestQuery> listMaven = favoriteLogMapper.listLatestBy3day(Const.CHECK_TYPE_MAVEN);
+		List<LatestQuery> listMaven = favoriteLogMapper.listLatestBeforeDay(Const.CHECK_TYPE_MAVEN,3);
 		log.info("listMaven size : {}",listMaven.size());
 	}
 

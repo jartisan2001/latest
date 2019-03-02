@@ -112,7 +112,7 @@ public class GithubServiceImpl implements GithubService {
 
 	@Override
 	public void syncReadme() throws Exception{
-		List<LatestQuery> latests = favoriteLogMapper.listLatestByToday(Const.CHECK_TYPE_MAVEN);
+		List<LatestQuery> latests = favoriteLogMapper.listLatestBeforeDay(Const.CHECK_TYPE_MAVEN,3);
 
 		if(latests.isEmpty()) {
 			log.info("当天的版本更新列表不存在");

@@ -1,6 +1,6 @@
 # 版本递
 
-### 今日更新
+### 近期更新
 ---
 <#--
 ##### *统计于 ${lastUpdated?string('yyyy-MM-dd HH:mm:ss')}*
