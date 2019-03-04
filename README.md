@@ -99,6 +99,7 @@ repo | releases | star
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 77 
 [hessian](https://github.com/ebourg/hessian) | 4.0.60 | 58 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 35 
+[elide](https://github.com/yahoo/elide) | 4.3.0 | 0 
 
 ### why“版本递”？
 --- 
