@@ -7,11 +7,7 @@
 repo | releases | star
 ---|---|---
 [nacos](https://github.com/alibaba/nacos) | 0.9.0 | 4615
-[solr](https://github.com/apache/lucene-solr) | 7.7.1 | 2337
-[lucene](https://github.com/apache/lucene-solr) | 7.7.1 | 2337
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.M2 | 1825
 [spotbugs](https://github.com/spotbugs/spotbugs) | 3.1.12 | 1162
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.6 | 195
 
 ### 收录列表
 ---
