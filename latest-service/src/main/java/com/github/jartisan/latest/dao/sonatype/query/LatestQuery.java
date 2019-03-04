@@ -6,6 +6,7 @@ import java.util.Date;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.builder.ToStringBuilder;
+import org.apache.commons.lang3.builder.ToStringStyle;
 import org.springframework.data.annotation.Transient;
 
 /***
@@ -196,7 +197,7 @@ public class LatestQuery {
 
 	@Override
 	public String toString() {
-		return ToStringBuilder.reflectionToString(this);
+		return ToStringBuilder.reflectionToString(this,ToStringStyle.MULTI_LINE_STYLE);
 	}
 
 
