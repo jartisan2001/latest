@@ -69,15 +69,13 @@ public class WaterMarkUtils {
 	}
 
 	public static void main(String[] args) {
-		// 水印字体
-		Font font = new Font("微软雅黑", Font.PLAIN, 35); 
-		// 源图片地址
-		String srcImgPath = "C:\\Users\\佳磊\\Pictures\\Screenshots\\111.jpg"; 
-		// 待存储的地址
-		String tarImgPath = "C:\\Users\\佳磊\\Pictures\\Screenshots\\222.jpg"; 
-		// 水印内容
-		String waterMarkContent = "图片来源：http://blog.csdn.net/zjq_1314520"; 
-		new WaterMarkUtils().addWaterMark(srcImgPath, tarImgPath, waterMarkContent, Color.LIGHT_GRAY, font);
-
+		/*
+		 * // 水印字体 Font font = new Font("微软雅黑", Font.PLAIN, 35); // 源图片地址 String
+		 * srcImgPath = "C:\\Users\\佳磊\\Pictures\\Screenshots\\111.jpg"; // 待存储的地址
+		 * String tarImgPath = "C:\\Users\\佳磊\\Pictures\\Screenshots\\222.jpg"; // 水印内容
+		 * String waterMarkContent = "图片来源：http://blog.csdn.net/zjq_1314520"; new
+		 * WaterMarkUtils().addWaterMark(srcImgPath, tarImgPath, waterMarkContent,
+		 * Color.LIGHT_GRAY, font);
+		 */
 	}
 }
