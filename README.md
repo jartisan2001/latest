@@ -88,6 +88,7 @@ repo | releases | star
 [mina](https://github.com/apache/mina) | 2.0.20 | 651 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 543 
 [cxf](https://github.com/apache/cxf) | 3.1.18 | 517 
+[elide](https://github.com/yahoo/elide) | 4.3.0 | 515 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 512 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 471 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.8.5 | 452 
@@ -99,7 +100,6 @@ repo | releases | star
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 77 
 [hessian](https://github.com/ebourg/hessian) | 4.0.60 | 58 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 35 
-[elide](https://github.com/yahoo/elide) | 4.3.0 | 0 
 
 ### why“版本递”？
 --- 
