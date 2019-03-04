@@ -27,6 +27,7 @@ repo | releases | star
 [kafka](https://github.com/apache/kafka) | 2.1.1 | 11113 
 [arthas](https://github.com/alibaba/arthas) | 3.1.0 | 9690 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.0 | 9676 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.6.3 | 9245 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 9031 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 8559 
 [mockito](https://github.com/mockito/mockito) | 2.24.5 | 8358 
@@ -100,7 +101,6 @@ repo | releases | star
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 77 
 [hessian](https://github.com/ebourg/hessian) | 4.0.60 | 58 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 35 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.6.3 | 0 
 
 ### why“版本递”？
 --- 
