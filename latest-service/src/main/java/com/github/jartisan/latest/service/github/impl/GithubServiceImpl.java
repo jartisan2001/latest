@@ -131,6 +131,10 @@ public class GithubServiceImpl implements GithubService {
 
 		File dest = new File(gitHubConfig.getLocalRepoPath()+File.separator+gitHubConfig.getFileName());
 		log.info("存在版本更新：{}",latests.toString());
+		
+		log.info("开始拉取最新代码...");
+		GitUtil.pullToLocal(gitHubConfig.getUserName(),gitHubConfig.getPassWord(),gitHubConfig.getLocalRepoPath());
+		
 		if (dest.exists()) {
 			//先删除后创建
 			log.info("正在删除历史文件：{}",gitHubConfig.getLocalRepoPath()+File.separator+gitHubConfig.getFileName());
@@ -149,7 +153,6 @@ public class GithubServiceImpl implements GithubService {
 		template.process(root, w);
 		
 		log.info("从模板生成文件");
-		GitUtil.pullToLocal(gitHubConfig.getUserName(),gitHubConfig.getPassWord(),gitHubConfig.getLocalRepoPath());
 		
 		List<String> list = Lists.newArrayList();
 		list.add("README.md");
