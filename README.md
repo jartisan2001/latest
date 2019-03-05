@@ -6,8 +6,7 @@
 ---
 repo | releases | star
 ---|---|---
-[nacos](https://github.com/alibaba/nacos) | 0.9.0 | 4615
-[spotbugs](https://github.com/spotbugs/spotbugs) | 3.1.12 | 1162
+[elide](https://github.com/yahoo/elide) | 4.3.1 | 516
 
 ### 收录列表
 ---
@@ -88,8 +87,8 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 657 
 [mina](https://github.com/apache/mina) | 2.0.20 | 651 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 543 
-[cxf](https://github.com/apache/cxf) | 3.1.18 | 517 
-[elide](https://github.com/yahoo/elide) | 4.3.0 | 515 
+[cxf](https://github.com/apache/cxf) | 3.3.1 | 517 
+[elide](https://github.com/yahoo/elide) | 4.3.1 | 516 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 512 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 471 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.8.5 | 452 
