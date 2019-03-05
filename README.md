@@ -6,6 +6,7 @@
 ---
 repo | releases | star
 ---|---|---
+[mockito](https://github.com/mockito/mockito) | 2.25.0 | 8395
 [nacos](https://github.com/alibaba/nacos) | 0.9.1 | 4683
 [elide](https://github.com/yahoo/elide) | 4.3.1 | 516
 
@@ -30,7 +31,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.6.3 | 9245 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 9031 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 8559 
-[mockito](https://github.com/mockito/mockito) | 2.24.5 | 8358 
+[mockito](https://github.com/mockito/mockito) | 2.25.0 | 8395 
 [redisson](https://github.com/redisson/redisson) | 3.10.3 | 8068 
 [flink](https://github.com/apache/flink) | 1.6.4 | 7519 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
