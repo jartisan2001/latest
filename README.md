@@ -7,6 +7,7 @@
 repo | releases | star
 ---|---|---
 [mockito](https://github.com/mockito/mockito) | 2.25.0 | 8395
+[Activiti](https://github.com/Activiti/Activiti) | 7.0.0.SR1 | 4732
 [nacos](https://github.com/alibaba/nacos) | 0.9.1 | 4683
 [elide](https://github.com/yahoo/elide) | 4.3.1 | 516
 
@@ -42,8 +43,8 @@ repo | releases | star
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.13 | 5789 
 [storm](https://github.com/apache/storm) | 1.1.3 | 5545 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 4959 
+[Activiti](https://github.com/Activiti/Activiti) | 7.0.0.SR1 | 4732 
 [nacos](https://github.com/alibaba/nacos) | 0.9.1 | 4683 
-[Activiti](https://github.com/Activiti/Activiti) | 7.0.0.GA | 4647 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.18 | 4328 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 4294 
 [mesos](https://github.com/apache/mesos) | 1.7.2 | 4061 
