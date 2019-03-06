@@ -33,14 +33,14 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.6.3 | 9245 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 9031 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 8559 
-[mockito](https://github.com/mockito/mockito) | 2.25.0 | 8396 
+[mockito](https://github.com/mockito/mockito) | 2.25.0 | 8397 
 [redisson](https://github.com/redisson/redisson) | 3.10.3 | 8068 
 [flink](https://github.com/apache/flink) | 1.6.4 | 7519 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-2 | 7304 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.5 | 6479 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 6272 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6156 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6157 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.13 | 5789 
 [storm](https://github.com/apache/storm) | 1.1.3 | 5545 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 4959 
