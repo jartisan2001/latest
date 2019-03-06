@@ -40,7 +40,7 @@ repo | releases | star
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-2 | 7304 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.5 | 6479 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 6272 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6152 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6153 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.13 | 5789 
 [storm](https://github.com/apache/storm) | 1.1.3 | 5545 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 4959 
