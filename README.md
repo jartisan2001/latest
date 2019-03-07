@@ -6,6 +6,10 @@
 ---
 repo | releases | star
 ---|---|---
+[mockito](https://github.com/mockito/mockito) | 2.25.0 | 8395
+[jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6144
+[Activiti](https://github.com/Activiti/Activiti) | 7.0.0.SR1 | 4732
+[nacos](https://github.com/alibaba/nacos) | 0.9.1 | 4683
 [elide](https://github.com/yahoo/elide) | 4.3.1 | 516
 
 ### 收录列表
@@ -29,19 +33,19 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.6.3 | 9245 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 9031 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 8559 
-[mockito](https://github.com/mockito/mockito) | 2.24.5 | 8358 
+[mockito](https://github.com/mockito/mockito) | 2.25.0 | 8399 
 [redisson](https://github.com/redisson/redisson) | 3.10.3 | 8068 
 [flink](https://github.com/apache/flink) | 1.6.4 | 7519 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-2 | 7304 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.5 | 6479 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 6272 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.0.1 | 6040 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6158 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.13 | 5789 
 [storm](https://github.com/apache/storm) | 1.1.3 | 5545 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 4959 
-[Activiti](https://github.com/Activiti/Activiti) | 7.0.0.GA | 4647 
-[nacos](https://github.com/alibaba/nacos) | 0.9.0 | 4606 
+[Activiti](https://github.com/Activiti/Activiti) | 7.0.0.SR1 | 4732 
+[nacos](https://github.com/alibaba/nacos) | 0.9.1 | 4683 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.18 | 4328 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 4294 
 [mesos](https://github.com/apache/mesos) | 1.7.2 | 4061 
