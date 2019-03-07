@@ -11,6 +11,8 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6144
 [Activiti](https://github.com/Activiti/Activiti) | 7.0.0.SR1 | 4732
 [nacos](https://github.com/alibaba/nacos) | 0.9.1 | 4683
+[drools](https://github.com/kiegroup/drools) | 7.18.0.Final | 2000
+[jbpm](https://github.com/kiegroup/jbpm) | 7.18.0.Final | 884
 [elide](https://github.com/yahoo/elide) | 4.3.1 | 516
 
 ### 收录列表
@@ -70,7 +72,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.0 | 2294 
 [shiro](https://github.com/apache/shiro) | 1.4.0 | 2145 
 [pmd](https://github.com/pmd/pmd) | 6.12.0 | 2088 
-[drools](https://github.com/kiegroup/drools) | 7.17.0.Final | 1977 
+[drools](https://github.com/kiegroup/drools) | 7.18.0.Final | 2000 
 [kylin](https://github.com/apache/kylin) | 2.6.0 | 1927 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.M2 | 1828 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1557 
@@ -86,7 +88,7 @@ repo | releases | star
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.3 | 951 
 [struts](https://github.com/apache/struts) | 2.5.20 | 909 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 903 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.17.0.Final | 879 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.18.0.Final | 884 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.14 | 817 
 [poi](https://github.com/apache/poi) | 4.0.1 | 677 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 657 
