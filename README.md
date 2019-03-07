@@ -6,6 +6,7 @@
 ---
 repo | releases | star
 ---|---|---
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0 | 32517
 [mockito](https://github.com/mockito/mockito) | 2.25.0 | 8395
 [jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6144
 [Activiti](https://github.com/Activiti/Activiti) | 7.0.0.SR1 | 4732
@@ -19,7 +20,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.6.1 | 38459 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.7 | 37711 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.3.RELEASE | 34136 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0-rc1 | 32039 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0 | 32517 
 [guava](https://github.com/google/guava) | 27.0.1-android | 29744 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.5 | 24405 
 [netty](https://github.com/netty/netty) | 4.1.33.Final | 17842 
