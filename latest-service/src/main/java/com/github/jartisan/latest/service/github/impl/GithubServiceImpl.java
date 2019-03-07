@@ -34,6 +34,7 @@ import com.github.jartisan.latest.global.exception.BaseException;
 import com.github.jartisan.latest.global.utils.GitUtil;
 import com.github.jartisan.latest.global.utils.GithubUtil;
 import com.github.jartisan.latest.global.utils.SonatypeUtil;
+import com.github.jartisan.latest.global.utils.ThreadUtil;
 import com.github.jartisan.latest.service.github.GithubService;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;
@@ -96,14 +97,9 @@ public class GithubServiceImpl implements GithubService {
 				favorite.setLastVersion(dependency.getVersion());
 				favoriteMapper.updateByPrimaryKey(favorite);
 			}
-			
-			try {
-				// github api rate limit
-				log.info("github limit sleep 3 s....");
-				Thread.sleep(3000);
-			} catch (InterruptedException e) {
-				log.error("sleep 3 s,{}", e);
-			}
+			// github api rate limit
+			log.info("github limit sleep 3 s....");
+			ThreadUtil.safeSleep(3000);
 		}
 
 		log.info("TaskCount : {} , TotalTimeSeconds : {} s", stopwatch.getTaskCount(), stopwatch.getTotalTimeSeconds());

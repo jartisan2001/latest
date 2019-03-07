@@ -52,11 +52,9 @@ public class HttpClientUtil {
 		StopWatch stpWatch = new StopWatch();
 		stpWatch.start();
 		String body = null;
-		CloseableHttpClient httpclient = null;
 		CloseableHttpResponse response = null;
-		try {
-			Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
-			httpclient = HttpClients.createDefault();
+		Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
+		try (CloseableHttpClient httpclient = HttpClients.createDefault()){
 			RequestConfig requestConfig = RequestConfig.custom().setSocketTimeout(SET_CONNECT_TIMEOUT).setConnectTimeout(SET_SOCKET_TIMEOUT).build();
 			HttpGet httpGet = new HttpGet(url);
 			httpGet.setConfig(requestConfig);
@@ -102,11 +100,9 @@ public class HttpClientUtil {
 		StopWatch stpWatch = new StopWatch();
 		stpWatch.start();
 		String body = null;
-		CloseableHttpClient httpclient = null;
 		CloseableHttpResponse response = null;
-		try {
-			Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
-			httpclient = HttpClients.createDefault();
+		Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
+		try (CloseableHttpClient httpclient = HttpClients.createDefault()){
 			RequestConfig requestConfig = RequestConfig.custom().setSocketTimeout(SET_CONNECT_TIMEOUT).setConnectTimeout(SET_SOCKET_TIMEOUT).build();
 			HttpGet httpGet = new HttpGet(url);
 			httpGet.setConfig(requestConfig);
@@ -153,11 +149,9 @@ public class HttpClientUtil {
 		StopWatch stpWatch = new StopWatch();
 		stpWatch.start();
 		String body = null;
-		CloseableHttpClient httpclient = null;
 		CloseableHttpResponse response = null;
-		try {
-			Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
-			httpclient = HttpClients.createDefault();
+		Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
+		try (CloseableHttpClient httpclient = HttpClients.createDefault()){
 			RequestConfig requestConfig = RequestConfig.custom().setSocketTimeout(SET_CONNECT_TIMEOUT).setConnectTimeout(SET_SOCKET_TIMEOUT).build();
 			HttpGet httpGet = new HttpGet(url);
 			httpGet.setConfig(requestConfig);
@@ -202,17 +196,15 @@ public class HttpClientUtil {
 		StopWatch stpWatch = new StopWatch();
 		stpWatch.start();
 		String body = null;
-		CloseableHttpClient httpclient = null;
 		CloseableHttpResponse response = null;
-		try {
-			Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
+		Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
+		try (CloseableHttpClient httpclient = HttpClients.createDefault()){
 			HttpPost httppost = new HttpPost(url);
 			RequestConfig requestConfig = RequestConfig.custom().setSocketTimeout(SET_CONNECT_TIMEOUT).setConnectTimeout(SET_SOCKET_TIMEOUT).build();
 			httppost.setConfig(requestConfig);
 			StringEntity stringEntity = new StringEntity(outStr, Consts.UTF_8);
 			httppost.setEntity(stringEntity);
 			httppost.setHeaders(headers);
-			httpclient = HttpClients.createDefault();
 			response = httpclient.execute(httppost);
 			log.debug("http statuscode {}", response.getStatusLine().getStatusCode());
 			if (response.getStatusLine().getStatusCode() == HttpStatus.SC_OK) {
@@ -245,10 +237,9 @@ public class HttpClientUtil {
 		StopWatch stpWatch = new StopWatch();
 		stpWatch.start();
 		String body = null;
-		CloseableHttpClient httpclient = null;
 		CloseableHttpResponse response = null;
-		try {
-			Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
+		Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
+		try (CloseableHttpClient httpclient = HttpClients.createDefault()){
 			HttpPost httppost = new HttpPost(url);
 			RequestConfig requestConfig = RequestConfig.custom().setSocketTimeout(SET_CONNECT_TIMEOUT).setConnectTimeout(SET_SOCKET_TIMEOUT).build();
 			httppost.setConfig(requestConfig);
@@ -256,7 +247,6 @@ public class HttpClientUtil {
 			httppost.setEntity(stringEntity);
 			Header[] headers = new BasicHeader[] { new BasicHeader("Content-Type", "application/json") };
 			httppost.setHeaders(headers);
-			httpclient = HttpClients.createDefault();
 			response = httpclient.execute(httppost);
 			log.debug("http statuscode {}", response.getStatusLine().getStatusCode());
 			if (response.getStatusLine().getStatusCode() == HttpStatus.SC_OK) {
@@ -293,16 +283,14 @@ public class HttpClientUtil {
 		StopWatch stpWatch = new StopWatch();
 		stpWatch.start();
 		String body = null;
-		CloseableHttpClient httpclient = null;
 		CloseableHttpResponse response = null;
-		try {
-			Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
+		Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
+		try (CloseableHttpClient httpclient = HttpClients.createDefault()){
 			HttpPost httppost = new HttpPost(url);
 			RequestConfig requestConfig = RequestConfig.custom().setSocketTimeout(SET_CONNECT_TIMEOUT).setConnectTimeout(SET_SOCKET_TIMEOUT).build();
 			httppost.setConfig(requestConfig);
 			UrlEncodedFormEntity entity = new UrlEncodedFormEntity(formparams, Consts.UTF_8);
 			httppost.setEntity(entity);
-			httpclient = HttpClients.createDefault();
 			response = httpclient.execute(httppost);
 			log.debug("http statuscode {}", response.getStatusLine().getStatusCode());
 			if (response.getStatusLine().getStatusCode() == HttpStatus.SC_OK) {

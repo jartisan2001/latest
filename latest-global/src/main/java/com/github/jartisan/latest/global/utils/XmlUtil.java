@@ -112,7 +112,7 @@ public class XmlUtil {
 		try {
 			writer.write(doc);
 		} catch (IOException e) {
-			e.printStackTrace();
+			logger.error("转换失败",e);
 		}
 		xml = out.toString();
 		xml = xml.replaceAll("\\[\\d*\\]", "");

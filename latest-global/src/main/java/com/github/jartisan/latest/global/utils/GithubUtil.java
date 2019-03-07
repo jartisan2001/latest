@@ -227,11 +227,9 @@ public class GithubUtil {
 		StopWatch stpWatch = new StopWatch();
 		stpWatch.start();
 		String body = null;
-		CloseableHttpClient httpclient = null;
 		CloseableHttpResponse response = null;
-		try {
-			Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
-			httpclient = HttpClients.createDefault();
+		Preconditions.checkArgument(url.length() > 0, "url is:\'\'");
+		try (CloseableHttpClient httpclient = HttpClients.createDefault()){
 			RequestConfig requestConfig = RequestConfig.custom().setSocketTimeout(SET_CONNECT_TIMEOUT).setConnectTimeout(SET_SOCKET_TIMEOUT).setCookieSpec(CookieSpecs.STANDARD).build();
 			HttpGet httpGet = new HttpGet(url);
 			httpGet.setConfig(requestConfig);

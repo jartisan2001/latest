@@ -24,8 +24,8 @@ public class ThreadUtil {
 			} catch (InterruptedException e) {
 				// sleep again the remaining time
 				log.warn("thread sleep :",e.getMessage());
+				Thread.currentThread().interrupt();
 				safeSleep(millis - System.currentTimeMillis() + initialTime);
-				
 			}
 		}
 	}
