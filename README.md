@@ -22,7 +22,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.3.RELEASE | 34136 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0 | 32517 
 [guava](https://github.com/google/guava) | 27.0.1-android | 29744 
-[dubbo](https://github.com/apache/incubator-dubbo) | 2.6.5 | 24405 
+[dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 24906 
 [netty](https://github.com/netty/netty) | 4.1.33.Final | 17842 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.56 | 16483 
 [druid](https://github.com/alibaba/druid) | 1.1.14 | 15311 
