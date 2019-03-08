@@ -73,7 +73,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.4.0 | 2145 
 [pmd](https://github.com/pmd/pmd) | 6.12.0 | 2088 
 [drools](https://github.com/kiegroup/drools) | 7.18.0.Final | 2000 
-[kylin](https://github.com/apache/kylin) | 2.6.0 | 1927 
+[kylin](https://github.com/apache/kylin) | 2.6.1 | 1972 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.M2 | 1828 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1557 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.8 | 1546 
