@@ -38,7 +38,7 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 9031 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 8559 
 [mockito](https://github.com/mockito/mockito) | 2.25.0 | 8399 
-[redisson](https://github.com/redisson/redisson) | 3.10.4 | 8190 
+[redisson](https://github.com/redisson/redisson) | 3.10.4 | 8191 
 [flink](https://github.com/apache/flink) | 1.6.4 | 7519 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-2 | 7304 
