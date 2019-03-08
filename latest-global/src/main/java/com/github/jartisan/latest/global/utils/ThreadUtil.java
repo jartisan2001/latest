@@ -18,7 +18,7 @@ public class ThreadUtil {
 		return Thread.currentThread().getStackTrace()[levels + 2].toString();
 	}
 	
-	public static void Sleep(TimeUnit unit,long time) {
+	public static void sleep(TimeUnit unit,long time) {
 		if (time > 0L) {
 			try {
 				unit.sleep(time);
