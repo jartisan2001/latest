@@ -7,14 +7,10 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0 | 32517
+[netty](https://github.com/netty/netty) | 4.1.34.Final | 18194
 [mockito](https://github.com/mockito/mockito) | 2.25.0 | 8395
 [redisson](https://github.com/redisson/redisson) | 3.10.4 | 8189
 [jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6144
-[Activiti](https://github.com/Activiti/Activiti) | 7.0.0.SR1 | 4732
-[nacos](https://github.com/alibaba/nacos) | 0.9.1 | 4683
-[drools](https://github.com/kiegroup/drools) | 7.18.0.Final | 2000
-[jbpm](https://github.com/kiegroup/jbpm) | 7.18.0.Final | 884
-[elide](https://github.com/yahoo/elide) | 4.3.1 | 516
 
 ### 收录列表
 ---
@@ -26,7 +22,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0 | 32517 
 [guava](https://github.com/google/guava) | 27.0.1-android | 29744 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 24906 
-[netty](https://github.com/netty/netty) | 4.1.33.Final | 17842 
+[netty](https://github.com/netty/netty) | 4.1.34.Final | 18194 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.56 | 16483 
 [druid](https://github.com/alibaba/druid) | 1.1.14 | 15311 
 [gson](https://github.com/google/gson) | 2.8.5 | 14737 
