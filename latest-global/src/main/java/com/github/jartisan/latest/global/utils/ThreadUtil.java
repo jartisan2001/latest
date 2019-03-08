@@ -1,5 +1,7 @@
 package com.github.jartisan.latest.global.utils;
 
+import java.util.concurrent.TimeUnit;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -15,6 +17,18 @@ public class ThreadUtil {
 	public static String invokerName(int levels) {
 		return Thread.currentThread().getStackTrace()[levels + 2].toString();
 	}
+	
+	public static void Sleep(TimeUnit unit,long time) {
+		if (time > 0L) {
+			try {
+				unit.sleep(time);
+			} catch (InterruptedException e) {
+				// sleep again the remaining time
+				log.warn("thread sleep :",e.getMessage());
+				Thread.currentThread().interrupt();
+			}
+		}
+	}
 
 	public static void safeSleep(long millis) {
 		if (millis > 0L) {
@@ -29,5 +43,5 @@ public class ThreadUtil {
 			}
 		}
 	}
-
+	
 }
