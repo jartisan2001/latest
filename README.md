@@ -91,8 +91,8 @@ repo | releases | star
 [jbpm](https://github.com/kiegroup/jbpm) | 7.18.0.Final | 884 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.14 | 817 
 [poi](https://github.com/apache/poi) | 4.0.1 | 677 
+[mina](https://github.com/apache/mina) | 2.1.0 | 659 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 657 
-[mina](https://github.com/apache/mina) | 2.0.20 | 651 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 543 
 [elide](https://github.com/yahoo/elide) | 4.3.1 | 517 
 [cxf](https://github.com/apache/cxf) | 3.3.1 | 517 
