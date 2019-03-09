@@ -13,6 +13,7 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 2.25.0 | 8395
 [redisson](https://github.com/redisson/redisson) | 3.10.4 | 8189
 [jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6144
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.0 | 1376
 
 ### 收录列表
 ---
@@ -22,7 +23,7 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.7 | 37711 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.3.RELEASE | 34136 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0 | 32517 
-[guava](https://github.com/google/guava) | 27.1-jre | 30183 
+[guava](https://github.com/google/guava) | 27.1-jre | 30184 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 24906 
 [netty](https://github.com/netty/netty) | 4.1.34.Final | 18194 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.56 | 16483 
@@ -79,7 +80,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.8.1 | 1545 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1494 
 [maven](https://github.com/apache/maven) | 3.6.0 | 1491 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.31.0 | 1353 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.0 | 1376 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.8.0-beta4 | 1183 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 3.1.12 | 1162 
 [avro](https://github.com/apache/avro) | 1.8.2 | 1124 
