@@ -23,7 +23,7 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.7 | 37711 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.3.RELEASE | 34136 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0 | 32517 
-[guava](https://github.com/google/guava) | 27.1-jre | 30185 
+[guava](https://github.com/google/guava) | 27.1-jre | 30186 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 24906 
 [netty](https://github.com/netty/netty) | 4.1.34.Final | 18194 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.56 | 16483 
