@@ -6,7 +6,6 @@
 ---
 repo | releases | star
 ---|---|---
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0 | 32517
 [guava](https://github.com/google/guava) | 27.1-android | 30180
 [guava](https://github.com/google/guava) | 27.1-jre | 30180
 [netty](https://github.com/netty/netty) | 4.1.34.Final | 18194
