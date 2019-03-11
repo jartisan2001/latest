@@ -48,6 +48,7 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 0.9.1 | 4683 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.18 | 4328 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 4294 
+[easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 4069 
 [mesos](https://github.com/apache/mesos) | 1.7.2 | 4061 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.1 | 3924 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.9.Final | 3645 
@@ -104,7 +105,6 @@ repo | releases | star
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 77 
 [hessian](https://github.com/ebourg/hessian) | 4.0.60 | 58 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 35 
-[easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 0 
 
 ### why“版本递”？
 --- 
