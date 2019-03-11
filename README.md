@@ -8,8 +8,6 @@ repo | releases | star
 ---|---|---
 [guava](https://github.com/google/guava) | 27.1-android | 30180
 [guava](https://github.com/google/guava) | 27.1-jre | 30180
-[netty](https://github.com/netty/netty) | 4.1.34.Final | 18194
-[redisson](https://github.com/redisson/redisson) | 3.10.4 | 8189
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.0 | 1376
 
 ### 收录列表
