@@ -80,7 +80,7 @@ public class GitUtil {
 			try (Git git = Git.open(rootDir)) {
 				// 判断工作区与暂存区的文件内容是否有变更
 				diffEntries.addAll(git.diff().setPathFilter(PathFilterGroup.createFromStrings(files)).setShowNameAndStatusOnly(true).call());
-				if (diffEntries == null || diffEntries.size() == 0) {
+				if (diffEntries.size() == 0) {
 					log.info("提交的文件内容都没有被修改，不能提交");
 					return null;
 				}
