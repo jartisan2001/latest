@@ -6,11 +6,11 @@
 ---
 repo | releases | star
 ---|---|---
-[mockito](https://github.com/mockito/mockito) | 2.25.0 | 8395
-[jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6144
-[Activiti](https://github.com/Activiti/Activiti) | 7.0.0.SR1 | 4732
-[nacos](https://github.com/alibaba/nacos) | 0.9.1 | 4683
-[elide](https://github.com/yahoo/elide) | 4.3.1 | 516
+[guava](https://github.com/google/guava) | 27.1-android | 30180
+[guava](https://github.com/google/guava) | 27.1-jre | 30180
+[netty](https://github.com/netty/netty) | 4.1.34.Final | 18194
+[redisson](https://github.com/redisson/redisson) | 3.10.4 | 8189
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.0 | 1376
 
 ### 收录列表
 ---
@@ -19,10 +19,10 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.6.1 | 38459 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.7 | 37711 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.3.RELEASE | 34136 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0-rc1 | 32039 
-[guava](https://github.com/google/guava) | 27.0.1-android | 29744 
-[dubbo](https://github.com/apache/incubator-dubbo) | 2.6.5 | 24405 
-[netty](https://github.com/netty/netty) | 4.1.33.Final | 17842 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0 | 32517 
+[guava](https://github.com/google/guava) | 27.1-jre | 30192 
+[dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 24906 
+[netty](https://github.com/netty/netty) | 4.1.34.Final | 18194 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.56 | 16483 
 [druid](https://github.com/alibaba/druid) | 1.1.14 | 15311 
 [gson](https://github.com/google/gson) | 2.8.5 | 14737 
@@ -34,7 +34,7 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 9031 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 8559 
 [mockito](https://github.com/mockito/mockito) | 2.25.0 | 8399 
-[redisson](https://github.com/redisson/redisson) | 3.10.3 | 8068 
+[redisson](https://github.com/redisson/redisson) | 3.10.4 | 8191 
 [flink](https://github.com/apache/flink) | 1.6.4 | 7519 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-2 | 7304 
@@ -69,15 +69,15 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.0 | 2294 
 [shiro](https://github.com/apache/shiro) | 1.4.0 | 2145 
 [pmd](https://github.com/pmd/pmd) | 6.12.0 | 2088 
-[drools](https://github.com/kiegroup/drools) | 7.17.0.Final | 1977 
-[kylin](https://github.com/apache/kylin) | 2.6.0 | 1927 
+[drools](https://github.com/kiegroup/drools) | 7.18.0.Final | 2000 
+[kylin](https://github.com/apache/kylin) | 2.6.1 | 1972 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.M2 | 1828 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1557 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.8 | 1546 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.8.1 | 1545 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1494 
 [maven](https://github.com/apache/maven) | 3.6.0 | 1491 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.31.0 | 1353 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.0 | 1377 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.8.0-beta4 | 1183 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 3.1.12 | 1162 
 [avro](https://github.com/apache/avro) | 1.8.2 | 1124 
@@ -85,11 +85,11 @@ repo | releases | star
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.3 | 951 
 [struts](https://github.com/apache/struts) | 2.5.20 | 909 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 903 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.17.0.Final | 879 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.18.0.Final | 884 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.14 | 817 
 [poi](https://github.com/apache/poi) | 4.0.1 | 677 
+[mina](https://github.com/apache/mina) | 2.1.0 | 659 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 657 
-[mina](https://github.com/apache/mina) | 2.0.20 | 651 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 543 
 [elide](https://github.com/yahoo/elide) | 4.3.1 | 517 
 [cxf](https://github.com/apache/cxf) | 3.3.1 | 517 
