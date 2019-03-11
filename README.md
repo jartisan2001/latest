@@ -104,6 +104,7 @@ repo | releases | star
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 77 
 [hessian](https://github.com/ebourg/hessian) | 4.0.60 | 58 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 35 
+[easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 0 
 
 ### why“版本递”？
 --- 
