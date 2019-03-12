@@ -6,12 +6,9 @@
 ---
 repo | releases | star
 ---|---|---
-[guava](https://github.com/google/guava) | 27.1-android | 30180
-[guava](https://github.com/google/guava) | 27.1-jre | 30180
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.2 | 1382
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.3 | 1382
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.1 | 1379
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.0 | 1376
 
 ### 收录列表
 ---
