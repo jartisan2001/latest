@@ -8,8 +8,7 @@ repo | releases | star
 ---|---|---
 [guava](https://github.com/google/guava) | 27.1-android | 30180
 [guava](https://github.com/google/guava) | 27.1-jre | 30180
-[netty](https://github.com/netty/netty) | 4.1.34.Final | 18194
-[redisson](https://github.com/redisson/redisson) | 3.10.4 | 8189
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.1 | 1379
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.0 | 1376
 
 ### 收录列表
@@ -48,6 +47,7 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 0.9.1 | 4683 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.18 | 4328 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 4294 
+[easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 4069 
 [mesos](https://github.com/apache/mesos) | 1.7.2 | 4061 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.1 | 3924 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.9.Final | 3645 
@@ -77,7 +77,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.8.1 | 1545 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1494 
 [maven](https://github.com/apache/maven) | 3.6.0 | 1491 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.0 | 1377 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.1 | 1382 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.8.0-beta4 | 1183 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 3.1.12 | 1162 
 [avro](https://github.com/apache/avro) | 1.8.2 | 1124 
@@ -104,7 +104,6 @@ repo | releases | star
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 77 
 [hessian](https://github.com/ebourg/hessian) | 4.0.60 | 58 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 35 
-[easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 0 
 
 ### why“版本递”？
 --- 
