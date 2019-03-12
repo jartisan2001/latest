@@ -8,6 +8,8 @@ repo | releases | star
 ---|---|---
 [guava](https://github.com/google/guava) | 27.1-android | 30180
 [guava](https://github.com/google/guava) | 27.1-jre | 30180
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.2 | 1382
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.3 | 1382
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.1 | 1379
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.0 | 1376
 
@@ -77,7 +79,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.8.1 | 1545 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1494 
 [maven](https://github.com/apache/maven) | 3.6.0 | 1491 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.1 | 1382 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.3 | 1382 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.8.0-beta4 | 1183 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 3.1.12 | 1162 
 [avro](https://github.com/apache/avro) | 1.8.2 | 1124 
