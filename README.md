@@ -6,18 +6,17 @@
 ---
 repo | releases | star
 ---|---|---
-[guava](https://github.com/google/guava) | 27.1-android | 30180
-[guava](https://github.com/google/guava) | 27.1-jre | 30180
+[lucene](https://github.com/apache/lucene-solr) | 8.0.0 | 2372
+[solr](https://github.com/apache/lucene-solr) | 8.0.0 | 2372
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.2 | 1382
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.3 | 1382
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.1 | 1379
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.0 | 1376
 
 ### 收录列表
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.6.1 | 38459 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 6.6.2 | 39031 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.7 | 37711 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.3.RELEASE | 34136 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0 | 32517 
@@ -58,15 +57,15 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 2.5.6 | 3036 
 [tomcat](https://github.com/apache/tomcat) | 7.0.93 | 2898 
 [junit5](https://github.com/junit-team/junit5) | 5.4.0 | 2827 
-[jmeter](https://github.com/apache/jmeter) | 5.1 | 2663 
+[jmeter](https://github.com/apache/jmeter) | 5.1.1 | 2744 
 [beam](https://github.com/apache/beam) | 2.11.0 | 2601 
 [hbase](https://github.com/apache/hbase) | 1.2.11 | 2585 
 [cglib](https://github.com/cglib/cglib) | 3.2.10 | 2564 
 [camel](https://github.com/apache/camel) | 3.0.0-M1 | 2403 
+[lucene](https://github.com/apache/lucene-solr) | 8.0.0 | 2372 
+[solr](https://github.com/apache/lucene-solr) | 8.0.0 | 2372 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.15.v20190215 | 2368 
 [hive](https://github.com/apache/hive) | 2.3.4 | 2354 
-[lucene](https://github.com/apache/lucene-solr) | 7.7.1 | 2339 
-[solr](https://github.com/apache/lucene-solr) | 7.7.1 | 2339 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.3 | 2318 
 [ignite](https://github.com/apache/ignite) | 2.7.0 | 2294 
 [shiro](https://github.com/apache/shiro) | 1.4.0 | 2145 
