@@ -6,6 +6,7 @@
 ---
 repo | releases | star
 ---|---|---
+[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC1 | 4973
 [lucene](https://github.com/apache/lucene-solr) | 8.0.0 | 2372
 [solr](https://github.com/apache/lucene-solr) | 8.0.0 | 2372
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.7 | 198
@@ -41,9 +42,9 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6158 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.13 | 5789 
 [storm](https://github.com/apache/storm) | 1.1.3 | 5545 
+[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC1 | 4973 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 4959 
 [Activiti](https://github.com/Activiti/Activiti) | 7.0.0.SR1 | 4732 
-[nacos](https://github.com/alibaba/nacos) | 0.9.1 | 4683 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.18 | 4328 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 4294 
 [easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 4069 
