@@ -8,9 +8,6 @@ repo | releases | star
 ---|---|---
 [lucene](https://github.com/apache/lucene-solr) | 8.0.0 | 2372
 [solr](https://github.com/apache/lucene-solr) | 8.0.0 | 2372
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.2 | 1382
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.3 | 1382
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.1 | 1379
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.7 | 198
 
 ### 收录列表
