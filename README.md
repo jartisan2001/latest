@@ -8,8 +8,6 @@ repo | releases | star
 ---|---|---
 [mockito](https://github.com/mockito/mockito) | 2.25.1 | 8444
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC1 | 4973
-[lucene](https://github.com/apache/lucene-solr) | 8.0.0 | 2372
-[solr](https://github.com/apache/lucene-solr) | 8.0.0 | 2372
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.7 | 198
 
 ### 收录列表
