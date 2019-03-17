@@ -8,6 +8,8 @@ repo | releases | star
 ---|---|---
 [mockito](https://github.com/mockito/mockito) | 2.25.1 | 8444
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC1 | 4973
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.19 | 200
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.12 | 200
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.7 | 198
 
 ### 收录列表
@@ -95,7 +97,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 512 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 471 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.8.5 | 452 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.7 | 198 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.12 | 200 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 183 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.6.0 | 183 
 [commons-text](https://github.com/apache/commons-text) | 1.6 | 119 
