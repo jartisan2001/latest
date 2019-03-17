@@ -10,7 +10,6 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC1 | 4973
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.19 | 200
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.12 | 200
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.7 | 198
 
 ### 收录列表
 ---
