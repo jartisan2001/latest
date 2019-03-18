@@ -8,6 +8,7 @@ repo | releases | star
 ---|---|---
 [mockito](https://github.com/mockito/mockito) | 2.25.1 | 8444
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC1 | 4973
+[junit5](https://github.com/junit-team/junit5) | 5.4.1 | 2928
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.19 | 200
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.12 | 200
 
@@ -54,8 +55,8 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 3615 
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3173 
 [groovy](https://github.com/apache/groovy) | 2.5.6 | 3036 
+[junit5](https://github.com/junit-team/junit5) | 5.4.1 | 2928 
 [tomcat](https://github.com/apache/tomcat) | 7.0.93 | 2898 
-[junit5](https://github.com/junit-team/junit5) | 5.4.0 | 2827 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 2744 
 [beam](https://github.com/apache/beam) | 2.11.0 | 2601 
 [hbase](https://github.com/apache/hbase) | 1.2.11 | 2585 
