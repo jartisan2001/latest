@@ -6,7 +6,6 @@
 ---
 repo | releases | star
 ---|---|---
-[mockito](https://github.com/mockito/mockito) | 2.25.1 | 8444
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC2 | 5042
 [junit5](https://github.com/junit-team/junit5) | 5.4.1 | 2928
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.19 | 200
