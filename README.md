@@ -7,6 +7,7 @@
 repo | releases | star
 ---|---|---
 [mockito](https://github.com/mockito/mockito) | 2.25.1 | 8444
+[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC2 | 5042
 [junit5](https://github.com/junit-team/junit5) | 5.4.1 | 2928
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.19 | 200
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.12 | 200
@@ -43,13 +44,13 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6158 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.13 | 5789 
 [storm](https://github.com/apache/storm) | 1.1.3 | 5545 
-[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC1 | 4973 
+[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC2 | 5042 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 4959 
 [Activiti](https://github.com/Activiti/Activiti) | 7.0.0.SR1 | 4732 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.18 | 4328 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 4294 
+[mesos](https://github.com/apache/mesos) | 1.5.3 | 4079 
 [easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 4069 
-[mesos](https://github.com/apache/mesos) | 1.7.2 | 4061 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.1 | 3924 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.9.Final | 3645 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 3615 
