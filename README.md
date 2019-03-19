@@ -10,6 +10,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.4.1 | 2928
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.19 | 200
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.12 | 200
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.13 | 200
 
 ### 收录列表
 ---
@@ -54,8 +55,8 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 3615 
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3173 
 [groovy](https://github.com/apache/groovy) | 2.5.6 | 3036 
+[tomcat](https://github.com/apache/tomcat) | 9.0.17 | 3000 
 [junit5](https://github.com/junit-team/junit5) | 5.4.1 | 2931 
-[tomcat](https://github.com/apache/tomcat) | 7.0.93 | 2898 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 2744 
 [beam](https://github.com/apache/beam) | 2.11.0 | 2601 
 [hbase](https://github.com/apache/hbase) | 1.2.11 | 2585 
@@ -96,7 +97,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 512 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 471 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.8.5 | 452 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.12 | 200 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.13 | 200 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 183 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.6.0 | 183 
 [commons-text](https://github.com/apache/commons-text) | 1.6 | 119 
