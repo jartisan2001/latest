@@ -6,6 +6,7 @@
 ---
 repo | releases | star
 ---|---|---
+[redisson](https://github.com/redisson/redisson) | 3.10.5 | 8372
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC2 | 5042
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-M1 | 2935
 [junit5](https://github.com/junit-team/junit5) | 5.4.1 | 2928
@@ -35,7 +36,7 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 9031 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 8559 
 [mockito](https://github.com/mockito/mockito) | 2.25.1 | 8445 
-[redisson](https://github.com/redisson/redisson) | 3.10.4 | 8191 
+[redisson](https://github.com/redisson/redisson) | 3.10.5 | 8372 
 [flink](https://github.com/apache/flink) | 1.6.4 | 7519 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-2 | 7304 
