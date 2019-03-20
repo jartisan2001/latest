@@ -55,7 +55,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 3615 
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3173 
 [groovy](https://github.com/apache/groovy) | 2.5.6 | 3036 
-[tomcat](https://github.com/apache/tomcat) | 9.0.17 | 3000 
+[tomcat](https://github.com/apache/tomcat) | 8.5.39 | 3012 
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-M1 | 2935 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 2744 
 [beam](https://github.com/apache/beam) | 2.11.0 | 2601 
