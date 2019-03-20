@@ -7,6 +7,7 @@
 repo | releases | star
 ---|---|---
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC2 | 5042
+[junit5](https://github.com/junit-team/junit5) | 5.5.0-M1 | 2935
 [junit5](https://github.com/junit-team/junit5) | 5.4.1 | 2928
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.19 | 200
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.12 | 200
@@ -16,7 +17,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 5.6.16 | 39031 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 5.6.16 | 39269 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.7 | 37711 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.3.RELEASE | 34136 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0 | 32517 
@@ -56,7 +57,7 @@ repo | releases | star
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3173 
 [groovy](https://github.com/apache/groovy) | 2.5.6 | 3036 
 [tomcat](https://github.com/apache/tomcat) | 9.0.17 | 3000 
-[junit5](https://github.com/junit-team/junit5) | 5.4.1 | 2931 
+[junit5](https://github.com/junit-team/junit5) | 5.5.0-M1 | 2935 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 2744 
 [beam](https://github.com/apache/beam) | 2.11.0 | 2601 
 [hbase](https://github.com/apache/hbase) | 1.2.11 | 2585 
