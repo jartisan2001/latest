@@ -10,8 +10,6 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC2 | 5042
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-M1 | 2935
 [junit5](https://github.com/junit-team/junit5) | 5.4.1 | 2928
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.19 | 200
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.12 | 200
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.13 | 200
 
 ### 收录列表
