@@ -73,7 +73,7 @@ repo | releases | star
 [pmd](https://github.com/pmd/pmd) | 6.12.0 | 2088 
 [drools](https://github.com/kiegroup/drools) | 7.19.0.Final | 2035 
 [kylin](https://github.com/apache/kylin) | 2.6.1 | 1972 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC1 | 1938 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC1 | 1939 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1557 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.8 | 1546 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.8.1 | 1545 
