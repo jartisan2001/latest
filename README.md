@@ -10,6 +10,7 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC2 | 5042
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-M1 | 2935
 [junit5](https://github.com/junit-team/junit5) | 5.4.1 | 2928
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC1 | 1938
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.13 | 200
 
 ### 收录列表
@@ -70,9 +71,9 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.0 | 2294 
 [shiro](https://github.com/apache/shiro) | 1.4.0 | 2145 
 [pmd](https://github.com/pmd/pmd) | 6.12.0 | 2088 
-[drools](https://github.com/kiegroup/drools) | 7.18.0.Final | 2000 
+[drools](https://github.com/kiegroup/drools) | 7.19.0.Final | 2035 
 [kylin](https://github.com/apache/kylin) | 2.6.1 | 1972 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.M2 | 1828 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC1 | 1938 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1557 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.8 | 1546 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.8.1 | 1545 
@@ -86,7 +87,7 @@ repo | releases | star
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.3 | 951 
 [struts](https://github.com/apache/struts) | 2.5.20 | 909 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 903 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.18.0.Final | 884 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.19.0.Final | 892 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.14 | 817 
 [poi](https://github.com/apache/poi) | 4.0.1 | 677 
 [mina](https://github.com/apache/mina) | 2.1.0 | 659 
