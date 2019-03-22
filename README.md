@@ -7,11 +7,9 @@
 repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.10.5 | 8372
-[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC2 | 5042
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.2.Final | 3688
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-M1 | 2935
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC1 | 1938
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.13 | 200
 
 ### 收录列表
 ---
