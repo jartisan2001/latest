@@ -52,7 +52,7 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.5.3 | 4079 
 [easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 4069 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.1 | 3924 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.2.Final | 3689 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.2.Final | 3690 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 3615 
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3173 
 [groovy](https://github.com/apache/groovy) | 2.5.6 | 3036 
