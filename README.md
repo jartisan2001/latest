@@ -8,6 +8,7 @@ repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.10.5 | 8372
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC2 | 5042
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.2.Final | 3688
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-M1 | 2935
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC1 | 1938
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.13 | 200
@@ -51,7 +52,7 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.5.3 | 4079 
 [easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 4069 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.1 | 3924 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.9.Final | 3645 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.2.Final | 3688 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 3615 
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3173 
 [groovy](https://github.com/apache/groovy) | 2.5.6 | 3036 
