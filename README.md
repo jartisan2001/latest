@@ -6,9 +6,7 @@
 ---
 repo | releases | star
 ---|---|---
-[redisson](https://github.com/redisson/redisson) | 3.10.5 | 8372
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.2.Final | 3688
-[junit5](https://github.com/junit-team/junit5) | 5.5.0-M1 | 2935
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC1 | 1938
 
 ### 收录列表
