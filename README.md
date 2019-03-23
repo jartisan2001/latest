@@ -26,7 +26,7 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.1.14 | 15311 
 [gson](https://github.com/google/gson) | 2.8.5 | 14737 
 [p3c](https://github.com/alibaba/p3c) | 1.3.6 | 13667 
-[kafka](https://github.com/apache/kafka) | 2.1.1 | 11113 
+[kafka](https://github.com/apache/kafka) | 2.2.0 | 11472 
 [arthas](https://github.com/alibaba/arthas) | 3.1.0 | 9690 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.0 | 9676 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.6.3 | 9245 
