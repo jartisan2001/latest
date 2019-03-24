@@ -9,6 +9,9 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.2.Final | 3688
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC1 | 1938
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.4 | 1398
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.5 | 1398
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.6 | 1398
+[c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 968
 
 ### 收录列表
 ---
@@ -76,12 +79,12 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.8.1 | 1545 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1494 
 [maven](https://github.com/apache/maven) | 3.6.0 | 1491 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.4 | 1398 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.6 | 1398 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.8.0-beta4 | 1183 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 3.1.12 | 1162 
 [avro](https://github.com/apache/avro) | 1.8.2 | 1124 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1045 
-[c3p0](https://github.com/swaldman/c3p0) | 0.9.5.3 | 951 
+[c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 968 
 [struts](https://github.com/apache/struts) | 2.5.20 | 909 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 903 
 [jbpm](https://github.com/kiegroup/jbpm) | 7.19.0.Final | 892 
