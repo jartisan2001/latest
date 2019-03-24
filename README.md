@@ -7,7 +7,6 @@
 repo | releases | star
 ---|---|---
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.2.Final | 3688
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC1 | 1938
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.4 | 1398
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.5 | 1398
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.6 | 1398
