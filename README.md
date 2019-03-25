@@ -6,6 +6,7 @@
 ---
 repo | releases | star
 ---|---|---
+[druid](https://github.com/alibaba/druid) | 1.1.15 | 15794
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.4 | 1398
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.5 | 1398
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.6 | 1398
@@ -23,7 +24,7 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 24906 
 [netty](https://github.com/netty/netty) | 4.1.34.Final | 18194 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.56 | 16483 
-[druid](https://github.com/alibaba/druid) | 1.1.14 | 15311 
+[druid](https://github.com/alibaba/druid) | 1.1.15 | 15794 
 [gson](https://github.com/google/gson) | 2.8.5 | 14737 
 [p3c](https://github.com/alibaba/p3c) | 1.3.6 | 13667 
 [kafka](https://github.com/apache/kafka) | 2.2.0 | 11472 
@@ -57,8 +58,8 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 8.5.39 | 3012 
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-M1 | 2935 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 2744 
+[hbase](https://github.com/apache/hbase) | 2.1.4 | 2637 
 [beam](https://github.com/apache/beam) | 2.11.0 | 2601 
-[hbase](https://github.com/apache/hbase) | 1.2.11 | 2585 
 [cglib](https://github.com/cglib/cglib) | 3.2.10 | 2564 
 [camel](https://github.com/apache/camel) | 3.0.0-M1 | 2403 
 [lucene](https://github.com/apache/lucene-solr) | 8.0.0 | 2372 
