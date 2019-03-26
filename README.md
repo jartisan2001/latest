@@ -11,6 +11,7 @@ repo | releases | star
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.5 | 1398
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.6 | 1398
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 968
+[elide](https://github.com/yahoo/elide) | 4.3.3 | 522
 
 ### 收录列表
 ---
@@ -92,7 +93,7 @@ repo | releases | star
 [mina](https://github.com/apache/mina) | 2.1.0 | 659 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 657 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 543 
-[elide](https://github.com/yahoo/elide) | 4.3.1 | 517 
+[elide](https://github.com/yahoo/elide) | 4.3.3 | 522 
 [cxf](https://github.com/apache/cxf) | 3.3.1 | 517 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 512 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 471 
