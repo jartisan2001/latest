@@ -6,6 +6,7 @@
 ---
 repo | releases | star
 ---|---|---
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.8 | 38167
 [druid](https://github.com/alibaba/druid) | 1.1.15 | 15794
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.4 | 1398
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.5 | 1398
@@ -17,8 +18,8 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 5.6.16 | 39269 
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.8 | 37711 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 6.7.0 | 39452 
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.8 | 38167 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.3.RELEASE | 34136 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0 | 32517 
 [guava](https://github.com/google/guava) | 27.1-jre | 30192 
