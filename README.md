@@ -13,13 +13,14 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.8 | 38167
 [druid](https://github.com/alibaba/druid) | 1.1.15 | 15794
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.0.5 | 1972
 [elide](https://github.com/yahoo/elide) | 4.3.3 | 522
 
 ### 收录列表
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.7.0 | 39452 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.0.0-rc1 | 39452 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.8 | 38167 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.3.RELEASE | 34136 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.0 | 32517 
@@ -74,8 +75,8 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.4.0 | 2145 
 [pmd](https://github.com/pmd/pmd) | 6.12.0 | 2088 
 [drools](https://github.com/kiegroup/drools) | 7.19.0.Final | 2035 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.0.5 | 1972 
 [kylin](https://github.com/apache/kylin) | 2.6.1 | 1972 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC1 | 1942 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1557 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.8 | 1546 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.8.1 | 1545 
