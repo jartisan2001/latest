@@ -13,10 +13,6 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.8 | 38167
 [druid](https://github.com/alibaba/druid) | 1.1.15 | 15794
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.4 | 1398
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.5 | 1398
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.6 | 1398
-[c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 968
 [elide](https://github.com/yahoo/elide) | 4.3.3 | 522
 
 ### 收录列表
