@@ -12,7 +12,6 @@
 repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.8 | 38167
-[druid](https://github.com/alibaba/druid) | 1.1.15 | 15794
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.0.5 | 1972
 [elide](https://github.com/yahoo/elide) | 4.3.3 | 522
 
