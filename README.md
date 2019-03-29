@@ -11,10 +11,8 @@
 ---
 repo | releases | star
 ---|---|---
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.8 | 38167
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC2 | 1974
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.0.5 | 1972
-[elide](https://github.com/yahoo/elide) | 4.3.3 | 522
 
 ### 收录列表
 ---
