@@ -12,7 +12,6 @@
 repo | releases | star
 ---|---|---
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC2 | 1974
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.0.5 | 1972
 
 ### 收录列表
 ---
