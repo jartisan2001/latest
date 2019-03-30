@@ -11,6 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.0 | 9420
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC2 | 1974
 
 ### 收录列表
@@ -31,7 +32,7 @@ repo | releases | star
 [kafka](https://github.com/apache/kafka) | 2.2.0 | 11472 
 [arthas](https://github.com/alibaba/arthas) | 3.1.0 | 9690 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.0 | 9676 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.6.3 | 9245 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.0 | 9420 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 9031 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 8559 
 [mockito](https://github.com/mockito/mockito) | 2.25.1 | 8445 
