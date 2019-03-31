@@ -13,6 +13,7 @@ repo | releases | star
 ---|---|---
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.0 | 9420
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC2 | 1974
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.0 | 476
 
 ### 收录列表
 ---
@@ -97,8 +98,8 @@ repo | releases | star
 [elide](https://github.com/yahoo/elide) | 4.3.3 | 522 
 [cxf](https://github.com/apache/cxf) | 3.3.1 | 517 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 512 
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.0 | 476 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 471 
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.8.5 | 452 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.13 | 200 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 183 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.6.0 | 183 
