@@ -12,7 +12,6 @@
 repo | releases | star
 ---|---|---
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.0 | 9420
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC2 | 1974
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.0 | 476
 
 ### 收录列表
