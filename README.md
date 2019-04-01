@@ -11,7 +11,6 @@
 ---
 repo | releases | star
 ---|---|---
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.0 | 9420
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.19 | 4421
 [pmd](https://github.com/pmd/pmd) | 6.13.0 | 2159
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.7 | 1410
