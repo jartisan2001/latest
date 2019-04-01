@@ -12,8 +12,11 @@
 repo | releases | star
 ---|---|---
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.19 | 4421
+[lucene](https://github.com/apache/lucene-solr) | 6.6.6 | 2428
+[solr](https://github.com/apache/lucene-solr) | 6.6.6 | 2428
 [pmd](https://github.com/pmd/pmd) | 6.13.0 | 2159
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.7 | 1410
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta1 | 1220
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.0 | 476
 
 ### 收录列表
@@ -45,7 +48,7 @@ repo | releases | star
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.5 | 6479 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 6272 
 [jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6158 
-[zookeeper](https://github.com/apache/zookeeper) | 3.4.13 | 5789 
+[zookeeper](https://github.com/apache/zookeeper) | 3.4.14 | 6037 
 [storm](https://github.com/apache/storm) | 1.1.3 | 5545 
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC2 | 5042 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 4959 
@@ -66,8 +69,8 @@ repo | releases | star
 [beam](https://github.com/apache/beam) | 2.11.0 | 2601 
 [cglib](https://github.com/cglib/cglib) | 3.2.10 | 2564 
 [camel](https://github.com/apache/camel) | 3.0.0-M2 | 2495 
-[lucene](https://github.com/apache/lucene-solr) | 8.0.0 | 2372 
-[solr](https://github.com/apache/lucene-solr) | 8.0.0 | 2372 
+[lucene](https://github.com/apache/lucene-solr) | 6.6.6 | 2428 
+[solr](https://github.com/apache/lucene-solr) | 6.6.6 | 2428 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.15.v20190215 | 2368 
 [hive](https://github.com/apache/hive) | 2.3.4 | 2354 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.3 | 2318 
@@ -83,8 +86,8 @@ repo | releases | star
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1494 
 [maven](https://github.com/apache/maven) | 3.6.0 | 1491 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.7 | 1412 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta1 | 1220 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.8.0-beta4 | 1183 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 3.1.12 | 1162 
 [avro](https://github.com/apache/avro) | 1.8.2 | 1124 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1045 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 968 
