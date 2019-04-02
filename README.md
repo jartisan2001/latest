@@ -18,6 +18,7 @@ repo | releases | star
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.7 | 1410
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta1 | 1220
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.0 | 476
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.1 | 476
 
 ### 收录列表
 ---
@@ -102,7 +103,7 @@ repo | releases | star
 [elide](https://github.com/yahoo/elide) | 4.3.3 | 522 
 [cxf](https://github.com/apache/cxf) | 3.3.1 | 517 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 512 
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.0 | 476 
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.1 | 476 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 471 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.13 | 200 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 183 
