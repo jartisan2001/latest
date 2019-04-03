@@ -12,6 +12,7 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.1 | 33166
+[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC3 | 5391
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.19 | 4421
 [lucene](https://github.com/apache/lucene-solr) | 6.6.6 | 2428
 [solr](https://github.com/apache/lucene-solr) | 6.6.6 | 2428
@@ -28,7 +29,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.0.0-rc1 | 39490 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.8 | 38167 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.3.RELEASE | 34136 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.1 | 33176 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.1 | 33188 
 [guava](https://github.com/google/guava) | 27.1-jre | 30192 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 24906 
 [netty](https://github.com/netty/netty) | 4.1.34.Final | 18194 
@@ -52,7 +53,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6158 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.14 | 6037 
 [storm](https://github.com/apache/storm) | 1.1.3 | 5545 
-[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC2 | 5042 
+[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC3 | 5391 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 4959 
 [Activiti](https://github.com/Activiti/Activiti) | 7.0.0.SR1 | 4732 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.19 | 4421 
