@@ -13,13 +13,10 @@ repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.1 | 33166
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC3 | 5391
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.19 | 4421
 [lucene](https://github.com/apache/lucene-solr) | 6.6.6 | 2428
 [solr](https://github.com/apache/lucene-solr) | 6.6.6 | 2428
-[pmd](https://github.com/pmd/pmd) | 6.13.0 | 2159
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.7 | 1410
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta1 | 1220
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.0 | 476
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.1 | 476
 
 ### 收录列表
