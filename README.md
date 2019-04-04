@@ -18,6 +18,7 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC3 | 5391
 [lucene](https://github.com/apache/lucene-solr) | 6.6.6 | 2428
 [solr](https://github.com/apache/lucene-solr) | 6.6.6 | 2428
+[jetty server](https://github.com/eclipse/jetty.project) | 9.3.26.v20190403 | 2428
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.7 | 1410
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta1 | 1220
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.1 | 476
@@ -28,7 +29,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.0.0-rc2 | 39764 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.8 | 38167 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.0.9.RELEASE | 36086 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.0.9.RELEASE | 36097 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.1 | 33188 
 [guava](https://github.com/google/guava) | 27.1-jre | 30192 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 24906 
@@ -72,9 +73,9 @@ repo | releases | star
 [beam](https://github.com/apache/beam) | 2.11.0 | 2601 
 [cglib](https://github.com/cglib/cglib) | 3.2.10 | 2564 
 [camel](https://github.com/apache/camel) | 3.0.0-M2 | 2495 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.3.26.v20190403 | 2428 
 [lucene](https://github.com/apache/lucene-solr) | 6.6.6 | 2428 
 [solr](https://github.com/apache/lucene-solr) | 6.6.6 | 2428 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.15.v20190215 | 2368 
 [hive](https://github.com/apache/hive) | 2.3.4 | 2354 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.3 | 2318 
 [ignite](https://github.com/apache/ignite) | 2.7.0 | 2294 
