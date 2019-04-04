@@ -16,6 +16,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.0.9.RELEASE | 36086
 [springboot](https://github.com/spring-projects/spring-boot) | 1.5.20.RELEASE | 36078
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.1 | 33166
+[mockito](https://github.com/mockito/mockito) | 2.26.0 | 8574
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC3 | 5391
 [jetty server](https://github.com/eclipse/jetty.project) | 9.3.26.v20190403 | 2428
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.1 | 476
@@ -40,8 +41,8 @@ repo | releases | star
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.0 | 9676 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.0 | 9420 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 9031 
+[mockito](https://github.com/mockito/mockito) | 2.26.0 | 8574 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 8559 
-[mockito](https://github.com/mockito/mockito) | 2.25.1 | 8445 
 [redisson](https://github.com/redisson/redisson) | 3.10.5 | 8372 
 [flink](https://github.com/apache/flink) | 1.6.4 | 7519 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
