@@ -17,6 +17,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.0.9.RELEASE | 36086
 [springboot](https://github.com/spring-projects/spring-boot) | 1.5.20.RELEASE | 36078
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.1 | 33166
+[redisson](https://github.com/redisson/redisson) | 3.10.6 | 8612
 [mockito](https://github.com/mockito/mockito) | 2.26.0 | 8574
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC3 | 5391
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha2 | 3719
@@ -29,7 +30,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.7.1 | 39819 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.0.0-rc2 | 39819 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.8 | 38167 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.4.RELEASE | 36131 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.1 | 33188 
@@ -45,9 +46,9 @@ repo | releases | star
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.0 | 9676 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.0 | 9420 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 9031 
+[redisson](https://github.com/redisson/redisson) | 3.10.6 | 8612 
 [mockito](https://github.com/mockito/mockito) | 2.26.0 | 8574 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 8559 
-[redisson](https://github.com/redisson/redisson) | 3.10.5 | 8372 
 [flink](https://github.com/apache/flink) | 1.6.4 | 7519 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-2 | 7304 
