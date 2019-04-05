@@ -24,7 +24,6 @@ repo | releases | star
 [jetty server](https://github.com/eclipse/jetty.project) | 9.2.27.v20190403 | 2428
 [drools](https://github.com/kiegroup/drools) | 7.20.0.Final | 2076
 [jbpm](https://github.com/kiegroup/jbpm) | 7.20.0.Final | 899
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.1 | 476
 
 ### 收录列表
 ---
