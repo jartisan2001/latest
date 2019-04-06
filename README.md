@@ -19,6 +19,8 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.1 | 33166
 [redisson](https://github.com/redisson/redisson) | 3.10.6 | 8612
 [mockito](https://github.com/mockito/mockito) | 2.26.0 | 8574
+[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.4 | 6781
+[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6781
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC3 | 5391
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha2 | 3719
 [jetty server](https://github.com/eclipse/jetty.project) | 9.3.26.v20190403 | 2428
@@ -52,7 +54,7 @@ repo | releases | star
 [flink](https://github.com/apache/flink) | 1.6.4 | 7519 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-2 | 7304 
-[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.5 | 6479 
+[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6781 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 6272 
 [jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6158 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.14 | 6037 
