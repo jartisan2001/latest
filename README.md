@@ -11,22 +11,15 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.7.1 | 39819
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.0.0-rc2 | 39764
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.4.RELEASE | 36131
 [springboot](https://github.com/spring-projects/spring-boot) | 2.0.9.RELEASE | 36086
-[springboot](https://github.com/spring-projects/spring-boot) | 1.5.20.RELEASE | 36078
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.1 | 33166
 [redisson](https://github.com/redisson/redisson) | 3.10.6 | 8612
 [mockito](https://github.com/mockito/mockito) | 2.26.0 | 8574
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.4 | 6781
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6781
-[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC3 | 5391
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha2 | 3719
 [jetty server](https://github.com/eclipse/jetty.project) | 9.3.26.v20190403 | 2428
 [jetty server](https://github.com/eclipse/jetty.project) | 9.2.27.v20190403 | 2428
-[drools](https://github.com/kiegroup/drools) | 7.20.0.Final | 2076
-[jbpm](https://github.com/kiegroup/jbpm) | 7.20.0.Final | 899
 
 ### 收录列表
 ---
