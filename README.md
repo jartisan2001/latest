@@ -11,9 +11,13 @@
 ---
 repo | releases | star
 ---|---|---
+[druid](https://github.com/alibaba/druid) | 1.1.16 | 16036
+[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.1 | 10266
 [redisson](https://github.com/redisson/redisson) | 3.10.6 | 8612
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.4 | 6781
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6781
+[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.4 | 2410
+[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2410
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.2 | 477
 
 ### 收录列表
@@ -28,12 +32,12 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 24906 
 [netty](https://github.com/netty/netty) | 4.1.34.Final | 18194 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.56 | 16483 
-[druid](https://github.com/alibaba/druid) | 1.1.15 | 15794 
+[druid](https://github.com/alibaba/druid) | 1.1.16 | 16036 
 [gson](https://github.com/google/gson) | 2.8.5 | 14737 
 [p3c](https://github.com/alibaba/p3c) | 1.3.6 | 13667 
 [kafka](https://github.com/apache/kafka) | 2.2.0 | 11472 
+[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.1 | 10266 
 [arthas](https://github.com/alibaba/arthas) | 3.1.0 | 9690 
-[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.0 | 9676 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.0 | 9420 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 9031 
 [redisson](https://github.com/redisson/redisson) | 3.10.6 | 8612 
@@ -69,8 +73,8 @@ repo | releases | star
 [jetty server](https://github.com/eclipse/jetty.project) | 9.2.27.v20190403 | 2428 
 [lucene](https://github.com/apache/lucene-solr) | 6.6.6 | 2428 
 [solr](https://github.com/apache/lucene-solr) | 6.6.6 | 2428 
+[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2410 
 [hive](https://github.com/apache/hive) | 2.3.4 | 2354 
-[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.3 | 2318 
 [ignite](https://github.com/apache/ignite) | 2.7.0 | 2294 
 [pmd](https://github.com/pmd/pmd) | 6.13.0 | 2159 
 [shiro](https://github.com/apache/shiro) | 1.4.0 | 2145 
