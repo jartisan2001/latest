@@ -11,15 +11,9 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.4.RELEASE | 36131
-[springboot](https://github.com/spring-projects/spring-boot) | 2.0.9.RELEASE | 36086
 [redisson](https://github.com/redisson/redisson) | 3.10.6 | 8612
-[mockito](https://github.com/mockito/mockito) | 2.26.0 | 8574
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.4 | 6781
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6781
-[hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha2 | 3719
-[jetty server](https://github.com/eclipse/jetty.project) | 9.3.26.v20190403 | 2428
-[jetty server](https://github.com/eclipse/jetty.project) | 9.2.27.v20190403 | 2428
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.2 | 477
 
 ### 收录列表
