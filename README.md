@@ -20,6 +20,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha2 | 3719
 [jetty server](https://github.com/eclipse/jetty.project) | 9.3.26.v20190403 | 2428
 [jetty server](https://github.com/eclipse/jetty.project) | 9.2.27.v20190403 | 2428
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.2 | 477
 
 ### 收录列表
 ---
@@ -104,7 +105,7 @@ repo | releases | star
 [elide](https://github.com/yahoo/elide) | 4.3.3 | 522 
 [cxf](https://github.com/apache/cxf) | 3.3.1 | 517 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 512 
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.1 | 476 
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.2 | 477 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 471 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.13 | 200 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 183 
