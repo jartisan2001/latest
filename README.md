@@ -13,7 +13,6 @@ repo | releases | star
 ---|---|---
 [druid](https://github.com/alibaba/druid) | 1.1.16 | 16036
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.1 | 10266
-[redisson](https://github.com/redisson/redisson) | 3.10.6 | 8612
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.4 | 6781
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6781
 [junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3000
