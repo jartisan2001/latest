@@ -16,6 +16,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.10.6 | 8612
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.4 | 6781
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6781
+[junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3000
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.4 | 2410
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2410
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.2 | 477
@@ -64,7 +65,7 @@ repo | releases | star
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3173 
 [groovy](https://github.com/apache/groovy) | 2.5.6 | 3036 
 [tomcat](https://github.com/apache/tomcat) | 8.5.39 | 3012 
-[junit5](https://github.com/junit-team/junit5) | 5.5.0-M1 | 2935 
+[junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3000 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 2744 
 [hbase](https://github.com/apache/hbase) | 2.1.4 | 2637 
 [beam](https://github.com/apache/beam) | 2.11.0 | 2601 
