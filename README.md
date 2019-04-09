@@ -19,6 +19,7 @@ repo | releases | star
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.4 | 2410
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2410
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.2 | 477
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 477
 
 ### 收录列表
 ---
@@ -103,7 +104,7 @@ repo | releases | star
 [elide](https://github.com/yahoo/elide) | 4.3.3 | 522 
 [cxf](https://github.com/apache/cxf) | 3.3.1 | 517 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 512 
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.2 | 477 
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 477 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 471 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.13 | 200 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 183 
