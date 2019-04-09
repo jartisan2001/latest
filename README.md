@@ -18,6 +18,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3000
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.4 | 2410
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2410
+[poi](https://github.com/apache/poi) | 4.1.0 | 726
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.2 | 477
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 477
 
@@ -97,14 +98,14 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 903 
 [jbpm](https://github.com/kiegroup/jbpm) | 7.20.0.Final | 899 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.14 | 817 
-[poi](https://github.com/apache/poi) | 4.0.1 | 677 
+[poi](https://github.com/apache/poi) | 4.1.0 | 726 
 [mina](https://github.com/apache/mina) | 2.1.0 | 659 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 657 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 543 
 [elide](https://github.com/yahoo/elide) | 4.3.3 | 522 
 [cxf](https://github.com/apache/cxf) | 3.3.1 | 517 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 512 
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 477 
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 478 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 471 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.13 | 200 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 183 
