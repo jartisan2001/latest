@@ -42,7 +42,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.10.6 | 8612 
 [mockito](https://github.com/mockito/mockito) | 2.26.0 | 8574 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 8559 
-[flink](https://github.com/apache/flink) | 1.6.4 | 7519 
+[flink](https://github.com/apache/flink) | 1.8.0 | 8211 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-2 | 7304 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6781 
