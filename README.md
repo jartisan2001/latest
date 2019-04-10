@@ -13,11 +13,10 @@ repo | releases | star
 ---|---|---
 [druid](https://github.com/alibaba/druid) | 1.1.16 | 16036
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.1 | 10266
-[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.4 | 6781
-[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6781
 [junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3000
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.4 | 2410
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2410
+[elide](https://github.com/yahoo/elide) | 4.4.0 | 525
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.2 | 477
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 477
 
@@ -44,7 +43,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.10.6 | 8612 
 [mockito](https://github.com/mockito/mockito) | 2.26.0 | 8574 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 8559 
-[flink](https://github.com/apache/flink) | 1.6.4 | 7519 
+[flink](https://github.com/apache/flink) | 1.8.0 | 8211 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-2 | 7304 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6781 
@@ -97,14 +96,14 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 903 
 [jbpm](https://github.com/kiegroup/jbpm) | 7.20.0.Final | 899 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.14 | 817 
-[poi](https://github.com/apache/poi) | 4.0.1 | 677 
+[poi](https://github.com/apache/poi) | 4.1.0 | 726 
 [mina](https://github.com/apache/mina) | 2.1.0 | 659 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 657 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 543 
-[elide](https://github.com/yahoo/elide) | 4.3.3 | 522 
+[elide](https://github.com/yahoo/elide) | 4.4.0 | 525 
 [cxf](https://github.com/apache/cxf) | 3.3.1 | 517 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 512 
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 477 
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 478 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 471 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.13 | 200 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 183 
