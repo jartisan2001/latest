@@ -11,13 +11,8 @@
 ---
 repo | releases | star
 ---|---|---
-[druid](https://github.com/alibaba/druid) | 1.1.16 | 16036
-[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.1 | 10266
 [junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3000
-[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.4 | 2410
-[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2410
 [elide](https://github.com/yahoo/elide) | 4.4.0 | 525
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.2 | 477
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 477
 
 ### 收录列表
