@@ -12,7 +12,6 @@
 repo | releases | star
 ---|---|---
 [mockito](https://github.com/mockito/mockito) | 2.27.0 | 8594
-[junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3000
 [elide](https://github.com/yahoo/elide) | 4.4.0 | 525
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 477
 
