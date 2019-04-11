@@ -11,7 +11,9 @@
 ---
 repo | releases | star
 ---|---|---
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.57 | 17290
 [mockito](https://github.com/mockito/mockito) | 2.27.0 | 8594
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0 | 2090
 [elide](https://github.com/yahoo/elide) | 4.4.0 | 525
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 477
 
@@ -26,7 +28,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 27.1-jre | 30192 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 24906 
 [netty](https://github.com/netty/netty) | 4.1.34.Final | 18194 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.56 | 16483 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.57 | 17290 
 [druid](https://github.com/alibaba/druid) | 1.1.16 | 16036 
 [gson](https://github.com/google/gson) | 2.8.5 | 14737 
 [p3c](https://github.com/alibaba/p3c) | 1.3.6 | 13667 
@@ -73,8 +75,8 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.0 | 2294 
 [pmd](https://github.com/pmd/pmd) | 6.13.0 | 2159 
 [shiro](https://github.com/apache/shiro) | 1.4.0 | 2145 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0 | 2090 
 [drools](https://github.com/kiegroup/drools) | 7.20.0.Final | 2076 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0.RC2 | 1974 
 [kylin](https://github.com/apache/kylin) | 2.6.1 | 1972 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1557 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.8 | 1546 
