@@ -11,6 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
+[mockito](https://github.com/mockito/mockito) | 2.27.0 | 8594
 [junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3000
 [elide](https://github.com/yahoo/elide) | 4.4.0 | 525
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 477
@@ -36,7 +37,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.0 | 9420 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 9031 
 [redisson](https://github.com/redisson/redisson) | 3.10.6 | 8612 
-[mockito](https://github.com/mockito/mockito) | 2.26.0 | 8574 
+[mockito](https://github.com/mockito/mockito) | 2.27.0 | 8594 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 8559 
 [flink](https://github.com/apache/flink) | 1.8.0 | 8211 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
