@@ -92,7 +92,7 @@ repo | releases | star
 [struts](https://github.com/apache/struts) | 2.5.20 | 909 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 903 
 [jbpm](https://github.com/kiegroup/jbpm) | 7.20.0.Final | 899 
-[pdfbox](https://github.com/apache/pdfbox) | 2.0.14 | 817 
+[pdfbox](https://github.com/apache/pdfbox) | 2.0.15 | 852 
 [poi](https://github.com/apache/poi) | 4.1.0 | 726 
 [mina](https://github.com/apache/mina) | 2.1.0 | 659 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 657 
