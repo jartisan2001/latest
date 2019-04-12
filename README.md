@@ -13,6 +13,7 @@ repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.57 | 17290
 [mockito](https://github.com/mockito/mockito) | 2.27.0 | 8594
+[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC4 | 5558
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0 | 2090
 [elide](https://github.com/yahoo/elide) | 4.4.0 | 525
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 477
@@ -47,8 +48,8 @@ repo | releases | star
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 6272 
 [jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6158 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.14 | 6037 
+[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC4 | 5558 
 [storm](https://github.com/apache/storm) | 1.1.3 | 5545 
-[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC3 | 5391 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 4959 
 [Activiti](https://github.com/Activiti/Activiti) | 7.0.0.SR1 | 4732 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.19 | 4421 
