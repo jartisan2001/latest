@@ -14,6 +14,9 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.57 | 17290
 [mockito](https://github.com/mockito/mockito) | 2.27.0 | 8594
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC4 | 5558
+[tomcat](https://github.com/apache/tomcat) | 8.5.40 | 3103
+[tomcat](https://github.com/apache/tomcat) | 7.0.94 | 3103
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.16.v20190411 | 2436
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0 | 2090
 [elide](https://github.com/yahoo/elide) | 4.4.0 | 525
 
@@ -59,15 +62,15 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha2 | 3719 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 3615 
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3173 
+[tomcat](https://github.com/apache/tomcat) | 7.0.94 | 3103 
 [groovy](https://github.com/apache/groovy) | 2.5.6 | 3036 
-[tomcat](https://github.com/apache/tomcat) | 8.5.39 | 3012 
 [junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3002 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 2744 
 [hbase](https://github.com/apache/hbase) | 2.1.4 | 2637 
 [beam](https://github.com/apache/beam) | 2.11.0 | 2601 
 [cglib](https://github.com/cglib/cglib) | 3.2.10 | 2564 
 [camel](https://github.com/apache/camel) | 3.0.0-M2 | 2495 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.2.27.v20190403 | 2428 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.16.v20190411 | 2436 
 [lucene](https://github.com/apache/lucene-solr) | 6.6.6 | 2428 
 [solr](https://github.com/apache/lucene-solr) | 6.6.6 | 2428 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2410 
