@@ -16,7 +16,6 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC4 | 5558
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0 | 2090
 [elide](https://github.com/yahoo/elide) | 4.4.0 | 525
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 477
 
 ### 收录列表
 ---
