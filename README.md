@@ -14,11 +14,9 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.57 | 17290
 [mockito](https://github.com/mockito/mockito) | 2.27.0 | 8594
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC4 | 5558
-[tomcat](https://github.com/apache/tomcat) | 8.5.40 | 3103
 [tomcat](https://github.com/apache/tomcat) | 7.0.94 | 3103
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.16.v20190411 | 2436
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0 | 2090
-[elide](https://github.com/yahoo/elide) | 4.4.0 | 525
 
 ### 收录列表
 ---
