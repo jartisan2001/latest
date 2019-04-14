@@ -14,9 +14,12 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.57 | 17290
 [mockito](https://github.com/mockito/mockito) | 2.27.0 | 8594
 [nacos](https://github.com/alibaba/nacos) | 1.0.0-RC4 | 5558
+[tomcat](https://github.com/apache/tomcat) | 9.0.19 | 3110
 [tomcat](https://github.com/apache/tomcat) | 7.0.94 | 3103
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.16.v20190411 | 2436
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0 | 2090
+[mina](https://github.com/apache/mina) | 2.0.21 | 669
+[mina](https://github.com/apache/mina) | 2.1.1 | 669
 
 ### 收录列表
 ---
@@ -60,7 +63,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha2 | 3719 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 3615 
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3173 
-[tomcat](https://github.com/apache/tomcat) | 7.0.94 | 3103 
+[tomcat](https://github.com/apache/tomcat) | 9.0.19 | 3110 
 [groovy](https://github.com/apache/groovy) | 2.5.6 | 3036 
 [junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3002 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 2744 
@@ -95,7 +98,7 @@ repo | releases | star
 [jbpm](https://github.com/kiegroup/jbpm) | 7.20.0.Final | 899 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.15 | 852 
 [poi](https://github.com/apache/poi) | 4.1.0 | 726 
-[mina](https://github.com/apache/mina) | 2.1.0 | 659 
+[mina](https://github.com/apache/mina) | 2.1.1 | 669 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 657 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 543 
 [elide](https://github.com/yahoo/elide) | 4.4.0 | 526 
