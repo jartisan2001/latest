@@ -11,10 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
-[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC4 | 5558
-[tomcat](https://github.com/apache/tomcat) | 9.0.19 | 3110
-[mina](https://github.com/apache/mina) | 2.0.21 | 669
-[mina](https://github.com/apache/mina) | 2.1.1 | 669
+[nacos](https://github.com/alibaba/nacos) | 1.0.0 | 5621
 
 ### 收录列表
 ---
@@ -46,7 +43,7 @@ repo | releases | star
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 6272 
 [jib](https://github.com/GoogleContainerTools/jib) | 1.0.2 | 6158 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.14 | 6037 
-[nacos](https://github.com/alibaba/nacos) | 1.0.0-RC4 | 5558 
+[nacos](https://github.com/alibaba/nacos) | 1.0.0 | 5621 
 [storm](https://github.com/apache/storm) | 1.1.3 | 5545 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 4959 
 [Activiti](https://github.com/Activiti/Activiti) | 7.0.0.SR1 | 4732 
