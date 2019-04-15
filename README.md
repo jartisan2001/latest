@@ -77,10 +77,10 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0 | 2090 
 [drools](https://github.com/kiegroup/drools) | 7.20.0.Final | 2076 
 [kylin](https://github.com/apache/kylin) | 2.6.1 | 1972 
+[commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1609 
 [maven](https://github.com/apache/maven) | 3.6.1 | 1590 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1557 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.8 | 1546 
-[commons-lang3](https://github.com/apache/commons-lang) | 3.8.1 | 1545 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1494 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.7 | 1412 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta1 | 1220 
