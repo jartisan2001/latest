@@ -42,7 +42,7 @@ repo | releases | star
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-2 | 7304 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6781 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.1.0 | 6462 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.1.0 | 6474 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 6272 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.14 | 6037 
 [nacos](https://github.com/alibaba/nacos) | 1.0.0 | 5621 
@@ -75,7 +75,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.4.0 | 2145 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0 | 2090 
 [drools](https://github.com/kiegroup/drools) | 7.20.0.Final | 2076 
-[kylin](https://github.com/apache/kylin) | 2.6.1 | 1972 
+[kylin](https://github.com/apache/kylin) | 3.0.0-alpha | 2069 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1609 
 [maven](https://github.com/apache/maven) | 3.6.1 | 1590 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1557 
@@ -95,7 +95,7 @@ repo | releases | star
 [mina](https://github.com/apache/mina) | 2.1.1 | 669 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 657 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 543 
-[elide](https://github.com/yahoo/elide) | 4.4.1 | 528 
+[elide](https://github.com/yahoo/elide) | 4.4.1 | 529 
 [cxf](https://github.com/apache/cxf) | 3.3.1 | 517 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 512 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 478 
