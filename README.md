@@ -43,7 +43,7 @@ repo | releases | star
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-2 | 7304 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6781 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.1.1 | 6482 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.1.1 | 6491 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 6272 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.14 | 6037 
 [nacos](https://github.com/alibaba/nacos) | 1.0.0 | 5621 
