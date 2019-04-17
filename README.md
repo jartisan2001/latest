@@ -11,6 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
+[netty](https://github.com/netty/netty) | 4.1.35.Final | 18800
 [jib](https://github.com/GoogleContainerTools/jib) | 1.1.1 | 6482
 [jib](https://github.com/GoogleContainerTools/jib) | 1.1.0 | 6454
 [nacos](https://github.com/alibaba/nacos) | 1.0.0 | 5621
@@ -26,7 +27,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.1 | 33188 
 [guava](https://github.com/google/guava) | 27.1-jre | 30192 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 24906 
-[netty](https://github.com/netty/netty) | 4.1.34.Final | 18194 
+[netty](https://github.com/netty/netty) | 4.1.35.Final | 18800 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.57 | 17290 
 [druid](https://github.com/alibaba/druid) | 1.1.16 | 16036 
 [gson](https://github.com/google/gson) | 2.8.5 | 14737 
