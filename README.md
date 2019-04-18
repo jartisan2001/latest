@@ -63,7 +63,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 2.5.6 | 3036 
 [junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3002 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 2744 
-[hbase](https://github.com/apache/hbase) | 2.1.4 | 2637 
+[hbase](https://github.com/apache/hbase) | 1.2.12 | 2711 
 [beam](https://github.com/apache/beam) | 2.11.0 | 2601 
 [cglib](https://github.com/cglib/cglib) | 3.2.10 | 2564 
 [camel](https://github.com/apache/camel) | 2.22.4 | 2540 
