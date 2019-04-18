@@ -14,7 +14,6 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.35.Final | 18800
 [jib](https://github.com/GoogleContainerTools/jib) | 1.1.1 | 6482
 [jib](https://github.com/GoogleContainerTools/jib) | 1.1.0 | 6454
-[nacos](https://github.com/alibaba/nacos) | 1.0.0 | 5621
 [elide](https://github.com/yahoo/elide) | 4.4.1 | 528
 
 ### 收录列表
