@@ -13,8 +13,6 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.35.Final | 18800
 [jib](https://github.com/GoogleContainerTools/jib) | 1.1.1 | 6482
-[jib](https://github.com/GoogleContainerTools/jib) | 1.1.0 | 6454
-[elide](https://github.com/yahoo/elide) | 4.4.1 | 528
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc0 | 215
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.14 | 215
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.20 | 215
