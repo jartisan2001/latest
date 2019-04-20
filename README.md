@@ -12,7 +12,10 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.35.Final | 18800
+[jib](https://github.com/GoogleContainerTools/jib) | 1.1.2 | 6587
 [jib](https://github.com/GoogleContainerTools/jib) | 1.1.1 | 6482
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.10.Final | 3758
+[mina](https://github.com/apache/mina) | 2.1.2 | 674
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc0 | 215
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.14 | 215
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.20 | 215
@@ -44,7 +47,7 @@ repo | releases | star
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7339 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-2 | 7304 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6781 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.1.1 | 6516 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.1.2 | 6587 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 6272 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.14 | 6037 
 [nacos](https://github.com/alibaba/nacos) | 1.0.0 | 5621 
@@ -56,7 +59,7 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.5.3 | 4079 
 [easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 4069 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.1 | 3924 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha2 | 3719 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.10.Final | 3758 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 3615 
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3173 
 [tomcat](https://github.com/apache/tomcat) | 9.0.19 | 3110 
@@ -94,7 +97,7 @@ repo | releases | star
 [jbpm](https://github.com/kiegroup/jbpm) | 7.20.0.Final | 899 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.15 | 852 
 [poi](https://github.com/apache/poi) | 4.1.0 | 726 
-[mina](https://github.com/apache/mina) | 2.1.1 | 669 
+[mina](https://github.com/apache/mina) | 2.1.2 | 674 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 657 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 543 
 [elide](https://github.com/yahoo/elide) | 4.4.1 | 529 
