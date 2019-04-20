@@ -11,11 +11,8 @@
 ---
 repo | releases | star
 ---|---|---
-[netty](https://github.com/netty/netty) | 4.1.35.Final | 18800
 [jib](https://github.com/GoogleContainerTools/jib) | 1.1.2 | 6587
-[jib](https://github.com/GoogleContainerTools/jib) | 1.1.1 | 6482
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.10.Final | 3758
-[mina](https://github.com/apache/mina) | 2.1.2 | 674
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc0 | 215
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.14 | 215
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.20 | 215
