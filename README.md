@@ -11,6 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
+[fastjson](https://github.com/alibaba/fastjson) | 1.1.71.android | 17429
 [jib](https://github.com/GoogleContainerTools/jib) | 1.1.2 | 6587
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.10.Final | 3758
 [jetty server](https://github.com/eclipse/jetty.project) | 9.2.28.v20190418 | 2441
@@ -31,7 +32,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 27.1-jre | 30192 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 24906 
 [netty](https://github.com/netty/netty) | 4.1.35.Final | 18800 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.57 | 17290 
+[fastjson](https://github.com/alibaba/fastjson) | 1.1.71.android | 17429 
 [druid](https://github.com/alibaba/druid) | 1.1.16 | 16036 
 [gson](https://github.com/google/gson) | 2.8.5 | 14737 
 [p3c](https://github.com/alibaba/p3c) | 1.3.6 | 13667 
