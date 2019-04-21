@@ -13,6 +13,9 @@ repo | releases | star
 ---|---|---
 [jib](https://github.com/GoogleContainerTools/jib) | 1.1.2 | 6587
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.10.Final | 3758
+[jetty server](https://github.com/eclipse/jetty.project) | 9.2.28.v20190418 | 2441
+[jetty server](https://github.com/eclipse/jetty.project) | 9.3.27.v20190418 | 2441
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.17.v20190418 | 2441
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc0 | 215
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.14 | 215
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.20 | 215
@@ -67,7 +70,7 @@ repo | releases | star
 [beam](https://github.com/apache/beam) | 2.11.0 | 2601 
 [cglib](https://github.com/cglib/cglib) | 3.2.10 | 2564 
 [camel](https://github.com/apache/camel) | 2.22.4 | 2540 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.16.v20190411 | 2436 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.17.v20190418 | 2441 
 [lucene](https://github.com/apache/lucene-solr) | 6.6.6 | 2428 
 [solr](https://github.com/apache/lucene-solr) | 6.6.6 | 2428 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2410 
