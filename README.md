@@ -14,12 +14,6 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.71.android | 17429
 [jib](https://github.com/GoogleContainerTools/jib) | 1.1.2 | 6587
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.10.Final | 3758
-[jetty server](https://github.com/eclipse/jetty.project) | 9.2.28.v20190418 | 2441
-[jetty server](https://github.com/eclipse/jetty.project) | 9.3.27.v20190418 | 2441
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.17.v20190418 | 2441
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc0 | 215
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.13.14 | 215
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.20 | 215
 
 ### 收录列表
 ---
