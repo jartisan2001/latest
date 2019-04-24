@@ -11,7 +11,6 @@
 ---
 repo | releases | star
 ---|---|---
-[fastjson](https://github.com/alibaba/fastjson) | 1.1.71.android | 17429
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.13 | 216
 
 ### 收录列表
