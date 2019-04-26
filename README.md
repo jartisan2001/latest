@@ -12,7 +12,6 @@
 repo | releases | star
 ---|---|---
 [cglib](https://github.com/cglib/cglib) | 3.2.11 | 2758
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.13 | 216
 
 ### 收录列表
 ---
