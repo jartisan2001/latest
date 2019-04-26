@@ -12,6 +12,7 @@
 repo | releases | star
 ---|---|---
 [cglib](https://github.com/cglib/cglib) | 3.2.11 | 2758
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc1 | 216
 
 ### 收录列表
 ---
@@ -98,7 +99,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 512 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 478 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 471 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.13 | 216 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc1 | 216 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 183 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.6.0 | 183 
 [commons-text](https://github.com/apache/commons-text) | 1.6 | 119 
