@@ -11,6 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
+[cglib](https://github.com/cglib/cglib) | 3.2.11 | 2758
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.13 | 216
 
 ### 收录列表
@@ -59,9 +60,9 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 2.5.6 | 3036 
 [junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3002 
 [beam](https://github.com/apache/beam) | 2.12.0 | 2809 
+[cglib](https://github.com/cglib/cglib) | 3.2.11 | 2758 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 2744 
 [hbase](https://github.com/apache/hbase) | 1.2.12 | 2711 
-[cglib](https://github.com/cglib/cglib) | 3.2.10 | 2564 
 [camel](https://github.com/apache/camel) | 2.22.4 | 2540 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.17.v20190418 | 2441 
 [lucene](https://github.com/apache/lucene-solr) | 6.6.6 | 2428 
