@@ -95,6 +95,9 @@ public class GithubServiceImpl implements GithubService {
 				Java java = javaMapper.selectByFavoriteId(favorite.getId());
 				Dependency dependency = SonatypeUtil.getLatestRelease(java.getGroupId(), java.getArtifactId());
 				favorite.setLastVersion(dependency.getVersion());
+				favorite.setStarCount(info.getStarCount());
+				favorite.setForkCount(info.getForkCount());
+				favorite.setWatcherCount(info.getWatcherCount());
 				favoriteMapper.updateByPrimaryKey(favorite);
 			}
 			// github api rate limit
