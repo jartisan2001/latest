@@ -58,9 +58,9 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 9.0.19 | 3110 
 [groovy](https://github.com/apache/groovy) | 2.5.6 | 3036 
 [junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3002 
+[beam](https://github.com/apache/beam) | 2.12.0 | 2809 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 2744 
 [hbase](https://github.com/apache/hbase) | 1.2.12 | 2711 
-[beam](https://github.com/apache/beam) | 2.11.0 | 2601 
 [cglib](https://github.com/cglib/cglib) | 3.2.10 | 2564 
 [camel](https://github.com/apache/camel) | 2.22.4 | 2540 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.17.v20190418 | 2441 
