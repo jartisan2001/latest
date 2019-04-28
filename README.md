@@ -12,6 +12,7 @@
 repo | releases | star
 ---|---|---
 [cglib](https://github.com/cglib/cglib) | 3.2.11 | 2758
+[pmd](https://github.com/pmd/pmd) | 6.14.0 | 2251
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc1 | 216
 
 ### 收录列表
@@ -71,7 +72,7 @@ repo | releases | star
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.17.v20190418 | 2447 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2444 
 [shiro](https://github.com/apache/shiro) | 1.4.0 | 2323 
-[pmd](https://github.com/pmd/pmd) | 6.13.0 | 2251 
+[pmd](https://github.com/pmd/pmd) | 6.14.0 | 2251 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0 | 2187 
 [drools](https://github.com/kiegroup/drools) | 7.20.0.Final | 2135 
 [kylin](https://github.com/apache/kylin) | 3.0.0-alpha | 2110 
