@@ -12,9 +12,7 @@
 repo | releases | star
 ---|---|---
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.20 | 4500
-[cglib](https://github.com/cglib/cglib) | 3.2.11 | 2758
 [pmd](https://github.com/pmd/pmd) | 6.14.0 | 2251
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc1 | 216
 
 ### 收录列表
 ---
