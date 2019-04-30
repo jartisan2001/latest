@@ -13,6 +13,7 @@ repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.10.7 | 8930
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.20 | 4500
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.18.v20190429 | 2452
 [pmd](https://github.com/pmd/pmd) | 6.14.0 | 2251
 
 ### 收录列表
@@ -69,7 +70,7 @@ repo | releases | star
 [solr](https://github.com/apache/lucene-solr) | 6.6.6 | 2500 
 [hive](https://github.com/apache/hive) | 2.3.4 | 2487 
 [ignite](https://github.com/apache/ignite) | 2.7.0 | 2469 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.17.v20190418 | 2448 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.18.v20190429 | 2452 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2446 
 [shiro](https://github.com/apache/shiro) | 1.4.0 | 2326 
 [pmd](https://github.com/pmd/pmd) | 6.14.0 | 2254 
