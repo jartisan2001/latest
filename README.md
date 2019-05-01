@@ -13,9 +13,7 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.36.Final | 19022
 [redisson](https://github.com/redisson/redisson) | 3.10.7 | 8930
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.20 | 4500
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.18.v20190429 | 2452
-[pmd](https://github.com/pmd/pmd) | 6.14.0 | 2251
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.8 | 216
 
 ### 收录列表
