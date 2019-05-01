@@ -11,6 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
+[netty](https://github.com/netty/netty) | 4.1.36.Final | 19022
 [redisson](https://github.com/redisson/redisson) | 3.10.7 | 8930
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.20 | 4500
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.18.v20190429 | 2452
@@ -26,7 +27,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.1 | 33877 
 [guava](https://github.com/google/guava) | 27.1-jre | 31386 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 26169 
-[netty](https://github.com/netty/netty) | 4.1.35.Final | 19020 
+[netty](https://github.com/netty/netty) | 4.1.36.Final | 19022 
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.71.android | 17587 
 [druid](https://github.com/alibaba/druid) | 1.1.16 | 16517 
 [gson](https://github.com/google/gson) | 2.8.5 | 15448 
