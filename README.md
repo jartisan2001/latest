@@ -16,6 +16,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.20 | 4500
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.18.v20190429 | 2452
 [pmd](https://github.com/pmd/pmd) | 6.14.0 | 2251
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.8 | 216
 
 ### 收录列表
 ---
@@ -27,7 +28,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.1 | 33877 
 [guava](https://github.com/google/guava) | 27.1-jre | 31386 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 26169 
-[netty](https://github.com/netty/netty) | 4.1.36.Final | 19022 
+[netty](https://github.com/netty/netty) | 4.1.36.Final | 19024 
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.71.android | 17587 
 [druid](https://github.com/alibaba/druid) | 1.1.16 | 16517 
 [gson](https://github.com/google/gson) | 2.8.5 | 15448 
@@ -102,7 +103,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 525 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 499 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 484 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc1 | 216 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.8 | 216 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 200 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.6.0 | 197 
 [commons-text](https://github.com/apache/commons-text) | 1.6 | 128 
