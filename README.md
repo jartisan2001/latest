@@ -28,7 +28,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.7.1 | 33877 
 [guava](https://github.com/google/guava) | 27.1-jre | 31386 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 26169 
-[netty](https://github.com/netty/netty) | 4.1.36.Final | 19024 
+[netty](https://github.com/netty/netty) | 4.1.36.Final | 19025 
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.71.android | 17587 
 [druid](https://github.com/alibaba/druid) | 1.1.16 | 16517 
 [gson](https://github.com/google/gson) | 2.8.5 | 15448 
@@ -74,7 +74,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.0 | 2472 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.18.v20190429 | 2452 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2445 
-[shiro](https://github.com/apache/shiro) | 1.4.0 | 2328 
+[shiro](https://github.com/apache/shiro) | 1.4.1 | 2330 
 [pmd](https://github.com/pmd/pmd) | 6.14.0 | 2256 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0 | 2216 
 [drools](https://github.com/kiegroup/drools) | 7.20.0.Final | 2141 
