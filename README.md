@@ -99,7 +99,7 @@ repo | releases | star
 [mina](https://github.com/apache/mina) | 2.1.2 | 673 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 574 
 [cxf](https://github.com/apache/cxf) | 3.3.1 | 543 
-[elide](https://github.com/yahoo/elide) | 4.4.2 | 537 
+[elide](https://github.com/yahoo/elide) | 4.4.2 | 539 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 525 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 498 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 484 
