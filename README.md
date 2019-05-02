@@ -15,6 +15,7 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.36.Final | 19022
 [redisson](https://github.com/redisson/redisson) | 3.10.7 | 8930
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.18.v20190429 | 2452
+[elide](https://github.com/yahoo/elide) | 4.4.2 | 537
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.8 | 216
 
 ### 收录列表
@@ -65,7 +66,7 @@ repo | releases | star
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 2910 
 [beam](https://github.com/apache/beam) | 2.12.0 | 2840 
 [cglib](https://github.com/cglib/cglib) | 3.2.11 | 2767 
-[hbase](https://github.com/apache/hbase) | 1.2.12 | 2757 
+[hbase](https://github.com/apache/hbase) | 1.3.4 | 2757 
 [camel](https://github.com/apache/camel) | 2.22.4 | 2584 
 [lucene](https://github.com/apache/lucene-solr) | 6.6.6 | 2506 
 [solr](https://github.com/apache/lucene-solr) | 6.6.6 | 2506 
@@ -98,7 +99,7 @@ repo | releases | star
 [mina](https://github.com/apache/mina) | 2.1.2 | 673 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 574 
 [cxf](https://github.com/apache/cxf) | 3.3.1 | 543 
-[elide](https://github.com/yahoo/elide) | 4.4.1 | 533 
+[elide](https://github.com/yahoo/elide) | 4.4.2 | 537 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 525 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 498 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 484 
