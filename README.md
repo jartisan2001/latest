@@ -11,9 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.0.1 | 40631
 [netty](https://github.com/netty/netty) | 4.1.36.Final | 19022
-[redisson](https://github.com/redisson/redisson) | 3.10.7 | 8930
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.18.v20190429 | 2452
 [elide](https://github.com/yahoo/elide) | 4.4.2 | 537
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.8 | 216
