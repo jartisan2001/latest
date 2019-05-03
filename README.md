@@ -14,6 +14,7 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.36.Final | 19022
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.18.v20190429 | 2452
 [elide](https://github.com/yahoo/elide) | 4.4.2 | 537
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc2 | 218
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.8 | 216
 
 ### 收录列表
@@ -101,7 +102,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 526 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 498 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 485 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.8 | 218 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc2 | 218 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 200 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.6.0 | 197 
 [commons-text](https://github.com/apache/commons-text) | 1.6 | 128 
