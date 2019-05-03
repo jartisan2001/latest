@@ -13,7 +13,6 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.36.Final | 19022
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.58 | 17595
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.18.v20190429 | 2452
 [elide](https://github.com/yahoo/elide) | 4.4.2 | 537
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc2 | 218
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.8 | 216
