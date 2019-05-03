@@ -12,6 +12,7 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.36.Final | 19022
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.58 | 17595
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.18.v20190429 | 2452
 [elide](https://github.com/yahoo/elide) | 4.4.2 | 537
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc2 | 218
@@ -28,7 +29,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 27.1-jre | 31418 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 26183 
 [netty](https://github.com/netty/netty) | 4.1.36.Final | 19034 
-[fastjson](https://github.com/alibaba/fastjson) | 1.1.71.android | 17593 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.58 | 17595 
 [druid](https://github.com/alibaba/druid) | 1.1.16 | 16532 
 [gson](https://github.com/google/gson) | 2.8.5 | 15467 
 [p3c](https://github.com/alibaba/p3c) | 1.3.6 | 15199 
