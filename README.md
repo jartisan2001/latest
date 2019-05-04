@@ -12,12 +12,10 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0-rc-1 | 33928
-[netty](https://github.com/netty/netty) | 4.1.36.Final | 19022
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.58 | 17595
 [cglib](https://github.com/cglib/cglib) | 3.2.12 | 2768
 [elide](https://github.com/yahoo/elide) | 4.4.2 | 537
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc2 | 218
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.8 | 216
 
 ### 收录列表
 ---
