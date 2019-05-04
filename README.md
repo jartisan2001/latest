@@ -26,7 +26,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.0.1 | 40677 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.8 | 38763 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.4.RELEASE | 37390 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0-rc-1 | 33932 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0-rc-1 | 33935 
 [guava](https://github.com/google/guava) | 27.1-jre | 31434 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 26187 
 [netty](https://github.com/netty/netty) | 4.1.36.Final | 19037 
