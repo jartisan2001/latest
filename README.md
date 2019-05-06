@@ -12,10 +12,7 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0-rc-1 | 33928
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.58 | 17595
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7425
-[cglib](https://github.com/cglib/cglib) | 3.2.12 | 2768
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0-rc2 | 218
 
 ### 收录列表
 ---
