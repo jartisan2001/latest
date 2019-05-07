@@ -11,7 +11,6 @@
 ---
 repo | releases | star
 ---|---|---
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0-rc-1 | 33928
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.8 | 7723
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7425
 
