@@ -12,6 +12,7 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0-rc-1 | 33928
+[lombok](https://github.com/rzwitserloot/lombok) | 1.18.8 | 7723
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7425
 
 ### 收录列表
@@ -38,7 +39,7 @@ repo | releases | star
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 8953 
 [mockito](https://github.com/mockito/mockito) | 2.27.0 | 8726 
 [flink](https://github.com/apache/flink) | 1.8.0 | 8546 
-[lombok](https://github.com/rzwitserloot/lombok) | 1.18.6 | 7718 
+[lombok](https://github.com/rzwitserloot/lombok) | 1.18.8 | 7723 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7425 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6990 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 6917 
