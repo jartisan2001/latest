@@ -12,10 +12,7 @@
 repo | releases | star
 ---|---|---
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.8 | 7723
-[junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7425
 [jib](https://github.com/GoogleContainerTools/jib) | 1.2.0 | 6738
-[drools](https://github.com/kiegroup/drools) | 7.21.0.Final | 2154
-[jbpm](https://github.com/kiegroup/jbpm) | 7.21.0.Final | 925
 [elide](https://github.com/yahoo/elide) | 4.4.3 | 549
 
 ### 收录列表
