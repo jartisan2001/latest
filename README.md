@@ -16,6 +16,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.2.0 | 6738
 [drools](https://github.com/kiegroup/drools) | 7.21.0.Final | 2154
 [jbpm](https://github.com/kiegroup/jbpm) | 7.21.0.Final | 925
+[elide](https://github.com/yahoo/elide) | 4.4.3 | 549
 
 ### 收录列表
 ---
@@ -45,7 +46,7 @@ repo | releases | star
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7428 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6998 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 6943 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.2.0 | 6738 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.2.0 | 6742 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.14 | 6252 
 [nacos](https://github.com/alibaba/nacos) | 1.0.0 | 5982 
 [storm](https://github.com/apache/storm) | 1.1.3 | 5655 
@@ -97,7 +98,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 719 
 [mina](https://github.com/apache/mina) | 2.1.2 | 674 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 576 
-[elide](https://github.com/yahoo/elide) | 4.4.2 | 549 
+[elide](https://github.com/yahoo/elide) | 4.4.3 | 549 
 [cxf](https://github.com/apache/cxf) | 3.3.1 | 543 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 526 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 501 
