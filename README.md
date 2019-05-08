@@ -13,6 +13,9 @@ repo | releases | star
 ---|---|---
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.8 | 7723
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7425
+[jib](https://github.com/GoogleContainerTools/jib) | 1.2.0 | 6738
+[drools](https://github.com/kiegroup/drools) | 7.21.0.Final | 2154
+[jbpm](https://github.com/kiegroup/jbpm) | 7.21.0.Final | 925
 
 ### 收录列表
 ---
@@ -42,7 +45,7 @@ repo | releases | star
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7428 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.0.6 | 6998 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 6943 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.1.2 | 6737 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.2.0 | 6738 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.14 | 6252 
 [nacos](https://github.com/alibaba/nacos) | 1.0.0 | 5982 
 [storm](https://github.com/apache/storm) | 1.1.3 | 5655 
@@ -73,7 +76,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2343 
 [pmd](https://github.com/pmd/pmd) | 6.14.0 | 2264 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.0 | 2262 
-[drools](https://github.com/kiegroup/drools) | 7.20.0.Final | 2154 
+[drools](https://github.com/kiegroup/drools) | 7.21.0.Final | 2154 
 [kylin](https://github.com/apache/kylin) | 3.0.0-alpha | 2130 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1650 
 [maven](https://github.com/apache/maven) | 3.6.1 | 1641 
@@ -88,7 +91,7 @@ repo | releases | star
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 985 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 953 
 [struts](https://github.com/apache/struts) | 2.5.20 | 944 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.20.0.Final | 925 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.21.0.Final | 925 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.15 | 874 
 [poi](https://github.com/apache/poi) | 4.1.0 | 752 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 719 
