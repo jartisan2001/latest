@@ -11,9 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
-[lombok](https://github.com/rzwitserloot/lombok) | 1.18.8 | 7723
 [jib](https://github.com/GoogleContainerTools/jib) | 1.2.0 | 6738
-[Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M1 | 5067
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.2 | 4043
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.1 | 2275
 [elide](https://github.com/yahoo/elide) | 4.4.3 | 549
