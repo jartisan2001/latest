@@ -13,6 +13,7 @@ repo | releases | star
 ---|---|---
 [jib](https://github.com/GoogleContainerTools/jib) | 1.2.0 | 6738
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.2 | 4043
+[groovy](https://github.com/apache/groovy) | 3.0.0-beta-1 | 3184
 [groovy](https://github.com/apache/groovy) | 2.4.17 | 3183
 [groovy](https://github.com/apache/groovy) | 2.5.7 | 3183
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.1 | 2275
