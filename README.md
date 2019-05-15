@@ -57,7 +57,7 @@ repo | releases | star
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.2 | 4050 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.10.Final | 3800 
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3270 
-[tomcat](https://github.com/apache/tomcat) | 9.0.19 | 3258 
+[tomcat](https://github.com/apache/tomcat) | 8.5.41 | 3260 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-1 | 3187 
 [junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3114 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 2958 
