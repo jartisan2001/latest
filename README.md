@@ -14,8 +14,6 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.5.RELEASE | 37880
 [springboot](https://github.com/spring-projects/spring-boot) | 1.5.21.RELEASE | 37840
 [arthas](https://github.com/alibaba/arthas) | 3.1.1 | 13043
-[lucene](https://github.com/apache/lucene-solr) | 8.1.0 | 2543
-[solr](https://github.com/apache/lucene-solr) | 8.1.0 | 2543
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1593
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0 | 226
 
