@@ -15,6 +15,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 1.5.21.RELEASE | 37840
 [arthas](https://github.com/alibaba/arthas) | 3.1.1 | 13043
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1593
+[jbpm](https://github.com/kiegroup/jbpm) | 7.22.0.t042 | 927
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0 | 226
 
 ### 收录列表
@@ -91,7 +92,7 @@ repo | releases | star
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 990 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 960 
 [struts](https://github.com/apache/struts) | 2.5.20 | 945 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.21.0.Final | 927 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.22.0.t042 | 927 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.15 | 878 
 [poi](https://github.com/apache/poi) | 4.1.0 | 763 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 724 
