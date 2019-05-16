@@ -16,6 +16,7 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.1.1 | 13043
 [lucene](https://github.com/apache/lucene-solr) | 8.1.0 | 2543
 [solr](https://github.com/apache/lucene-solr) | 8.1.0 | 2543
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1593
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0 | 226
 
 ### 收录列表
@@ -83,7 +84,7 @@ repo | releases | star
 [maven](https://github.com/apache/maven) | 3.6.1 | 1653 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1643 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1597 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.8 | 1592 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1593 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.7 | 1477 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta1 | 1289 
 [avro](https://github.com/apache/avro) | 1.9.0 | 1239 
