@@ -12,7 +12,6 @@
 repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.5.RELEASE | 37880
-[springboot](https://github.com/spring-projects/spring-boot) | 1.5.21.RELEASE | 37840
 [arthas](https://github.com/alibaba/arthas) | 3.1.1 | 13043
 [hive](https://github.com/apache/hive) | 2.3.5 | 2522
 [drools](https://github.com/kiegroup/drools) | 7.22.0.t042 | 2178
