@@ -14,6 +14,8 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.5.RELEASE | 37880
 [springboot](https://github.com/spring-projects/spring-boot) | 1.5.21.RELEASE | 37840
 [arthas](https://github.com/alibaba/arthas) | 3.1.1 | 13043
+[hive](https://github.com/apache/hive) | 2.3.5 | 2522
+[drools](https://github.com/kiegroup/drools) | 7.22.0.t042 | 2178
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1593
 [jbpm](https://github.com/kiegroup/jbpm) | 7.22.0.t042 | 927
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0 | 226
@@ -70,14 +72,14 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 2.24.0 | 2609 
 [lucene](https://github.com/apache/lucene-solr) | 8.1.0 | 2551 
 [solr](https://github.com/apache/lucene-solr) | 8.1.0 | 2551 
-[hive](https://github.com/apache/hive) | 2.3.4 | 2519 
+[hive](https://github.com/apache/hive) | 2.3.5 | 2522 
 [ignite](https://github.com/apache/ignite) | 2.7.0 | 2502 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2476 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.18.v20190429 | 2471 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2369 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.1 | 2300 
 [pmd](https://github.com/pmd/pmd) | 6.14.0 | 2280 
-[drools](https://github.com/kiegroup/drools) | 7.21.0.Final | 2173 
+[drools](https://github.com/kiegroup/drools) | 7.22.0.t042 | 2178 
 [kylin](https://github.com/apache/kylin) | 3.0.0-alpha | 2139 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1661 
 [maven](https://github.com/apache/maven) | 3.6.1 | 1653 
