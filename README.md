@@ -72,7 +72,7 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 2.24.0 | 2609 
 [lucene](https://github.com/apache/lucene-solr) | 8.1.0 | 2551 
 [solr](https://github.com/apache/lucene-solr) | 8.1.0 | 2551 
-[hive](https://github.com/apache/hive) | 2.3.5 | 2522 
+[hive](https://github.com/apache/hive) | 2.3.5 | 2523 
 [ignite](https://github.com/apache/ignite) | 2.7.0 | 2502 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2476 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.18.v20190429 | 2471 
