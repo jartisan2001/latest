@@ -18,6 +18,7 @@ repo | releases | star
 [drools](https://github.com/kiegroup/drools) | 7.22.0.t042 | 2178
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1593
 [jbpm](https://github.com/kiegroup/jbpm) | 7.22.0.t042 | 927
+[elide](https://github.com/yahoo/elide) | 4.4.4 | 551
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0 | 226
 
 ### 收录列表
@@ -80,7 +81,7 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.1 | 2304 
 [pmd](https://github.com/pmd/pmd) | 6.14.0 | 2282 
 [drools](https://github.com/kiegroup/drools) | 7.22.0.t042 | 2179 
-[kylin](https://github.com/apache/kylin) | 3.0.0-alpha | 2142 
+[kylin](https://github.com/apache/kylin) | 2.6.2 | 2142 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1667 
 [maven](https://github.com/apache/maven) | 3.6.1 | 1657 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1645 
@@ -100,7 +101,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 727 
 [mina](https://github.com/apache/mina) | 2.1.2 | 676 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 579 
-[elide](https://github.com/yahoo/elide) | 4.4.3 | 552 
+[elide](https://github.com/yahoo/elide) | 4.4.4 | 551 
 [cxf](https://github.com/apache/cxf) | 3.3.2 | 546 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 527 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 508 
