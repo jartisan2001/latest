@@ -11,15 +11,12 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.5.RELEASE | 37880
-[arthas](https://github.com/alibaba/arthas) | 3.1.1 | 13043
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.5 | 7080
 [hive](https://github.com/apache/hive) | 2.3.5 | 2522
 [drools](https://github.com/kiegroup/drools) | 7.22.0.t042 | 2178
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1593
 [jbpm](https://github.com/kiegroup/jbpm) | 7.22.0.t042 | 927
 [elide](https://github.com/yahoo/elide) | 4.4.4 | 551
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0 | 226
 
 ### 收录列表
 ---
