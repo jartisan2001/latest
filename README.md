@@ -13,6 +13,7 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.5.RELEASE | 37880
 [arthas](https://github.com/alibaba/arthas) | 3.1.1 | 13043
+[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.5 | 7080
 [hive](https://github.com/apache/hive) | 2.3.5 | 2522
 [drools](https://github.com/kiegroup/drools) | 7.22.0.t042 | 2178
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1593
@@ -45,7 +46,7 @@ repo | releases | star
 [flink](https://github.com/apache/flink) | 1.8.0 | 8706 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.8 | 7784 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7452 
-[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.5 | 7079 
+[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.5 | 7080 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 7060 
 [jib](https://github.com/GoogleContainerTools/jib) | 1.2.0 | 6824 
 [zookeeper](https://github.com/apache/zookeeper) | 3.4.14 | 6317 
