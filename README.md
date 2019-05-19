@@ -15,6 +15,7 @@ repo | releases | star
 [hive](https://github.com/apache/hive) | 2.3.5 | 2522
 [drools](https://github.com/kiegroup/drools) | 7.22.0.t042 | 2178
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1593
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.0 | 1482
 [jbpm](https://github.com/kiegroup/jbpm) | 7.22.0.t042 | 927
 [elide](https://github.com/yahoo/elide) | 4.4.4 | 551
 
@@ -84,7 +85,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1645 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1601 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1594 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.32.7 | 1480 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.0 | 1482 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta1 | 1298 
 [avro](https://github.com/apache/avro) | 1.9.0 | 1241 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.8.0-beta4 | 1236 
