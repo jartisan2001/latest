@@ -13,10 +13,7 @@ repo | releases | star
 ---|---|---
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.5 | 7080
 [hive](https://github.com/apache/hive) | 2.3.5 | 2522
-[drools](https://github.com/kiegroup/drools) | 7.22.0.t042 | 2178
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1593
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.0 | 1482
-[jbpm](https://github.com/kiegroup/jbpm) | 7.22.0.t042 | 927
 [elide](https://github.com/yahoo/elide) | 4.4.4 | 551
 
 ### 收录列表
