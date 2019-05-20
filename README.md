@@ -11,8 +11,6 @@
 ---
 repo | releases | star
 ---|---|---
-[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.5 | 7080
-[hive](https://github.com/apache/hive) | 2.3.5 | 2522
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.0 | 1482
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.1 | 1482
 [elide](https://github.com/yahoo/elide) | 4.4.4 | 551
