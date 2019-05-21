@@ -14,7 +14,6 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.2 | 2316
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.0 | 1482
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.1 | 1482
-[elide](https://github.com/yahoo/elide) | 4.4.4 | 551
 
 ### 收录列表
 ---
