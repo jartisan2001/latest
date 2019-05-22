@@ -15,6 +15,7 @@ repo | releases | star
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.2 | 1486
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.0 | 1482
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.1 | 1482
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta2 | 1304
 
 ### 收录列表
 ---
@@ -83,7 +84,7 @@ repo | releases | star
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1604 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1594 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.2 | 1486 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta1 | 1303 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta2 | 1304 
 [avro](https://github.com/apache/avro) | 1.9.0 | 1245 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.8.0-beta4 | 1235 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1111 
