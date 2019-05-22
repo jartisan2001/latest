@@ -12,6 +12,7 @@
 repo | releases | star
 ---|---|---
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.2 | 2316
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.2 | 1486
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.0 | 1482
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.1 | 1482
 
@@ -81,7 +82,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1647 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1604 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1594 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.1 | 1486 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.2 | 1486 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta1 | 1303 
 [avro](https://github.com/apache/avro) | 1.9.0 | 1245 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.8.0-beta4 | 1235 
