@@ -12,9 +12,7 @@
 repo | releases | star
 ---|---|---
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.1 | 9685
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.2 | 2316
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.2 | 1486
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.1 | 1482
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta2 | 1304
 
 ### 收录列表
