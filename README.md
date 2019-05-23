@@ -11,6 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.1 | 9685
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.2 | 2316
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.2 | 1486
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.1 | 1482
@@ -35,7 +36,7 @@ repo | releases | star
 [kafka](https://github.com/apache/kafka) | 2.2.0 | 12197 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.1 | 10763 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 10013 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.0 | 9684 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.1 | 9685 
 [redisson](https://github.com/redisson/redisson) | 3.10.7 | 9189 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 9055 
 [mockito](https://github.com/mockito/mockito) | 2.27.0 | 8803 
