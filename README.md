@@ -74,7 +74,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2390 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.2 | 2329 
 [pmd](https://github.com/pmd/pmd) | 6.14.0 | 2290 
-[drools](https://github.com/kiegroup/drools) | 7.22.0.t042 | 2195 
+[drools](https://github.com/kiegroup/drools) | 7.22.0.Final | 2195 
 [kylin](https://github.com/apache/kylin) | 2.6.2 | 2157 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1678 
 [maven](https://github.com/apache/maven) | 3.6.1 | 1673 
@@ -89,7 +89,7 @@ repo | releases | star
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 994 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 971 
 [struts](https://github.com/apache/struts) | 2.5.20 | 946 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.22.0.t042 | 928 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.22.0.Final | 928 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.15 | 884 
 [poi](https://github.com/apache/poi) | 4.1.0 | 769 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 730 
