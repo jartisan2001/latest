@@ -11,6 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0 | 34622
 [druid](https://github.com/alibaba/druid) | 1.1.17 | 16961
 [redisson](https://github.com/redisson/redisson) | 3.11.0 | 9253
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.21 | 4556
@@ -25,7 +26,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.1.1 | 41396 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.8 | 39145 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.5.RELEASE | 38391 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0-rc-1 | 34612 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0 | 34622 
 [guava](https://github.com/google/guava) | 27.1-jre | 31920 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 26777 
 [netty](https://github.com/netty/netty) | 4.1.36.Final | 19379 
