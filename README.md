@@ -14,7 +14,9 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0 | 34622
 [druid](https://github.com/alibaba/druid) | 1.1.17 | 16961
 [redisson](https://github.com/redisson/redisson) | 3.11.0 | 9253
+[mockito](https://github.com/mockito/mockito) | 2.28.2 | 8862
 [mockito](https://github.com/mockito/mockito) | 2.28.1 | 8861
+[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.11 | 7163
 [lucene](https://github.com/apache/lucene-solr) | 8.1.1 | 2594
 [solr](https://github.com/apache/lucene-solr) | 8.1.1 | 2594
 
@@ -40,11 +42,11 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.1 | 9711 
 [redisson](https://github.com/redisson/redisson) | 3.11.0 | 9270 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 9100 
-[mockito](https://github.com/mockito/mockito) | 2.28.1 | 8861 
+[mockito](https://github.com/mockito/mockito) | 2.28.2 | 8862 
 [flink](https://github.com/apache/flink) | 1.8.0 | 8850 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.8 | 7827 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7473 
-[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.10 | 7163 
+[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.11 | 7163 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.5 | 7160 
 [jib](https://github.com/GoogleContainerTools/jib) | 1.2.0 | 6918 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6389 
