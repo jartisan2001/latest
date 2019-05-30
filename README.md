@@ -13,7 +13,6 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.9 | 39161
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0 | 34622
-[druid](https://github.com/alibaba/druid) | 1.1.17 | 16961
 [redisson](https://github.com/redisson/redisson) | 3.11.0 | 9253
 [mockito](https://github.com/mockito/mockito) | 2.28.2 | 8862
 [mockito](https://github.com/mockito/mockito) | 2.28.1 | 8861
