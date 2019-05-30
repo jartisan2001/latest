@@ -42,7 +42,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.1 | 9711 
 [redisson](https://github.com/redisson/redisson) | 3.11.0 | 9270 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 9100 
-[mockito](https://github.com/mockito/mockito) | 2.28.2 | 8862 
+[mockito](https://github.com/mockito/mockito) | 2.28.2 | 8858 
 [flink](https://github.com/apache/flink) | 1.8.0 | 8850 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.8 | 7827 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7473 
