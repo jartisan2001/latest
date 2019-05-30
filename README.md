@@ -11,6 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.9 | 39161
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0 | 34622
 [druid](https://github.com/alibaba/druid) | 1.1.17 | 16961
 [redisson](https://github.com/redisson/redisson) | 3.11.0 | 9253
@@ -25,7 +26,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.1.1 | 41428 
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.8 | 39164 
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.9 | 39161 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.5.RELEASE | 38440 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0 | 34642 
 [guava](https://github.com/google/guava) | 27.1-jre | 31940 
@@ -42,7 +43,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.1 | 9711 
 [redisson](https://github.com/redisson/redisson) | 3.11.0 | 9270 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 9100 
-[mockito](https://github.com/mockito/mockito) | 2.28.2 | 8858 
+[mockito](https://github.com/mockito/mockito) | 2.28.2 | 8864 
 [flink](https://github.com/apache/flink) | 1.8.0 | 8850 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.8 | 7827 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7473 
