@@ -22,6 +22,7 @@ repo | releases | star
 [solr](https://github.com/apache/lucene-solr) | 8.1.1 | 2594
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.3 | 1498
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.4 | 1498
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.5 | 1498
 
 ### 收录列表
 ---
@@ -89,7 +90,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1651 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1613 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1599 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.4 | 1498 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.5 | 1498 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta2 | 1319 
 [avro](https://github.com/apache/avro) | 1.9.0 | 1250 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.8.0-beta4 | 1239 
