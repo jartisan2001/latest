@@ -17,6 +17,7 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 2.28.2 | 8862
 [mockito](https://github.com/mockito/mockito) | 2.28.1 | 8861
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.11 | 7163
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.3.Final | 3823
 [lucene](https://github.com/apache/lucene-solr) | 8.1.1 | 2594
 [solr](https://github.com/apache/lucene-solr) | 8.1.1 | 2594
 
@@ -60,7 +61,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.21 | 4560 
 [mesos](https://github.com/apache/mesos) | 1.8.0 | 4174 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.2 | 4085 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.10.Final | 3823 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.3.Final | 3823 
 [tomcat](https://github.com/apache/tomcat) | 8.5.41 | 3362 
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3288 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-1 | 3225 
