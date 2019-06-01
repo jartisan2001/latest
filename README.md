@@ -12,10 +12,7 @@
 repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.9 | 39161
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0 | 34622
 [mockito](https://github.com/mockito/mockito) | 2.28.2 | 8862
-[mockito](https://github.com/mockito/mockito) | 2.28.1 | 8861
-[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.11 | 7163
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.3.Final | 3823
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.3 | 1498
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.4 | 1498
