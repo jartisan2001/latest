@@ -34,7 +34,7 @@ repo | releases | star
 [p3c](https://github.com/alibaba/p3c) | 1.3.6 | 15727 
 [gson](https://github.com/google/gson) | 2.8.5 | 15718 
 [arthas](https://github.com/alibaba/arthas) | 3.1.1 | 13507 
-[kafka](https://github.com/apache/kafka) | 2.2.0 | 12295 
+[kafka](https://github.com/apache/kafka) | 2.2.1 | 12302 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.1 | 10872 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 10102 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.1 | 9710 
