@@ -11,9 +11,6 @@
 ---
 repo | releases | star
 ---|---|---
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.9 | 39161
-[mockito](https://github.com/mockito/mockito) | 2.28.2 | 8862
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.3.Final | 3823
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.3 | 1498
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.4 | 1498
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.33.5 | 1498
