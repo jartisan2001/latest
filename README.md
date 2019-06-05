@@ -48,7 +48,7 @@ repo | releases | star
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6417 
 [easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 6407 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 6136 
-[storm](https://github.com/apache/storm) | 1.1.3 | 5704 
+[storm](https://github.com/apache/storm) | 2.0.0 | 5705 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M1 | 5195 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 5185 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 4892 
@@ -62,7 +62,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3164 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3044 
 [beam](https://github.com/apache/beam) | 2.13.0 | 2945 
-[hbase](https://github.com/apache/hbase) | 1.3.4 | 2841 
+[hbase](https://github.com/apache/hbase) | 2.1.5 | 2842 
 [cglib](https://github.com/cglib/cglib) | 3.2.12 | 2832 
 [camel](https://github.com/apache/camel) | 2.24.0 | 2646 
 [lucene](https://github.com/apache/lucene-solr) | 7.7.2 | 2608 
