@@ -12,6 +12,7 @@
 repo | releases | star
 ---|---|---
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7236
+[junit5](https://github.com/junit-team/junit5) | 5.5.0-RC1 | 3174
 [lucene](https://github.com/apache/lucene-solr) | 7.7.2 | 2608
 [solr](https://github.com/apache/lucene-solr) | 7.7.2 | 2608
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0.RC1 | 2385
@@ -62,7 +63,7 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 8.5.41 | 3386 
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3292 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-1 | 3239 
-[junit5](https://github.com/junit-team/junit5) | 5.4.2 | 3174 
+[junit5](https://github.com/junit-team/junit5) | 5.5.0-RC1 | 3174 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3052 
 [beam](https://github.com/apache/beam) | 2.13.0 | 2950 
 [hbase](https://github.com/apache/hbase) | 2.1.5 | 2845 
