@@ -13,11 +13,7 @@ repo | releases | star
 ---|---|---
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7236
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-RC1 | 3174
-[camel](https://github.com/apache/camel) | 3.0.0-M3 | 2652
-[lucene](https://github.com/apache/lucene-solr) | 7.7.2 | 2608
-[solr](https://github.com/apache/lucene-solr) | 7.7.2 | 2608
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0.RC1 | 2385
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.3 | 2379
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.0 | 1506
 
 ### 收录列表
