@@ -13,6 +13,8 @@ repo | releases | star
 ---|---|---
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7236
 [jib](https://github.com/GoogleContainerTools/jib) | 1.3.0 | 6952
+[tomcat](https://github.com/apache/tomcat) | 9.0.21 | 3388
+[tomcat](https://github.com/apache/tomcat) | 8.5.42 | 3388
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-RC1 | 3174
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0.RC1 | 2385
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.0 | 1506
@@ -45,7 +47,7 @@ repo | releases | star
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7485 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7247 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.5 | 7196 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.3.0 | 6952 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.3.0 | 6953 
 [nacos](https://github.com/alibaba/nacos) | 1.0.0 | 6492 
 [easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 6452 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6428 
@@ -58,7 +60,7 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.8.0 | 4184 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.2 | 4095 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.3.Final | 3831 
-[tomcat](https://github.com/apache/tomcat) | 8.5.41 | 3388 
+[tomcat](https://github.com/apache/tomcat) | 8.5.42 | 3388 
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3295 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-1 | 3244 
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-RC1 | 3174 
