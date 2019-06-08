@@ -11,13 +11,9 @@
 ---
 repo | releases | star
 ---|---|---
-[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7236
 [jib](https://github.com/GoogleContainerTools/jib) | 1.3.0 | 6952
-[tomcat](https://github.com/apache/tomcat) | 9.0.21 | 3388
-[tomcat](https://github.com/apache/tomcat) | 8.5.42 | 3388
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-RC1 | 3174
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0.RC1 | 2385
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.0 | 1506
 
 ### 收录列表
 ---
