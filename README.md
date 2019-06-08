@@ -12,6 +12,7 @@
 repo | releases | star
 ---|---|---
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7236
+[jib](https://github.com/GoogleContainerTools/jib) | 1.3.0 | 6952
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-RC1 | 3174
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0.RC1 | 2385
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.0 | 1506
@@ -44,7 +45,7 @@ repo | releases | star
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7485 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7247 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.5 | 7196 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.2.0 | 6951 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.3.0 | 6952 
 [nacos](https://github.com/alibaba/nacos) | 1.0.0 | 6492 
 [easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 6452 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6428 
