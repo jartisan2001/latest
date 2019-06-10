@@ -12,7 +12,6 @@
 repo | releases | star
 ---|---|---
 [jib](https://github.com/GoogleContainerTools/jib) | 1.3.0 | 6952
-[junit5](https://github.com/junit-team/junit5) | 5.5.0-RC1 | 3174
 [hessian](https://github.com/ebourg/hessian) | 4.0.61 | 66
 [hessian](https://github.com/ebourg/hessian) | 4.0.62 | 66
 
