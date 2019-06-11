@@ -62,13 +62,13 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-RC1 | 3180 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3055 
 [beam](https://github.com/apache/beam) | 2.13.0 | 2963 
-[hbase](https://github.com/apache/hbase) | 2.1.5 | 2849 
+[hbase](https://github.com/apache/hbase) | 1.4.10 | 2849 
 [cglib](https://github.com/cglib/cglib) | 3.2.12 | 2840 
 [camel](https://github.com/apache/camel) | 3.0.0-M3 | 2656 
 [lucene](https://github.com/apache/lucene-solr) | 7.7.2 | 2616 
 [solr](https://github.com/apache/lucene-solr) | 7.7.2 | 2616 
 [hive](https://github.com/apache/hive) | 2.3.5 | 2562 
-[ignite](https://github.com/apache/ignite) | 2.7.0 | 2535 
+[ignite](https://github.com/apache/ignite) | 2.7.5 | 2535 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2518 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.18.v20190429 | 2510 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2423 
