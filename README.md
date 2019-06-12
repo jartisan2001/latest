@@ -13,6 +13,7 @@ repo | releases | star
 ---|---|---
 [guava](https://github.com/google/guava) | 28.0-android | 32109
 [guava](https://github.com/google/guava) | 28.0-jre | 32109
+[p3c](https://github.com/alibaba/p3c) | 2.0.0 | 15857
 
 ### 收录列表
 ---
@@ -22,12 +23,12 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.9 | 39305 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.5.RELEASE | 38897 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0 | 34959 
-[guava](https://github.com/google/guava) | 28.0-jre | 32109 
+[guava](https://github.com/google/guava) | 28.0-jre | 32123 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 27110 
 [netty](https://github.com/netty/netty) | 4.1.36.Final | 19545 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.58 | 18017 
 [druid](https://github.com/alibaba/druid) | 1.1.17 | 17170 
-[p3c](https://github.com/alibaba/p3c) | 1.3.6 | 15836 
+[p3c](https://github.com/alibaba/p3c) | 2.0.0 | 15857 
 [gson](https://github.com/google/gson) | 2.8.5 | 15783 
 [arthas](https://github.com/alibaba/arthas) | 3.1.1 | 13733 
 [kafka](https://github.com/apache/kafka) | 2.2.1 | 12381 
