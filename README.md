@@ -15,8 +15,12 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.0-jre | 32109
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 15857
 [nacos](https://github.com/alibaba/nacos) | 1.0.1 | 6572
+[hbase](https://github.com/apache/hbase) | 2.2.0 | 2856
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.19.v20190610 | 2512
 [drools](https://github.com/kiegroup/drools) | 7.23.0.Final | 2238
+[slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha0 | 1249
+[jbpm](https://github.com/kiegroup/jbpm) | 7.23.0.Final | 935
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.14 | 252
 
 ### 收录列表
 ---
@@ -65,7 +69,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-RC1 | 3185 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3065 
 [beam](https://github.com/apache/beam) | 2.13.0 | 2968 
-[hbase](https://github.com/apache/hbase) | 1.4.10 | 2854 
+[hbase](https://github.com/apache/hbase) | 2.2.0 | 2856 
 [cglib](https://github.com/cglib/cglib) | 3.2.12 | 2844 
 [camel](https://github.com/apache/camel) | 2.22.5 | 2664 
 [lucene](https://github.com/apache/lucene-solr) | 7.7.2 | 2621 
@@ -87,7 +91,7 @@ repo | releases | star
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.0 | 1513 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta2 | 1338 
 [avro](https://github.com/apache/avro) | 1.9.0 | 1267 
-[slf4j](https://github.com/qos-ch/slf4j) | 1.8.0-beta4 | 1250 
+[slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha0 | 1249 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1115 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 996 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 989 
@@ -103,7 +107,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 537 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 516 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 514 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.0 | 251 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.14 | 252 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 211 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.6.0 | 200 
 [commons-text](https://github.com/apache/commons-text) | 1.6 | 134 
