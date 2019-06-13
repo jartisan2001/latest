@@ -16,6 +16,7 @@ repo | releases | star
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 15857
 [nacos](https://github.com/alibaba/nacos) | 1.0.1 | 6572
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.19.v20190610 | 2512
+[drools](https://github.com/kiegroup/drools) | 7.23.0.Final | 2238
 
 ### 收录列表
 ---
