@@ -15,11 +15,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.0-jre | 32109
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 15857
 [nacos](https://github.com/alibaba/nacos) | 1.0.1 | 6572
-[hbase](https://github.com/apache/hbase) | 2.2.0 | 2856
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.19.v20190610 | 2512
-[drools](https://github.com/kiegroup/drools) | 7.23.0.Final | 2238
 [slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha0 | 1249
-[jbpm](https://github.com/kiegroup/jbpm) | 7.23.0.Final | 935
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.14 | 252
 
 ### 收录列表
