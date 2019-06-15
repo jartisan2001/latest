@@ -15,6 +15,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.0-jre | 32109
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 15857
 [nacos](https://github.com/alibaba/nacos) | 1.0.1 | 6572
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.1 | 1513
 [slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha0 | 1249
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.14 | 252
 
@@ -84,7 +85,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1668 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1622 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1602 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.0 | 1513 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.1 | 1513 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta2 | 1343 
 [avro](https://github.com/apache/avro) | 1.9.0 | 1271 
 [slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha0 | 1250 
