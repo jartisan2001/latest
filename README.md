@@ -12,8 +12,6 @@
 repo | releases | star
 ---|---|---
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.1 | 1513
-[slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha0 | 1249
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.14 | 252
 
 ### 收录列表
 ---
