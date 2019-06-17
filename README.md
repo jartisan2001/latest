@@ -62,7 +62,7 @@ repo | releases | star
 [beam](https://github.com/apache/beam) | 2.13.0 | 2985 
 [hbase](https://github.com/apache/hbase) | 2.2.0 | 2861 
 [cglib](https://github.com/cglib/cglib) | 3.2.12 | 2855 
-[camel](https://github.com/apache/camel) | 2.22.5 | 2670 
+[camel](https://github.com/apache/camel) | 2.23.3 | 2672 
 [lucene](https://github.com/apache/lucene-solr) | 7.7.2 | 2630 
 [solr](https://github.com/apache/lucene-solr) | 7.7.2 | 2630 
 [hive](https://github.com/apache/hive) | 2.3.5 | 2577 
