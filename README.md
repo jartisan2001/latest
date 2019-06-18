@@ -11,8 +11,6 @@
 ---
 repo | releases | star
 ---|---|---
-[Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M2 | 5267
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.1 | 1513
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.9 | 253
 
 ### 收录列表
