@@ -13,6 +13,7 @@ repo | releases | star
 ---|---|---
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M2 | 5267
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.1 | 1513
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.9 | 253
 
 ### 收录列表
 ---
@@ -99,7 +100,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 538 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 517 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 516 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.14 | 253 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.9 | 253 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 212 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.6.0 | 201 
 [commons-text](https://github.com/apache/commons-text) | 1.6 | 135 
