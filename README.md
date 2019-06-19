@@ -11,6 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.6.RELEASE | 39219
 [elide](https://github.com/yahoo/elide) | 4.4.5 | 576
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.9 | 253
 
@@ -20,7 +21,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.1.1 | 41845 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.9 | 39408 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.5.RELEASE | 39185 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.6.RELEASE | 39219 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.8.0 | 35083 
 [guava](https://github.com/google/guava) | 28.0-jre | 32219 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 27269 
