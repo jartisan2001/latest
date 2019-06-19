@@ -11,6 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
+[elide](https://github.com/yahoo/elide) | 4.4.5 | 576
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.9 | 253
 
 ### 收录列表
@@ -93,7 +94,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 741 
 [mina](https://github.com/apache/mina) | 2.1.3 | 688 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 591 
-[elide](https://github.com/yahoo/elide) | 4.4.4 | 576 
+[elide](https://github.com/yahoo/elide) | 4.4.5 | 576 
 [cxf](https://github.com/apache/cxf) | 3.3.2 | 558 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 538 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 517 
