@@ -11,12 +11,10 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.1 | 41912
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.10 | 39461
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.6.RELEASE | 39219
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-RC2 | 3206
 [elide](https://github.com/yahoo/elide) | 4.4.5 | 576
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.9 | 253
 
 ### 收录列表
 ---
