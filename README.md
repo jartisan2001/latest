@@ -12,9 +12,7 @@
 repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.10 | 39461
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.6.RELEASE | 39219
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-RC2 | 3206
-[elide](https://github.com/yahoo/elide) | 4.4.5 | 576
 
 ### 收录列表
 ---
