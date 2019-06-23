@@ -13,7 +13,6 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.10 | 39461
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec05 | 18137
-[junit5](https://github.com/junit-team/junit5) | 5.5.0-RC2 | 3206
 
 ### 收录列表
 ---
