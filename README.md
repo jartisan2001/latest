@@ -12,6 +12,7 @@
 repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.10 | 39461
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec05 | 18137
 [junit5](https://github.com/junit-team/junit5) | 5.5.0-RC2 | 3206
 
 ### 收录列表
@@ -25,7 +26,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.0-jre | 32268 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 27337 
 [netty](https://github.com/netty/netty) | 4.1.36.Final | 19672 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.58 | 18125 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec05 | 18137 
 [druid](https://github.com/alibaba/druid) | 1.1.17 | 17327 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 16208 
 [gson](https://github.com/google/gson) | 2.8.5 | 15865 
