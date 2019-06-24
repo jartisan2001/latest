@@ -11,7 +11,6 @@
 ---
 repo | releases | star
 ---|---|---
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.10 | 39461
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec05 | 18137
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.22 | 4606
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta3 | 1355
