@@ -14,6 +14,7 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.10 | 39461
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec05 | 18137
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.22 | 4606
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta3 | 1355
 
 ### 收录列表
 ---
@@ -82,7 +83,7 @@ repo | releases | star
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1623 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1612 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.1 | 1525 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta2 | 1354 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta3 | 1355 
 [avro](https://github.com/apache/avro) | 1.9.0 | 1284 
 [slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha0 | 1256 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1118 
