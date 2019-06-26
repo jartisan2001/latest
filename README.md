@@ -12,9 +12,7 @@
 repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.11.1 | 9570
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.22 | 4606
 [drools](https://github.com/kiegroup/drools) | 7.24.0.t043 | 2273
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta3 | 1355
 [jbpm](https://github.com/kiegroup/jbpm) | 7.24.0.t043 | 936
 
 ### 收录列表
