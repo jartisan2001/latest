@@ -15,6 +15,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.11.1 | 9570
 [drools](https://github.com/kiegroup/drools) | 7.24.0.t043 | 2273
 [jbpm](https://github.com/kiegroup/jbpm) | 7.24.0.t043 | 936
+[pdfbox](https://github.com/apache/pdfbox) | 2.0.16 | 906
 
 ### 收录列表
 ---
@@ -91,7 +92,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 1000 
 [struts](https://github.com/apache/struts) | 2.5.20 | 952 
 [jbpm](https://github.com/kiegroup/jbpm) | 7.24.0.t043 | 937 
-[pdfbox](https://github.com/apache/pdfbox) | 2.0.15 | 906 
+[pdfbox](https://github.com/apache/pdfbox) | 2.0.16 | 906 
 [poi](https://github.com/apache/poi) | 4.1.0 | 785 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 748 
 [mina](https://github.com/apache/mina) | 2.1.3 | 690 
