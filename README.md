@@ -12,10 +12,6 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.0-rc-1 | 35274
-[redisson](https://github.com/redisson/redisson) | 3.11.1 | 9570
-[drools](https://github.com/kiegroup/drools) | 7.24.0.t043 | 2273
-[jbpm](https://github.com/kiegroup/jbpm) | 7.24.0.t043 | 936
-[pdfbox](https://github.com/apache/pdfbox) | 2.0.16 | 906
 
 ### 收录列表
 ---
