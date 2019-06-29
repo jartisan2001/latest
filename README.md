@@ -13,6 +13,7 @@ repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.0-rc-1 | 35274
 [netty](https://github.com/netty/netty) | 4.1.37.Final | 19746
+[log4j2](https://github.com/apache/logging-log4j2) | 2.12.0 | 749
 
 ### 收录列表
 ---
@@ -91,7 +92,7 @@ repo | releases | star
 [jbpm](https://github.com/kiegroup/jbpm) | 7.24.0.t043 | 937 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.16 | 907 
 [poi](https://github.com/apache/poi) | 4.1.0 | 787 
-[log4j2](https://github.com/apache/logging-log4j2) | 2.11.2 | 749 
+[log4j2](https://github.com/apache/logging-log4j2) | 2.12.0 | 749 
 [mina](https://github.com/apache/mina) | 2.1.3 | 692 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 599 
 [elide](https://github.com/yahoo/elide) | 4.4.5 | 578 
