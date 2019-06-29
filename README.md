@@ -13,7 +13,6 @@ repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.0-rc-1 | 35274
 [netty](https://github.com/netty/netty) | 4.1.37.Final | 19746
-[log4j2](https://github.com/apache/logging-log4j2) | 2.12.0 | 749
 
 ### 收录列表
 ---
