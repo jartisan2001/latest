@@ -13,6 +13,7 @@ repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.0-rc-1 | 35274
 [netty](https://github.com/netty/netty) | 4.1.37.Final | 19746
+[pmd](https://github.com/pmd/pmd) | 6.16.0 | 2347
 
 ### 收录列表
 ---
@@ -72,7 +73,7 @@ repo | releases | star
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.19.v20190610 | 2547 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2474 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0.RC1 | 2456 
-[pmd](https://github.com/pmd/pmd) | 6.15.0 | 2347 
+[pmd](https://github.com/pmd/pmd) | 6.16.0 | 2347 
 [drools](https://github.com/kiegroup/drools) | 7.24.0.t043 | 2280 
 [kylin](https://github.com/apache/kylin) | 2.6.2 | 2217 
 [maven](https://github.com/apache/maven) | 3.6.1 | 1727 
