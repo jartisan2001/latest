@@ -11,7 +11,6 @@
 ---
 repo | releases | star
 ---|---|---
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.0-rc-1 | 35274
 [netty](https://github.com/netty/netty) | 4.1.37.Final | 19746
 [pmd](https://github.com/pmd/pmd) | 6.16.0 | 2347
 
