@@ -13,6 +13,7 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.37.Final | 19746
 [druid](https://github.com/alibaba/druid) | 1.1.18 | 17436
+[junit5](https://github.com/junit-team/junit5) | 5.5.0 | 3223
 [pmd](https://github.com/pmd/pmd) | 6.16.0 | 2347
 
 ### 收录列表
@@ -59,7 +60,7 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 8.5.42 | 3493 
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3306 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-1 | 3286 
-[junit5](https://github.com/junit-team/junit5) | 5.5.0-RC2 | 3223 
+[junit5](https://github.com/junit-team/junit5) | 5.5.0 | 3223 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3127 
 [beam](https://github.com/apache/beam) | 2.13.0 | 3030 
 [hbase](https://github.com/apache/hbase) | 2.2.0 | 2897 
