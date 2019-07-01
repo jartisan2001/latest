@@ -7,6 +7,7 @@ import java.io.UnsupportedEncodingException;
 import javax.servlet.ServletException;
 import javax.servlet.ServletInputStream;
 import javax.servlet.ServletOutputStream;
+import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -27,6 +28,7 @@ import weixin.popular.util.XMLConverUtil;
  * @author wjl
  *
  */
+@WebServlet(name = "weixin", urlPatterns = "/weixin")
 public class ReceiveServlet extends HttpServlet {
 	
 	private static final Logger logger = LoggerFactory.getLogger(ReceiveServlet.class);
