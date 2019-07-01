@@ -127,3 +127,5 @@ github:
    passWord: dev  
    token: dev
     
+weixin: 
+  token: test

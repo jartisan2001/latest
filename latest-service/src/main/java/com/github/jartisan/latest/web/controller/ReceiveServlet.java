@@ -14,6 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Value;
 
 import weixin.popular.bean.message.EventMessage;
 import weixin.popular.bean.xmlmessage.XMLMessage;
@@ -41,7 +42,8 @@ public class ReceiveServlet extends HttpServlet {
 	/***
 	 * 从官方获取 
 	 */
-	private String token = "latest";
+	@Value("${weixin.token}")
+	public String token;
 
 	@Override
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
