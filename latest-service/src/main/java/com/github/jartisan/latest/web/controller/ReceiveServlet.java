@@ -33,13 +33,35 @@ public class ReceiveServlet extends HttpServlet {
 	
 	private static final long serialVersionUID = 1L;
 	/***
-	 * 重复通知过滤
+	 * 重复通知过滤 
 	 */
 	private static ExpireKey expireKey = new DefaultExpireKey();
 	/***
 	 * 从官方获取 
 	 */
 	private String token = "latest";
+
+	@Override
+	protected void doGet(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+		ServletOutputStream outputStream = response.getOutputStream();
+		String signature = request.getParameter("signature");
+		String timestamp = request.getParameter("timestamp");
+		String nonce = request.getParameter("nonce");
+		String echostr = request.getParameter("echostr");
+		
+		logger.info("ReceiveServlet doGet [signature:{}],[timestamp:{}],[nonce:{}],[echostr:{}]",signature,timestamp,nonce,echostr);
+
+		//验证请求签名
+		if (!signature.equals(SignatureUtil.generateEventMessageSignature(token, timestamp, nonce))) {
+			logger.info("The request signature is invalid");
+			return;
+		}
+		
+		outputStreamWrite(outputStream, echostr);
+		
+	}
+
 
 	@Override
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
@@ -51,7 +73,7 @@ public class ReceiveServlet extends HttpServlet {
 		String nonce = request.getParameter("nonce");
 		String echostr = request.getParameter("echostr");
 		
-		logger.info("ReceiveServlet doGet [signature:{}],[timestamp:{}],[nonce:{}],[echostr:{}]",signature,timestamp,nonce,echostr);
+		logger.info("ReceiveServlet doPost [signature:{}],[timestamp:{}],[nonce:{}],[echostr:{}]",signature,timestamp,nonce,echostr);
 
 		// 首次请求申请验证,返回echostr
 		if (echostr != null) {
