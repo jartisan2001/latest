@@ -109,6 +109,7 @@ repo | releases | star
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 79 
 [hessian](https://github.com/ebourg/hessian) | 4.0.62 | 68 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 39 
+[weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.27 | 0 
 
 ### why“版本递”？
 --- 
