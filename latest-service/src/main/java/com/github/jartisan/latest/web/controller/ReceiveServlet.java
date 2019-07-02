@@ -102,7 +102,7 @@ public class ReceiveServlet extends HttpServlet {
 			} else {
 				expireKey.add(key);
 			}
-			logger.info("EventMessage body is [{}]",eventMessage);
+			logger.info("EventMessage input is [{}],[{}]",eventMessage,key);
 			// 创建回复
 			XMLMessage xmlTextMessage = new XMLTextMessage(eventMessage.getFromUserName(), eventMessage.getToUserName(),"你好");
 			// 回复
