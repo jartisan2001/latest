@@ -12,6 +12,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
+import org.apache.commons.lang3.builder.ToStringStyle;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
@@ -102,7 +104,8 @@ public class ReceiveServlet extends HttpServlet {
 			} else {
 				expireKey.add(key);
 			}
-			logger.info("EventMessage input is [{}],[{}]",eventMessage.getContent(),key);
+			//MoreObjects.toStringHelper(eventMessage).omitNullValues();
+			logger.info(ReflectionToStringBuilder.toString(eventMessage, ToStringStyle.MULTI_LINE_STYLE, true, true, true, null));
 			// 创建回复
 			XMLMessage xmlTextMessage = new XMLTextMessage(eventMessage.getFromUserName(), eventMessage.getToUserName(),"你好");
 			// 回复
@@ -119,10 +122,10 @@ public class ReceiveServlet extends HttpServlet {
 		try {
 			outputStream.write(text.getBytes("utf-8"));
 		} catch (UnsupportedEncodingException e) {
-			e.printStackTrace();
+			logger.error("outputStreamWrite" + "_" +e.getMessage(),e);
 			return false;
 		} catch (IOException e) {
-			e.printStackTrace();
+			logger.error("outputStreamWrite" + "_" +e.getMessage(),e);
 			return false;
 		}
 		return true;
