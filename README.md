@@ -37,7 +37,7 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 10378 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.1 | 9826 
 [redisson](https://github.com/redisson/redisson) | 3.11.1 | 9654 
-[flink](https://github.com/apache/flink) | 1.8.0 | 9261 
+[flink](https://github.com/apache/flink) | 1.8.1 | 9271 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 9240 
 [mockito](https://github.com/mockito/mockito) | 2.28.2 | 8992 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.8 | 7994 
