@@ -77,6 +77,7 @@ repo | releases | star
 [pmd](https://github.com/pmd/pmd) | 6.16.0 | 2349 
 [drools](https://github.com/kiegroup/drools) | 7.24.0.t043 | 2285 
 [kylin](https://github.com/apache/kylin) | 2.6.2 | 2223 
+[weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.27 | 1816 
 [maven](https://github.com/apache/maven) | 3.6.1 | 1728 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1720 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1683 
@@ -109,7 +110,6 @@ repo | releases | star
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 79 
 [hessian](https://github.com/ebourg/hessian) | 4.0.62 | 68 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 39 
-[weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.27 | 0 
 
 ### why“版本递”？
 --- 
