@@ -11,9 +11,7 @@
 ---
 repo | releases | star
 ---|---|---
-[druid](https://github.com/alibaba/druid) | 1.1.18 | 17436
 [junit5](https://github.com/junit-team/junit5) | 5.5.0 | 3223
-[pmd](https://github.com/pmd/pmd) | 6.16.0 | 2347
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.1 | 254
 
 ### 收录列表
