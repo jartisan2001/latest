@@ -1,4 +1,4 @@
-# Java重构之美
+# 版本递
 ![Spring Boot 2.0](https://img.shields.io/badge/Spring%20Boot-2.0-brightgreen.svg)
 ![Thymeleaf 3.0](https://img.shields.io/badge/Thymeleaf-3.0-yellow.svg)
 ![Mysql 5.6](https://img.shields.io/badge/Mysql-5.6-blue.svg)
@@ -109,26 +109,23 @@ repo | releases | star
 [hessian](https://github.com/ebourg/hessian) | 4.0.62 | 68 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 39 
 
-### why“Java重构之美”？
+### why“版本递”？
 --- 
-- 不可维护的代码是脏、乱、差
-- 垃圾要分类，代码要重构才美
-- 不重复造轮子，复用大咖之作
-- 回归，每一行代码是你的名片
+>每个程序猿都有一个自己的宝贝helloworld，里面包含各种demo、utils、case，我们把他当自己的亲生宝贝一样对待。当有新版本类库更新，我们马上进行升级，让他永远不过时，保持最新。那如何知道这些类库更新了呢？这是一个非常耗时耗力的工作，为了解决这个问题，版本递进行了常用类库latest版本收集归类，让大忙人的你，节省时间，专心工作。
 
 
-### what"Java重构之美"?
+### what"版本递"?
 ---
-> 细节之中自有天地，重构成就优秀代码
+> 专注提供最新的、热门的、有价值的、github releases 更新动态，帮助研发程序猿、测试攻城狮、运维大拿们了解动态、节约宝贵时间。
 
 ### 欢迎你的贡献
 ---
-> 目前“Java重构之美”还不完善，希望大家能提供一些宝贵意见，您可以提 issue 和 pull request给我。
+> 目前“版本递”还不完善，希望大家能提供一些宝贵意见，您可以提 issue 和 pull request给我。
 
 
 ### 写在最后
 ---
-> 希望"Java重构之美"能对您有所帮助，您的支持是我坚持的动力。
+> 希望"版本递"能对您有所帮助，您的支持是我坚持的动力。
 > 喜欢就star吧。
 
 ### 版本递的订阅号
