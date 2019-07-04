@@ -103,7 +103,7 @@ repo | releases | star
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.1 | 253 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 215 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.6.0 | 204 
-[commons-text](https://github.com/apache/commons-text) | 1.6 | 135 
+[commons-text](https://github.com/apache/commons-text) | 1.7 | 135 
 [commons-compress](https://github.com/apache/commons-compress) | 1.18 | 120 
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 79 
 [hessian](https://github.com/ebourg/hessian) | 4.0.62 | 68 
