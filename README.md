@@ -38,6 +38,7 @@ repo | releases | star
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7357
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.3 | 4121
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.4 | 2478
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.10 | 253
 
 ### 收录列表
 ---
@@ -125,7 +126,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 545 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 530 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 527 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.1 | 253 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.10 | 253 
 [commons-codec](https://github.com/apache/commons-codec) | 1.12 | 215 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.6.0 | 205 
 [commons-text](https://github.com/apache/commons-text) | 1.7 | 135 
@@ -133,6 +134,7 @@ repo | releases | star
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 79 
 [hessian](https://github.com/ebourg/hessian) | 4.0.62 | 68 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 39 
+
 
 ### 重构之美的订阅号
 ---
