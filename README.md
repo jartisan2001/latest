@@ -39,6 +39,7 @@ repo | releases | star
 ---|---|---
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7357
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.3 | 4121
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.4 | 2478
 
 ### 收录列表
 ---
@@ -97,7 +98,7 @@ repo | releases | star
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2576 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.19.v20190610 | 2552 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2487 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.4 | 2476 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.4 | 2478 
 [pmd](https://github.com/pmd/pmd) | 6.16.0 | 2359 
 [drools](https://github.com/kiegroup/drools) | 7.24.0.t043 | 2302 
 [kylin](https://github.com/apache/kylin) | 2.6.2 | 2225 
