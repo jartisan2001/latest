@@ -28,3 +28,7 @@ repo | releases | star
 [${fav.name}](https://github.com/${fav.fullName}) | ${fav.lastVersion} | ${fav.starCount?c} 
 </#list>
 
+
+### 重构之美的订阅号
+---
+<img src="https://github.com/jartisan2001/latest/blob/master/Image.jpg" width="400" hegiht="400" align=left />

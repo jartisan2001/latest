@@ -21,6 +21,3 @@
 > 希望"重构之美"能对您有所帮助，您的支持是我坚持的动力。
 > 喜欢就star吧。
 
-### 重构之美的订阅号
----
-<img src="https://github.com/jartisan2001/latest/blob/master/Image.jpg" width="400" hegiht="400" align=left />
