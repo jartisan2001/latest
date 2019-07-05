@@ -30,9 +30,6 @@
 > 希望"重构之美"能对您有所帮助，您的支持是我坚持的动力。
 > 喜欢就star吧。
 
-### 重构之美的订阅号
----
-<img src="https://github.com/jartisan2001/latest/blob/master/Image.jpg" width="400" hegiht="400" align=left />
 
 ### 近期更新
 ---
@@ -137,3 +134,6 @@ repo | releases | star
 [hessian](https://github.com/ebourg/hessian) | 4.0.62 | 68 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 39 
 
+### 重构之美的订阅号
+---
+<img src="https://github.com/jartisan2001/latest/blob/master/Image.jpg" width="400" hegiht="400" align=left />
