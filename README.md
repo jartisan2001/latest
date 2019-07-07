@@ -35,10 +35,7 @@
 ---
 repo | releases | star
 ---|---|---
-[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7357
 [nacos](https://github.com/alibaba/nacos) | 1.1.0 | 6954
-[joda-time](https://github.com/JodaOrg/joda-time) | 2.10.3 | 4121
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.4 | 2478
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.10 | 253
 
 ### 收录列表
