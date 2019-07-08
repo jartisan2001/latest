@@ -98,7 +98,7 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.1.4 | 2487 
 [pmd](https://github.com/pmd/pmd) | 6.16.0 | 2364 
 [drools](https://github.com/kiegroup/drools) | 7.24.0.t043 | 2307 
-[kylin](https://github.com/apache/kylin) | 2.6.2 | 2228 
+[kylin](https://github.com/apache/kylin) | 2.6.3 | 2228 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.27 | 1818 
 [maven](https://github.com/apache/maven) | 3.6.1 | 1737 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1727 
