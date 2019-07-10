@@ -107,7 +107,9 @@ public class ReceiveServlet extends HttpServlet {
 			//MoreObjects.toStringHelper(eventMessage).omitNullValues();
 			logger.info(ReflectionToStringBuilder.toString(eventMessage, ToStringStyle.MULTI_LINE_STYLE, true, true, true, null));
 			// 创建回复
-			XMLMessage xmlTextMessage = new XMLTextMessage(eventMessage.getFromUserName(), eventMessage.getToUserName(),"你好");
+			XMLMessage xmlTextMessage = new XMLTextMessage(eventMessage.getFromUserName(), eventMessage.getToUserName(),"细节之中自有天地，重构成就优秀代码;\r\n" + 
+					"一起分享，重构心得，讲述你的重构故事。\r\n" + 
+					"来吧程序猿~~~。\r\n");
 			// 回复
 			xmlTextMessage.outputStreamWrite(outputStream);
 			return;
