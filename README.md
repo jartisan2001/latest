@@ -35,9 +35,7 @@
 ---
 repo | releases | star
 ---|---|---
-[mockito](https://github.com/mockito/mockito) | 3.0.0 | 9017
 [nacos](https://github.com/alibaba/nacos) | 1.1.1 | 7048
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0.RC2 | 2495
 
 ### 收录列表
 ---
