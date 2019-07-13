@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.0 | 35628
-[nacos](https://github.com/alibaba/nacos) | 1.1.1 | 7048
 
 ### 收录列表
 ---
