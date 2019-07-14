@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.0 | 35628
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-2 | 3298
-[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0-alpha0 | 2561
 
 ### 收录列表
 ---
