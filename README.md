@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.0 | 35628
 [druid](https://github.com/alibaba/druid) | 1.1.19 | 17655
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11268
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-2 | 3298
