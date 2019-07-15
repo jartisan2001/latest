@@ -44,6 +44,7 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.1.19 | 17655
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11268
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-2 | 3298
+[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.0 | 2595
 
 ### 收录列表
 ---
@@ -57,12 +58,12 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 27848 
 [netty](https://github.com/netty/netty) | 4.1.37.Final | 19942 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec05 | 18437 
-[druid](https://github.com/alibaba/druid) | 1.1.19 | 17661 
+[druid](https://github.com/alibaba/druid) | 1.1.19 | 17669 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 16852 
 [gson](https://github.com/google/gson) | 2.8.5 | 16040 
 [arthas](https://github.com/alibaba/arthas) | 3.1.1 | 14458 
 [kafka](https://github.com/apache/kafka) | 2.3.0 | 12756 
-[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11268 
+[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11270 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 10504 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.1 | 9890 
 [redisson](https://github.com/redisson/redisson) | 3.11.1 | 9803 
@@ -99,7 +100,7 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.0.0-M4 | 2732 
 [hive](https://github.com/apache/hive) | 2.3.5 | 2620 
 [ignite](https://github.com/apache/ignite) | 2.7.5 | 2615 
-[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.0.1 | 2594 
+[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.0 | 2595 
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0-alpha0 | 2561 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0.RC2 | 2557 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2514 
