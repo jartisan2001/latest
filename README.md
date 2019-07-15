@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.0 | 35628
+[druid](https://github.com/alibaba/druid) | 1.1.19 | 17655
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-2 | 3298
 
 ### 收录列表
@@ -55,7 +56,7 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 27848 
 [netty](https://github.com/netty/netty) | 4.1.37.Final | 19942 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec05 | 18437 
-[druid](https://github.com/alibaba/druid) | 1.1.18 | 17647 
+[druid](https://github.com/alibaba/druid) | 1.1.19 | 17655 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 16852 
 [gson](https://github.com/google/gson) | 2.8.5 | 16040 
 [arthas](https://github.com/alibaba/arthas) | 3.1.1 | 14458 
