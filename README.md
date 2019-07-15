@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.0 | 35628
 [druid](https://github.com/alibaba/druid) | 1.1.19 | 17655
+[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11268
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-2 | 3298
 
 ### 收录列表
@@ -56,12 +57,12 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 27848 
 [netty](https://github.com/netty/netty) | 4.1.37.Final | 19942 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec05 | 18437 
-[druid](https://github.com/alibaba/druid) | 1.1.19 | 17655 
+[druid](https://github.com/alibaba/druid) | 1.1.19 | 17661 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 16852 
 [gson](https://github.com/google/gson) | 2.8.5 | 16040 
 [arthas](https://github.com/alibaba/arthas) | 3.1.1 | 14458 
 [kafka](https://github.com/apache/kafka) | 2.3.0 | 12756 
-[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.1 | 11261 
+[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11268 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 10504 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.1 | 9890 
 [redisson](https://github.com/redisson/redisson) | 3.11.1 | 9803 
