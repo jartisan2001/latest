@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [druid](https://github.com/alibaba/druid) | 1.1.19 | 17655
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11268
+[jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7145
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-2 | 3298
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.0 | 2595
 
@@ -73,7 +74,7 @@ repo | releases | star
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7532 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7530 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7418 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.3.0 | 7144 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7145 
 [nacos](https://github.com/alibaba/nacos) | 1.1.1 | 7139 
 [easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 7136 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 6888 
