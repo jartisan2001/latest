@@ -74,7 +74,7 @@ repo | releases | star
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7532 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7530 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7418 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7145 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7146 
 [nacos](https://github.com/alibaba/nacos) | 1.1.1 | 7139 
 [easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 7136 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 6888 
