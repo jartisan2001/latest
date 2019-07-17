@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [druid](https://github.com/alibaba/druid) | 1.1.19 | 17655
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11268
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.0 | 9896
 [jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7145
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-2 | 3298
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.0 | 2595
@@ -65,7 +66,7 @@ repo | releases | star
 [kafka](https://github.com/apache/kafka) | 2.3.0 | 12761 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11270 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 10520 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.7.1 | 9895 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.0 | 9896 
 [redisson](https://github.com/redisson/redisson) | 3.11.1 | 9815 
 [flink](https://github.com/apache/flink) | 1.8.1 | 9448 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 9302 
