@@ -44,7 +44,6 @@ repo | releases | star
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11268
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.0 | 9896
 [jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7145
-[groovy](https://github.com/apache/groovy) | 3.0.0-beta-2 | 3298
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.0 | 2595
 
 ### 收录列表
