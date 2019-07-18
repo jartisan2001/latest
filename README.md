@@ -40,11 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
-[druid](https://github.com/alibaba/druid) | 1.1.19 | 17655
-[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11268
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.0 | 9896
 [jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7145
-[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.0 | 2595
 
 ### 收录列表
 ---
