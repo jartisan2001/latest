@@ -53,7 +53,7 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.10 | 39847 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.0 | 35789 
 [guava](https://github.com/google/guava) | 28.0-jre | 32702 
-[dubbo](https://github.com/apache/incubator-dubbo) | 2.6.6 | 27960 
+[dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 27991 
 [netty](https://github.com/netty/netty) | 4.1.37.Final | 20034 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec05 | 18514 
 [druid](https://github.com/alibaba/druid) | 1.1.19 | 17752 
