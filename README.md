@@ -40,8 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.0 | 9896
-[jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7145
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr1 | 1623
 
 ### 收录列表
