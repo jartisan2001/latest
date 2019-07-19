@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.0 | 9896
 [jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7145
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr1 | 1623
 
 ### 收录列表
 ---
@@ -109,7 +110,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1740 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1697 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1650 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.9 | 1623 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr1 | 1623 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.1 | 1546 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta3 | 1399 
 [avro](https://github.com/apache/avro) | 1.9.0 | 1318 
