@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[junit5](https://github.com/junit-team/junit5) | 5.5.1 | 3265
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr1 | 1623
 
 ### 收录列表
