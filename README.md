@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.38.Final | 20092
+[lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2773
 
 ### 收录列表
 ---
@@ -91,7 +92,7 @@ repo | releases | star
 [beam](https://github.com/apache/beam) | 2.13.0 | 3096 
 [hbase](https://github.com/apache/hbase) | 2.2.0 | 2960 
 [cglib](https://github.com/cglib/cglib) | 3.2.12 | 2943 
-[lucene](https://github.com/apache/lucene-solr) | 7.7.2 | 2770 
+[lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2773 
 [solr](https://github.com/apache/lucene-solr) | 7.7.2 | 2770 
 [camel](https://github.com/apache/camel) | 3.0.0-M4 | 2748 
 [hive](https://github.com/apache/hive) | 2.3.5 | 2650 
