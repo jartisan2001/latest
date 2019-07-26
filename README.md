@@ -44,6 +44,8 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone1 | 9938
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2774
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2773
+[weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1848
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.15 | 253
 
 ### 收录列表
 ---
@@ -106,7 +108,7 @@ repo | releases | star
 [pmd](https://github.com/pmd/pmd) | 6.16.0 | 2403 
 [drools](https://github.com/kiegroup/drools) | 7.24.0.Final | 2346 
 [kylin](https://github.com/apache/kylin) | 2.6.3 | 2265 
-[weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.27 | 1847 
+[weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1848 
 [maven](https://github.com/apache/maven) | 3.6.1 | 1756 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1746 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1699 
@@ -131,7 +133,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 548 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 540 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 533 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.10 | 253 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.15 | 253 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 219 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.6.0 | 207 
 [commons-text](https://github.com/apache/commons-text) | 1.7 | 140 
