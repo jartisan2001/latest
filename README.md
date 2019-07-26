@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.38.Final | 20092
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone1 | 9938
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2774
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2773
 
@@ -64,7 +65,7 @@ repo | releases | star
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11393 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 10610 
 [redisson](https://github.com/redisson/redisson) | 3.11.1 | 9962 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.0 | 9938 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone1 | 9938 
 [flink](https://github.com/apache/flink) | 1.8.1 | 9585 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 9351 
 [mockito](https://github.com/mockito/mockito) | 3.0.0 | 9115 
