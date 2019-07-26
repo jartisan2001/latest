@@ -45,6 +45,7 @@ repo | releases | star
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2774
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2773
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1848
+[jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20190726 | 1629
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.15 | 253
 
 ### 收录列表
@@ -113,7 +114,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1746 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1699 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1656 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr1 | 1629 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20190726 | 1629 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.1 | 1554 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta3 | 1409 
 [avro](https://github.com/apache/avro) | 1.9.0 | 1324 
