@@ -45,7 +45,9 @@ repo | releases | star
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2774
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2773
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1848
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190727 | 1630
 [jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20190726 | 1629
+[elide](https://github.com/yahoo/elide) | 4.5.0 | 584
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.15 | 253
 
 ### 收录列表
@@ -114,7 +116,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1747 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1700 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1657 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20190726 | 1629 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190727 | 1630 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.1 | 1556 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta3 | 1410 
 [avro](https://github.com/apache/avro) | 1.9.0 | 1324 
@@ -129,7 +131,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.12.0 | 767 
 [mina](https://github.com/apache/mina) | 2.1.3 | 697 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 606 
-[elide](https://github.com/yahoo/elide) | 4.4.5 | 584 
+[elide](https://github.com/yahoo/elide) | 4.5.0 | 584 
 [cxf](https://github.com/apache/cxf) | 3.3.2 | 573 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 548 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 541 
