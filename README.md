@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.38.Final | 20092
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone1 | 9938
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.23 | 4684
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2774
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2773
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1848
@@ -87,7 +88,7 @@ repo | releases | star
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M2 | 5465 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 5316 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5143 
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.22 | 4683 
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.23 | 4684 
 [mesos](https://github.com/apache/mesos) | 1.8.1 | 4234 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.3 | 4148 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.3.Final | 3917 
