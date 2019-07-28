@@ -40,11 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[netty](https://github.com/netty/netty) | 4.1.38.Final | 20092
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone1 | 9938
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.23 | 4684
-[solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2774
-[lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2773
 [pmd](https://github.com/pmd/pmd) | 6.17.0 | 2405
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1848
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190727 | 1630
