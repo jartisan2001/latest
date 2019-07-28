@@ -45,6 +45,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.23 | 4684
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2774
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2773
+[pmd](https://github.com/pmd/pmd) | 6.17.0 | 2405
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1848
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190727 | 1630
 [jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20190726 | 1629
@@ -109,7 +110,7 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0.RC2 | 2615 
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0-alpha0 | 2575 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2537 
-[pmd](https://github.com/pmd/pmd) | 6.16.0 | 2406 
+[pmd](https://github.com/pmd/pmd) | 6.17.0 | 2405 
 [drools](https://github.com/kiegroup/drools) | 7.24.0.Final | 2348 
 [kylin](https://github.com/apache/kylin) | 2.6.3 | 2274 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1849 
