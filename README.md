@@ -42,11 +42,8 @@ repo | releases | star
 ---|---|---
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.23 | 4684
 [pmd](https://github.com/pmd/pmd) | 6.17.0 | 2405
-[weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1848
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190727 | 1630
-[jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20190726 | 1629
 [elide](https://github.com/yahoo/elide) | 4.5.0 | 584
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.15 | 253
 
 ### 收录列表
 ---
