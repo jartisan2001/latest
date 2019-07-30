@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.23 | 4684
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.4.Final | 3923
 [pmd](https://github.com/pmd/pmd) | 6.17.0 | 2405
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190727 | 1630
 [elide](https://github.com/yahoo/elide) | 4.5.0 | 584
@@ -85,7 +86,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.23 | 4686 
 [mesos](https://github.com/apache/mesos) | 1.8.1 | 4234 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.3 | 4154 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.3.Final | 3921 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.4.Final | 3923 
 [tomcat](https://github.com/apache/tomcat) | 7.0.96 | 3595 
 [JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3326 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-2 | 3320 
