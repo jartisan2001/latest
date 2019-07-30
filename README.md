@@ -40,11 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.23 | 4684
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.4.Final | 3923
 [pmd](https://github.com/pmd/pmd) | 6.17.0 | 2405
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190727 | 1630
-[elide](https://github.com/yahoo/elide) | 4.5.0 | 584
 
 ### 收录列表
 ---
