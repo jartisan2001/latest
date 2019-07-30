@@ -10,6 +10,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.util.ReflectionUtils;
 
 import weixin.popular.bean.message.EventMessage;
 
@@ -65,7 +66,7 @@ public class LoggerTest {
 			}
 		}
 	}
-	
+
 	
 	
 	@Test
