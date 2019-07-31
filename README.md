@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[Activiti](https://github.com/Activiti/Activiti) | 5.23.0-RC1 | 5479
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.4.Final | 3923
 [pmd](https://github.com/pmd/pmd) | 6.17.0 | 2405
 
@@ -47,7 +48,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.2.1 | 43016 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.2.1 | 43023 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.6.RELEASE | 40473 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.10 | 39951 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.0 | 36099 
@@ -77,7 +78,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7240 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6730 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5775 
-[Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M2 | 5478 
+[Activiti](https://github.com/Activiti/Activiti) | 5.23.0-RC1 | 5479 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 5327 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5165 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.23 | 4688 
