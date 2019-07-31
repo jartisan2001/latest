@@ -78,7 +78,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7240 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6730 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5775 
-[Activiti](https://github.com/Activiti/Activiti) | 5.23.0-RC1 | 5481 
+[Activiti](https://github.com/Activiti/Activiti) | 5.23.0-RC1 | 5484 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 5327 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5165 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.23 | 4688 
