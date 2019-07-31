@@ -78,7 +78,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7240 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6730 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5775 
-[Activiti](https://github.com/Activiti/Activiti) | 5.23.0-RC1 | 5479 
+[Activiti](https://github.com/Activiti/Activiti) | 5.23.0-RC1 | 5481 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 5327 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5165 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.23 | 4688 
@@ -104,7 +104,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2540 
 [pmd](https://github.com/pmd/pmd) | 6.17.0 | 2408 
 [drools](https://github.com/kiegroup/drools) | 7.24.0.Final | 2355 
-[kylin](https://github.com/apache/kylin) | 2.6.3 | 2274 
+[kylin](https://github.com/apache/kylin) | 3.0.0-alpha2 | 2275 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1853 
 [maven](https://github.com/apache/maven) | 3.6.1 | 1761 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1750 
