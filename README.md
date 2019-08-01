@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.59 | 18698
 [Activiti](https://github.com/Activiti/Activiti) | 5.23.0-RC1 | 5479
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.4.Final | 3923
 
