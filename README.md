@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.11 | 39987
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.59 | 18698
 [Activiti](https://github.com/Activiti/Activiti) | 5.23.0-RC1 | 5479
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.4.Final | 3923
@@ -50,7 +51,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.3.0 | 43050 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.6.RELEASE | 40500 
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.10 | 39963 
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.11 | 39987 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.0 | 36117 
 [guava](https://github.com/google/guava) | 28.0-jre | 32929 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 28273 
