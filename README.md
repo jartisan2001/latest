@@ -90,7 +90,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-2 | 3324 
 [junit5](https://github.com/junit-team/junit5) | 5.5.1 | 3286 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3247 
-[beam](https://github.com/apache/beam) | 2.13.0 | 3122 
+[beam](https://github.com/apache/beam) | 2.14.0 | 3155 
 [hbase](https://github.com/apache/hbase) | 2.2.0 | 2988 
 [cglib](https://github.com/cglib/cglib) | 3.2.12 | 2949 
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2794 
