@@ -43,6 +43,7 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.11 | 39987
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.59 | 18698
 [Activiti](https://github.com/Activiti/Activiti) | 5.23.0-RC1 | 5479
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.2 | 1563
 
 ### 收录列表
 ---
@@ -111,7 +112,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1704 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1660 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190727 | 1635 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.1 | 1562 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.2 | 1563 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta3 | 1422 
 [avro](https://github.com/apache/avro) | 1.9.0 | 1326 
 [slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha0 | 1278 
