@@ -41,8 +41,6 @@
 repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.11 | 39987
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.59 | 18698
-[Activiti](https://github.com/Activiti/Activiti) | 5.23.0-RC1 | 5479
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.2 | 1563
 
 ### 收录列表
