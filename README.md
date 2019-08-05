@@ -40,9 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.11 | 39987
 [redisson](https://github.com/redisson/redisson) | 3.11.2 | 10058
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.2 | 1563
 
 ### 收录列表
 ---
