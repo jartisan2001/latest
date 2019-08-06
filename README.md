@@ -40,17 +40,19 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 1.5.22.RELEASE | 40644
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.1 | 36221
 [redisson](https://github.com/redisson/redisson) | 3.11.2 | 10058
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190806 | 1640
 
 ### 收录列表
 ---
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.3.0 | 43145 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.6.RELEASE | 40599 
+[springboot](https://github.com/spring-projects/spring-boot) | 1.5.22.RELEASE | 40644 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.11 | 40000 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.1 | 36221 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.1 | 36234 
 [guava](https://github.com/google/guava) | 28.0-jre | 32993 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 28329 
 [netty](https://github.com/netty/netty) | 4.1.38.Final | 20197 
@@ -109,7 +111,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1754 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1705 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1661 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190727 | 1636 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190806 | 1640 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.2 | 1567 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta3 | 1427 
 [avro](https://github.com/apache/avro) | 1.9.0 | 1327 
