@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.1 | 36221
 [redisson](https://github.com/redisson/redisson) | 3.11.2 | 10058
 
 ### 收录列表
@@ -49,7 +50,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.3.0 | 43145 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.6.RELEASE | 40599 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.11 | 40000 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.0 | 36193 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.1 | 36221 
 [guava](https://github.com/google/guava) | 28.0-jre | 32993 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 28329 
 [netty](https://github.com/netty/netty) | 4.1.38.Final | 20197 
