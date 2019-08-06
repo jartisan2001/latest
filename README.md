@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 1.5.22.RELEASE | 40644
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.1 | 36221
-[redisson](https://github.com/redisson/redisson) | 3.11.2 | 10058
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190806 | 1640
 
 ### 收录列表
