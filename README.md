@@ -45,6 +45,8 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.1 | 36221
 [nacos](https://github.com/alibaba/nacos) | 1.1.2 | 7592
 [nacos](https://github.com/alibaba/nacos) | 1.1.3 | 7592
+[JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3336
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190807 | 1641
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190806 | 1640
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.27 | 1280
 
@@ -90,7 +92,7 @@ repo | releases | star
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.3 | 4167 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.4.Final | 3934 
 [tomcat](https://github.com/apache/tomcat) | 7.0.96 | 3618 
-[JSON-java](https://github.com/stleary/JSON-java) | 20180813 | 3336 
+[JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3336 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-2 | 3329 
 [junit5](https://github.com/junit-team/junit5) | 5.5.1 | 3299 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3270 
