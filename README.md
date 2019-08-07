@@ -46,6 +46,7 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.1.2 | 7592
 [nacos](https://github.com/alibaba/nacos) | 1.1.3 | 7592
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3336
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0 | 2653
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190807 | 1641
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190806 | 1640
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.27 | 1280
@@ -92,7 +93,7 @@ repo | releases | star
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.3 | 4167 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.4.Final | 3934 
 [tomcat](https://github.com/apache/tomcat) | 7.0.96 | 3618 
-[JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3336 
+[JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3337 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-2 | 3329 
 [junit5](https://github.com/junit-team/junit5) | 5.5.1 | 3299 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3270 
@@ -104,7 +105,7 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.0.0-M4 | 2769 
 [ignite](https://github.com/apache/ignite) | 2.7.5 | 2672 
 [hive](https://github.com/apache/hive) | 2.3.5 | 2670 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0.RC2 | 2651 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0 | 2653 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.0 | 2634 
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0-alpha0 | 2587 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2553 
@@ -138,7 +139,7 @@ repo | releases | star
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 541 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.15 | 258 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 219 
-[commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.6.0 | 207 
+[commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 207 
 [commons-text](https://github.com/apache/commons-text) | 1.7 | 142 
 [commons-compress](https://github.com/apache/commons-compress) | 1.18 | 122 
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 78 
