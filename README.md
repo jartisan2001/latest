@@ -46,6 +46,8 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.1.2 | 7592
 [nacos](https://github.com/alibaba/nacos) | 1.1.3 | 7592
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3336
+[groovy](https://github.com/apache/groovy) | 2.5.8 | 3334
+[groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3334
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0 | 2653
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190807 | 1641
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190806 | 1640
@@ -94,7 +96,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.4.Final | 3935 
 [tomcat](https://github.com/apache/tomcat) | 7.0.96 | 3623 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3339 
-[groovy](https://github.com/apache/groovy) | 2.5.8 | 3334 
+[groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3334 
 [junit5](https://github.com/junit-team/junit5) | 5.5.1 | 3299 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3278 
 [beam](https://github.com/apache/beam) | 2.14.0 | 3185 
