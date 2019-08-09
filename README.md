@@ -52,6 +52,7 @@ repo | releases | star
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190807 | 1641
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190806 | 1640
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.27 | 1280
+[log4j2](https://github.com/apache/logging-log4j2) | 2.12.1 | 772
 
 ### 收录列表
 ---
@@ -131,7 +132,7 @@ repo | releases | star
 [struts](https://github.com/apache/struts) | 2.5.20 | 960 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.16 | 933 
 [poi](https://github.com/apache/poi) | 4.1.0 | 810 
-[log4j2](https://github.com/apache/logging-log4j2) | 2.12.0 | 771 
+[log4j2](https://github.com/apache/logging-log4j2) | 2.12.1 | 772 
 [mina](https://github.com/apache/mina) | 2.1.3 | 696 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 606 
 [elide](https://github.com/yahoo/elide) | 4.5.0 | 586 
