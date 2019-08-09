@@ -40,18 +40,10 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.7.RELEASE | 40655
-[springboot](https://github.com/spring-projects/spring-boot) | 1.5.22.RELEASE | 40644
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.1 | 36221
-[nacos](https://github.com/alibaba/nacos) | 1.1.2 | 7592
-[nacos](https://github.com/alibaba/nacos) | 1.1.3 | 7592
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3336
 [groovy](https://github.com/apache/groovy) | 2.5.8 | 3334
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3334
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0 | 2653
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190807 | 1641
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.9.20190806 | 1640
-[slf4j](https://github.com/qos-ch/slf4j) | 1.7.27 | 1280
 [log4j2](https://github.com/apache/logging-log4j2) | 2.12.1 | 772
 
 ### 收录列表
