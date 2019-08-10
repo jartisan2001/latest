@@ -103,7 +103,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.5 | 2674 
 [hive](https://github.com/apache/hive) | 2.3.5 | 2672 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0 | 2653 
-[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.5 | 2637 
+[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.5 | 2636 
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0-alpha0 | 2588 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2556 
 [pmd](https://github.com/pmd/pmd) | 6.17.0 | 2415 
