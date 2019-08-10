@@ -41,12 +41,8 @@
 repo | releases | star
 ---|---|---
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M3.1 | 5542
-[JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3336
-[groovy](https://github.com/apache/groovy) | 2.5.8 | 3334
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3334
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0 | 2653
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.5 | 2637
-[log4j2](https://github.com/apache/logging-log4j2) | 2.12.1 | 772
 
 ### 收录列表
 ---
