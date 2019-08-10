@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M3.1 | 5542
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3336
 [groovy](https://github.com/apache/groovy) | 2.5.8 | 3334
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3334
@@ -80,7 +81,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7286 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6774 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5788 
-[Activiti](https://github.com/Activiti/Activiti) | 5.23.0-RC1 | 5524 
+[Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M3.1 | 5542 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 5350 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5191 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.23 | 4708 
