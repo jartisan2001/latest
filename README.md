@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M3.1 | 5542
-[groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3334
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.5 | 2637
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.28 | 1284
 
