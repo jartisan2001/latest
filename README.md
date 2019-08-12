@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M3.1 | 5542
+[cglib](https://github.com/cglib/cglib) | 3.3.0 | 2975
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.5 | 2637
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.28 | 1284
 
@@ -92,7 +93,7 @@ repo | releases | star
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3289 
 [beam](https://github.com/apache/beam) | 2.14.0 | 3201 
 [hbase](https://github.com/apache/hbase) | 2.2.0 | 3006 
-[cglib](https://github.com/cglib/cglib) | 3.2.12 | 2974 
+[cglib](https://github.com/cglib/cglib) | 3.3.0 | 2975 
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2815 
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2815 
 [camel](https://github.com/apache/camel) | 3.0.0-M4 | 2776 
