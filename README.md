@@ -104,7 +104,7 @@ repo | releases | star
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0-alpha0 | 2590 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2564 
 [pmd](https://github.com/pmd/pmd) | 6.17.0 | 2418 
-[drools](https://github.com/kiegroup/drools) | 7.24.0.Final | 2376 
+[drools](https://github.com/kiegroup/drools) | 7.25.0.Final | 2378 
 [kylin](https://github.com/apache/kylin) | 3.0.0-alpha2 | 2287 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1865 
 [maven](https://github.com/apache/maven) | 3.6.1 | 1788 
@@ -119,7 +119,7 @@ repo | releases | star
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1134 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 1034 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 1023 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.24.0.Final | 963 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.25.0.Final | 962 
 [struts](https://github.com/apache/struts) | 2.5.20 | 962 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.16 | 936 
 [poi](https://github.com/apache/poi) | 4.1.0 | 813 
