@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[netty](https://github.com/netty/netty) | 4.1.39.Final | 20332
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 2975
 
 ### 收录列表
@@ -52,7 +53,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.1 | 36335 
 [guava](https://github.com/google/guava) | 28.0-jre | 33113 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 28435 
-[netty](https://github.com/netty/netty) | 4.1.38.Final | 20294 
+[netty](https://github.com/netty/netty) | 4.1.39.Final | 20332 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.59 | 18816 
 [druid](https://github.com/alibaba/druid) | 1.1.19 | 18083 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 17457 
