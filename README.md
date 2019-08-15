@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.39.Final | 20332
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 2975
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.20.v20190813 | 2595
 
 ### 收录列表
 ---
