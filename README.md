@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.39.Final | 20332
 [Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5576
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.11.Final | 3937
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.20.v20190813 | 2595
 
 ### 收录列表
@@ -84,7 +85,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.23 | 4727 
 [mesos](https://github.com/apache/mesos) | 1.8.1 | 4253 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.3 | 4178 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.4.Final | 3934 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.11.Final | 3937 
 [tomcat](https://github.com/apache/tomcat) | 7.0.96 | 3652 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3343 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3342 
