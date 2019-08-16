@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.39.Final | 20332
+[Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5576
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.20.v20190813 | 2595
 
 ### 收录列表
@@ -77,7 +78,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7307 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6811 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5798 
-[Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M3.1 | 5564 
+[Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5576 
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 5360 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5230 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.23 | 4727 
