@@ -40,11 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
-[netty](https://github.com/netty/netty) | 4.1.39.Final | 20332
 [jib](https://github.com/GoogleContainerTools/jib) | 1.5.0 | 7320
 [Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5576
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.11.Final | 3937
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.20.v20190813 | 2595
 [elide](https://github.com/yahoo/elide) | 4.5.1 | 590
 
 ### 收录列表
