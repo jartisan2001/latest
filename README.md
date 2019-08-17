@@ -41,9 +41,11 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.39.Final | 20332
+[jib](https://github.com/GoogleContainerTools/jib) | 1.5.0 | 7320
 [Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5576
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.11.Final | 3937
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.20.v20190813 | 2595
+[elide](https://github.com/yahoo/elide) | 4.5.1 | 590
 
 ### 收录列表
 ---
@@ -76,7 +78,7 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.1.3 | 7746 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7575 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7567 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.4.0 | 7307 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.5.0 | 7320 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6811 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5798 
 [Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5576 
@@ -126,7 +128,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.12.1 | 779 
 [mina](https://github.com/apache/mina) | 2.1.3 | 697 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 612 
-[elide](https://github.com/yahoo/elide) | 4.5.0 | 590 
+[elide](https://github.com/yahoo/elide) | 4.5.1 | 590 
 [cxf](https://github.com/apache/cxf) | 3.3.3 | 575 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 550 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 547 
