@@ -41,9 +41,7 @@
 repo | releases | star
 ---|---|---
 [jib](https://github.com/GoogleContainerTools/jib) | 1.5.0 | 7320
-[Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5576
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.11.Final | 3937
-[tomcat](https://github.com/apache/tomcat) | 9.0.24 | 3659
 [elide](https://github.com/yahoo/elide) | 4.5.1 | 590
 
 ### 收录列表
