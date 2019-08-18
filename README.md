@@ -43,6 +43,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.5.0 | 7320
 [Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5576
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.11.Final | 3937
+[tomcat](https://github.com/apache/tomcat) | 9.0.24 | 3659
 [elide](https://github.com/yahoo/elide) | 4.5.1 | 590
 
 ### 收录列表
@@ -86,7 +87,7 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.8.1 | 4258 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.3 | 4177 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.11.Final | 3938 
-[tomcat](https://github.com/apache/tomcat) | 7.0.96 | 3659 
+[tomcat](https://github.com/apache/tomcat) | 9.0.24 | 3659 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3345 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3344 
 [junit5](https://github.com/junit-team/junit5) | 5.5.1 | 3320 
