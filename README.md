@@ -40,8 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[jib](https://github.com/GoogleContainerTools/jib) | 1.5.0 | 7320
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.11.Final | 3937
 [elide](https://github.com/yahoo/elide) | 4.5.1 | 590
 
 ### 收录列表
