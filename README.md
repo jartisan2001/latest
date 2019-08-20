@@ -89,7 +89,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.5.1 | 3323 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3320 
 [beam](https://github.com/apache/beam) | 2.14.0 | 3219 
-[hbase](https://github.com/apache/hbase) | 2.2.0 | 3030 
+[hbase](https://github.com/apache/hbase) | 2.0.6 | 3033 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 2996 
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2834 
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2834 
