@@ -76,7 +76,7 @@ repo | releases | star
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7806 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7597 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7588 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.5.1 | 7358 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.5.1 | 7359 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6853 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5811 
 [Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5606 
