@@ -40,9 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.3.1 | 43531
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.1 | 10056
-[flink](https://github.com/apache/flink) | 1.9.0 | 9962
 [jib](https://github.com/GoogleContainerTools/jib) | 1.5.1 | 7358
 
 ### 收录列表
