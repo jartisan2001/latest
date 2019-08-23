@@ -40,14 +40,16 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.3.1 | 43531
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.1 | 10056
 [flink](https://github.com/apache/flink) | 1.9.0 | 9962
+[jib](https://github.com/GoogleContainerTools/jib) | 1.5.1 | 7358
 
 ### 收录列表
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.3.1 | 43529 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.3.1 | 43531 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.7.RELEASE | 41133 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.11 | 40207 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.1 | 36592 
@@ -74,7 +76,7 @@ repo | releases | star
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7806 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7597 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7588 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.5.0 | 7357 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.5.1 | 7358 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6853 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5811 
 [Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5606 
@@ -89,7 +91,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3349 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3334 
 [junit5](https://github.com/junit-team/junit5) | 5.5.1 | 3334 
-[beam](https://github.com/apache/beam) | 2.14.0 | 3224 
+[beam](https://github.com/apache/beam) | 2.15.0 | 3224 
 [hbase](https://github.com/apache/hbase) | 2.0.6 | 3043 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3001 
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2846 
