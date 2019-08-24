@@ -95,7 +95,7 @@ repo | releases | star
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2849 
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2849 
 [camel](https://github.com/apache/camel) | 3.0.0-M4 | 2793 
-[hive](https://github.com/apache/hive) | 2.3.5 | 2704 
+[hive](https://github.com/apache/hive) | 2.3.6 | 2704 
 [ignite](https://github.com/apache/ignite) | 2.7.5 | 2695 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0 | 2690 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.5 | 2646 
