@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.1 | 10056
 [jib](https://github.com/GoogleContainerTools/jib) | 1.5.1 | 7358
 
 ### 收录列表
