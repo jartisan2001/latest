@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40243
-[jib](https://github.com/GoogleContainerTools/jib) | 1.5.1 | 7358
 
 ### 收录列表
 ---
