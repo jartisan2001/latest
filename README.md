@@ -49,7 +49,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.3.1 | 43580 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.7.RELEASE | 41192 
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40248 
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40252 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.1 | 36644 
 [guava](https://github.com/google/guava) | 28.0-jre | 33366 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 28720 
