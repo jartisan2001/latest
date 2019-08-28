@@ -45,7 +45,6 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone2 | 10071
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta1 | 8346
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.16 | 265
-[commons-compress](https://github.com/apache/commons-compress) | 1.19 | 124
 
 ### 收录列表
 ---
