@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40243
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone2 | 10071
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.16 | 265
 [commons-compress](https://github.com/apache/commons-compress) | 1.19 | 124
 
 ### 收录列表
@@ -130,7 +131,7 @@ repo | releases | star
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 551 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 550 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 550 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.15 | 266 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.16 | 265 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 222 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 208 
 [commons-text](https://github.com/apache/commons-text) | 1.7 | 145 
