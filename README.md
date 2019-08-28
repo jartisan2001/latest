@@ -41,7 +41,9 @@
 repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40243
+[druid](https://github.com/alibaba/druid) | 1.1.20 | 18301
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone2 | 10071
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta1 | 8346
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.16 | 265
 [commons-compress](https://github.com/apache/commons-compress) | 1.19 | 124
 
@@ -57,7 +59,7 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 28761 
 [netty](https://github.com/netty/netty) | 4.1.39.Final | 20481 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.59 | 18961 
-[druid](https://github.com/alibaba/druid) | 1.1.19 | 18294 
+[druid](https://github.com/alibaba/druid) | 1.1.20 | 18301 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 17774 
 [gson](https://github.com/google/gson) | 2.8.5 | 16323 
 [arthas](https://github.com/alibaba/arthas) | 3.1.1 | 16048 
@@ -70,7 +72,7 @@ repo | releases | star
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 9490 
 [mockito](https://github.com/mockito/mockito) | 3.0.0 | 9299 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 8425 
-[easyexcel](https://github.com/alibaba/easyexcel) | 1.1.2-beta5 | 8323 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta1 | 8346 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.8 | 8247 
 [nacos](https://github.com/alibaba/nacos) | 1.1.3 | 7964 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7845 
@@ -131,7 +133,7 @@ repo | releases | star
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 551 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 550 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 550 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.16 | 265 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.16 | 264 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 222 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 208 
 [commons-text](https://github.com/apache/commons-text) | 1.7 | 145 
