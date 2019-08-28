@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40243
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone2 | 10071
+[commons-compress](https://github.com/apache/commons-compress) | 1.19 | 124
 
 ### 收录列表
 ---
@@ -96,7 +97,7 @@ repo | releases | star
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2865 
 [camel](https://github.com/apache/camel) | 3.0.0-M4 | 2796 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0 | 2706 
-[hive](https://github.com/apache/hive) | 2.3.6 | 2706 
+[hive](https://github.com/apache/hive) | 3.1.2 | 2706 
 [ignite](https://github.com/apache/ignite) | 2.7.5 | 2699 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.5 | 2656 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.20.v20190813 | 2612 
@@ -133,7 +134,7 @@ repo | releases | star
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 222 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 208 
 [commons-text](https://github.com/apache/commons-text) | 1.7 | 145 
-[commons-compress](https://github.com/apache/commons-compress) | 1.18 | 124 
+[commons-compress](https://github.com/apache/commons-compress) | 1.19 | 124 
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 78 
 [hessian](https://github.com/ebourg/hessian) | 4.0.62 | 68 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 40 
