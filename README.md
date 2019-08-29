@@ -40,11 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40243
 [guava](https://github.com/google/guava) | 28.1-android | 33430
 [guava](https://github.com/google/guava) | 28.1-jre | 33430
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18301
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone2 | 10071
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta1 | 8346
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.16 | 265
 
