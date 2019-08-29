@@ -41,6 +41,8 @@
 repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40243
+[guava](https://github.com/google/guava) | 28.1-android | 33430
+[guava](https://github.com/google/guava) | 28.1-jre | 33430
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18301
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone2 | 10071
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta1 | 8346
@@ -54,7 +56,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.7.RELEASE | 41303 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40293 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.1 | 36711 
-[guava](https://github.com/google/guava) | 28.0-jre | 33421 
+[guava](https://github.com/google/guava) | 28.1-jre | 33430 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 28784 
 [netty](https://github.com/netty/netty) | 4.1.39.Final | 20497 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.59 | 18974 
