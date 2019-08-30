@@ -43,6 +43,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.1-android | 33430
 [guava](https://github.com/google/guava) | 28.1-jre | 33430
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18301
+[redisson](https://github.com/redisson/redisson) | 3.11.3 | 10394
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta1 | 8346
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.16 | 265
 
@@ -65,7 +66,7 @@ repo | releases | star
 [kafka](https://github.com/apache/kafka) | 2.3.0 | 13381 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11699 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 10939 
-[redisson](https://github.com/redisson/redisson) | 3.11.2 | 10382 
+[redisson](https://github.com/redisson/redisson) | 3.11.3 | 10394 
 [flink](https://github.com/apache/flink) | 1.9.0 | 10122 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone2 | 10093 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 9493 
@@ -93,7 +94,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3355 
 [junit5](https://github.com/junit-team/junit5) | 5.5.1 | 3346 
 [beam](https://github.com/apache/beam) | 2.15.0 | 3240 
-[hbase](https://github.com/apache/hbase) | 2.0.6 | 3050 
+[hbase](https://github.com/apache/hbase) | 2.1.6 | 3052 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3015 
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2870 
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2870 
