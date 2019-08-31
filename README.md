@@ -114,7 +114,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1777 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1732 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1681 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr2 | 1661 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr2 | 1662 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.2 | 1595 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta3 | 1469 
 [avro](https://github.com/apache/avro) | 1.9.0 | 1360 
