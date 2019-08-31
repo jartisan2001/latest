@@ -42,11 +42,8 @@ repo | releases | star
 ---|---|---
 [guava](https://github.com/google/guava) | 28.1-android | 33430
 [guava](https://github.com/google/guava) | 28.1-jre | 33430
-[druid](https://github.com/alibaba/druid) | 1.1.20 | 18301
 [redisson](https://github.com/redisson/redisson) | 3.11.3 | 10394
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta1 | 8346
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr2 | 1661
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.16 | 265
 
 ### 收录列表
 ---
