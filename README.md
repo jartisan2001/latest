@@ -44,6 +44,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.1-jre | 33430
 [redisson](https://github.com/redisson/redisson) | 3.11.3 | 10394
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr2 | 1661
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.11.1 | 264
 
 ### 收录列表
 ---
@@ -131,7 +132,7 @@ repo | releases | star
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 554 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 550 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 550 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.16 | 264 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.11.1 | 264 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 222 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 209 
 [commons-text](https://github.com/apache/commons-text) | 1.7 | 146 
