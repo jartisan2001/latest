@@ -40,8 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[guava](https://github.com/google/guava) | 28.1-android | 33430
-[guava](https://github.com/google/guava) | 28.1-jre | 33430
 [redisson](https://github.com/redisson/redisson) | 3.11.3 | 10394
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr2 | 1661
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.11.1 | 264
