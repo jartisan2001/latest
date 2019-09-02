@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.11.3 | 10394
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta2 | 8446
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.24 | 4772
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr2 | 1661
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.11.1 | 264
@@ -70,7 +71,7 @@ repo | releases | star
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 9502 
 [mockito](https://github.com/mockito/mockito) | 3.0.0 | 9322 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 8626 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta1 | 8428 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta2 | 8446 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.8 | 8260 
 [nacos](https://github.com/alibaba/nacos) | 1.1.3 | 8024 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7880 
@@ -114,7 +115,7 @@ repo | releases | star
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr2 | 1662 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.2 | 1596 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta3 | 1468 
-[avro](https://github.com/apache/avro) | 1.9.0 | 1359 
+[avro](https://github.com/apache/avro) | 1.9.1 | 1359 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.28 | 1300 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1142 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 1046 
