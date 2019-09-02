@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.11.3 | 10394
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.24 | 4772
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr2 | 1661
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.11.1 | 264
 
