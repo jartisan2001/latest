@@ -45,6 +45,7 @@ repo | releases | star
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr2 | 1661
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.2 | 265
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.11.1 | 264
+[commons-text](https://github.com/apache/commons-text) | 1.8 | 146
 
 ### 收录列表
 ---
@@ -135,7 +136,7 @@ repo | releases | star
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.2 | 265 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 223 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 211 
-[commons-text](https://github.com/apache/commons-text) | 1.7 | 146 
+[commons-text](https://github.com/apache/commons-text) | 1.8 | 146 
 [commons-compress](https://github.com/apache/commons-compress) | 1.19 | 126 
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 78 
 [hessian](https://github.com/ebourg/hessian) | 4.0.62 | 68 
