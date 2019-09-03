@@ -42,11 +42,8 @@ repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta3 | 8449
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.24 | 4772
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr2 | 1661
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.35.0 | 1595
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.2 | 265
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.11.1 | 264
-[commons-text](https://github.com/apache/commons-text) | 1.8 | 146
 
 ### 收录列表
 ---
