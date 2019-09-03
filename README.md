@@ -43,6 +43,7 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta3 | 8449
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.24 | 4772
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr2 | 1661
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.35.0 | 1595
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.2 | 265
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.11.1 | 264
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 146
@@ -114,7 +115,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1734 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1681 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr2 | 1662 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.34.2 | 1595 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.35.0 | 1595 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta3 | 1468 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1360 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.28 | 1300 
