@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta3 | 8449
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.24 | 4772
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.35.0 | 1595
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.2 | 265
 
