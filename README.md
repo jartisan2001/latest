@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[fastjson](https://github.com/alibaba/fastjson) | 1.1.31.sec07 | 19071
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.60 | 19050
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec06 | 19050
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.7.sec06 | 19050
@@ -49,6 +50,7 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.29.sec06 | 19050
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec06 | 19050
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta3 | 8449
+[mesos](https://github.com/apache/mesos) | 1.9.0 | 4274
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.35.0 | 1595
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.2 | 265
 
@@ -63,7 +65,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.1-jre | 33547 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 28933 
 [netty](https://github.com/netty/netty) | 4.1.39.Final | 20582 
-[fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec06 | 19050 
+[fastjson](https://github.com/alibaba/fastjson) | 1.1.31.sec07 | 19071 
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18408 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 17926 
 [gson](https://github.com/google/gson) | 2.8.5 | 16367 
@@ -90,7 +92,7 @@ repo | releases | star
 [cassandra](https://github.com/apache/cassandra) | 2.1.21 | 5390 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5328 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.24 | 4779 
-[mesos](https://github.com/apache/mesos) | 1.8.1 | 4274 
+[mesos](https://github.com/apache/mesos) | 1.9.0 | 4274 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.3 | 4198 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.11.Final | 3964 
 [tomcat](https://github.com/apache/tomcat) | 8.5.45 | 3726 
