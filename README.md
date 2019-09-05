@@ -46,6 +46,8 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.46.sec06 | 19050
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.31.sec06 | 19050
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.33.sec06 | 19050
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.29.sec06 | 19050
+[fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec06 | 19050
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta3 | 8449
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.35.0 | 1595
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.2 | 265
