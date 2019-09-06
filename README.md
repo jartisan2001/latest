@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.8.RELEASE | 41549
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0-rc-1 | 36902
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.27.sec06 | 19080
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.31.sec07 | 19071
@@ -52,6 +53,8 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.29.sec06 | 19050
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec06 | 19050
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta4 | 8680
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.1 | 2719
+[drools](https://github.com/kiegroup/drools) | 7.26.0.Final | 2425
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.35.0 | 1595
 
 ### 收录列表
@@ -59,9 +62,9 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.3 | 43915 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.7.RELEASE | 41532 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.8.RELEASE | 41549 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40377 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0-rc-1 | 36902 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0-rc-1 | 36914 
 [guava](https://github.com/google/guava) | 28.1-jre | 33561 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 28954 
 [netty](https://github.com/netty/netty) | 4.1.39.Final | 20600 
@@ -107,13 +110,13 @@ repo | releases | star
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2888 
 [camel](https://github.com/apache/camel) | 3.0.0-RC1 | 2822 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2720 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.1 | 2719 
 [ignite](https://github.com/apache/ignite) | 2.7.5 | 2718 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.0 | 2717 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.5 | 2666 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.20.v20190813 | 2624 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2606 
 [pmd](https://github.com/pmd/pmd) | 6.17.0 | 2458 
-[drools](https://github.com/kiegroup/drools) | 7.25.0.Final | 2425 
+[drools](https://github.com/kiegroup/drools) | 7.26.0.Final | 2425 
 [kylin](https://github.com/apache/kylin) | 3.0.0-alpha2 | 2326 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1898 
 [maven](https://github.com/apache/maven) | 3.6.2 | 1823 
