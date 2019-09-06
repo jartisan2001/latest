@@ -56,15 +56,16 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.1 | 2719
 [drools](https://github.com/kiegroup/drools) | 7.26.0.Final | 2425
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.35.0 | 1595
+[jbpm](https://github.com/kiegroup/jbpm) | 7.26.0.Final | 978
 
 ### 收录列表
 ---
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.3 | 43915 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.8.RELEASE | 41549 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.8.RELEASE | 41567 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40377 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0-rc-1 | 36914 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0-rc-1 | 36922 
 [guava](https://github.com/google/guava) | 28.1-jre | 33561 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 28954 
 [netty](https://github.com/netty/netty) | 4.1.39.Final | 20600 
@@ -131,7 +132,7 @@ repo | releases | star
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1146 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 1044 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 1029 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.25.0.Final | 978 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.26.0.Final | 978 
 [struts](https://github.com/apache/struts) | 2.5.20 | 965 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.16 | 948 
 [poi](https://github.com/apache/poi) | 4.1.0 | 830 
