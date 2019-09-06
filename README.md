@@ -55,7 +55,6 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta4 | 8680
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.1 | 2719
 [drools](https://github.com/kiegroup/drools) | 7.26.0.Final | 2425
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.35.0 | 1595
 [jbpm](https://github.com/kiegroup/jbpm) | 7.26.0.Final | 978
 
 ### 收录列表
