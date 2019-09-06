@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0-rc-1 | 36902
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.27.sec06 | 19080
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.31.sec07 | 19071
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.60 | 19050
@@ -57,10 +58,10 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.3.1 | 43915 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.3 | 43915 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.7.RELEASE | 41532 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40377 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.1 | 36901 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0-rc-1 | 36902 
 [guava](https://github.com/google/guava) | 28.1-jre | 33561 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 28954 
 [netty](https://github.com/netty/netty) | 4.1.39.Final | 20600 
