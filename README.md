@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.8.RELEASE | 41549
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0-rc-1 | 36902
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.52.sec06 | 19111
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.41.sec06 | 19110
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.57.sec06 | 19110
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.56.sec06 | 19110
