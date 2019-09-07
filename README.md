@@ -52,18 +52,8 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.54.sec06 | 19110
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.27.sec06 | 19080
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.31.sec07 | 19071
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.60 | 19050
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec06 | 19050
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.7.sec06 | 19050
-[fastjson](https://github.com/alibaba/fastjson) | 1.1.46.sec06 | 19050
-[fastjson](https://github.com/alibaba/fastjson) | 1.1.31.sec06 | 19050
-[fastjson](https://github.com/alibaba/fastjson) | 1.1.33.sec06 | 19050
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.29.sec06 | 19050
-[fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec06 | 19050
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta4 | 8680
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.1 | 2719
-[drools](https://github.com/kiegroup/drools) | 7.26.0.Final | 2425
-[jbpm](https://github.com/kiegroup/jbpm) | 7.26.0.Final | 978
 
 ### 收录列表
 ---
