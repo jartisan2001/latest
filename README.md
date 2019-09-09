@@ -50,6 +50,8 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.58.sec06 | 19110
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.54.sec06 | 19110
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta5 | 8791
+[cassandra](https://github.com/apache/cassandra) | 4.0-alpha1 | 5395
+[junit5](https://github.com/junit-team/junit5) | 5.5.2 | 3377
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.1 | 2719
 
 ### 收录列表
@@ -87,7 +89,7 @@ repo | releases | star
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6960 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5832 
 [Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5683 
-[cassandra](https://github.com/apache/cassandra) | 2.1.21 | 5394 
+[cassandra](https://github.com/apache/cassandra) | 4.0-alpha1 | 5395 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5348 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.24 | 4784 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4278 
@@ -95,7 +97,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.11.Final | 3972 
 [tomcat](https://github.com/apache/tomcat) | 8.5.45 | 3738 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3382 
-[junit5](https://github.com/junit-team/junit5) | 5.5.1 | 3377 
+[junit5](https://github.com/junit-team/junit5) | 5.5.2 | 3377 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3368 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3367 
 [beam](https://github.com/apache/beam) | 2.15.0 | 3269 
