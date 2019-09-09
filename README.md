@@ -49,6 +49,7 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.48.sec06 | 19110
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.58.sec06 | 19110
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.54.sec06 | 19110
+[arthas](https://github.com/alibaba/arthas) | 3.1.2 | 16310
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta5 | 8791
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha1 | 5395
 [junit5](https://github.com/junit-team/junit5) | 5.5.2 | 3377
@@ -69,7 +70,7 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18453 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 17977 
 [gson](https://github.com/google/gson) | 2.8.5 | 16395 
-[arthas](https://github.com/alibaba/arthas) | 3.1.1 | 16289 
+[arthas](https://github.com/alibaba/arthas) | 3.1.2 | 16310 
 [kafka](https://github.com/apache/kafka) | 2.3.0 | 13496 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11777 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 11013 
@@ -97,7 +98,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.11.Final | 3972 
 [tomcat](https://github.com/apache/tomcat) | 8.5.45 | 3738 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3382 
-[junit5](https://github.com/junit-team/junit5) | 5.5.2 | 3377 
+[junit5](https://github.com/junit-team/junit5) | 5.5.2 | 3379 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3368 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3367 
 [beam](https://github.com/apache/beam) | 2.15.0 | 3269 
