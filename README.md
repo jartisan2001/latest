@@ -43,6 +43,7 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.1.2 | 16310
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta6 | 8827
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta5 | 8791
+[lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8297
 [junit5](https://github.com/junit-team/junit5) | 5.5.2 | 3377
 
 ### 收录列表
@@ -71,7 +72,7 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.0.0 | 9368 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 8879 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta6 | 8829 
-[lombok](https://github.com/rzwitserloot/lombok) | 1.18.8 | 8290 
+[lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8297 
 [nacos](https://github.com/alibaba/nacos) | 1.1.3 | 8141 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7933 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7673 
