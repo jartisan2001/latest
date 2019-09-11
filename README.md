@@ -72,7 +72,7 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.0.0 | 9368 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 8879 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta6 | 8829 
-[lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8297 
+[lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8300 
 [nacos](https://github.com/alibaba/nacos) | 1.1.3 | 8141 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7933 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7673 
