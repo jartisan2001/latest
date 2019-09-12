@@ -41,11 +41,8 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.40.Final | 20695
-[arthas](https://github.com/alibaba/arthas) | 3.1.2 | 16310
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta6 | 8827
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8297
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.12.Final | 3980
-[junit5](https://github.com/junit-team/junit5) | 5.5.2 | 3377
 
 ### 收录列表
 ---
