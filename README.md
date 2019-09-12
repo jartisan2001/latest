@@ -40,9 +40,11 @@
 ---
 repo | releases | star
 ---|---|---
+[netty](https://github.com/netty/netty) | 4.1.40.Final | 20695
 [arthas](https://github.com/alibaba/arthas) | 3.1.2 | 16310
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0-beta6 | 8827
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8297
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.12.Final | 3980
 [junit5](https://github.com/junit-team/junit5) | 5.5.2 | 3377
 
 ### 收录列表
@@ -55,7 +57,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0-rc-1 | 37016 
 [guava](https://github.com/google/guava) | 28.1-jre | 33669 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 29059 
-[netty](https://github.com/netty/netty) | 4.1.39.Final | 20688 
+[netty](https://github.com/netty/netty) | 4.1.40.Final | 20695 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.52.sec06 | 19190 
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18499 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 18053 
@@ -65,7 +67,7 @@ repo | releases | star
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11795 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 11037 
 [redisson](https://github.com/redisson/redisson) | 3.11.3 | 10526 
-[flink](https://github.com/apache/flink) | 1.9.0 | 10289 
+[flink](https://github.com/apache/flink) | 1.8.2 | 10299 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone2 | 10148 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 9556 
 [mockito](https://github.com/mockito/mockito) | 3.0.0 | 9379 
@@ -85,7 +87,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.24 | 4787 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4281 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.3 | 4200 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.11.Final | 3979 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.12.Final | 3980 
 [tomcat](https://github.com/apache/tomcat) | 8.5.45 | 3762 
 [junit5](https://github.com/junit-team/junit5) | 5.5.2 | 3399 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3390 
