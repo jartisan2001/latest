@@ -55,7 +55,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0-rc-1 | 37035 
 [guava](https://github.com/google/guava) | 28.1-jre | 33689 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 29079 
-[netty](https://github.com/netty/netty) | 4.1.41.Final | 20696 
+[netty](https://github.com/netty/netty) | 4.1.41.Final | 20700 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.52.sec06 | 19203 
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18515 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 18065 
