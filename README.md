@@ -43,7 +43,10 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.41.Final | 20696
 [netty](https://github.com/netty/netty) | 4.1.40.Final | 20695
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8297
+[jib](https://github.com/GoogleContainerTools/jib) | 1.6.0 | 7445
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.12.Final | 3980
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.2 | 2753
+[elide](https://github.com/yahoo/elide) | 4.5.2 | 594
 
 ### 收录列表
 ---
@@ -76,7 +79,7 @@ repo | releases | star
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7948 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7690 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7613 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.5.1 | 7445 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.6.0 | 7445 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6994 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5838 
 [Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5705 
@@ -97,7 +100,7 @@ repo | releases | star
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2904 
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2904 
 [camel](https://github.com/apache/camel) | 2.24.2 | 2848 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.1 | 2751 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.2 | 2753 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2744 
 [ignite](https://github.com/apache/ignite) | 2.7.5 | 2731 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.5 | 2676 
@@ -126,7 +129,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.12.1 | 805 
 [mina](https://github.com/apache/mina) | 2.1.3 | 708 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 621 
-[elide](https://github.com/yahoo/elide) | 4.5.1 | 594 
+[elide](https://github.com/yahoo/elide) | 4.5.2 | 594 
 [cxf](https://github.com/apache/cxf) | 3.3.3 | 584 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 557 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 555 
