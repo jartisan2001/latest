@@ -45,6 +45,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.6.0 | 7445
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.12.Final | 3980
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.2 | 2753
+[pmd](https://github.com/pmd/pmd) | 6.18.0 | 2463
 [elide](https://github.com/yahoo/elide) | 4.5.2 | 594
 
 ### 收录列表
@@ -105,7 +106,7 @@ repo | releases | star
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.5 | 2677 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.20.v20190813 | 2631 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2623 
-[pmd](https://github.com/pmd/pmd) | 6.17.0 | 2463 
+[pmd](https://github.com/pmd/pmd) | 6.18.0 | 2463 
 [drools](https://github.com/kiegroup/drools) | 7.26.0.Final | 2439 
 [kylin](https://github.com/apache/kylin) | 3.0.0-alpha2 | 2344 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1903 
