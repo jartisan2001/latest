@@ -93,7 +93,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3378 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3374 
 [beam](https://github.com/apache/beam) | 2.15.0 | 3296 
-[hbase](https://github.com/apache/hbase) | 2.1.6 | 3098 
+[hbase](https://github.com/apache/hbase) | 2.2.1 | 3099 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3052 
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2907 
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2907 
