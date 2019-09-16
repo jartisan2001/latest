@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[netty](https://github.com/netty/netty) | 4.1.41.Final | 20696
 [jib](https://github.com/GoogleContainerTools/jib) | 1.6.0 | 7445
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.2 | 2753
 [pmd](https://github.com/pmd/pmd) | 6.18.0 | 2463
