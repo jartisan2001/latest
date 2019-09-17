@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.0 | 11072
+[jib](https://github.com/GoogleContainerTools/jib) | 1.6.1 | 7453
 [jib](https://github.com/GoogleContainerTools/jib) | 1.6.0 | 7445
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.2 | 2753
 [pmd](https://github.com/pmd/pmd) | 6.18.0 | 2463
@@ -63,7 +65,7 @@ repo | releases | star
 [gson](https://github.com/google/gson) | 2.8.5 | 16464 
 [kafka](https://github.com/apache/kafka) | 2.3.0 | 13572 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11819 
-[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.3.1 | 11073 
+[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.0 | 11072 
 [redisson](https://github.com/redisson/redisson) | 3.11.3 | 10574 
 [flink](https://github.com/apache/flink) | 1.8.2 | 10330 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone2 | 10165 
@@ -76,7 +78,7 @@ repo | releases | star
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 7957 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7704 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7616 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.6.0 | 7452 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.6.1 | 7453 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 6999 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5841 
 [Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5713 
