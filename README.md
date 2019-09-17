@@ -45,6 +45,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.6.0 | 7445
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.2 | 2753
 [pmd](https://github.com/pmd/pmd) | 6.18.0 | 2463
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr3 | 1672
 [elide](https://github.com/yahoo/elide) | 4.5.2 | 594
 
 ### 收录列表
@@ -113,7 +114,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1786 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1741 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1697 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr2 | 1671 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr3 | 1672 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.35.0 | 1608 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta3 | 1486 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1374 
