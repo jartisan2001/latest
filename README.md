@@ -42,11 +42,8 @@ repo | releases | star
 ---|---|---
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.0 | 11072
 [jib](https://github.com/GoogleContainerTools/jib) | 1.6.1 | 7453
-[jib](https://github.com/GoogleContainerTools/jib) | 1.6.0 | 7445
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.2 | 2753
 [pmd](https://github.com/pmd/pmd) | 6.18.0 | 2463
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr3 | 1672
-[elide](https://github.com/yahoo/elide) | 4.5.2 | 594
 
 ### 收录列表
 ---
