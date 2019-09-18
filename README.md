@@ -46,6 +46,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.5.Final | 3984
 [pmd](https://github.com/pmd/pmd) | 6.18.0 | 2463
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr3 | 1672
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1487
 
 ### 收录列表
 ---
@@ -115,7 +116,7 @@ repo | releases | star
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1698 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr3 | 1673 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.35.0 | 1609 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta3 | 1487 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1487 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1374 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.28 | 1307 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1153 
