@@ -44,7 +44,6 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0 | 9152
 [jib](https://github.com/GoogleContainerTools/jib) | 1.6.1 | 7453
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.5.Final | 3984
-[pmd](https://github.com/pmd/pmd) | 6.18.0 | 2463
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr3 | 1672
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1487
 
