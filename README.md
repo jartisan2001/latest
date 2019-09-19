@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[arthas](https://github.com/alibaba/arthas) | 3.1.3 | 16538
+[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11098
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.0 | 11072
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0 | 9152
 [jib](https://github.com/GoogleContainerTools/jib) | 1.6.1 | 7453
@@ -61,7 +63,7 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.52.sec06 | 19286 
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18553 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 18137 
-[arthas](https://github.com/alibaba/arthas) | 3.1.2 | 16538 
+[arthas](https://github.com/alibaba/arthas) | 3.1.3 | 16538 
 [gson](https://github.com/google/gson) | 2.8.5 | 16477 
 [kafka](https://github.com/apache/kafka) | 2.3.0 | 13594 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11842 
