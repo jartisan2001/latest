@@ -43,9 +43,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0 | 37166
 [arthas](https://github.com/alibaba/arthas) | 3.1.3 | 16538
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11098
-[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.0 | 11072
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0 | 9152
-[jib](https://github.com/GoogleContainerTools/jib) | 1.6.1 | 7453
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.5.Final | 3984
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr3 | 1672
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1487
