@@ -43,6 +43,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0 | 37166
 [arthas](https://github.com/alibaba/arthas) | 3.1.3 | 16538
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11098
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone3 | 10177
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0 | 9152
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.5.Final | 3984
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr3 | 1672
@@ -69,7 +70,7 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11098 
 [redisson](https://github.com/redisson/redisson) | 3.11.3 | 10606 
 [flink](https://github.com/apache/flink) | 1.8.2 | 10360 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone2 | 10171 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone3 | 10177 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 9586 
 [mockito](https://github.com/mockito/mockito) | 3.0.0 | 9407 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0 | 9182 
