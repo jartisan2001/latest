@@ -57,14 +57,14 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.3.2 | 44222 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.8.RELEASE | 41903 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40496 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0 | 37166 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0 | 37204 
 [guava](https://github.com/google/guava) | 28.1-jre | 33785 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 29180 
 [netty](https://github.com/netty/netty) | 4.1.41.Final | 20752 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.52.sec06 | 19286 
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18553 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 18137 
-[arthas](https://github.com/alibaba/arthas) | 3.1.3 | 16552 
+[arthas](https://github.com/alibaba/arthas) | 3.1.3 | 16562 
 [gson](https://github.com/google/gson) | 2.8.5 | 16477 
 [kafka](https://github.com/apache/kafka) | 2.3.0 | 13594 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11842 
