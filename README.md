@@ -45,11 +45,6 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.1.3 | 16538
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11098
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone3 | 10177
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0 | 9152
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.5.Final | 3984
-[tomcat](https://github.com/apache/tomcat) | 9.0.26 | 3790
-[tomcat](https://github.com/apache/tomcat) | 8.5.46 | 3790
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr3 | 1672
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1487
 [elide](https://github.com/yahoo/elide) | 4.5.3 | 591
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.17 | 267
