@@ -41,11 +41,14 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0 | 37166
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.61 | 19307
 [arthas](https://github.com/alibaba/arthas) | 3.1.3 | 16538
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11098
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone3 | 10177
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0 | 9152
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.5.Final | 3984
+[tomcat](https://github.com/apache/tomcat) | 9.0.26 | 3790
+[tomcat](https://github.com/apache/tomcat) | 8.5.46 | 3790
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr3 | 1672
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1487
 
@@ -60,7 +63,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.1-jre | 33785 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 29180 
 [netty](https://github.com/netty/netty) | 4.1.41.Final | 20752 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.52.sec06 | 19286 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.61 | 19307 
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18553 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 18137 
 [arthas](https://github.com/alibaba/arthas) | 3.1.3 | 16562 
@@ -90,7 +93,7 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4286 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.3 | 4205 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.5.Final | 3984 
-[tomcat](https://github.com/apache/tomcat) | 8.5.45 | 3784 
+[tomcat](https://github.com/apache/tomcat) | 8.5.46 | 3790 
 [junit5](https://github.com/junit-team/junit5) | 5.5.2 | 3415 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3403 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3382 
