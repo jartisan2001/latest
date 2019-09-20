@@ -51,6 +51,8 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 8.5.46 | 3790
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr3 | 1672
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1487
+[elide](https://github.com/yahoo/elide) | 4.5.3 | 591
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.17 | 267
 
 ### 收录列表
 ---
@@ -63,7 +65,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.1-jre | 33785 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 29180 
 [netty](https://github.com/netty/netty) | 4.1.41.Final | 20752 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.61 | 19307 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.61 | 19318 
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18553 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 18137 
 [arthas](https://github.com/alibaba/arthas) | 3.1.3 | 16562 
@@ -133,12 +135,12 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.12.1 | 804 
 [mina](https://github.com/apache/mina) | 2.1.3 | 708 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 622 
-[elide](https://github.com/yahoo/elide) | 4.5.2 | 591 
+[elide](https://github.com/yahoo/elide) | 4.5.3 | 591 
 [cxf](https://github.com/apache/cxf) | 3.3.3 | 585 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 560 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 554 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 551 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.2 | 267 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.17 | 267 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 224 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 210 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 146 
