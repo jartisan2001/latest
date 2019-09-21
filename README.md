@@ -50,6 +50,7 @@ repo | releases | star
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1487
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.17 | 963
 [elide](https://github.com/yahoo/elide) | 4.5.3 | 591
+[elide](https://github.com/yahoo/elide) | 4.5.4 | 591
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.17 | 267
 
 ### 收录列表
@@ -133,7 +134,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.12.1 | 806 
 [mina](https://github.com/apache/mina) | 2.1.3 | 708 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 622 
-[elide](https://github.com/yahoo/elide) | 4.5.3 | 591 
+[elide](https://github.com/yahoo/elide) | 4.5.4 | 591 
 [cxf](https://github.com/apache/cxf) | 3.3.3 | 585 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 563 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 556 
