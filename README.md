@@ -43,12 +43,9 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0 | 37166
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.61 | 19307
 [arthas](https://github.com/alibaba/arthas) | 3.1.3 | 16538
-[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11098
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone3 | 10177
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.1 | 9248
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.4 | 4209
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1487
-[pdfbox](https://github.com/apache/pdfbox) | 2.0.17 | 963
 [elide](https://github.com/yahoo/elide) | 4.5.3 | 591
 [elide](https://github.com/yahoo/elide) | 4.5.4 | 591
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.17 | 267
