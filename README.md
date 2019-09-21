@@ -45,8 +45,10 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.1.3 | 16538
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11098
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone3 | 10177
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.1 | 9248
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.4 | 4209
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1487
+[pdfbox](https://github.com/apache/pdfbox) | 2.0.17 | 963
 [elide](https://github.com/yahoo/elide) | 4.5.3 | 591
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.17 | 267
 
@@ -74,7 +76,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone3 | 10181 
 [hadoop](https://github.com/apache/hadoop) | 3.1.2 | 9597 
 [mockito](https://github.com/mockito/mockito) | 3.0.0 | 9416 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.0 | 9248 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.1 | 9248 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 9127 
 [nacos](https://github.com/alibaba/nacos) | 1.1.3 | 8420 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8327 
@@ -126,7 +128,7 @@ repo | releases | star
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 1034 
 [jbpm](https://github.com/kiegroup/jbpm) | 7.26.0.Final | 981 
 [struts](https://github.com/apache/struts) | 2.5.20 | 966 
-[pdfbox](https://github.com/apache/pdfbox) | 2.0.16 | 963 
+[pdfbox](https://github.com/apache/pdfbox) | 2.0.17 | 963 
 [poi](https://github.com/apache/poi) | 4.1.0 | 834 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.12.1 | 806 
 [mina](https://github.com/apache/mina) | 2.1.3 | 708 
