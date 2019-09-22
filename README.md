@@ -40,10 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0 | 37166
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.61 | 19307
-[arthas](https://github.com/alibaba/arthas) | 3.1.3 | 16538
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone3 | 10177
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.1 | 9248
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.4 | 4209
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10 | 1676
