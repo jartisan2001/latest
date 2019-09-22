@@ -46,6 +46,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone3 | 10177
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.1 | 9248
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.4 | 4209
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10 | 1676
 [elide](https://github.com/yahoo/elide) | 4.5.3 | 591
 [elide](https://github.com/yahoo/elide) | 4.5.4 | 591
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.17 | 267
@@ -116,7 +117,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1789 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1750 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1698 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0.pr3 | 1675 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10 | 1676 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.35.0 | 1614 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1489 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1377 
