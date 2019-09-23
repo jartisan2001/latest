@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10 | 1676
 [elide](https://github.com/yahoo/elide) | 4.5.4 | 591
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.12 | 268
 
 ### 收录列表
 ---
@@ -129,7 +130,7 @@ repo | releases | star
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 563 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 556 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 550 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.17 | 267 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.12 | 268 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 224 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 210 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 146 
