@@ -40,13 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.61 | 19307
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.1 | 9248
-[joda-time](https://github.com/JodaOrg/joda-time) | 2.10.4 | 4209
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10 | 1676
-[elide](https://github.com/yahoo/elide) | 4.5.3 | 591
 [elide](https://github.com/yahoo/elide) | 4.5.4 | 591
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.17 | 267
 
 ### 收录列表
 ---
