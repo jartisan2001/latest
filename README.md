@@ -70,7 +70,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.11.3 | 10637 
 [flink](https://github.com/apache/flink) | 1.8.2 | 10405 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone3 | 10186 
-[hadoop](https://github.com/apache/hadoop) | 3.1.2 | 9598 
+[hadoop](https://github.com/apache/hadoop) | 3.2.1 | 9601 
 [mockito](https://github.com/mockito/mockito) | 3.0.0 | 9421 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.1 | 9277 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 9146 
