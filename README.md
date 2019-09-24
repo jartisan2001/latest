@@ -42,8 +42,6 @@ repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.2 | 37300
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10 | 1676
-[elide](https://github.com/yahoo/elide) | 4.5.4 | 591
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.12 | 268
 
 ### 收录列表
 ---
