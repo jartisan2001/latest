@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.2 | 37300
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10 | 1676
 [elide](https://github.com/yahoo/elide) | 4.5.4 | 591
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.12 | 268
@@ -51,7 +52,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.3.2 | 44290 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.8.RELEASE | 41998 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40534 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.10.0 | 37274 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.2 | 37300 
 [guava](https://github.com/google/guava) | 28.1-jre | 33847 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 29223 
 [netty](https://github.com/netty/netty) | 4.1.41.Final | 20793 
