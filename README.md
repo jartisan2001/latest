@@ -45,7 +45,6 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.11.4 | 10668
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.2 | 9347
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.3 | 9347
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10 | 1676
 
 ### 收录列表
 ---
