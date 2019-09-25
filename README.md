@@ -41,8 +41,10 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.2 | 37300
+[arthas](https://github.com/alibaba/arthas) | 3.1.4 | 16652
 [redisson](https://github.com/redisson/redisson) | 3.11.4 | 10668
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.2 | 9347
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.3 | 9347
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10 | 1676
 
 ### 收录列表
@@ -59,7 +61,7 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.61 | 19373 
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18697 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 18221 
-[arthas](https://github.com/alibaba/arthas) | 3.1.3 | 16650 
+[arthas](https://github.com/alibaba/arthas) | 3.1.4 | 16652 
 [gson](https://github.com/google/gson) | 2.8.5 | 16511 
 [kafka](https://github.com/apache/kafka) | 2.3.0 | 13651 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11882 
@@ -69,7 +71,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone3 | 10200 
 [hadoop](https://github.com/apache/hadoop) | 3.2.1 | 9603 
 [mockito](https://github.com/mockito/mockito) | 3.0.0 | 9436 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.2 | 9347 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.3 | 9347 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 9193 
 [nacos](https://github.com/alibaba/nacos) | 1.1.3 | 8471 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8340 
@@ -104,7 +106,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2642 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.20.v20190813 | 2634 
 [pmd](https://github.com/pmd/pmd) | 6.18.0 | 2470 
-[drools](https://github.com/kiegroup/drools) | 7.26.0.Final | 2458 
+[drools](https://github.com/kiegroup/drools) | 7.27.0.Final | 2458 
 [kylin](https://github.com/apache/kylin) | 3.0.0-alpha2 | 2354 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1916 
 [maven](https://github.com/apache/maven) | 3.6.2 | 1850 
@@ -119,7 +121,7 @@ repo | releases | star
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1156 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 1062 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 1036 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.26.0.Final | 981 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.27.0.Final | 981 
 [struts](https://github.com/apache/struts) | 2.5.20 | 967 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.17 | 964 
 [poi](https://github.com/apache/poi) | 4.1.0 | 836 
