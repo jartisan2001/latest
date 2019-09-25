@@ -61,7 +61,7 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.61 | 19373 
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18697 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 18221 
-[arthas](https://github.com/alibaba/arthas) | 3.1.4 | 16657 
+[arthas](https://github.com/alibaba/arthas) | 3.1.4 | 16668 
 [gson](https://github.com/google/gson) | 2.8.5 | 16511 
 [kafka](https://github.com/apache/kafka) | 2.3.0 | 13651 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11882 
@@ -71,7 +71,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone3 | 10200 
 [hadoop](https://github.com/apache/hadoop) | 3.2.1 | 9603 
 [mockito](https://github.com/mockito/mockito) | 3.0.0 | 9436 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.3 | 9364 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.3 | 9384 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 9193 
 [nacos](https://github.com/alibaba/nacos) | 1.1.3 | 8471 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8340 
