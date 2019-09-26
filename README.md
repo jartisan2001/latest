@@ -47,6 +47,7 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.4 | 9393
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.2 | 9347
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.3 | 9347
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0 | 1681
 
 ### 收录列表
 ---
@@ -114,7 +115,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1793 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1753 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1703 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10 | 1679 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0 | 1681 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.35.0 | 1618 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1493 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1378 
