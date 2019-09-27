@@ -40,12 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.2 | 37300
 [netty](https://github.com/netty/netty) | 4.1.42.Final | 20840
 [arthas](https://github.com/alibaba/arthas) | 3.1.4 | 16652
-[redisson](https://github.com/redisson/redisson) | 3.11.4 | 10668
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.4 | 9393
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.2 | 9347
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.3 | 9347
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0 | 1681
 
