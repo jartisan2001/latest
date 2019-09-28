@@ -40,10 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[netty](https://github.com/netty/netty) | 4.1.42.Final | 20840
-[arthas](https://github.com/alibaba/arthas) | 3.1.4 | 16652
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.4 | 9393
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.3 | 9347
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0 | 1681
 
 ### 收录列表
