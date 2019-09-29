@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.5 | 9475
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0 | 1681
 
 ### 收录列表
 ---
