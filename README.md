@@ -81,7 +81,7 @@ repo | releases | star
 [Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5777 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha1 | 5443 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5438 
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.25 | 4821 
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.25 | 4823 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4299 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.4 | 4216 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.5.Final | 3992 
@@ -111,7 +111,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1759 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1704 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0 | 1683 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1636 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1638 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1497 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1384 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.28 | 1311 
