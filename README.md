@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.0.5 | 9475
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.25 | 4821
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1633
 
