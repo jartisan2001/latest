@@ -111,7 +111,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1759 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1704 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.0 | 1683 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1633 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1636 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1497 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1384 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.28 | 1311 
