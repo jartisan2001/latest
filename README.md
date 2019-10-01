@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[mockito](https://github.com/mockito/mockito) | 3.1.0 | 9459
+[Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M4 | 5781
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.25 | 4821
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.6.Final | 3992
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1633
@@ -48,7 +50,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.3.2 | 44494 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.0 | 44507 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.8.RELEASE | 42194 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40622 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.2 | 37481 
@@ -68,7 +70,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone3 | 10228 
 [hadoop](https://github.com/apache/hadoop) | 3.1.3 | 9634 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.5 | 9561 
-[mockito](https://github.com/mockito/mockito) | 3.0.0 | 9454 
+[mockito](https://github.com/mockito/mockito) | 3.1.0 | 9459 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 9316 
 [nacos](https://github.com/alibaba/nacos) | 1.1.3 | 8564 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8373 
@@ -78,7 +80,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.6.1 | 7519 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 7088 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5858 
-[Activiti](https://github.com/Activiti/Activiti) | 5.23.0 | 5781 
+[Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M4 | 5781 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha1 | 5445 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5440 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.25 | 4822 
