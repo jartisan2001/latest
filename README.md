@@ -45,6 +45,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.25 | 4821
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.6.Final | 3992
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1633
+[slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha1 | 1312
 
 ### 收录列表
 ---
@@ -103,7 +104,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2764 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.5 | 2704 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2646 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.20.v20190813 | 2638 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.21.v20190926 | 2639 
 [pmd](https://github.com/pmd/pmd) | 6.18.0 | 2488 
 [drools](https://github.com/kiegroup/drools) | 7.27.0.Final | 2471 
 [kylin](https://github.com/apache/kylin) | 3.0.0-alpha2 | 2362 
@@ -116,7 +117,7 @@ repo | releases | star
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1639 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1497 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1385 
-[slf4j](https://github.com/qos-ch/slf4j) | 1.7.28 | 1312 
+[slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha1 | 1312 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1162 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 1063 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 1037 
