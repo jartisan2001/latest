@@ -117,7 +117,7 @@ repo | releases | star
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1639 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1497 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1385 
-[slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha1 | 1312 
+[slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha1 | 1313 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1162 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 1063 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 1037 
