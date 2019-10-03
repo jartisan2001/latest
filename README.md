@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.9.RELEASE | 42221
 [mockito](https://github.com/mockito/mockito) | 3.1.0 | 9459
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M4 | 5781
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.25 | 4821
@@ -52,7 +53,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.0 | 44521 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.8.RELEASE | 42220 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.9.RELEASE | 42221 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.12 | 40632 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.2 | 37501 
 [guava](https://github.com/google/guava) | 28.1-jre | 33996 
