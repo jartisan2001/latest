@@ -44,9 +44,6 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.13 | 40637
 [mockito](https://github.com/mockito/mockito) | 3.1.0 | 9459
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M4 | 5781
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.25 | 4821
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.6.Final | 3992
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1633
 [slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha1 | 1312
 
 ### 收录列表
