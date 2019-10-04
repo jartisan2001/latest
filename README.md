@@ -42,8 +42,6 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.9.RELEASE | 42221
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.13 | 40637
-[mockito](https://github.com/mockito/mockito) | 3.1.0 | 9459
-[Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M4 | 5781
 [slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha1 | 1312
 
 ### 收录列表
