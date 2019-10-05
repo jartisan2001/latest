@@ -44,7 +44,6 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.13 | 40637
 [gson](https://github.com/google/gson) | 2.8.6 | 16573
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.2 | 10242
-[slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha1 | 1312
 
 ### 收录列表
 ---
