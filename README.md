@@ -61,7 +61,7 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18774 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 18318 
 [arthas](https://github.com/alibaba/arthas) | 3.1.4 | 16849 
-[gson](https://github.com/google/gson) | 2.8.6 | 16573 
+[gson](https://github.com/google/gson) | 2.8.6 | 16574 
 [kafka](https://github.com/apache/kafka) | 2.3.0 | 13729 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11943 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11203 
