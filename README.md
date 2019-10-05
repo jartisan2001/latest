@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.9.RELEASE | 42221
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.13 | 40637
+[gson](https://github.com/google/gson) | 2.8.6 | 16573
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.2 | 10242
 [slf4j](https://github.com/qos-ch/slf4j) | 2.0.0-alpha1 | 1312
 
@@ -60,7 +61,7 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 18774 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 18318 
 [arthas](https://github.com/alibaba/arthas) | 3.1.4 | 16849 
-[gson](https://github.com/google/gson) | 2.8.5 | 16572 
+[gson](https://github.com/google/gson) | 2.8.6 | 16573 
 [kafka](https://github.com/apache/kafka) | 2.3.0 | 13729 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.2 | 11943 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11203 
