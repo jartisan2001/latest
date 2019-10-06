@@ -40,10 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.9.RELEASE | 42221
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.13 | 40637
 [gson](https://github.com/google/gson) | 2.8.6 | 16573
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.2 | 10242
 
 ### 收录列表
 ---
