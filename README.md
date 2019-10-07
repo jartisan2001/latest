@@ -93,7 +93,7 @@ repo | releases | star
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3076 
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2954 
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2954 
-[camel](https://github.com/apache/camel) | 2.23.4 | 2887 
+[camel](https://github.com/apache/camel) | 3.0.0-RC2 | 2888 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.2 | 2809 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2776 
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2773 
