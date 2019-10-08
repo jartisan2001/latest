@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.62 | 19484
-[gson](https://github.com/google/gson) | 2.8.6 | 16573
 
 ### 收录列表
 ---
