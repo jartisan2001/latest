@@ -89,7 +89,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.5.2 | 3458 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3410 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3385 
-[beam](https://github.com/apache/beam) | 2.15.0 | 3376 
+[beam](https://github.com/apache/beam) | 2.16.0 | 3377 
 [hbase](https://github.com/apache/hbase) | 2.2.1 | 3140 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3078 
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2962 
