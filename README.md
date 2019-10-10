@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.62 | 19484
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.13.Final | 4010
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.3 | 272
 
 ### 收录列表
 ---
@@ -129,7 +130,7 @@ repo | releases | star
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 569 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 562 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 561 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.12 | 272 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.3 | 272 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 225 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 212 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 148 
