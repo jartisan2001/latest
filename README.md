@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.13.Final | 4010
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.3 | 272
 
 ### 收录列表
