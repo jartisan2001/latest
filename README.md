@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.3 | 2821
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.3 | 272
 
 ### 收录列表
@@ -94,7 +95,7 @@ repo | releases | star
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2968 
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2968 
 [camel](https://github.com/apache/camel) | 3.0.0-RC2 | 2898 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.2 | 2821 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.3 | 2821 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2789 
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2778 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.5 | 2713 
