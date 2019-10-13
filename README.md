@@ -103,7 +103,7 @@ repo | releases | star
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.21.v20190926 | 2649 
 [pmd](https://github.com/pmd/pmd) | 6.18.0 | 2502 
 [drools](https://github.com/kiegroup/drools) | 7.27.0.Final | 2487 
-[kylin](https://github.com/apache/kylin) | 3.0.0-alpha2 | 2379 
+[kylin](https://github.com/apache/kylin) | 2.6.4 | 2379 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1929 
 [maven](https://github.com/apache/maven) | 3.6.2 | 1872 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1802 
