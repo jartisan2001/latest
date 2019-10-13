@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.3 | 2821
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.3 | 272
 
 ### 收录列表
 ---
