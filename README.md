@@ -41,6 +41,8 @@
 repo | releases | star
 ---|---|---
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.4 | 2825
+[drools](https://github.com/kiegroup/drools) | 7.28.0.Final | 2497
+[jbpm](https://github.com/kiegroup/jbpm) | 7.28.0.Final | 995
 
 ### 收录列表
 ---
@@ -74,7 +76,7 @@ repo | releases | star
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7837 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7659 
 [jib](https://github.com/GoogleContainerTools/jib) | 1.6.1 | 7625 
-[zookeeper](https://github.com/apache/zookeeper) | 3.5.5 | 7161 
+[zookeeper](https://github.com/apache/zookeeper) | 3.5.6 | 7164 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5873 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M4 | 5820 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5487 
@@ -101,7 +103,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2668 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.21.v20190926 | 2653 
 [pmd](https://github.com/pmd/pmd) | 6.18.0 | 2510 
-[drools](https://github.com/kiegroup/drools) | 7.27.0.Final | 2496 
+[drools](https://github.com/kiegroup/drools) | 7.28.0.Final | 2497 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2386 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1933 
 [maven](https://github.com/apache/maven) | 3.6.2 | 1877 
@@ -116,7 +118,7 @@ repo | releases | star
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1163 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 1078 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 1038 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.27.0.Final | 994 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.28.0.Final | 995 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.17 | 971 
 [struts](https://github.com/apache/struts) | 2.5.20 | 969 
 [poi](https://github.com/apache/poi) | 4.1.0 | 842 
