@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.4 | 2825
 [drools](https://github.com/kiegroup/drools) | 7.28.0.Final | 2497
+[jackson](https://github.com/FasterXML/jackson-core) | 2.6.7.3 | 1689
 [jbpm](https://github.com/kiegroup/jbpm) | 7.28.0.Final | 995
 
 ### 收录列表
@@ -110,7 +111,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1805 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1765 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1710 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.0 | 1689 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.6.7.3 | 1689 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1679 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1517 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1399 
