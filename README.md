@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.0.RELEASE | 42525
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.4 | 2825
 [drools](https://github.com/kiegroup/drools) | 7.28.0.Final | 2497
 [jackson](https://github.com/FasterXML/jackson-core) | 2.6.7.3 | 1689
@@ -50,7 +51,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.0 | 44799 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.9.RELEASE | 42524 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.0.RELEASE | 42525 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.13 | 40752 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.2 | 37738 
 [guava](https://github.com/google/guava) | 28.1-jre | 34186 
