@@ -48,6 +48,7 @@ repo | releases | star
 [drools](https://github.com/kiegroup/drools) | 7.28.0.Final | 2497
 [jackson](https://github.com/FasterXML/jackson-core) | 2.6.7.3 | 1689
 [jbpm](https://github.com/kiegroup/jbpm) | 7.28.0.Final | 995
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc0 | 274
 
 ### 收录列表
 ---
@@ -79,8 +80,8 @@ repo | releases | star
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8440 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 8124 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7853 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.7.0 | 7668 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7662 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.7.0 | 7658 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.6 | 7171 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5878 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M4 | 5827 
@@ -101,7 +102,7 @@ repo | releases | star
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2992 
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2992 
 [camel](https://github.com/apache/camel) | 3.0.0-RC2 | 2909 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.5 | 2838 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.5 | 2840 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2802 
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2792 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.5 | 2720 
@@ -135,7 +136,7 @@ repo | releases | star
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 570 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 565 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 564 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.3 | 274 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc0 | 274 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 224 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 213 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 149 
