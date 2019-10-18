@@ -41,6 +41,9 @@
 repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.0.RELEASE | 42525
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.3 | 10328
+[jib](https://github.com/GoogleContainerTools/jib) | 1.7.0 | 7658
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.5 | 2838
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.4 | 2825
 [drools](https://github.com/kiegroup/drools) | 7.28.0.Final | 2497
 [jackson](https://github.com/FasterXML/jackson-core) | 2.6.7.3 | 1689
@@ -67,7 +70,7 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11278 
 [redisson](https://github.com/redisson/redisson) | 3.11.4 | 10897 
 [flink](https://github.com/apache/flink) | 1.8.2 | 10672 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.2 | 10327 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.3 | 10328 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.0.5 | 10076 
 [hadoop](https://github.com/apache/hadoop) | 3.1.3 | 9705 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 9659 
@@ -77,7 +80,7 @@ repo | releases | star
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 8124 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7853 
 [junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7662 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.6.1 | 7657 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.7.0 | 7658 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.6 | 7171 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5878 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M4 | 5827 
@@ -98,7 +101,7 @@ repo | releases | star
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 2992 
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 2992 
 [camel](https://github.com/apache/camel) | 3.0.0-RC2 | 2909 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.4 | 2838 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.5 | 2838 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2802 
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2792 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 1.3.5 | 2720 
