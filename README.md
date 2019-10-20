@@ -44,6 +44,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.3 | 10328
 [jib](https://github.com/GoogleContainerTools/jib) | 1.7.0 | 7658
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.5 | 2838
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20191020 | 1691
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc0 | 274
 
 ### 收录列表
@@ -112,7 +113,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1807 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1767 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1717 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.6.7.3 | 1691 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20191020 | 1691 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1687 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1523 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1408 
