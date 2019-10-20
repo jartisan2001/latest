@@ -123,7 +123,7 @@ repo | releases | star
 [jbpm](https://github.com/kiegroup/jbpm) | 7.28.0.Final | 996 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.17 | 976 
 [struts](https://github.com/apache/struts) | 2.5.20 | 969 
-[poi](https://github.com/apache/poi) | 4.1.0 | 842 
+[poi](https://github.com/apache/poi) | 4.1.1 | 842 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.12.1 | 822 
 [mina](https://github.com/apache/mina) | 2.1.3 | 717 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 634 
