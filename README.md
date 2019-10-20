@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.0.RELEASE | 42525
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.3 | 10328
 [jib](https://github.com/GoogleContainerTools/jib) | 1.7.0 | 7658
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.5 | 2838
