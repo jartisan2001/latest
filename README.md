@@ -41,12 +41,8 @@
 repo | releases | star
 ---|---|---
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.3 | 12029
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.3 | 10328
-[jib](https://github.com/GoogleContainerTools/jib) | 1.7.0 | 7658
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.5 | 2838
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2724
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20191020 | 1691
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc0 | 274
 
 ### 收录列表
 ---
