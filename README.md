@@ -42,6 +42,8 @@ repo | releases | star
 ---|---|---
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.3 | 12029
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta1 | 10160
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.7.Final | 4028
+[junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3485
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2724
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20191020 | 1691
 
@@ -85,10 +87,10 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.25 | 4864 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4312 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.4 | 4230 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.13.Final | 4028 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.7.Final | 4028 
 [tomcat](https://github.com/apache/tomcat) | 8.5.47 | 3885 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3524 
-[junit5](https://github.com/junit-team/junit5) | 5.5.2 | 3484 
+[junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3485 
 [groovy](https://github.com/apache/groovy) | 3.0.0-beta-3 | 3427 
 [beam](https://github.com/apache/beam) | 2.16.0 | 3421 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3391 
