@@ -41,11 +41,13 @@
 repo | releases | star
 ---|---|---
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.3 | 12029
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta2 | 10218
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta1 | 10160
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.7.Final | 4028
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3485
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2724
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20191020 | 1691
+[elide](https://github.com/yahoo/elide) | 4.5.6 | 599
 
 ### 收录列表
 ---
@@ -69,7 +71,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.11.4 | 10942 
 [flink](https://github.com/apache/flink) | 1.9.1 | 10723 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.3 | 10343 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta1 | 10218 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta2 | 10218 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 9774 
 [hadoop](https://github.com/apache/hadoop) | 3.1.3 | 9725 
 [mockito](https://github.com/mockito/mockito) | 3.1.0 | 9548 
@@ -128,7 +130,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.12.1 | 824 
 [mina](https://github.com/apache/mina) | 2.1.3 | 717 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 634 
-[elide](https://github.com/yahoo/elide) | 4.5.4 | 599 
+[elide](https://github.com/yahoo/elide) | 4.5.6 | 599 
 [cxf](https://github.com/apache/cxf) | 3.3.3 | 594 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 571 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 565 
