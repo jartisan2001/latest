@@ -46,6 +46,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.7.Final | 4028
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3485
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2724
+[logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1722
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20191020 | 1691
 [elide](https://github.com/yahoo/elide) | 4.5.6 | 599
 
@@ -114,7 +115,7 @@ repo | releases | star
 [maven](https://github.com/apache/maven) | 3.6.2 | 1880 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1812 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1769 
-[logback](https://github.com/qos-ch/logback) | 1.3.0-alpha4 | 1721 
+[logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1722 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1696 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20191020 | 1694 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1527 
