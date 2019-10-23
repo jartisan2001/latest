@@ -40,14 +40,11 @@
 ---
 repo | releases | star
 ---|---|---
-[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.3 | 12029
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta2 | 10218
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta1 | 10160
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.7.Final | 4028
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3485
-[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2724
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1722
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20191020 | 1691
 [elide](https://github.com/yahoo/elide) | 4.5.6 | 599
 
 ### 收录列表
