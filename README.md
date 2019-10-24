@@ -44,7 +44,6 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.1 | 44947
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta3 | 10277
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta2 | 10218
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta1 | 10160
 [nacos](https://github.com/alibaba/nacos) | 1.1.4 | 8867
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.7.Final | 4028
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3485
