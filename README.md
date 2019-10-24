@@ -45,6 +45,7 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta3 | 10277
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta2 | 10218
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta1 | 10160
+[nacos](https://github.com/alibaba/nacos) | 1.1.4 | 8867
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.7.Final | 4028
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3485
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.22.v20191022 | 2666
@@ -77,7 +78,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 9790 
 [hadoop](https://github.com/apache/hadoop) | 3.1.3 | 9728 
 [mockito](https://github.com/mockito/mockito) | 3.1.0 | 9556 
-[nacos](https://github.com/alibaba/nacos) | 1.1.3 | 8849 
+[nacos](https://github.com/alibaba/nacos) | 1.1.4 | 8867 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8462 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 8162 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7873 
