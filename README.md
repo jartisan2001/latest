@@ -47,6 +47,7 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta1 | 10160
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.7.Final | 4028
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3485
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.22.v20191022 | 2666
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1722
 [elide](https://github.com/yahoo/elide) | 4.5.6 | 599
 
@@ -107,7 +108,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2807 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2730 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2682 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.21.v20190926 | 2666 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.22.v20191022 | 2666 
 [pmd](https://github.com/pmd/pmd) | 6.18.0 | 2523 
 [drools](https://github.com/kiegroup/drools) | 7.28.0.Final | 2517 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2392 
