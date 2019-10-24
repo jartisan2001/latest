@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.4 | 44947
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.1 | 44947
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta3 | 10277
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta2 | 10218
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta1 | 10160
@@ -52,7 +54,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.1 | 44946 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.1 | 44947 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.0.RELEASE | 42723 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.13 | 40807 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.2 | 37931 
