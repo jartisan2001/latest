@@ -42,9 +42,12 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.4 | 44947
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.1 | 44947
+[netty](https://github.com/netty/netty) | 4.1.43.Final | 21239
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta4 | 10333
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta3 | 10277
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta2 | 10218
 [nacos](https://github.com/alibaba/nacos) | 1.1.4 | 8867
+[joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4236
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.7.Final | 4028
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3485
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.22.v20191022 | 2666
@@ -61,19 +64,19 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.2 | 37960 
 [guava](https://github.com/google/guava) | 28.1-jre | 34325 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 29690 
-[netty](https://github.com/netty/netty) | 4.1.43.Final | 21238 
+[netty](https://github.com/netty/netty) | 4.1.43.Final | 21239 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.62 | 19663 
 [druid](https://github.com/alibaba/druid) | 1.1.20 | 19002 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 18625 
 [arthas](https://github.com/alibaba/arthas) | 3.1.4 | 17239 
 [gson](https://github.com/google/gson) | 2.8.6 | 16706 
-[kafka](https://github.com/apache/kafka) | 2.3.0 | 13923 
+[kafka](https://github.com/apache/kafka) | 2.3.1 | 13924 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.3 | 12082 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11334 
 [redisson](https://github.com/redisson/redisson) | 3.11.4 | 10969 
 [flink](https://github.com/apache/flink) | 1.9.1 | 10750 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.3 | 10348 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta4 | 10332 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta4 | 10333 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 9816 
 [hadoop](https://github.com/apache/hadoop) | 3.1.3 | 9735 
 [mockito](https://github.com/mockito/mockito) | 3.1.0 | 9563 
