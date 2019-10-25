@@ -53,6 +53,7 @@ repo | releases | star
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.22.v20191022 | 2666
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1722
 [elide](https://github.com/yahoo/elide) | 4.5.6 | 599
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc1 | 276
 
 ### 收录列表
 ---
@@ -140,7 +141,7 @@ repo | releases | star
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 571 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 565 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 565 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc0 | 276 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc1 | 276 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 226 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 213 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 150 
