@@ -40,19 +40,13 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.4 | 44947
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.1 | 44947
 [netty](https://github.com/netty/netty) | 4.1.43.Final | 21239
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta4 | 10333
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta3 | 10277
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta2 | 10218
 [nacos](https://github.com/alibaba/nacos) | 1.1.4 | 8867
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4236
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.7.Final | 4028
-[junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3485
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.22.v20191022 | 2666
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1722
-[elide](https://github.com/yahoo/elide) | 4.5.6 | 599
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc1 | 276
 
 ### 收录列表
