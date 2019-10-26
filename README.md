@@ -40,15 +40,12 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.1 | 44947
 [netty](https://github.com/netty/netty) | 4.1.43.Final | 21239
 [redisson](https://github.com/redisson/redisson) | 3.11.5 | 10986
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta4 | 10333
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta3 | 10277
 [nacos](https://github.com/alibaba/nacos) | 1.1.4 | 8867
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4236
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-1 | 3431
-[logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1722
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc1 | 276
 
 ### 收录列表
