@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.1 | 44947
 [netty](https://github.com/netty/netty) | 4.1.43.Final | 21239
+[redisson](https://github.com/redisson/redisson) | 3.11.5 | 10986
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta4 | 10333
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta3 | 10277
 [nacos](https://github.com/alibaba/nacos) | 1.1.4 | 8867
@@ -69,7 +70,7 @@ repo | releases | star
 [kafka](https://github.com/apache/kafka) | 2.3.1 | 13931 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.3 | 12091 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11343 
-[redisson](https://github.com/redisson/redisson) | 3.11.4 | 10983 
+[redisson](https://github.com/redisson/redisson) | 3.11.5 | 10986 
 [flink](https://github.com/apache/flink) | 1.9.1 | 10765 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta4 | 10384 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.3 | 10358 
