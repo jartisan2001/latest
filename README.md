@@ -40,12 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
-[netty](https://github.com/netty/netty) | 4.1.43.Final | 21239
 [redisson](https://github.com/redisson/redisson) | 3.11.5 | 10986
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta4 | 10333
-[nacos](https://github.com/alibaba/nacos) | 1.1.4 | 8867
 [junit4](https://github.com/junit-team/junit4) | 4.13-rc-1 | 7676
-[joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4236
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-1 | 3431
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc1 | 276
 
