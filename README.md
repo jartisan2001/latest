@@ -44,6 +44,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.11.5 | 10986
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta4 | 10333
 [nacos](https://github.com/alibaba/nacos) | 1.1.4 | 8867
+[junit4](https://github.com/junit-team/junit4) | 4.13-rc-1 | 7676
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4236
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-1 | 3431
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc1 | 276
@@ -79,7 +80,7 @@ repo | releases | star
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 8183 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7885 
 [jib](https://github.com/GoogleContainerTools/jib) | 1.7.0 | 7740 
-[junit4](https://github.com/junit-team/junit4) | 4.13-beta-3 | 7676 
+[junit4](https://github.com/junit-team/junit4) | 4.13-rc-1 | 7676 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.6 | 7213 
 [storm](https://github.com/apache/storm) | 1.2.3 | 5887 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M4 | 5858 
@@ -95,7 +96,7 @@ repo | releases | star
 [beam](https://github.com/apache/beam) | 2.16.0 | 3433 
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-1 | 3431 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3396 
-[hbase](https://github.com/apache/hbase) | 1.4.11 | 3188 
+[hbase](https://github.com/apache/hbase) | 2.2.2 | 3187 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3122 
 [lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 3020 
 [solr](https://github.com/apache/lucene-solr) | 8.2.0 | 3020 
