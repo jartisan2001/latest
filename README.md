@@ -43,8 +43,6 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.11.5 | 10986
 [junit4](https://github.com/junit-team/junit4) | 4.13-rc-1 | 7676
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.26 | 4879
-[groovy](https://github.com/apache/groovy) | 3.0.0-rc-1 | 3431
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc1 | 276
 
 ### 收录列表
 ---
