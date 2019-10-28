@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.11.5 | 10986
 [junit4](https://github.com/junit-team/junit4) | 4.13-rc-1 | 7676
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.26 | 4879
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-1 | 3431
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc1 | 276
 
@@ -82,7 +83,7 @@ repo | releases | star
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M4 | 5861 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5531 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha1 | 5508 
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.25 | 4879 
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.26 | 4879 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4318 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4240 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.7.Final | 4035 
