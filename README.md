@@ -40,8 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[redisson](https://github.com/redisson/redisson) | 3.11.5 | 10986
-[junit4](https://github.com/junit-team/junit4) | 4.13-rc-1 | 7676
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.26 | 4879
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.8.Final | 4037
 
@@ -139,6 +137,7 @@ repo | releases | star
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 81 
 [hessian](https://github.com/ebourg/hessian) | 4.0.62 | 68 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 42 
+[shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0-RC2 | 0 
 
 
 ### 重构之美的订阅号
