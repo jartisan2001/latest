@@ -43,6 +43,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.11.5 | 10986
 [junit4](https://github.com/junit-team/junit4) | 4.13-rc-1 | 7676
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.26 | 4879
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.8.Final | 4037
 
 ### 收录列表
 ---
@@ -84,7 +85,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.26 | 4882 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4318 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4238 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.7.Final | 4035 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.8.Final | 4037 
 [tomcat](https://github.com/apache/tomcat) | 8.5.47 | 3909 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3543 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3499 
