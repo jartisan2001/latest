@@ -80,7 +80,7 @@ repo | releases | star
 [storm](https://github.com/apache/storm) | 1.2.3 | 5890 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M4 | 5867 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5546 
-[cassandra](https://github.com/apache/cassandra) | 4.0-alpha1 | 5512 
+[cassandra](https://github.com/apache/cassandra) | 4.0-alpha2 | 5512 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.26 | 4886 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4320 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4239 
