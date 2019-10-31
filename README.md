@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.26 | 4879
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.8.Final | 4037
 
 ### 收录列表
