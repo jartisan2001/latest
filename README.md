@@ -67,7 +67,7 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.0-beta4 | 10521 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.3 | 10374 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 9917 
-[hadoop](https://github.com/apache/hadoop) | 3.1.3 | 9754 
+[hadoop](https://github.com/apache/hadoop) | 2.10.0 | 9756 
 [mockito](https://github.com/mockito/mockito) | 3.1.0 | 9584 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0-RC2 | 9027 
 [nacos](https://github.com/alibaba/nacos) | 1.1.4 | 8939 
