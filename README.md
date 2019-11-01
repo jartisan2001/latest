@@ -44,6 +44,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.8.Final | 4037
 [pmd](https://github.com/pmd/pmd) | 6.19.0 | 2531
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.29 | 1331
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc2 | 279
 
 ### 收录列表
 ---
@@ -79,7 +80,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 1.7.0 | 7786 
 [junit4](https://github.com/junit-team/junit4) | 4.13-rc-1 | 7683 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.6 | 7234 
-[storm](https://github.com/apache/storm) | 1.2.3 | 5891 
+[storm](https://github.com/apache/storm) | 2.1.0 | 5892 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M4 | 5877 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5558 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha2 | 5514 
@@ -105,7 +106,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2701 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.22.v20191022 | 2675 
 [drools](https://github.com/kiegroup/drools) | 7.28.0.Final | 2538 
-[pmd](https://github.com/pmd/pmd) | 6.19.0 | 2531 
+[pmd](https://github.com/pmd/pmd) | 6.19.0 | 2533 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2409 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1952 
 [maven](https://github.com/apache/maven) | 3.6.2 | 1897 
@@ -132,7 +133,7 @@ repo | releases | star
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 571 
 [github-api](https://github.com/kohsuke/github-api) | 1.95 | 570 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 567 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc1 | 278 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc2 | 279 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 228 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 213 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 149 
