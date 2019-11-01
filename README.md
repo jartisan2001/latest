@@ -40,8 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.2 | 45132
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.8.Final | 4037
 [pmd](https://github.com/pmd/pmd) | 6.19.0 | 2531
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.29 | 1331
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc2 | 279
