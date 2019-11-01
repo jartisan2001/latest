@@ -40,14 +40,16 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.2 | 45132
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.8.Final | 4037
+[pmd](https://github.com/pmd/pmd) | 6.19.0 | 2531
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.29 | 1331
 
 ### 收录列表
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.2 | 45130 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.2 | 45132 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.0.RELEASE | 42930 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.13 | 40889 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.2 | 38170 
@@ -103,7 +105,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2701 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.22.v20191022 | 2675 
 [drools](https://github.com/kiegroup/drools) | 7.28.0.Final | 2538 
-[pmd](https://github.com/pmd/pmd) | 6.18.0 | 2531 
+[pmd](https://github.com/pmd/pmd) | 6.19.0 | 2531 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2409 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1952 
 [maven](https://github.com/apache/maven) | 3.6.2 | 1897 
