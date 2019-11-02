@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[lucene](https://github.com/apache/lucene-solr) | 8.3.0 | 3035
+[solr](https://github.com/apache/lucene-solr) | 8.3.0 | 3035
 [pmd](https://github.com/pmd/pmd) | 6.19.0 | 2531
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.29 | 1331
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc2 | 279
@@ -94,8 +96,8 @@ repo | releases | star
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3401 
 [hbase](https://github.com/apache/hbase) | 2.2.2 | 3204 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3134 
-[lucene](https://github.com/apache/lucene-solr) | 8.2.0 | 3032 
-[solr](https://github.com/apache/lucene-solr) | 8.2.0 | 3032 
+[lucene](https://github.com/apache/lucene-solr) | 8.3.0 | 3035 
+[solr](https://github.com/apache/lucene-solr) | 8.3.0 | 3035 
 [camel](https://github.com/apache/camel) | 3.0.0-RC3 | 2935 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.5 | 2889 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2831 
