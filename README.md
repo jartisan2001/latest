@@ -41,10 +41,7 @@
 repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.14 | 40904
-[lucene](https://github.com/apache/lucene-solr) | 8.3.0 | 3035
-[solr](https://github.com/apache/lucene-solr) | 8.3.0 | 3035
 [pmd](https://github.com/pmd/pmd) | 6.19.0 | 2531
-[slf4j](https://github.com/qos-ch/slf4j) | 1.7.29 | 1331
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc2 | 279
 
 ### 收录列表
