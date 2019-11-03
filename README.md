@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.14 | 40904
+[druid](https://github.com/alibaba/druid) | 1.1.21 | 19112
 [pmd](https://github.com/pmd/pmd) | 6.19.0 | 2531
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc2 | 279
 
@@ -56,7 +57,7 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 29813 
 [netty](https://github.com/netty/netty) | 4.1.43.Final | 21367 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.62 | 19752 
-[druid](https://github.com/alibaba/druid) | 1.1.20 | 19108 
+[druid](https://github.com/alibaba/druid) | 1.1.21 | 19112 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 18808 
 [arthas](https://github.com/alibaba/arthas) | 3.1.4 | 17428 
 [gson](https://github.com/google/gson) | 2.8.6 | 16757 
