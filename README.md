@@ -42,8 +42,6 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.14 | 40904
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 19112
-[pmd](https://github.com/pmd/pmd) | 6.19.0 | 2531
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc2 | 279
 
 ### 收录列表
 ---
