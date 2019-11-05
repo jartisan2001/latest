@@ -43,6 +43,7 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.14 | 40904
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 19112
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.1 | 10692
+[github-api](https://github.com/kohsuke/github-api) | 1.99 | 573
 
 ### 收录列表
 ---
@@ -128,7 +129,7 @@ repo | releases | star
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 634 
 [elide](https://github.com/yahoo/elide) | 4.5.6 | 603 
 [cxf](https://github.com/apache/cxf) | 3.2.11 | 597 
-[github-api](https://github.com/kohsuke/github-api) | 1.95 | 573 
+[github-api](https://github.com/kohsuke/github-api) | 1.99 | 573 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 571 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 568 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc2 | 281 
