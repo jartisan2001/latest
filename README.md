@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.14 | 40904
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 19112
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.1 | 10692
 [github-api](https://github.com/kohsuke/github-api) | 1.99 | 573
