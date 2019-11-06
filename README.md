@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 19112
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.1 | 10692
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.6 | 3002
 [drools](https://github.com/kiegroup/drools) | 7.29.0.Final | 2543
 [jbpm](https://github.com/kiegroup/jbpm) | 7.29.0.Final | 1008
 [github-api](https://github.com/kohsuke/github-api) | 1.99 | 573
@@ -98,7 +99,7 @@ repo | releases | star
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3142 
 [lucene](https://github.com/apache/lucene-solr) | 8.3.0 | 3038 
 [solr](https://github.com/apache/lucene-solr) | 8.3.0 | 3038 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.5 | 2997 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.6 | 3002 
 [camel](https://github.com/apache/camel) | 3.0.0-RC3 | 2943 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2838 
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2830 
