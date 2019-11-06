@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[druid](https://github.com/alibaba/druid) | 1.1.21 | 19112
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.1 | 10692
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.6 | 3002
 [drools](https://github.com/kiegroup/drools) | 7.29.0.Final | 2543
