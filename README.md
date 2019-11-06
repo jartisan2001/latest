@@ -42,6 +42,8 @@ repo | releases | star
 ---|---|---
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 19112
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.1 | 10692
+[drools](https://github.com/kiegroup/drools) | 7.29.0.Final | 2543
+[jbpm](https://github.com/kiegroup/jbpm) | 7.29.0.Final | 1008
 [github-api](https://github.com/kohsuke/github-api) | 1.99 | 573
 
 ### 收录列表
@@ -103,7 +105,7 @@ repo | releases | star
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2747 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2705 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.22.v20191022 | 2682 
-[drools](https://github.com/kiegroup/drools) | 7.28.0.Final | 2543 
+[drools](https://github.com/kiegroup/drools) | 7.29.0.Final | 2543 
 [pmd](https://github.com/pmd/pmd) | 6.19.0 | 2540 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2417 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1953 
@@ -119,7 +121,7 @@ repo | releases | star
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1169 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 1100 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 1046 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.28.0.Final | 1008 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.29.0.Final | 1008 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.17 | 989 
 [struts](https://github.com/apache/struts) | 2.5.20 | 973 
 [poi](https://github.com/apache/poi) | 4.1.1 | 857 
