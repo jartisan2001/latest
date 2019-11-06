@@ -46,6 +46,7 @@ repo | releases | star
 [drools](https://github.com/kiegroup/drools) | 7.29.0.Final | 2543
 [jbpm](https://github.com/kiegroup/jbpm) | 7.29.0.Final | 1008
 [github-api](https://github.com/kohsuke/github-api) | 1.99 | 573
+[hessian](https://github.com/ebourg/hessian) | 4.0.63 | 68
 
 ### 收录列表
 ---
@@ -99,7 +100,7 @@ repo | releases | star
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3142 
 [lucene](https://github.com/apache/lucene-solr) | 8.3.0 | 3038 
 [solr](https://github.com/apache/lucene-solr) | 8.3.0 | 3038 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.6 | 3002 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.6 | 3009 
 [camel](https://github.com/apache/camel) | 3.0.0-RC3 | 2943 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2838 
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2830 
@@ -140,7 +141,7 @@ repo | releases | star
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 149 
 [commons-compress](https://github.com/apache/commons-compress) | 1.19 | 131 
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 81 
-[hessian](https://github.com/ebourg/hessian) | 4.0.62 | 68 
+[hessian](https://github.com/ebourg/hessian) | 4.0.63 | 68 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 42 
 
 
