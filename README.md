@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.1.RELEASE | 43106
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.10.RELEASE | 43086
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.1 | 10692
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.6 | 3002
 [jetty server](https://github.com/eclipse/jetty.project) | 9.2.29.v20191105 | 2683
 [jetty server](https://github.com/eclipse/jetty.project) | 9.3.28.v20191105 | 2683
