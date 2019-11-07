@@ -40,12 +40,16 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.1.RELEASE | 43106
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.10.RELEASE | 43086
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.1 | 10692
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.6 | 3002
+[jetty server](https://github.com/eclipse/jetty.project) | 9.2.29.v20191105 | 2683
+[jetty server](https://github.com/eclipse/jetty.project) | 9.3.28.v20191105 | 2683
 [drools](https://github.com/kiegroup/drools) | 7.29.0.Final | 2543
 [jbpm](https://github.com/kiegroup/jbpm) | 7.29.0.Final | 1008
 [github-api](https://github.com/kohsuke/github-api) | 1.99 | 573
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.18 | 283
 [hessian](https://github.com/ebourg/hessian) | 4.0.63 | 68
 
 ### 收录列表
@@ -53,7 +57,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.4.2 | 45238 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.10.RELEASE | 43088 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.1.RELEASE | 43106 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.14 | 40941 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.9.2 | 38268 
 [guava](https://github.com/google/guava) | 28.1-jre | 34482 
@@ -106,7 +110,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2831 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2746 
 [shiro](https://github.com/apache/shiro) | 1.4.1 | 2705 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.22.v20191022 | 2683 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.3.28.v20191105 | 2683 
 [drools](https://github.com/kiegroup/drools) | 7.29.0.Final | 2545 
 [pmd](https://github.com/pmd/pmd) | 6.19.0 | 2542 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2418 
@@ -135,7 +139,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.99 | 575 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 572 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 570 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc2 | 283 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.18 | 283 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 228 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 214 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 149 
