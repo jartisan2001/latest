@@ -49,6 +49,7 @@ repo | releases | star
 [drools](https://github.com/kiegroup/drools) | 7.29.0.Final | 2543
 [jbpm](https://github.com/kiegroup/jbpm) | 7.29.0.Final | 1008
 [github-api](https://github.com/kohsuke/github-api) | 1.99 | 573
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc3 | 284
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.18 | 283
 [hessian](https://github.com/ebourg/hessian) | 4.0.63 | 68
 
@@ -139,7 +140,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.99 | 575 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 572 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 570 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.18 | 284 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc3 | 284 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 229 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 214 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 149 
