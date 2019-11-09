@@ -41,16 +41,11 @@
 repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.1.RELEASE | 43106
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.10.RELEASE | 43086
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.2 | 10799
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.14.Final | 4057
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.6 | 3002
-[jetty server](https://github.com/eclipse/jetty.project) | 9.2.29.v20191105 | 2683
-[jetty server](https://github.com/eclipse/jetty.project) | 9.3.28.v20191105 | 2683
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.13 | 286
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc3 | 284
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.18 | 283
-[hessian](https://github.com/ebourg/hessian) | 4.0.63 | 68
 
 ### 收录列表
 ---
