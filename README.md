@@ -43,6 +43,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.1.RELEASE | 43106
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.10.RELEASE | 43086
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.2 | 10799
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.14.Final | 4057
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.6 | 3002
 [jetty server](https://github.com/eclipse/jetty.project) | 9.2.29.v20191105 | 2683
 [jetty server](https://github.com/eclipse/jetty.project) | 9.3.28.v20191105 | 2683
@@ -91,7 +92,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.26 | 4908 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4334 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4256 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.8.Final | 4057 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.14.Final | 4057 
 [tomcat](https://github.com/apache/tomcat) | 8.5.47 | 3944 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3570 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3527 
