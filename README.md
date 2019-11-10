@@ -43,6 +43,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.1.RELEASE | 43106
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.2 | 10799
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.14.Final | 4057
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.1 | 1701
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.13 | 286
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc3 | 284
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.18 | 283
@@ -115,7 +116,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1833 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1788 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1735 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20191020 | 1701 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.1 | 1701 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1549 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1428 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.29 | 1335 
