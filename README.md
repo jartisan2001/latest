@@ -40,10 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.14.Final | 4057
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.1 | 1701
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.13 | 286
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0-rc3 | 284
 
 ### 收录列表
 ---
