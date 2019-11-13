@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.1 | 1701
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.4 | 286
 
 ### 收录列表
