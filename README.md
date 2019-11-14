@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.3 | 10942
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.4 | 286
 
 ### 收录列表
@@ -63,7 +64,7 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11487 
 [redisson](https://github.com/redisson/redisson) | 3.11.5 | 11174 
 [flink](https://github.com/apache/flink) | 1.9.1 | 10997 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.2 | 10915 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.3 | 10942 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.3 | 10431 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 10181 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 9817 
@@ -99,7 +100,7 @@ repo | releases | star
 [hive](https://github.com/apache/hive) | 3.1.2 | 2855 
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2842 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2760 
-[shiro](https://github.com/apache/shiro) | 1.4.1 | 2715 
+[shiro](https://github.com/apache/shiro) | 1.4.2 | 2714 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.3.28.v20191105 | 2688 
 [drools](https://github.com/kiegroup/drools) | 7.29.0.Final | 2563 
 [pmd](https://github.com/pmd/pmd) | 6.19.0 | 2552 
