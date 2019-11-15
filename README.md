@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.3 | 10942
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.9.Final | 4062
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.4 | 286
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0 | 286
 
 ### 收录列表
