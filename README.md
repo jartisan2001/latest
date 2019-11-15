@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.3 | 10942
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.9.Final | 4062
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.4 | 286
 
 ### 收录列表
@@ -84,7 +85,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.26 | 4917 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4336 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4261 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.14.Final | 4061 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.9.Final | 4062 
 [tomcat](https://github.com/apache/tomcat) | 8.5.47 | 3962 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3582 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3536 
