@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.3 | 10942
+[jib](https://github.com/GoogleContainerTools/jib) | 1.8.0 | 7904
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.9.Final | 4062
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0 | 286
 
@@ -75,7 +76,7 @@ repo | releases | star
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8527 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 8303 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7950 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.7.0 | 7889 
+[jib](https://github.com/GoogleContainerTools/jib) | 1.8.0 | 7904 
 [junit4](https://github.com/junit-team/junit4) | 4.13-rc-1 | 7691 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.6 | 7306 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M4 | 5939 
