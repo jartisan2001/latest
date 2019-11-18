@@ -41,8 +41,6 @@
 repo | releases | star
 ---|---|---
 [jib](https://github.com/GoogleContainerTools/jib) | 1.8.0 | 7904
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.9.Final | 4062
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0 | 286
 
 ### 收录列表
 ---
