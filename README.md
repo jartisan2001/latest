@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[jib](https://github.com/GoogleContainerTools/jib) | 1.8.0 | 7904
 [elide](https://github.com/yahoo/elide) | 4.5.7 | 612
 
 ### 收录列表
