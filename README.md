@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [jib](https://github.com/GoogleContainerTools/jib) | 1.8.0 | 7904
+[elide](https://github.com/yahoo/elide) | 4.5.7 | 612
 
 ### 收录列表
 ---
@@ -124,7 +125,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.12.1 | 842 
 [mina](https://github.com/apache/mina) | 2.1.3 | 719 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 635 
-[elide](https://github.com/yahoo/elide) | 4.5.6 | 612 
+[elide](https://github.com/yahoo/elide) | 4.5.7 | 612 
 [cxf](https://github.com/apache/cxf) | 3.2.11 | 601 
 [github-api](https://github.com/kohsuke/github-api) | 1.99 | 580 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 574 
