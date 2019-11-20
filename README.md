@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.23.v20191118 | 2690
 [elide](https://github.com/yahoo/elide) | 4.5.7 | 612
 
 ### 收录列表
@@ -100,7 +101,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2849 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2769 
 [shiro](https://github.com/apache/shiro) | 1.4.2 | 2721 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.3.28.v20191105 | 2690 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.23.v20191118 | 2690 
 [drools](https://github.com/kiegroup/drools) | 7.29.0.Final | 2576 
 [pmd](https://github.com/pmd/pmd) | 6.19.0 | 2571 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2438 
