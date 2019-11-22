@@ -40,17 +40,22 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.5 | 45521
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-1 | 38574
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.4 | 10462
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.M1 | 3095
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.23.v20191118 | 2690
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.24.v20191120 | 2690
 [elide](https://github.com/yahoo/elide) | 4.5.7 | 612
 
 ### 收录列表
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.5 | 45520 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.5 | 45521 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.1.RELEASE | 43517 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.14 | 41098 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-1 | 38568 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-1 | 38574 
 [guava](https://github.com/google/guava) | 28.1-jre | 34686 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 30112 
 [netty](https://github.com/netty/netty) | 4.1.43.Final | 21654 
@@ -70,7 +75,7 @@ repo | releases | star
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 9842 
 [mockito](https://github.com/mockito/mockito) | 3.1.0 | 9671 
 [nacos](https://github.com/alibaba/nacos) | 1.1.4 | 9318 
-[shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0-RC2 | 9308 
+[shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0-RC3 | 9308 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8570 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 8363 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 7983 
@@ -85,7 +90,7 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4343 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4266 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.9.Final | 4072 
-[tomcat](https://github.com/apache/tomcat) | 8.5.49 | 3985 
+[tomcat](https://github.com/apache/tomcat) | 8.5.49 | 3986 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3625 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3555 
 [beam](https://github.com/apache/beam) | 2.16.0 | 3505 
@@ -93,7 +98,7 @@ repo | releases | star
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3414 
 [hbase](https://github.com/apache/hbase) | 2.2.2 | 3235 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3172 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.M1 | 3094 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.M1 | 3095 
 [lucene](https://github.com/apache/lucene-solr) | 8.3.0 | 3067 
 [solr](https://github.com/apache/lucene-solr) | 8.3.0 | 3067 
 [camel](https://github.com/apache/camel) | 3.0.0-RC3 | 2971 
@@ -101,7 +106,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2853 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2772 
 [shiro](https://github.com/apache/shiro) | 1.4.2 | 2728 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.23.v20191118 | 2690 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.24.v20191120 | 2690 
 [drools](https://github.com/kiegroup/drools) | 7.29.0.Final | 2583 
 [pmd](https://github.com/pmd/pmd) | 6.19.0 | 2574 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2441 
