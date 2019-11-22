@@ -44,9 +44,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-1 | 38574
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.4 | 10462
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.M1 | 3095
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.23.v20191118 | 2690
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.24.v20191120 | 2690
-[elide](https://github.com/yahoo/elide) | 4.5.7 | 612
 
 ### 收录列表
 ---
