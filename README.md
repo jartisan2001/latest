@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.5 | 45521
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-2 | 38602
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-1 | 38574
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.4 | 10462
