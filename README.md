@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.5 | 45521
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-2 | 38602
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-1 | 38574
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.4 | 10462
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.M1 | 3095
@@ -53,7 +54,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.5 | 45521 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.1.RELEASE | 43517 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.14 | 41098 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-1 | 38574 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-2 | 38602 
 [guava](https://github.com/google/guava) | 28.1-jre | 34686 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 30112 
 [netty](https://github.com/netty/netty) | 4.1.43.Final | 21654 
