@@ -43,6 +43,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-2 | 38602
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-1 | 38574
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.4 | 10462
+[hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha3 | 4072
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.M1 | 3095
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.24.v20191120 | 2690
 
@@ -87,7 +88,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.26 | 4932 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4343 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4266 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.9.Final | 4072 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha3 | 4072 
 [tomcat](https://github.com/apache/tomcat) | 8.5.49 | 3986 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3625 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3555 
