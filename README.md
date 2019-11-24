@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.15 | 41115
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-2 | 38602
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha3 | 4072
 
@@ -49,7 +50,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.5 | 45521 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.1.RELEASE | 43517 
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.14 | 41098 
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.15 | 41115 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-2 | 38605 
 [guava](https://github.com/google/guava) | 28.1-jre | 34686 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 30112 
