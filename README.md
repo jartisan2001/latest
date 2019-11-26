@@ -59,7 +59,7 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.62 | 19946 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 19415 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 19222 
-[arthas](https://github.com/alibaba/arthas) | 3.1.5 | 17976 
+[arthas](https://github.com/alibaba/arthas) | 3.1.5 | 17986 
 [gson](https://github.com/google/gson) | 2.8.6 | 16883 
 [kafka](https://github.com/apache/kafka) | 2.3.1 | 14225 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.3 | 12284 
