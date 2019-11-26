@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.15 | 41115
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0 | 38663
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-2 | 38602
 [arthas](https://github.com/alibaba/arthas) | 3.1.5 | 17976
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha3 | 4072
@@ -52,14 +53,14 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.5 | 45586 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.1.RELEASE | 43599 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.15 | 41129 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-2 | 38641 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0 | 38663 
 [guava](https://github.com/google/guava) | 28.1-jre | 34739 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 30165 
 [netty](https://github.com/netty/netty) | 4.1.43.Final | 21704 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.62 | 19946 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 19415 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 19222 
-[arthas](https://github.com/alibaba/arthas) | 3.1.5 | 17986 
+[arthas](https://github.com/alibaba/arthas) | 3.1.5 | 17999 
 [gson](https://github.com/google/gson) | 2.8.6 | 16883 
 [kafka](https://github.com/apache/kafka) | 2.3.1 | 14225 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.3 | 12284 
