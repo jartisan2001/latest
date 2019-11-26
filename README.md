@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.15 | 41115
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-2 | 38602
+[arthas](https://github.com/alibaba/arthas) | 3.1.5 | 17976
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha3 | 4072
 
 ### 收录列表
@@ -58,7 +59,7 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.62 | 19946 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 19415 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 19222 
-[arthas](https://github.com/alibaba/arthas) | 3.1.4 | 17975 
+[arthas](https://github.com/alibaba/arthas) | 3.1.5 | 17976 
 [gson](https://github.com/google/gson) | 2.8.6 | 16883 
 [kafka](https://github.com/apache/kafka) | 2.3.1 | 14225 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.3 | 12284 
@@ -107,7 +108,7 @@ repo | releases | star
 [pmd](https://github.com/pmd/pmd) | 6.19.0 | 2577 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2446 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1972 
-[maven](https://github.com/apache/maven) | 3.6.2 | 1924 
+[maven](https://github.com/apache/maven) | 3.6.3 | 1924 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1920 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1847 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1797 
