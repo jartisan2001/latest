@@ -42,9 +42,7 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.15 | 41115
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0 | 38663
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0-rc-2 | 38602
 [arthas](https://github.com/alibaba/arthas) | 3.1.5 | 17976
-[hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha3 | 4072
 
 ### 收录列表
 ---
