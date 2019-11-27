@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.15 | 41115
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0 | 38663
 [arthas](https://github.com/alibaba/arthas) | 3.1.5 | 17976
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8383
