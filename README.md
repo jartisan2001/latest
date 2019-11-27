@@ -43,6 +43,7 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.15 | 41115
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0 | 38663
 [arthas](https://github.com/alibaba/arthas) | 3.1.5 | 17976
+[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8383
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 5988
 
 ### 收录列表
@@ -74,7 +75,7 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.1.4 | 9393 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0-RC3 | 9345 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8581 
-[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.12 | 8382 
+[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8383 
 [jib](https://github.com/GoogleContainerTools/jib) | 1.8.0 | 8010 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 8005 
 [junit4](https://github.com/junit-team/junit4) | 4.13-rc-1 | 7700 
