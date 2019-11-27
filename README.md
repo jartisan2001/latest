@@ -76,7 +76,7 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.1.4 | 9393 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0-RC3 | 9345 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8581 
-[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8385 
+[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8389 
 [jib](https://github.com/GoogleContainerTools/jib) | 1.8.0 | 8010 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 8005 
 [junit4](https://github.com/junit-team/junit4) | 4.13-rc-1 | 7700 
@@ -131,7 +131,7 @@ repo | releases | star
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 637 
 [elide](https://github.com/yahoo/elide) | 4.5.7 | 618 
 [cxf](https://github.com/apache/cxf) | 3.2.11 | 602 
-[github-api](https://github.com/kohsuke/github-api) | 1.100 | 582 
+[github-api](https://github.com/kohsuke/github-api) | 1.100 | 583 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 574 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 573 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0 | 288 
