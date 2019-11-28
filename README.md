@@ -44,6 +44,9 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.1.5 | 17976
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8383
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 5988
+[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.alpha1 | 2704
+[drools](https://github.com/kiegroup/drools) | 7.30.0.Final | 2601
+[jbpm](https://github.com/kiegroup/jbpm) | 7.30.0.Final | 1016
 [github-api](https://github.com/kohsuke/github-api) | 1.101 | 584
 [github-api](https://github.com/kohsuke/github-api) | 1.100 | 582
 
@@ -105,8 +108,8 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2860 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2779 
 [shiro](https://github.com/apache/shiro) | 1.4.2 | 2734 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.24.v20191120 | 2703 
-[drools](https://github.com/kiegroup/drools) | 7.29.0.Final | 2601 
+[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.alpha1 | 2704 
+[drools](https://github.com/kiegroup/drools) | 7.30.0.Final | 2601 
 [pmd](https://github.com/pmd/pmd) | 6.19.0 | 2581 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2448 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1973 
@@ -122,7 +125,7 @@ repo | releases | star
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1179 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.4.RELEASE | 1130 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.4 | 1053 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.29.0.Final | 1016 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.30.0.Final | 1016 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.17 | 1005 
 [struts](https://github.com/apache/struts) | 2.5.20 | 980 
 [poi](https://github.com/apache/poi) | 4.1.1 | 868 
