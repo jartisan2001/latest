@@ -44,6 +44,7 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.1.5 | 17976
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8383
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 5988
+[github-api](https://github.com/kohsuke/github-api) | 1.101 | 584
 [github-api](https://github.com/kohsuke/github-api) | 1.100 | 582
 
 ### 收录列表
@@ -130,7 +131,7 @@ repo | releases | star
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 636 
 [elide](https://github.com/yahoo/elide) | 4.5.7 | 618 
 [cxf](https://github.com/apache/cxf) | 3.2.11 | 603 
-[github-api](https://github.com/kohsuke/github-api) | 1.100 | 583 
+[github-api](https://github.com/kohsuke/github-api) | 1.101 | 584 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 574 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 573 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0 | 289 
