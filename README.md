@@ -40,11 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0 | 38663
-[arthas](https://github.com/alibaba/arthas) | 3.1.5 | 17976
 [redisson](https://github.com/redisson/redisson) | 3.11.6 | 11339
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8383
-[Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 5988
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.alpha1 | 2704
 [drools](https://github.com/kiegroup/drools) | 7.30.0.Final | 2601
 [jbpm](https://github.com/kiegroup/jbpm) | 7.30.0.Final | 1016
