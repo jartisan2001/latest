@@ -75,7 +75,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 10533 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.4 | 10502 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 9869 
-[mockito](https://github.com/mockito/mockito) | 3.2.0 | 9769 
+[mockito](https://github.com/mockito/mockito) | 3.2.0 | 9772 
 [nacos](https://github.com/alibaba/nacos) | 1.1.4 | 9475 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0-RC3 | 9367 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8592 
@@ -110,7 +110,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.4.2 | 2739 
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.alpha1 | 2707 
 [drools](https://github.com/kiegroup/drools) | 7.30.0.Final | 2608 
-[pmd](https://github.com/pmd/pmd) | 6.20.0 | 2588 
+[pmd](https://github.com/pmd/pmd) | 6.20.0 | 2589 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2454 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.28 | 1976 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.36.0 | 1935 
