@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.11.6 | 11339
 [mockito](https://github.com/mockito/mockito) | 3.2.0 | 9765
+[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.0 | 8010
 [pmd](https://github.com/pmd/pmd) | 6.20.0 | 2588
 [github-api](https://github.com/kohsuke/github-api) | 1.101 | 584
 
@@ -76,7 +77,7 @@ repo | releases | star
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8592 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8408 
 [jib](https://github.com/GoogleContainerTools/jib) | 1.8.0 | 8027 
-[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.1.6 | 8008 
+[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.0 | 8010 
 [junit4](https://github.com/junit-team/junit4) | 4.13-rc-1 | 7701 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.6 | 7386 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6013 
