@@ -42,13 +42,8 @@ repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.11.6 | 11339
 [mockito](https://github.com/mockito/mockito) | 3.2.0 | 9765
-[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8383
-[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.alpha1 | 2704
-[drools](https://github.com/kiegroup/drools) | 7.30.0.Final | 2601
 [pmd](https://github.com/pmd/pmd) | 6.20.0 | 2588
-[jbpm](https://github.com/kiegroup/jbpm) | 7.30.0.Final | 1016
 [github-api](https://github.com/kohsuke/github-api) | 1.101 | 584
-[github-api](https://github.com/kohsuke/github-api) | 1.100 | 582
 
 ### 收录列表
 ---
