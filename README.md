@@ -43,6 +43,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.11.6 | 11339
 [mockito](https://github.com/mockito/mockito) | 3.2.0 | 9765
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.0 | 8010
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.27 | 4947
 [pmd](https://github.com/pmd/pmd) | 6.20.0 | 2588
 [github-api](https://github.com/kohsuke/github-api) | 1.101 | 584
 
@@ -84,7 +85,7 @@ repo | releases | star
 [storm](https://github.com/apache/storm) | 2.1.0 | 5932 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5691 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha2 | 5598 
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.26 | 4947 
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.27 | 4947 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4350 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4276 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha3 | 4079 
