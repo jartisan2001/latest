@@ -40,12 +40,10 @@
 ---
 repo | releases | star
 ---|---|---
-[redisson](https://github.com/redisson/redisson) | 3.11.6 | 11339
 [mockito](https://github.com/mockito/mockito) | 3.2.0 | 9765
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.0 | 8010
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.27 | 4947
 [pmd](https://github.com/pmd/pmd) | 6.20.0 | 2588
-[github-api](https://github.com/kohsuke/github-api) | 1.101 | 584
 
 ### 收录列表
 ---
