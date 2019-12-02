@@ -62,7 +62,7 @@ repo | releases | star
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 19328 
 [arthas](https://github.com/alibaba/arthas) | 3.1.5 | 18193 
 [gson](https://github.com/google/gson) | 2.8.6 | 16922 
-[kafka](https://github.com/apache/kafka) | 2.3.1 | 14281 
+[kafka](https://github.com/apache/kafka) | 2.2.2 | 14286 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.3 | 12339 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11644 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.3 | 11375 
