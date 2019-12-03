@@ -41,11 +41,14 @@
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.0 | 45747
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 38865
 [mockito](https://github.com/mockito/mockito) | 3.2.0 | 9765
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.0 | 8010
 [junit4](https://github.com/junit-team/junit4) | 4.13-rc-2 | 7701
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.27 | 4947
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.7 | 3153
+[lucene](https://github.com/apache/lucene-solr) | 8.3.1 | 3093
+[solr](https://github.com/apache/lucene-solr) | 8.3.1 | 3093
 [pmd](https://github.com/pmd/pmd) | 6.20.0 | 2588
 
 ### 收录列表
@@ -55,7 +58,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.0 | 45747 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.1.RELEASE | 43752 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.15 | 41210 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0 | 38821 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 38865 
 [guava](https://github.com/google/guava) | 28.1-jre | 34871 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 30254 
 [netty](https://github.com/netty/netty) | 4.1.43.Final | 21794 
@@ -98,9 +101,9 @@ repo | releases | star
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3421 
 [hbase](https://github.com/apache/hbase) | 1.4.12 | 3250 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3193 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.7 | 3153 
-[lucene](https://github.com/apache/lucene-solr) | 8.3.0 | 3088 
-[solr](https://github.com/apache/lucene-solr) | 8.3.0 | 3088 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.7 | 3158 
+[lucene](https://github.com/apache/lucene-solr) | 8.3.1 | 3093 
+[solr](https://github.com/apache/lucene-solr) | 8.3.1 | 3093 
 [camel](https://github.com/apache/camel) | 3.0.0 | 2978 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2881 
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2862 
