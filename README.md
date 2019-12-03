@@ -45,6 +45,7 @@ repo | releases | star
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.0 | 8010
 [junit4](https://github.com/junit-team/junit4) | 4.13-rc-2 | 7701
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.27 | 4947
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.7 | 3153
 [pmd](https://github.com/pmd/pmd) | 6.20.0 | 2588
 
 ### 收录列表
@@ -97,7 +98,7 @@ repo | releases | star
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3421 
 [hbase](https://github.com/apache/hbase) | 1.4.12 | 3250 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3193 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.M1 | 3140 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.7 | 3153 
 [lucene](https://github.com/apache/lucene-solr) | 8.3.0 | 3088 
 [solr](https://github.com/apache/lucene-solr) | 8.3.0 | 3088 
 [camel](https://github.com/apache/camel) | 3.0.0 | 2978 
