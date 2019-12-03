@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.0 | 45747
 [mockito](https://github.com/mockito/mockito) | 3.2.0 | 9765
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.0 | 8010
 [junit4](https://github.com/junit-team/junit4) | 4.13-rc-2 | 7701
@@ -50,7 +51,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.5 | 45716 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.0 | 45747 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.1.RELEASE | 43752 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.15 | 41210 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.0 | 38821 
