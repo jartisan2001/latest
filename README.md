@@ -42,6 +42,8 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.0 | 45747
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 38865
+[arthas](https://github.com/alibaba/arthas) | 3.1.6 | 18269
+[arthas](https://github.com/alibaba/arthas) | 3.1.7 | 18269
 [junit4](https://github.com/junit-team/junit4) | 4.13-rc-2 | 7701
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.7 | 3153
 [lucene](https://github.com/apache/lucene-solr) | 8.3.1 | 3093
@@ -61,7 +63,7 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.62 | 20073 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 19516 
 [p3c](https://github.com/alibaba/p3c) | 2.0.0 | 19370 
-[arthas](https://github.com/alibaba/arthas) | 3.1.5 | 18248 
+[arthas](https://github.com/alibaba/arthas) | 3.1.7 | 18269 
 [gson](https://github.com/google/gson) | 2.8.6 | 16943 
 [kafka](https://github.com/apache/kafka) | 2.2.2 | 14304 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.3 | 12352 
