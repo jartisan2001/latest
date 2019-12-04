@@ -44,7 +44,6 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 38865
 [arthas](https://github.com/alibaba/arthas) | 3.1.6 | 18269
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 18269
-[junit4](https://github.com/junit-team/junit4) | 4.13-rc-2 | 7701
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.7 | 3153
 [lucene](https://github.com/apache/lucene-solr) | 8.3.1 | 3093
 [solr](https://github.com/apache/lucene-solr) | 8.3.1 | 3093
