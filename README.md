@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.0 | 45747
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 38865
 [arthas](https://github.com/alibaba/arthas) | 3.1.6 | 18269
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 18269
