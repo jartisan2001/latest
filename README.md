@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.11.RELEASE | 43874
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 38865
 [arthas](https://github.com/alibaba/arthas) | 3.1.6 | 18269
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 18269
@@ -54,7 +55,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.0 | 45817 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.1.RELEASE | 43862 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.11.RELEASE | 43874 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.15 | 41248 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 38914 
 [guava](https://github.com/google/guava) | 28.1-jre | 34945 
