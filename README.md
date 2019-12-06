@@ -41,15 +41,11 @@
 repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.11.RELEASE | 43874
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 38865
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 19436
 [arthas](https://github.com/alibaba/arthas) | 3.1.6 | 18269
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 18269
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.4 | 11463
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.10.Final | 4081
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.7 | 3153
-[lucene](https://github.com/apache/lucene-solr) | 8.3.1 | 3093
-[solr](https://github.com/apache/lucene-solr) | 8.3.1 | 3093
 
 ### 收录列表
 ---
