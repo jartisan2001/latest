@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.11.RELEASE | 43874
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 38865
+[p3c](https://github.com/alibaba/p3c) | 2.0.1 | 19436
 [arthas](https://github.com/alibaba/arthas) | 3.1.6 | 18269
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 18269
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.4 | 11463
@@ -55,7 +56,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.0 | 45817 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.11.RELEASE | 43874 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.11.RELEASE | 43884 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.15 | 41248 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 38914 
 [guava](https://github.com/google/guava) | 28.1-jre | 34945 
@@ -63,7 +64,7 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.43.Final | 21847 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.62 | 20103 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 19552 
-[p3c](https://github.com/alibaba/p3c) | 2.0.0 | 19420 
+[p3c](https://github.com/alibaba/p3c) | 2.0.1 | 19436 
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 18293 
 [gson](https://github.com/google/gson) | 2.8.6 | 16959 
 [kafka](https://github.com/apache/kafka) | 2.2.2 | 14328 
@@ -91,7 +92,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.27 | 4954 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4360 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4287 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.10.Final | 4081 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.10.Final | 4082 
 [tomcat](https://github.com/apache/tomcat) | 8.5.49 | 4025 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3687 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3584 
