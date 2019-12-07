@@ -43,9 +43,6 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.2.RELEASE | 43893
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.11.RELEASE | 43874
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 19436
-[arthas](https://github.com/alibaba/arthas) | 3.1.6 | 18269
-[arthas](https://github.com/alibaba/arthas) | 3.1.7 | 18269
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.4 | 11463
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone4 | 10522
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.10.Final | 4081
 [elide](https://github.com/yahoo/elide) | 4.5.8 | 620
