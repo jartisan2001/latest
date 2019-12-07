@@ -46,6 +46,7 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.1.6 | 18269
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 18269
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.4 | 11463
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone4 | 10522
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.10.Final | 4081
 
 ### 收录列表
