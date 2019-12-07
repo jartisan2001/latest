@@ -48,6 +48,7 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.4 | 11463
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone4 | 10522
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.10.Final | 4081
+[elide](https://github.com/yahoo/elide) | 4.5.8 | 620
 
 ### 收录列表
 ---
@@ -131,7 +132,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.12.1 | 851 
 [mina](https://github.com/apache/mina) | 2.1.3 | 722 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 638 
-[elide](https://github.com/yahoo/elide) | 4.5.7 | 620 
+[elide](https://github.com/yahoo/elide) | 4.5.8 | 620 
 [cxf](https://github.com/apache/cxf) | 3.2.11 | 604 
 [github-api](https://github.com/kohsuke/github-api) | 1.101 | 586 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 583 
