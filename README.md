@@ -45,6 +45,7 @@ repo | releases | star
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 19436
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone4 | 10522
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.10.Final | 4081
+[groovy](https://github.com/apache/groovy) | 3.0.0-rc-2 | 3490
 [elide](https://github.com/yahoo/elide) | 4.5.8 | 620
 
 ### 收录列表
@@ -93,7 +94,7 @@ repo | releases | star
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3695 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3590 
 [beam](https://github.com/apache/beam) | 2.16.0 | 3538 
-[groovy](https://github.com/apache/groovy) | 3.0.0-rc-1 | 3490 
+[groovy](https://github.com/apache/groovy) | 3.0.0-rc-2 | 3490 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3424 
 [hbase](https://github.com/apache/hbase) | 1.4.12 | 3269 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3203 
