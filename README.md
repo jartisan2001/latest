@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-2 | 3490
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1139
-[elide](https://github.com/yahoo/elide) | 4.5.8 | 620
 
 ### 收录列表
 ---
