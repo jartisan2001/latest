@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[groovy](https://github.com/apache/groovy) | 3.0.0-rc-2 | 3490
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1139
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.14 | 294
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.5 | 294
