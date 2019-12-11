@@ -42,6 +42,9 @@ repo | releases | star
 ---|---|---
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-2 | 3490
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1139
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.14 | 294
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.5 | 294
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.1 | 294
 
 ### 收录列表
 ---
@@ -64,7 +67,7 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11716 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.4 | 11622 
 [redisson](https://github.com/redisson/redisson) | 3.11.6 | 11454 
-[flink](https://github.com/apache/flink) | 1.9.1 | 11390 
+[flink](https://github.com/apache/flink) | 1.8.3 | 11407 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 10729 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone4 | 10534 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 9914 
@@ -130,7 +133,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.101 | 591 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 583 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 575 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.0 | 294 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.1 | 294 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 233 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 215 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 151 
