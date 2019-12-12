@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 1988
-[spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1139
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1054
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.14 | 294
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.5 | 294
