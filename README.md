@@ -40,10 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
-[drools](https://github.com/kiegroup/drools) | 7.31.0.Final | 2634
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 1988
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1054
-[jbpm](https://github.com/kiegroup/jbpm) | 7.31.0.Final | 1020
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.14 | 294
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.5 | 294
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.1 | 294
