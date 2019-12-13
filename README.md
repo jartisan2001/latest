@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 1988
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1054
+[jbpm](https://github.com/kiegroup/jbpm) | 7.31.0.Final | 1020
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.14 | 294
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.5 | 294
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.1 | 294
@@ -121,7 +122,7 @@ repo | releases | star
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1187 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1140 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1054 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.30.0.Final | 1020 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.31.0.Final | 1020 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.17 | 1009 
 [struts](https://github.com/apache/struts) | 2.5.22 | 981 
 [poi](https://github.com/apache/poi) | 4.1.1 | 873 
