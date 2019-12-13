@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[drools](https://github.com/kiegroup/drools) | 7.31.0.Final | 2634
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 1988
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1054
 [jbpm](https://github.com/kiegroup/jbpm) | 7.31.0.Final | 1020
@@ -106,7 +107,7 @@ repo | releases | star
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2802 
 [shiro](https://github.com/apache/shiro) | 1.4.2 | 2754 
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.alpha1 | 2715 
-[drools](https://github.com/kiegroup/drools) | 7.30.0.Final | 2634 
+[drools](https://github.com/kiegroup/drools) | 7.31.0.Final | 2634 
 [pmd](https://github.com/pmd/pmd) | 6.20.0 | 2617 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2471 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 1989 
