@@ -40,11 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 1988
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1054
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.14 | 294
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.5 | 294
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.1 | 294
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.15 | 294
 
 ### 收录列表
