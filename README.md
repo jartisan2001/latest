@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1054
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.15 | 294
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.6 | 294
 
 ### 收录列表
 ---
@@ -130,7 +131,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.101 | 594 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 585 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 577 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.15 | 294 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.6 | 294 
 [commons-codec](https://github.com/apache/commons-codec) | 1.13 | 233 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 216 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 152 
