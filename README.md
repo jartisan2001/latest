@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.16 | 41342
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1054
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.15 | 294
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.6 | 294
@@ -51,7 +52,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.0 | 45969 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.2.RELEASE | 44095 
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.15 | 41339 
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.16 | 41342 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 39056 
 [guava](https://github.com/google/guava) | 28.1-jre | 35093 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 30450 
