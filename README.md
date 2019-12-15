@@ -124,7 +124,7 @@ repo | releases | star
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.17 | 1011 
 [struts](https://github.com/apache/struts) | 2.5.22 | 983 
 [poi](https://github.com/apache/poi) | 4.1.1 | 877 
-[log4j2](https://github.com/apache/logging-log4j2) | 2.12.1 | 857 
+[log4j2](https://github.com/apache/logging-log4j2) | 2.13.0 | 858 
 [mina](https://github.com/apache/mina) | 2.1.3 | 722 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 641 
 [elide](https://github.com/yahoo/elide) | 4.5.8 | 619 
