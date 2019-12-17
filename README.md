@@ -42,6 +42,8 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.16 | 41342
 [mockito](https://github.com/mockito/mockito) | 3.2.4 | 9846
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.8 | 3207
+[slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1357
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.15 | 294
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.6 | 294
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.2 | 294
@@ -96,7 +98,7 @@ repo | releases | star
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3431 
 [hbase](https://github.com/apache/hbase) | 1.4.12 | 3278 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3224 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.7 | 3204 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.8 | 3207 
 [lucene](https://github.com/apache/lucene-solr) | 8.3.1 | 3130 
 [solr](https://github.com/apache/lucene-solr) | 8.3.1 | 3130 
 [camel](https://github.com/apache/camel) | 3.0.0 | 3005 
@@ -117,7 +119,7 @@ repo | releases | star
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.1 | 1721 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta4 | 1611 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1445 
-[slf4j](https://github.com/qos-ch/slf4j) | 1.7.29 | 1357 
+[slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1357 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1187 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1141 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1056 
