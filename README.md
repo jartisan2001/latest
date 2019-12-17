@@ -89,7 +89,7 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4374 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4297 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.10.Final | 4096 
-[tomcat](https://github.com/apache/tomcat) | 8.5.50 | 4063 
+[tomcat](https://github.com/apache/tomcat) | 7.0.99 | 4069 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3716 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-M1 | 3603 
 [beam](https://github.com/apache/beam) | 2.16.0 | 3563 
