@@ -40,12 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.16 | 41342
 [mockito](https://github.com/mockito/mockito) | 3.2.4 | 9846
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.8 | 3207
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1357
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.6 | 294
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.2 | 294
 
 ### 收录列表
 ---
