@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.1 | 46044
 [netty](https://github.com/netty/netty) | 4.1.44.Final | 22006
 [mockito](https://github.com/mockito/mockito) | 3.2.4 | 9846
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.8 | 3207
@@ -49,7 +50,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.0 | 46041 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.1 | 46044 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.2.RELEASE | 44211 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.16 | 41387 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 39140 
