@@ -40,10 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.1 | 46044
 [netty](https://github.com/netty/netty) | 4.1.44.Final | 22006
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.8 | 3207
-[slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1357
 [elide](https://github.com/yahoo/elide) | 4.5.9 | 624
 
 ### 收录列表
