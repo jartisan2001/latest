@@ -128,7 +128,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.0 | 858 
 [mina](https://github.com/apache/mina) | 2.1.3 | 723 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 645 
-[elide](https://github.com/yahoo/elide) | 4.5.9 | 624 
+[elide](https://github.com/yahoo/elide) | 4.5.9 | 625 
 [cxf](https://github.com/apache/cxf) | 3.2.11 | 606 
 [github-api](https://github.com/kohsuke/github-api) | 1.101 | 595 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.3 | 587 
