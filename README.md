@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[netty](https://github.com/netty/netty) | 4.1.44.Final | 22006
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha4 | 4101
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.M2 | 3216
 [drools](https://github.com/kiegroup/drools) | 7.32.0.k20191220 | 2657
