@@ -43,6 +43,7 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.44.Final | 22006
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha4 | 4101
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.M2 | 3216
+[drools](https://github.com/kiegroup/drools) | 7.32.0.k20191220 | 2657
 [elide](https://github.com/yahoo/elide) | 4.5.9 | 624
 
 ### 收录列表
@@ -104,7 +105,7 @@ repo | releases | star
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2809 
 [shiro](https://github.com/apache/shiro) | 1.4.2 | 2775 
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.alpha1 | 2728 
-[drools](https://github.com/kiegroup/drools) | 7.31.0.Final | 2657 
+[drools](https://github.com/kiegroup/drools) | 7.32.0.k20191220 | 2657 
 [pmd](https://github.com/pmd/pmd) | 6.20.0 | 2626 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2483 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 1996 
