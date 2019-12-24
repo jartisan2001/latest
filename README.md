@@ -41,9 +41,7 @@
 repo | releases | star
 ---|---|---
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.1 | 8140
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.25.v20191220 | 2729
 [drools](https://github.com/kiegroup/drools) | 7.32.0.k20191223 | 2665
-[pdfbox](https://github.com/apache/pdfbox) | 2.0.18 | 1021
 
 ### 收录列表
 ---
