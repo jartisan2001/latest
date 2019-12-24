@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.1 | 8140
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.25.v20191220 | 2729
+[drools](https://github.com/kiegroup/drools) | 7.32.0.k20191223 | 2665
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.18 | 1021
 
 ### 收录列表
@@ -103,7 +104,7 @@ repo | releases | star
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2812 
 [shiro](https://github.com/apache/shiro) | 1.4.2 | 2778 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.25.v20191220 | 2729 
-[drools](https://github.com/kiegroup/drools) | 7.32.0.k20191220 | 2665 
+[drools](https://github.com/kiegroup/drools) | 7.32.0.k20191223 | 2665 
 [pmd](https://github.com/pmd/pmd) | 6.20.0 | 2629 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2488 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 1997 
