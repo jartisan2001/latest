@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.1 | 8140
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.25.v20191220 | 2729
+[pdfbox](https://github.com/apache/pdfbox) | 2.0.18 | 1021
 
 ### 收录列表
 ---
@@ -119,7 +120,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1146 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1059 
 [jbpm](https://github.com/kiegroup/jbpm) | 7.31.0.Final | 1027 
-[pdfbox](https://github.com/apache/pdfbox) | 2.0.17 | 1021 
+[pdfbox](https://github.com/apache/pdfbox) | 2.0.18 | 1021 
 [struts](https://github.com/apache/struts) | 2.5.22 | 985 
 [poi](https://github.com/apache/poi) | 4.1.1 | 887 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.0 | 861 
