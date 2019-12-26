@@ -40,8 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.1 | 8140
-[drools](https://github.com/kiegroup/drools) | 7.32.0.k20191223 | 2665
+[redisson](https://github.com/redisson/redisson) | 3.12.0 | 11666
 
 ### 收录列表
 ---
@@ -63,8 +62,8 @@ repo | releases | star
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.3 | 12514 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.4 | 12062 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11806 
+[redisson](https://github.com/redisson/redisson) | 3.12.0 | 11666 
 [flink](https://github.com/apache/flink) | 1.8.3 | 11653 
-[redisson](https://github.com/redisson/redisson) | 3.11.6 | 11648 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 10976 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone4 | 10599 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 9980 
@@ -96,7 +95,7 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.M2 | 3243 
 [lucene](https://github.com/apache/lucene-solr) | 8.3.1 | 3161 
 [solr](https://github.com/apache/lucene-solr) | 8.3.1 | 3161 
-[camel](https://github.com/apache/camel) | 3.0.0 | 3017 
+[camel](https://github.com/apache/camel) | 2.24.3 | 3022 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2927 
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2901 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2817 
