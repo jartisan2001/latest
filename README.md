@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[guava](https://github.com/google/guava) | 28.2-android | 35302
+[guava](https://github.com/google/guava) | 28.2-jre | 35302
 [redisson](https://github.com/redisson/redisson) | 3.12.0 | 11666
 
 ### 收录列表
@@ -50,7 +52,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.2.RELEASE | 44397 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.16 | 41458 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 39258 
-[guava](https://github.com/google/guava) | 28.1-jre | 35273 
+[guava](https://github.com/google/guava) | 28.2-jre | 35302 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 30590 
 [netty](https://github.com/netty/netty) | 4.1.44.Final | 22110 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.62 | 20320 
