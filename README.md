@@ -43,6 +43,8 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.2-android | 35302
 [guava](https://github.com/google/guava) | 28.2-jre | 35302
 [redisson](https://github.com/redisson/redisson) | 3.12.0 | 11666
+[lucene](https://github.com/apache/lucene-solr) | 8.4.0 | 3172
+[solr](https://github.com/apache/lucene-solr) | 8.4.0 | 3172
 
 ### 收录列表
 ---
@@ -95,8 +97,8 @@ repo | releases | star
 [hbase](https://github.com/apache/hbase) | 1.4.12 | 3299 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3251 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.M2 | 3249 
-[lucene](https://github.com/apache/lucene-solr) | 8.3.1 | 3172 
-[solr](https://github.com/apache/lucene-solr) | 8.3.1 | 3172 
+[lucene](https://github.com/apache/lucene-solr) | 8.4.0 | 3172 
+[solr](https://github.com/apache/lucene-solr) | 8.4.0 | 3172 
 [camel](https://github.com/apache/camel) | 2.24.3 | 3025 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2932 
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2909 
