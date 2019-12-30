@@ -40,8 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[guava](https://github.com/google/guava) | 28.2-android | 35302
-[guava](https://github.com/google/guava) | 28.2-jre | 35302
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.28 | 4999
 [lucene](https://github.com/apache/lucene-solr) | 8.4.0 | 3172
 [solr](https://github.com/apache/lucene-solr) | 8.4.0 | 3172
