@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [guava](https://github.com/google/guava) | 28.2-android | 35302
 [guava](https://github.com/google/guava) | 28.2-jre | 35302
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.28 | 4999
 [lucene](https://github.com/apache/lucene-solr) | 8.4.0 | 3172
 [solr](https://github.com/apache/lucene-solr) | 8.4.0 | 3172
 
@@ -83,7 +84,7 @@ repo | releases | star
 [storm](https://github.com/apache/storm) | 2.1.0 | 5965 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5794 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha2 | 5657 
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.27 | 4999 
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.28 | 4999 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4390 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4302 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha4 | 4111 
