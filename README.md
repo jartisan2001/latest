@@ -41,8 +41,6 @@
 repo | releases | star
 ---|---|---
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.28 | 4999
-[lucene](https://github.com/apache/lucene-solr) | 8.4.0 | 3172
-[solr](https://github.com/apache/lucene-solr) | 8.4.0 | 3172
 
 ### 收录列表
 ---
