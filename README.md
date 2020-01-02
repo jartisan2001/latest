@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[junit4](https://github.com/junit-team/junit4) | 4.13 | 7726
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.28 | 4999
 
 ### 收录列表
@@ -74,7 +75,7 @@ repo | releases | star
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8585 
 [jib](https://github.com/GoogleContainerTools/jib) | 1.8.0 | 8200 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.1 | 8169 
-[junit4](https://github.com/junit-team/junit4) | 4.13-rc-2 | 7724 
+[junit4](https://github.com/junit-team/junit4) | 4.13 | 7726 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.6 | 7523 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6143 
 [storm](https://github.com/apache/storm) | 2.1.0 | 5965 
