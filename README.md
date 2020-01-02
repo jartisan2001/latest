@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7726
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.28 | 4999
 
 ### 收录列表
 ---
