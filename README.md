@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.5 | 12253
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7726
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200103 | 1726
 
@@ -61,7 +62,7 @@ repo | releases | star
 [gson](https://github.com/google/gson) | 2.8.6 | 17102 
 [kafka](https://github.com/apache/kafka) | 2.4.0 | 14604 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.3 | 12580 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.4 | 12227 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.5 | 12253 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.1 | 11959 
 [flink](https://github.com/apache/flink) | 1.8.3 | 11743 
 [redisson](https://github.com/redisson/redisson) | 3.12.0 | 11736 
