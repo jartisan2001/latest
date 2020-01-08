@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.15.Final | 4115
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-RC1 | 3641
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.2 | 1727
 
 ### 收录列表
 ---
