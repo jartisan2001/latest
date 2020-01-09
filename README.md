@@ -107,7 +107,7 @@ repo | releases | star
 [pmd](https://github.com/pmd/pmd) | 6.20.0 | 2649 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2510 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2011 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.37.0 | 2002 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.37.0 | 2003 
 [maven](https://github.com/apache/maven) | 3.6.3 | 1974 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1886 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1828 
