@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.2 | 12027
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.15.Final | 4115
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.37.0 | 2002
 
