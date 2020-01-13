@@ -49,7 +49,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.1 | 46526 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.2.RELEASE | 44787 
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41626 
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41629 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 39512 
 [guava](https://github.com/google/guava) | 28.2-jre | 35564 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 30831 
@@ -70,7 +70,7 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.1.4 | 10150 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10032 
 [mockito](https://github.com/mockito/mockito) | 3.2.4 | 9950 
-[shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0-RC3 | 9667 
+[shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0 | 9674 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8766 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8637 
 [jib](https://github.com/GoogleContainerTools/jib) | 1.8.0 | 8273 
