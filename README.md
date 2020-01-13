@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41625
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.4 | 593
 
 ### 收录列表
@@ -48,7 +49,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.1 | 46526 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.2.RELEASE | 44787 
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.16 | 41625 
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41625 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 39512 
 [guava](https://github.com/google/guava) | 28.2-jre | 35564 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 30831 
