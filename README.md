@@ -42,6 +42,8 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41625
 [netty](https://github.com/netty/netty) | 4.1.45.Final | 22346
+[groovy](https://github.com/apache/groovy) | 2.4.18 | 3544
+[groovy](https://github.com/apache/groovy) | 2.5.9 | 3544
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3211
 [solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3211
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.4 | 593
@@ -93,13 +95,13 @@ repo | releases | star
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3782 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-RC1 | 3646 
 [beam](https://github.com/apache/beam) | 2.17.0 | 3645 
-[groovy](https://github.com/apache/groovy) | 3.0.0-rc-2 | 3541 
+[groovy](https://github.com/apache/groovy) | 2.5.9 | 3544 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3450 
 [hbase](https://github.com/apache/hbase) | 1.4.12 | 3324 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.M2 | 3315 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3282 
-[lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3211 
-[solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3211 
+[lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3212 
+[solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3212 
 [camel](https://github.com/apache/camel) | 2.24.3 | 3050 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2952 
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2944 
