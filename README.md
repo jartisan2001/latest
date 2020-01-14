@@ -42,7 +42,10 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41625
 [netty](https://github.com/netty/netty) | 4.1.45.Final | 22346
+[lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3211
+[solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3211
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.4 | 593
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 593
 
 ### 收录列表
 ---
@@ -95,8 +98,8 @@ repo | releases | star
 [hbase](https://github.com/apache/hbase) | 1.4.12 | 3324 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.M2 | 3315 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3282 
-[lucene](https://github.com/apache/lucene-solr) | 8.4.0 | 3211 
-[solr](https://github.com/apache/lucene-solr) | 8.4.0 | 3211 
+[lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3211 
+[solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3211 
 [camel](https://github.com/apache/camel) | 2.24.3 | 3050 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2952 
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2944 
@@ -129,7 +132,7 @@ repo | releases | star
 [elide](https://github.com/yahoo/elide) | 4.5.9 | 626 
 [cxf](https://github.com/apache/cxf) | 3.2.11 | 619 
 [github-api](https://github.com/kohsuke/github-api) | 1.101 | 601 
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.4 | 593 
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 593 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 581 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.2 | 301 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
