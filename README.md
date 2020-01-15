@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41625
 [netty](https://github.com/netty/netty) | 4.1.45.Final | 22346
+[groovy](https://github.com/apache/groovy) | 3.0.0-rc-3 | 3546
 [groovy](https://github.com/apache/groovy) | 2.4.18 | 3544
 [groovy](https://github.com/apache/groovy) | 2.5.9 | 3544
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.9 | 3323
@@ -97,7 +98,7 @@ repo | releases | star
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3783 
 [beam](https://github.com/apache/beam) | 2.17.0 | 3647 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0-RC1 | 3646 
-[groovy](https://github.com/apache/groovy) | 2.5.9 | 3545 
+[groovy](https://github.com/apache/groovy) | 3.0.0-rc-3 | 3546 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3452 
 [hbase](https://github.com/apache/hbase) | 1.4.12 | 3325 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.9 | 3323 
