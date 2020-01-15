@@ -44,6 +44,7 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.45.Final | 22346
 [groovy](https://github.com/apache/groovy) | 2.4.18 | 3544
 [groovy](https://github.com/apache/groovy) | 2.5.9 | 3544
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.9 | 3323
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3211
 [solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3211
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta5 | 1655
@@ -99,7 +100,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 2.5.9 | 3545 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3452 
 [hbase](https://github.com/apache/hbase) | 1.4.12 | 3325 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.M2 | 3321 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.9 | 3323 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3287 
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3214 
 [solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3214 
@@ -133,7 +134,7 @@ repo | releases | star
 [mina](https://github.com/apache/mina) | 2.1.3 | 729 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 651 
 [elide](https://github.com/yahoo/elide) | 4.5.9 | 626 
-[cxf](https://github.com/apache/cxf) | 3.2.11 | 619 
+[cxf](https://github.com/apache/cxf) | 3.3.5 | 619 
 [github-api](https://github.com/kohsuke/github-api) | 1.101 | 602 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 594 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 581 
