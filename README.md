@@ -49,7 +49,6 @@ repo | releases | star
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3211
 [solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3211
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta5 | 1655
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.4 | 593
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 593
 
 ### 收录列表
