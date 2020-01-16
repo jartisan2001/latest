@@ -104,7 +104,7 @@ repo | releases | star
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3287 
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3214 
 [solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3214 
-[camel](https://github.com/apache/camel) | 2.24.3 | 3052 
+[camel](https://github.com/apache/camel) | 3.0.1 | 3059 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2952 
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2946 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2833 
