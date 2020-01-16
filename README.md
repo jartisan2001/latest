@@ -40,8 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41625
-[netty](https://github.com/netty/netty) | 4.1.45.Final | 22346
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-3 | 3546
 [groovy](https://github.com/apache/groovy) | 2.4.18 | 3544
 [groovy](https://github.com/apache/groovy) | 2.5.9 | 3544
@@ -49,7 +47,6 @@ repo | releases | star
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3211
 [solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3211
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta5 | 1655
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 593
 
 ### 收录列表
 ---
