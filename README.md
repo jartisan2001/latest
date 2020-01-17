@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.3.RELEASE | 44881
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.12.RELEASE | 44877
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-3 | 3546
 [groovy](https://github.com/apache/groovy) | 2.4.18 | 3544
@@ -54,7 +55,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.1 | 46600 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.12.RELEASE | 44877 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.3.RELEASE | 44881 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41652 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 39598 
 [guava](https://github.com/google/guava) | 28.2-jre | 35632 
