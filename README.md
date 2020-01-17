@@ -43,12 +43,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.3.RELEASE | 44881
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.12.RELEASE | 44877
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-3 | 3546
-[groovy](https://github.com/apache/groovy) | 2.4.18 | 3544
-[groovy](https://github.com/apache/groovy) | 2.5.9 | 3544
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.9 | 3323
-[lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3211
-[solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3211
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta5 | 1655
 
 ### 收录列表
 ---
