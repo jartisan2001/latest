@@ -45,6 +45,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-3 | 3546
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.9 | 3323
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.26.v20200117 | 2771
+[elide](https://github.com/yahoo/elide) | 4.5.12 | 627
 
 ### 收录列表
 ---
@@ -128,7 +129,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.0 | 877 
 [mina](https://github.com/apache/mina) | 2.1.3 | 729 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 652 
-[elide](https://github.com/yahoo/elide) | 4.5.9 | 627 
+[elide](https://github.com/yahoo/elide) | 4.5.12 | 627 
 [cxf](https://github.com/apache/cxf) | 3.3.5 | 619 
 [github-api](https://github.com/kohsuke/github-api) | 1.101 | 602 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 596 
