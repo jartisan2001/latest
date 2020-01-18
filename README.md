@@ -42,8 +42,6 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.3.RELEASE | 44881
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.12.RELEASE | 44877
-[groovy](https://github.com/apache/groovy) | 3.0.0-rc-3 | 3546
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.9 | 3323
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.26.v20200117 | 2771
 [elide](https://github.com/yahoo/elide) | 4.5.12 | 627
 
