@@ -44,6 +44,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.12.RELEASE | 44877
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-3 | 3546
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.9 | 3323
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.26.v20200117 | 2771
 
 ### 收录列表
 ---
@@ -103,7 +104,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2953 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2835 
 [shiro](https://github.com/apache/shiro) | 1.4.2 | 2818 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.25.v20191220 | 2771 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.26.v20200117 | 2771 
 [drools](https://github.com/kiegroup/drools) | 7.32.0.k20191223 | 2725 
 [pmd](https://github.com/pmd/pmd) | 6.20.0 | 2661 
 [kylin](https://github.com/apache/kylin) | 2.6.4 | 2530 
