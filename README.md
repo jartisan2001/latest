@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.3.RELEASE | 44881
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.26.v20200117 | 2771
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC1 | 1664
 [elide](https://github.com/yahoo/elide) | 4.5.12 | 627
 
 ### 收录列表
@@ -113,7 +114,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1831 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1791 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.2 | 1737 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-beta5 | 1663 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC1 | 1664 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1468 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1382 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1198 
