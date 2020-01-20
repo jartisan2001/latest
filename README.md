@@ -40,8 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.3.RELEASE | 44881
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.26.v20200117 | 2771
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC1 | 1664
 [elide](https://github.com/yahoo/elide) | 4.5.12 | 627
 
