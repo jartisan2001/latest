@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.4.RELEASE | 44993
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC1 | 1664
 [elide](https://github.com/yahoo/elide) | 4.5.12 | 627
 
@@ -48,7 +49,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.1 | 46678 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.3.RELEASE | 44988 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.4.RELEASE | 44993 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41685 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 39651 
 [guava](https://github.com/google/guava) | 28.2-jre | 35665 
