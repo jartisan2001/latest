@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.4.RELEASE | 44993
+[junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3663
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC1 | 1664
 [elide](https://github.com/yahoo/elide) | 4.5.12 | 627
 
@@ -49,7 +50,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.1 | 46678 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.4.RELEASE | 44993 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.4.RELEASE | 44997 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41685 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 39651 
 [guava](https://github.com/google/guava) | 28.2-jre | 35665 
@@ -89,7 +90,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.15.Final | 4133 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3795 
 [beam](https://github.com/apache/beam) | 2.17.0 | 3664 
-[junit5](https://github.com/junit-team/junit5) | 5.6.0-RC1 | 3661 
+[junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3663 
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-3 | 3548 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3460 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.9 | 3343 
