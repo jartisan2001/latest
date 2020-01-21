@@ -43,7 +43,6 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.4.RELEASE | 44993
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3663
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC1 | 1664
-[elide](https://github.com/yahoo/elide) | 4.5.12 | 627
 
 ### 收录列表
 ---
