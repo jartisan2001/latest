@@ -40,15 +40,17 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.2 | 46692
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.4.RELEASE | 44993
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3663
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.10 | 3344
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC1 | 1664
 
 ### 收录列表
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.1 | 46692 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.2 | 46692 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.4.RELEASE | 45016 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41688 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.1 | 39672 
@@ -92,7 +94,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3664 
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-3 | 3549 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3461 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.9 | 3344 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.10 | 3344 
 [hbase](https://github.com/apache/hbase) | 2.2.3 | 3337 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3299 
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3231 
