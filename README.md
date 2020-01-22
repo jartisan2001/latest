@@ -45,6 +45,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3663
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.10 | 3344
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC1 | 1664
+[github-api](https://github.com/kohsuke/github-api) | 1.102 | 602
 
 ### 收录列表
 ---
@@ -94,7 +95,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3664 
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-3 | 3549 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3461 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.10 | 3344 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.10 | 3346 
 [hbase](https://github.com/apache/hbase) | 2.2.3 | 3337 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3299 
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3231 
@@ -130,7 +131,7 @@ repo | releases | star
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 653 
 [elide](https://github.com/yahoo/elide) | 4.5.12 | 627 
 [cxf](https://github.com/apache/cxf) | 3.3.5 | 619 
-[github-api](https://github.com/kohsuke/github-api) | 1.101 | 602 
+[github-api](https://github.com/kohsuke/github-api) | 1.102 | 602 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 598 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 582 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.2 | 300 
