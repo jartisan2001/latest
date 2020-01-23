@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.2 | 46692
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.4.RELEASE | 44993
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.5 | 10702
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3663
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.10 | 3344
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC1 | 1664
@@ -71,7 +72,7 @@ repo | releases | star
 [flink](https://github.com/apache/flink) | 1.8.3 | 11980 
 [redisson](https://github.com/redisson/redisson) | 3.12.0 | 11954 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11372 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone4 | 10700 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.5 | 10702 
 [nacos](https://github.com/alibaba/nacos) | 1.1.4 | 10303 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10066 
 [mockito](https://github.com/mockito/mockito) | 3.2.4 | 10009 
