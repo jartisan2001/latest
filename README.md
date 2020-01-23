@@ -46,6 +46,7 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.10 | 3344
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC1 | 1664
 [github-api](https://github.com/kohsuke/github-api) | 1.102 | 602
+[github-api](https://github.com/kohsuke/github-api) | 1.103 | 602
 
 ### 收录列表
 ---
@@ -131,7 +132,7 @@ repo | releases | star
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 653 
 [elide](https://github.com/yahoo/elide) | 4.5.12 | 627 
 [cxf](https://github.com/apache/cxf) | 3.3.5 | 619 
-[github-api](https://github.com/kohsuke/github-api) | 1.102 | 602 
+[github-api](https://github.com/kohsuke/github-api) | 1.103 | 602 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 598 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 582 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.2 | 300 
