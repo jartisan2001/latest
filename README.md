@@ -46,6 +46,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3663
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.RC1 | 3354
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.10 | 3344
+[shiro](https://github.com/apache/shiro) | 1.5.0 | 2826
 [github-api](https://github.com/kohsuke/github-api) | 1.102 | 602
 [github-api](https://github.com/kohsuke/github-api) | 1.103 | 602
 
@@ -93,11 +94,11 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 7.0.99 | 4174 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.15.Final | 4132 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3799 
-[beam](https://github.com/apache/beam) | 2.17.0 | 3670 
+[beam](https://github.com/apache/beam) | 2.18.0 | 3672 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3666 
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-3 | 3550 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3460 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.RC1 | 3354 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.RC1 | 3355 
 [hbase](https://github.com/apache/hbase) | 2.2.3 | 3337 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3299 
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3237 
@@ -106,7 +107,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 2962 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2961 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2841 
-[shiro](https://github.com/apache/shiro) | 1.4.2 | 2826 
+[shiro](https://github.com/apache/shiro) | 1.5.0 | 2826 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.26.v20200117 | 2776 
 [drools](https://github.com/kiegroup/drools) | 7.32.0.k20191223 | 2732 
 [pmd](https://github.com/pmd/pmd) | 6.20.0 | 2668 
