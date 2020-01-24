@@ -40,13 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.2 | 46692
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.4.RELEASE | 44993
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.5 | 10702
-[junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3663
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.RC1 | 3354
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.10 | 3344
-[shiro](https://github.com/apache/shiro) | 1.5.0 | 2826
 [github-api](https://github.com/kohsuke/github-api) | 1.102 | 602
 [github-api](https://github.com/kohsuke/github-api) | 1.103 | 602
 
