@@ -42,8 +42,6 @@ repo | releases | star
 ---|---|---
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.5 | 10702
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0.RC1 | 3354
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.10 | 3344
-[github-api](https://github.com/kohsuke/github-api) | 1.102 | 602
 [github-api](https://github.com/kohsuke/github-api) | 1.103 | 602
 
 ### 收录列表
