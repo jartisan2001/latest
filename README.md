@@ -41,10 +41,6 @@
 repo | releases | star
 ---|---|---
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.29 | 5060
-[pmd](https://github.com/pmd/pmd) | 6.21.0 | 2677
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.37.1 | 2021
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.37.2 | 2021
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.37.3 | 2021
 [github-api](https://github.com/kohsuke/github-api) | 1.105 | 604
 
 ### 收录列表
