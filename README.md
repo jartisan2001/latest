@@ -42,9 +42,7 @@ repo | releases | star
 ---|---|---
 [jib](https://github.com/GoogleContainerTools/jib) | 2.0.0 | 8361
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.29 | 5060
-[drools](https://github.com/kiegroup/drools) | 7.32.0.Final | 2734
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.2.20200129 | 1742
-[jbpm](https://github.com/kiegroup/jbpm) | 7.32.0.Final | 1036
 [github-api](https://github.com/kohsuke/github-api) | 1.105 | 604
 [github-api](https://github.com/kohsuke/github-api) | 1.106 | 604
 
