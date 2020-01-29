@@ -40,7 +40,10 @@
 ---
 repo | releases | star
 ---|---|---
+[jib](https://github.com/GoogleContainerTools/jib) | 2.0.0 | 8361
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.29 | 5060
+[drools](https://github.com/kiegroup/drools) | 7.32.0.Final | 2734
+[jbpm](https://github.com/kiegroup/jbpm) | 7.32.0.Final | 1036
 [github-api](https://github.com/kohsuke/github-api) | 1.105 | 604
 
 ### 收录列表
@@ -73,7 +76,7 @@ repo | releases | star
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0 | 9747 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8817 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8691 
-[jib](https://github.com/GoogleContainerTools/jib) | 1.8.0 | 8355 
+[jib](https://github.com/GoogleContainerTools/jib) | 2.0.0 | 8361 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.1 | 8282 
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7754 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.6 | 7612 
