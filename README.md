@@ -45,6 +45,7 @@ repo | releases | star
 [drools](https://github.com/kiegroup/drools) | 7.32.0.Final | 2734
 [jbpm](https://github.com/kiegroup/jbpm) | 7.32.0.Final | 1036
 [github-api](https://github.com/kohsuke/github-api) | 1.105 | 604
+[github-api](https://github.com/kohsuke/github-api) | 1.106 | 604
 
 ### 收录列表
 ---
@@ -130,7 +131,7 @@ repo | releases | star
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 656 
 [elide](https://github.com/yahoo/elide) | 4.5.12 | 627 
 [cxf](https://github.com/apache/cxf) | 3.3.5 | 621 
-[github-api](https://github.com/kohsuke/github-api) | 1.105 | 604 
+[github-api](https://github.com/kohsuke/github-api) | 1.106 | 604 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 598 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 582 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.2 | 301 
