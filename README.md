@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [jib](https://github.com/GoogleContainerTools/jib) | 2.0.0 | 8361
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.29 | 5060
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.2.20200130 | 1743
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.2.20200129 | 1742
 [github-api](https://github.com/kohsuke/github-api) | 1.105 | 604
 [github-api](https://github.com/kohsuke/github-api) | 1.106 | 604
@@ -66,7 +67,7 @@ repo | releases | star
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.3 | 12720 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.6 | 12619 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.2 | 12166 
-[flink](https://github.com/apache/flink) | 1.8.3 | 11998 
+[flink](https://github.com/apache/flink) | 1.9.2 | 12002 
 [redisson](https://github.com/redisson/redisson) | 3.12.0 | 11970 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11388 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.5 | 10710 
@@ -114,7 +115,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1899 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1833 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1795 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.2.20200129 | 1742 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.2.20200130 | 1743 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC1 | 1676 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1473 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1387 
