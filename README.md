@@ -41,10 +41,8 @@
 repo | releases | star
 ---|---|---
 [jib](https://github.com/GoogleContainerTools/jib) | 2.0.0 | 8361
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.29 | 5060
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.2.20200130 | 1743
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.2.20200129 | 1742
-[github-api](https://github.com/kohsuke/github-api) | 1.105 | 604
 [github-api](https://github.com/kohsuke/github-api) | 1.106 | 604
 
 ### 收录列表
