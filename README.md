@@ -41,9 +41,7 @@
 repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.12.1 | 11973
-[jib](https://github.com/GoogleContainerTools/jib) | 2.0.0 | 8361
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.2.20200130 | 1743
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.2.20200129 | 1742
 
 ### 收录列表
 ---
