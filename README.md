@@ -88,7 +88,7 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 7.0.99 | 4187 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.15.Final | 4140 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3809 
-[beam](https://github.com/apache/beam) | 2.18.0 | 3694 
+[beam](https://github.com/apache/beam) | 2.19.0 | 3697 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3691 
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-3 | 3556 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3465 
