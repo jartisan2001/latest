@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.3 | 39782
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12730
+[nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.0 | 10346
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.2 | 8291
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0 | 3385
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.16 | 304
@@ -70,7 +71,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.12.1 | 11993 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11431 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.5 | 10720 
-[nacos](https://github.com/alibaba/nacos) | 1.1.4 | 10344 
+[nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.0 | 10346 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10089 
 [mockito](https://github.com/mockito/mockito) | 3.2.4 | 10047 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0 | 9764 
