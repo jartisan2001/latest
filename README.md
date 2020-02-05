@@ -43,6 +43,8 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.3 | 39782
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12730
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.2 | 8291
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0 | 3385
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.16 | 304
 
 ### 收录列表
 ---
@@ -92,7 +94,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3694 
 [groovy](https://github.com/apache/groovy) | 3.0.0-rc-3 | 3557 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3467 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0 | 3384 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0 | 3385 
 [hbase](https://github.com/apache/hbase) | 2.2.3 | 3344 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3312 
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3254 
@@ -131,7 +133,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.106 | 606 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 600 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 583 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.2 | 304 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.16 | 304 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 237 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 154 
