@@ -41,9 +41,7 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.3 | 39782
-[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12730
 [nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.0 | 10346
-[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.2 | 8291
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0 | 3385
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.16 | 304
 
