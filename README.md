@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.3 | 39782
 [nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.0 | 10346
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0 | 3385
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.7 | 307
