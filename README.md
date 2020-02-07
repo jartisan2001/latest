@@ -44,6 +44,7 @@ repo | releases | star
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8842
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0 | 3385
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.7 | 307
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.3 | 307
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.16 | 304
 
 ### 收录列表
@@ -133,7 +134,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.106 | 607 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 600 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 583 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.7 | 307 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.3 | 307 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 237 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 154 
