@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.0 | 10346
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8842
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0 | 3385
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.7 | 307
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.3 | 307
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.16 | 304
