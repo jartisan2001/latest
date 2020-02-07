@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.0 | 10346
+[lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8842
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.0 | 3385
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.7 | 307
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.16 | 304
@@ -73,7 +74,7 @@ repo | releases | star
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10098 
 [mockito](https://github.com/mockito/mockito) | 3.2.4 | 10058 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0 | 9772 
-[lombok](https://github.com/rzwitserloot/lombok) | 1.18.10 | 8842 
+[lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8842 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8716 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.0.0 | 8425 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.2 | 8302 
@@ -82,7 +83,7 @@ repo | releases | star
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6250 
 [storm](https://github.com/apache/storm) | 2.1.0 | 5985 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5922 
-[cassandra](https://github.com/apache/cassandra) | 4.0-alpha2 | 5723 
+[cassandra](https://github.com/apache/cassandra) | 4.0-alpha3 | 5723 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.29 | 5072 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4414 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4336 
