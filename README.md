@@ -43,6 +43,7 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.0 | 10346
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8842
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.11.Final | 4151
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC3 | 1682
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.7 | 307
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.3 | 307
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.16 | 304
@@ -116,7 +117,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1837 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1804 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.2.20200130 | 1750 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC1 | 1682 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC3 | 1682 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1478 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1395 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1204 
