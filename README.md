@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.0 | 10346
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8842
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.11.Final | 4151
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.7 | 307
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.3 | 307
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.16 | 304
@@ -88,7 +89,7 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4414 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4335 
 [tomcat](https://github.com/apache/tomcat) | 7.0.99 | 4200 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.15.Final | 4149 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.11.Final | 4151 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3822 
 [beam](https://github.com/apache/beam) | 2.19.0 | 3704 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3699 
