@@ -137,7 +137,7 @@ repo | releases | star
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 237 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 154 
-[commons-compress](https://github.com/apache/commons-compress) | 1.19 | 140 
+[commons-compress](https://github.com/apache/commons-compress) | 1.20 | 140 
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 83 
 [hessian](https://github.com/ebourg/hessian) | 4.0.63 | 69 
 [contiperf](https://github.com/lucaspouzac/contiperf) | 2.3.4 | 43 
