@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8842
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.11.Final | 4151
+[jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200210 | 1749
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC3 | 1682
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.3 | 307
 
@@ -113,7 +114,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1902 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1836 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1804 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.2.20200130 | 1749 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200210 | 1749 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC3 | 1682 
 [avro](https://github.com/apache/avro) | 1.9.1 | 1480 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1396 
