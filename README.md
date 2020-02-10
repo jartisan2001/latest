@@ -40,11 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
-[lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8842
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.11.Final | 4151
 [jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200210 | 1749
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC3 | 1682
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.3 | 307
 
 ### 收录列表
 ---
