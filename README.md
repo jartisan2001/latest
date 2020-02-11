@@ -40,10 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.11.Final | 4151
 [groovy](https://github.com/apache/groovy) | 3.0.0 | 3563
 [jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200210 | 1749
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC3 | 1682
 
 ### 收录列表
 ---
