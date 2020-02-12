@@ -47,7 +47,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.5.2 | 46956 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.6.0 | 46958 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.4.RELEASE | 45291 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41790 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.3 | 39897 
@@ -84,7 +84,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.29 | 5076 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4415 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4336 
-[tomcat](https://github.com/apache/tomcat) | 7.0.99 | 4204 
+[tomcat](https://github.com/apache/tomcat) | 8.5.51 | 4204 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.11.Final | 4156 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3831 
 [beam](https://github.com/apache/beam) | 2.19.0 | 3713 
