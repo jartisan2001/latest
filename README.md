@@ -113,7 +113,7 @@ repo | releases | star
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1805 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200210 | 1748 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC3 | 1686 
-[avro](https://github.com/apache/avro) | 1.9.1 | 1480 
+[avro](https://github.com/apache/avro) | 1.9.2 | 1481 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1396 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1205 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1200 
