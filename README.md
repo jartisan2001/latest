@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.12.Final | 4161
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.1 | 3411
+[poi](https://github.com/apache/poi) | 4.1.2 | 910
 
 ### 收录列表
 ---
@@ -91,7 +92,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3709 
 [groovy](https://github.com/apache/groovy) | 3.0.0 | 3567 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3478 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.1 | 3411 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.1 | 3413 
 [hbase](https://github.com/apache/hbase) | 2.2.3 | 3347 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3318 
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3272 
@@ -121,7 +122,7 @@ repo | releases | star
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.18 | 1055 
 [jbpm](https://github.com/kiegroup/jbpm) | 7.32.0.Final | 1039 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
-[poi](https://github.com/apache/poi) | 4.1.1 | 910 
+[poi](https://github.com/apache/poi) | 4.1.2 | 910 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.0 | 886 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
