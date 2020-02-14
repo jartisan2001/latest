@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.12.Final | 4161
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.1 | 3411
-[poi](https://github.com/apache/poi) | 4.1.2 | 910
 
 ### 收录列表
 ---
