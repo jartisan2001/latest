@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 39946
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.12.Final | 4161
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.1 | 3411
 
@@ -50,7 +51,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.6.0 | 46997 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.4.RELEASE | 45368 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41809 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.3 | 39939 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 39946 
 [guava](https://github.com/google/guava) | 28.2-jre | 35830 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 31054 
 [netty](https://github.com/netty/netty) | 4.1.45.Final | 22570 
@@ -80,7 +81,7 @@ repo | releases | star
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6271 
 [storm](https://github.com/apache/storm) | 2.1.0 | 5987 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5939 
-[cassandra](https://github.com/apache/cassandra) | 4.0-alpha3 | 5737 
+[cassandra](https://github.com/apache/cassandra) | 3.11.6 | 5738 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.29 | 5087 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4417 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4337 
