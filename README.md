@@ -84,7 +84,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.29 | 5087 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4417 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4337 
-[tomcat](https://github.com/apache/tomcat) | 8.5.51 | 4212 
+[tomcat](https://github.com/apache/tomcat) | 7.0.100 | 4212 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.12.Final | 4162 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3835 
 [beam](https://github.com/apache/beam) | 2.19.0 | 3724 
