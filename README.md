@@ -43,6 +43,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 39946
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.12.Final | 4161
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.1 | 3411
+[elide](https://github.com/yahoo/elide) | 4.5.13 | 632
 
 ### 收录列表
 ---
@@ -126,7 +127,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.0 | 886 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
-[elide](https://github.com/yahoo/elide) | 4.5.12 | 632 
+[elide](https://github.com/yahoo/elide) | 4.5.13 | 632 
 [cxf](https://github.com/apache/cxf) | 3.3.5 | 624 
 [github-api](https://github.com/kohsuke/github-api) | 1.106 | 612 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 602 
