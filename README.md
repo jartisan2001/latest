@@ -43,6 +43,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 39946
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.12.Final | 4161
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.1 | 3411
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0 | 1692
 [elide](https://github.com/yahoo/elide) | 4.5.13 | 632
 
 ### 收录列表
@@ -114,7 +115,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1837 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1806 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200210 | 1750 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0-RC3 | 1692 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0 | 1692 
 [avro](https://github.com/apache/avro) | 1.9.2 | 1482 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1401 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1206 
