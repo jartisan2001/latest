@@ -41,8 +41,6 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 39946
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.12.Final | 4161
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.1 | 3411
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0 | 1692
 [elide](https://github.com/yahoo/elide) | 4.5.13 | 632
 
