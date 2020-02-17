@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 39946
+[groovy](https://github.com/apache/groovy) | 3.0.1 | 3572
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0 | 1692
 [elide](https://github.com/yahoo/elide) | 4.5.13 | 632
 
@@ -90,10 +91,10 @@ repo | releases | star
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3838 
 [beam](https://github.com/apache/beam) | 2.19.0 | 3728 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3717 
-[groovy](https://github.com/apache/groovy) | 3.0.0 | 3571 
+[groovy](https://github.com/apache/groovy) | 3.0.1 | 3572 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.1 | 3416 
-[hbase](https://github.com/apache/hbase) | 2.2.3 | 3347 
+[hbase](https://github.com/apache/hbase) | 2.1.9 | 3348 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3319 
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3275 
 [solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3275 
