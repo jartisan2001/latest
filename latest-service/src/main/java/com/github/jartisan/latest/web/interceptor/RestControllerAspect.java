@@ -14,9 +14,10 @@ import org.springframework.stereotype.Component;
 * @author jalen
 * @date 2018年1月2日 下午6:15:41 
 * @version V1.0   
-*/
-@Aspect
+* @Aspect
 @Component
+*/
+
 public class RestControllerAspect {
 	 protected final Logger log = LoggerFactory.getLogger(this.getClass());
 	    @Before("execution(public * com.github.jartisan.latest.web.controller.*Controller.*(..))")
