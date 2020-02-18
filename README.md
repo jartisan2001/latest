@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 39946
 [groovy](https://github.com/apache/groovy) | 3.0.1 | 3572
 [drools](https://github.com/kiegroup/drools) | 7.33.0.Final | 2764
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0 | 1692
