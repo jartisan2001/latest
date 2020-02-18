@@ -42,7 +42,9 @@ repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 39946
 [groovy](https://github.com/apache/groovy) | 3.0.1 | 3572
+[drools](https://github.com/kiegroup/drools) | 7.33.0.Final | 2764
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0 | 1692
+[jbpm](https://github.com/kiegroup/jbpm) | 7.33.0.Final | 1045
 [elide](https://github.com/yahoo/elide) | 4.5.13 | 632
 
 ### 收录列表
@@ -104,7 +106,7 @@ repo | releases | star
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2855 
 [shiro](https://github.com/apache/shiro) | 1.5.0 | 2841 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.26.v20200117 | 2791 
-[drools](https://github.com/kiegroup/drools) | 7.32.0.Final | 2761 
+[drools](https://github.com/kiegroup/drools) | 7.33.0.Final | 2764 
 [pmd](https://github.com/pmd/pmd) | 6.21.0 | 2706 
 [kylin](https://github.com/apache/kylin) | 3.0.0 | 2545 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.37.3 | 2041 
@@ -121,7 +123,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1202 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.18 | 1059 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.32.0.Final | 1039 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.33.0.Final | 1045 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
 [poi](https://github.com/apache/poi) | 4.1.2 | 912 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.0 | 886 
