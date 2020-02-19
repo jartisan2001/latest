@@ -42,10 +42,6 @@ repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.12.2 | 12078
 [groovy](https://github.com/apache/groovy) | 3.0.1 | 3572
-[drools](https://github.com/kiegroup/drools) | 7.33.0.Final | 2764
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0 | 1692
-[jbpm](https://github.com/kiegroup/jbpm) | 7.33.0.Final | 1045
-[elide](https://github.com/yahoo/elide) | 4.5.13 | 632
 
 ### 收录列表
 ---
