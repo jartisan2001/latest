@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.12.2 | 12078
-[groovy](https://github.com/apache/groovy) | 3.0.1 | 3572
 
 ### 收录列表
 ---
