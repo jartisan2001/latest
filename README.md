@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.12.2 | 12078
+[nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.1 | 10485
 
 ### 收录列表
 ---
@@ -66,7 +67,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.12.2 | 12088 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.5 | 10771 
-[nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.0 | 10465 
+[nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.1 | 10485 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
 [mockito](https://github.com/mockito/mockito) | 3.2.4 | 10119 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0 | 9816 
