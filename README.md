@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[redisson](https://github.com/redisson/redisson) | 3.12.2 | 12078
 [nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.1 | 10485
 
 ### 收录列表
