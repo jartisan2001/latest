@@ -43,6 +43,7 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.18 | 41890
 [nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.1 | 10485
 [mockito](https://github.com/mockito/mockito) | 3.3.0 | 10126
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.2 | 3433
 
 ### 收录列表
 ---
@@ -69,7 +70,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.5 | 10771 
 [nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.1 | 10485 
-[mockito](https://github.com/mockito/mockito) | 3.3.0 | 10126 
+[mockito](https://github.com/mockito/mockito) | 3.3.0 | 10128 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0 | 9816 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
@@ -92,7 +93,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3727 
 [groovy](https://github.com/apache/groovy) | 3.0.1 | 3576 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.1 | 3429 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.2 | 3433 
 [hbase](https://github.com/apache/hbase) | 2.1.9 | 3351 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3280 
