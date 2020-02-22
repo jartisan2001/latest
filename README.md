@@ -40,7 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.18 | 41890
 [nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.1 | 10485
+[mockito](https://github.com/mockito/mockito) | 3.3.0 | 10126
 
 ### 收录列表
 ---
@@ -48,7 +50,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.6.0 | 47082 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.4.RELEASE | 45480 
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17 | 41873 
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.18 | 41890 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 40011 
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 31094 
@@ -67,8 +69,8 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.5 | 10771 
 [nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.1 | 10485 
+[mockito](https://github.com/mockito/mockito) | 3.3.0 | 10126 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
-[mockito](https://github.com/mockito/mockito) | 3.2.4 | 10119 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0 | 9816 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8758 
@@ -99,7 +101,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 3002 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2862 
-[shiro](https://github.com/apache/shiro) | 1.5.0 | 2848 
+[shiro](https://github.com/apache/shiro) | 1.5.1 | 2850 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.26.v20200117 | 2795 
 [drools](https://github.com/kiegroup/drools) | 7.33.0.Final | 2767 
 [pmd](https://github.com/pmd/pmd) | 6.21.0 | 2711 
