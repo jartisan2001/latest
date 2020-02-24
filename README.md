@@ -44,6 +44,9 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.1 | 10485
 [mockito](https://github.com/mockito/mockito) | 3.3.0 | 10126
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.2 | 3433
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200223 | 1754
+[pdfbox](https://github.com/apache/pdfbox) | 2.0.19 | 1063
+[github-api](https://github.com/kohsuke/github-api) | 1.107 | 613
 
 ### 收录列表
 ---
@@ -113,14 +116,14 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1840 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200210 | 1751 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200223 | 1754 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0 | 1702 
 [avro](https://github.com/apache/avro) | 1.9.2 | 1483 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1203 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
-[pdfbox](https://github.com/apache/pdfbox) | 2.0.18 | 1060 
+[pdfbox](https://github.com/apache/pdfbox) | 2.0.19 | 1063 
 [jbpm](https://github.com/kiegroup/jbpm) | 7.33.0.Final | 1045 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
@@ -129,7 +132,7 @@ repo | releases | star
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
 [elide](https://github.com/yahoo/elide) | 4.5.13 | 633 
 [cxf](https://github.com/apache/cxf) | 3.3.5 | 624 
-[github-api](https://github.com/kohsuke/github-api) | 1.106 | 613 
+[github-api](https://github.com/kohsuke/github-api) | 1.107 | 613 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 584 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.3 | 312 
