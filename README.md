@@ -40,9 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.18 | 41890
-[mockito](https://github.com/mockito/mockito) | 3.3.0 | 10126
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.2 | 3433
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200223 | 1754
 [github-api](https://github.com/kohsuke/github-api) | 1.107 | 613
 
