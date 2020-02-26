@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[jib](https://github.com/GoogleContainerTools/jib) | 2.1.0 | 8531
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200223 | 1754
 [github-api](https://github.com/kohsuke/github-api) | 1.107 | 613
 
@@ -73,7 +74,7 @@ repo | releases | star
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0 | 9816 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8758 
-[jib](https://github.com/GoogleContainerTools/jib) | 2.0.0 | 8493 
+[jib](https://github.com/GoogleContainerTools/jib) | 2.1.0 | 8531 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.2 | 8340 
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7764 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.7 | 7659 
