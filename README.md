@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.13.RELEASE | 45636
 [jib](https://github.com/GoogleContainerTools/jib) | 2.1.0 | 8531
 
 ### 收录列表
@@ -47,7 +48,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.6.0 | 47082 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.4.RELEASE | 45480 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.13.RELEASE | 45636 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.18 | 41894 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 40011 
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
@@ -95,7 +96,7 @@ repo | releases | star
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3280 
 [solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3280 
-[camel](https://github.com/apache/camel) | 2.25.0 | 3097 
+[camel](https://github.com/apache/camel) | 3.1.0 | 3110 
 [ignite](https://github.com/apache/ignite) | 2.7.6 | 3002 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2862 
