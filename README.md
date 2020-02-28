@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.5.RELEASE | 45652
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.13.RELEASE | 45636
+[netty](https://github.com/netty/netty) | 4.1.46.Final | 22676
 [jib](https://github.com/GoogleContainerTools/jib) | 2.1.0 | 8531
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.27.v20200227 | 2797
 
@@ -55,7 +56,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 40011 
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 31094 
-[netty](https://github.com/netty/netty) | 4.1.45.Final | 22608 
+[netty](https://github.com/netty/netty) | 4.1.46.Final | 22676 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.62 | 20624 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 20273 
