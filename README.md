@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.5.RELEASE | 45652
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.13.RELEASE | 45636
 [jib](https://github.com/GoogleContainerTools/jib) | 2.1.0 | 8531
 
@@ -48,7 +49,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.6.0 | 47082 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.13.RELEASE | 45636 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.5.RELEASE | 45652 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.18 | 41894 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 40011 
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
