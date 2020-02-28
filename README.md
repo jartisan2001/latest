@@ -43,6 +43,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.5.RELEASE | 45652
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.13.RELEASE | 45636
 [jib](https://github.com/GoogleContainerTools/jib) | 2.1.0 | 8531
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.27.v20200227 | 2797
 
 ### 收录列表
 ---
@@ -102,7 +103,7 @@ repo | releases | star
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2862 
 [shiro](https://github.com/apache/shiro) | 1.5.1 | 2850 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.26.v20200117 | 2795 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.27.v20200227 | 2797 
 [drools](https://github.com/kiegroup/drools) | 7.33.0.Final | 2767 
 [pmd](https://github.com/pmd/pmd) | 6.21.0 | 2711 
 [kylin](https://github.com/apache/kylin) | 3.0.0 | 2546 
