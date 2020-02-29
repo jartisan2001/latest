@@ -43,6 +43,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.5.RELEASE | 45652
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.13.RELEASE | 45636
 [netty](https://github.com/netty/netty) | 4.1.46.Final | 22676
+[redisson](https://github.com/redisson/redisson) | 3.12.3 | 12166
 [jib](https://github.com/GoogleContainerTools/jib) | 2.1.0 | 8531
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.27.v20200227 | 2797
 
@@ -66,8 +67,8 @@ repo | releases | star
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.6 | 12745 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.2 | 12280 
+[redisson](https://github.com/redisson/redisson) | 3.12.3 | 12166 
 [flink](https://github.com/apache/flink) | 1.10.0 | 12101 
-[redisson](https://github.com/redisson/redisson) | 3.12.2 | 12088 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.5 | 10771 
 [nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.1 | 10485 
