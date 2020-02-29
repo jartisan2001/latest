@@ -44,9 +44,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.13.RELEASE | 45636
 [netty](https://github.com/netty/netty) | 4.1.46.Final | 22676
 [redisson](https://github.com/redisson/redisson) | 3.12.3 | 12166
-[jib](https://github.com/GoogleContainerTools/jib) | 2.1.0 | 8531
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.27.v20200227 | 2797
-[log4j2](https://github.com/apache/logging-log4j2) | 2.13.1 | 893
 
 ### 收录列表
 ---
