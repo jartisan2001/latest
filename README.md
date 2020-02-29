@@ -46,6 +46,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.12.3 | 12166
 [jib](https://github.com/GoogleContainerTools/jib) | 2.1.0 | 8531
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.27.v20200227 | 2797
+[log4j2](https://github.com/apache/logging-log4j2) | 2.13.1 | 893
 
 ### 收录列表
 ---
@@ -126,7 +127,7 @@ repo | releases | star
 [jbpm](https://github.com/kiegroup/jbpm) | 7.33.0.Final | 1045 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
-[log4j2](https://github.com/apache/logging-log4j2) | 2.13.0 | 887 
+[log4j2](https://github.com/apache/logging-log4j2) | 2.13.1 | 893 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
 [elide](https://github.com/yahoo/elide) | 4.5.13 | 633 
