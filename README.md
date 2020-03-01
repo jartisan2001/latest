@@ -40,8 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.5.RELEASE | 45652
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.13.RELEASE | 45636
 [netty](https://github.com/netty/netty) | 4.1.46.Final | 22676
 [redisson](https://github.com/redisson/redisson) | 3.12.3 | 12166
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.27.v20200227 | 2797
