@@ -41,7 +41,9 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.46.Final | 22676
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.66 | 20692
 [redisson](https://github.com/redisson/redisson) | 3.12.3 | 12166
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.30 | 5129
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.27.v20200227 | 2797
 
 ### 收录列表
@@ -55,7 +57,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 31094 
 [netty](https://github.com/netty/netty) | 4.1.46.Final | 22676 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.62 | 20624 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.66 | 20692 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 20273 
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 19454 
@@ -82,7 +84,7 @@ repo | releases | star
 [storm](https://github.com/apache/storm) | 2.1.0 | 5991 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [cassandra](https://github.com/apache/cassandra) | 3.11.6 | 5747 
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.29 | 5101 
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.30 | 5129 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4426 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4337 
 [tomcat](https://github.com/apache/tomcat) | 10.0.0-M1 | 4232 
