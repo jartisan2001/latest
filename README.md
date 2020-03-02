@@ -107,7 +107,7 @@ repo | releases | star
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.27.v20200227 | 2797 
 [drools](https://github.com/kiegroup/drools) | 7.33.0.Final | 2767 
 [pmd](https://github.com/pmd/pmd) | 6.21.0 | 2711 
-[kylin](https://github.com/apache/kylin) | 3.0.0 | 2546 
+[kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.37.3 | 2046 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2022 
