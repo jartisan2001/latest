@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.66 | 20692
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.30 | 5129
 
 ### 收录列表
 ---
