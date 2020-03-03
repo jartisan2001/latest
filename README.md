@@ -92,12 +92,12 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 3.0.1 | 3576 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.2 | 3433 
-[hbase](https://github.com/apache/hbase) | 1.4.13 | 3365 
+[hbase](https://github.com/apache/hbase) | 1.6.0 | 3367 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3280 
 [solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3280 
 [camel](https://github.com/apache/camel) | 3.1.0 | 3110 
-[ignite](https://github.com/apache/ignite) | 2.7.6 | 3002 
+[ignite](https://github.com/apache/ignite) | 2.8.0 | 3018 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2862 
 [shiro](https://github.com/apache/shiro) | 1.5.1 | 2850 
