@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.66 | 20692
 [groovy](https://github.com/apache/groovy) | 2.4.19 | 3594
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.3 | 1760
 
