@@ -76,7 +76,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 2.1.0 | 8532 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.2 | 8340 
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7764 
-[zookeeper](https://github.com/apache/zookeeper) | 3.5.7 | 7659 
+[zookeeper](https://github.com/apache/zookeeper) | 3.6.0 | 7707 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6285 
 [storm](https://github.com/apache/storm) | 2.1.0 | 5991 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
