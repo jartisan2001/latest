@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.66 | 20692
+[groovy](https://github.com/apache/groovy) | 2.4.19 | 3594
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.3 | 1760
 
 ### 收录列表
@@ -89,7 +90,7 @@ repo | releases | star
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [beam](https://github.com/apache/beam) | 2.19.0 | 3738 
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3727 
-[groovy](https://github.com/apache/groovy) | 3.0.1 | 3576 
+[groovy](https://github.com/apache/groovy) | 2.4.19 | 3594 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.2 | 3433 
 [hbase](https://github.com/apache/hbase) | 1.6.0 | 3367 
