@@ -43,6 +43,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.7 | 47298
 [groovy](https://github.com/apache/groovy) | 2.4.19 | 3594
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.3 | 1760
+[github-api](https://github.com/kohsuke/github-api) | 1.108 | 614
 
 ### 收录列表
 ---
@@ -128,7 +129,7 @@ repo | releases | star
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
 [elide](https://github.com/yahoo/elide) | 4.5.13 | 633 
 [cxf](https://github.com/apache/cxf) | 3.3.5 | 624 
-[github-api](https://github.com/kohsuke/github-api) | 1.107 | 613 
+[github-api](https://github.com/kohsuke/github-api) | 1.108 | 614 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 584 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.3 | 312 
