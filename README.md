@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.7 | 47298
+[nacos](https://github.com/alibaba/nacos) | 1.2.0 | 10652
 [groovy](https://github.com/apache/groovy) | 2.4.19 | 3594
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.3 | 1760
 [github-api](https://github.com/kohsuke/github-api) | 1.108 | 614
@@ -69,7 +70,7 @@ repo | releases | star
 [flink](https://github.com/apache/flink) | 1.10.0 | 12101 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.5 | 10771 
-[nacos](https://github.com/alibaba/nacos) | 1.2.0-beta.1 | 10485 
+[nacos](https://github.com/alibaba/nacos) | 1.2.0 | 10652 
 [mockito](https://github.com/mockito/mockito) | 3.3.0 | 10128 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0 | 9816 
