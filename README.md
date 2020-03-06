@@ -42,8 +42,6 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.7 | 47298
 [nacos](https://github.com/alibaba/nacos) | 1.2.0 | 10652
-[groovy](https://github.com/apache/groovy) | 2.4.19 | 3594
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.3 | 1760
 [github-api](https://github.com/kohsuke/github-api) | 1.108 | 614
 
 ### 收录列表
