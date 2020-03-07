@@ -40,8 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.7 | 47298
-[nacos](https://github.com/alibaba/nacos) | 1.2.0 | 10652
 [groovy](https://github.com/apache/groovy) | 2.5.10 | 3596
 [github-api](https://github.com/kohsuke/github-api) | 1.108 | 614
 
