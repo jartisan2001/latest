@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [groovy](https://github.com/apache/groovy) | 2.5.10 | 3596
-[github-api](https://github.com/kohsuke/github-api) | 1.108 | 614
 
 ### 收录列表
 ---
