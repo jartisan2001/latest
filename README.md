@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [groovy](https://github.com/apache/groovy) | 3.0.2 | 3597
-[groovy](https://github.com/apache/groovy) | 2.5.10 | 3596
 
 ### 收录列表
 ---
