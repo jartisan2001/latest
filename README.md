@@ -69,7 +69,7 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.2.0 | 10652 
 [mockito](https://github.com/mockito/mockito) | 3.3.0 | 10128 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
-[shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.0 | 9816 
+[shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.1 | 10022 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8758 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.1.0 | 8532 
