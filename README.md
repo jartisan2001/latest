@@ -40,7 +40,10 @@
 ---
 repo | releases | star
 ---|---|---
+[netty](https://github.com/netty/netty) | 4.1.47.Final | 22770
 [groovy](https://github.com/apache/groovy) | 3.0.2 | 3597
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.11 | 3469
+[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887
 
 ### 收录列表
 ---
@@ -52,7 +55,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 40011 
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 31094 
-[netty](https://github.com/netty/netty) | 4.1.46.Final | 22676 
+[netty](https://github.com/netty/netty) | 4.1.47.Final | 22770 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.66 | 20692 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 20273 
@@ -90,7 +93,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3727 
 [groovy](https://github.com/apache/groovy) | 3.0.2 | 3597 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.2 | 3433 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.11 | 3469 
 [hbase](https://github.com/apache/hbase) | 1.6.0 | 3367 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3280 
@@ -98,7 +101,7 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.1.0 | 3110 
 [ignite](https://github.com/apache/ignite) | 2.8.0 | 3018 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
-[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2862 
+[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
 [shiro](https://github.com/apache/shiro) | 1.5.1 | 2850 
 [drools](https://github.com/kiegroup/drools) | 7.34.0.Final | 2800 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.27.v20200227 | 2797 
