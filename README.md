@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298
 [netty](https://github.com/netty/netty) | 4.1.47.Final | 22770
 [groovy](https://github.com/apache/groovy) | 3.0.2 | 3597
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.11 | 3469
@@ -54,7 +55,7 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.18 | 41894 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 40011 
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
-[dubbo](https://github.com/apache/incubator-dubbo) | 2.6.7 | 31094 
+[dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.47.Final | 22770 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.66 | 20692 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
