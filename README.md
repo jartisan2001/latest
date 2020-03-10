@@ -100,8 +100,8 @@ repo | releases | star
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.1 | 2862 
 [shiro](https://github.com/apache/shiro) | 1.5.1 | 2850 
+[drools](https://github.com/kiegroup/drools) | 7.34.0.Final | 2800 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.27.v20200227 | 2797 
-[drools](https://github.com/kiegroup/drools) | 7.33.0.Final | 2767 
 [pmd](https://github.com/pmd/pmd) | 6.21.0 | 2711 
 [kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.37.3 | 2046 
@@ -118,7 +118,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1203 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.19 | 1063 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.33.0.Final | 1045 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.34.0.Final | 1056 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.1 | 893 
