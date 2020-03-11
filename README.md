@@ -44,7 +44,9 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.47.Final | 22770
 [groovy](https://github.com/apache/groovy) | 3.0.2 | 3597
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.11 | 3469
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.3 | 3469
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887
+[jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200310 | 1767
 
 ### 收录列表
 ---
@@ -94,7 +96,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3727 
 [groovy](https://github.com/apache/groovy) | 3.0.2 | 3597 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.11 | 3469 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.3 | 3469 
 [hbase](https://github.com/apache/hbase) | 1.6.0 | 3367 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3280 
@@ -114,7 +116,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1840 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.3 | 1760 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200310 | 1767 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0 | 1702 
 [avro](https://github.com/apache/avro) | 1.9.2 | 1483 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
