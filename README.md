@@ -96,7 +96,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.6.0 | 3727 
 [groovy](https://github.com/apache/groovy) | 3.0.2 | 3597 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.3 | 3469 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.3 | 3471 
 [hbase](https://github.com/apache/hbase) | 1.6.0 | 3367 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3280 
