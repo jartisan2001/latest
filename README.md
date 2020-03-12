@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298
-[netty](https://github.com/netty/netty) | 4.1.47.Final | 22770
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.11 | 3469
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.3 | 3469
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887
