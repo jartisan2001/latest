@@ -40,10 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.11 | 3469
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.3 | 3469
-[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887
 [pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745
 [jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200310 | 1767
 
