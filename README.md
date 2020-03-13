@@ -44,6 +44,7 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.2.11 | 3469
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.3 | 3469
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887
+[pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745
 [jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200310 | 1767
 
 ### 收录列表
@@ -106,7 +107,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.5.1 | 2850 
 [drools](https://github.com/kiegroup/drools) | 7.34.0.Final | 2800 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.27.v20200227 | 2797 
-[pmd](https://github.com/pmd/pmd) | 6.21.0 | 2711 
+[pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745 
 [kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.37.3 | 2046 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
