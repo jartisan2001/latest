@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.3 | 3469
 [pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745
 [jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200310 | 1767
@@ -50,7 +51,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.7 | 47298 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.5.RELEASE | 45652 
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.18 | 41894 
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 40011 
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
