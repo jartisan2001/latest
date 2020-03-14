@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112
+[mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.3 | 3469
 [pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745
 [jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200310 | 1767
@@ -70,7 +71,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.5 | 10771 
 [nacos](https://github.com/alibaba/nacos) | 1.2.0 | 10652 
-[mockito](https://github.com/mockito/mockito) | 3.3.0 | 10128 
+[mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.1 | 10022 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
