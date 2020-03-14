@@ -42,9 +42,7 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112
 [mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.3 | 3469
 [pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745
-[jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200310 | 1767
 
 ### 收录列表
 ---
