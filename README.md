@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112
 [mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246
-[pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745
 
 ### 收录列表
 ---
