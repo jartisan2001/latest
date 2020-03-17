@@ -59,7 +59,7 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 19454 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.4.1 | 15115 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta1 | 13169 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta1 | 13182 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.2 | 12280 
 [redisson](https://github.com/redisson/redisson) | 3.12.3 | 12166 
