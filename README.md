@@ -40,8 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112
-[mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta1 | 13169
 
 ### 收录列表
 ---
@@ -60,8 +59,8 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 19454 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.4.1 | 15115 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta1 | 13169 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.6 | 12745 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.2 | 12280 
 [redisson](https://github.com/redisson/redisson) | 3.12.3 | 12166 
 [flink](https://github.com/apache/flink) | 1.10.0 | 12101 
@@ -84,7 +83,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.30 | 5129 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4426 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4337 
-[tomcat](https://github.com/apache/tomcat) | 10.0.0-M1 | 4232 
+[tomcat](https://github.com/apache/tomcat) | 8.5.53 | 4289 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.12.Final | 4169 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [beam](https://github.com/apache/beam) | 2.19.0 | 3738 
