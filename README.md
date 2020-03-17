@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[netty](https://github.com/netty/netty) | 4.1.48.Final | 22831
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta1 | 13169
 
 ### 收录列表
@@ -52,7 +53,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 40011 
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
-[netty](https://github.com/netty/netty) | 4.1.47.Final | 22770 
+[netty](https://github.com/netty/netty) | 4.1.48.Final | 22831 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.66 | 20692 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 20273 
