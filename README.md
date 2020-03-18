@@ -42,6 +42,8 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.48.Final | 22831
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta1 | 13169
+[lucene](https://github.com/apache/lucene-solr) | 8.5.0 | 3329
+[solr](https://github.com/apache/lucene-solr) | 8.5.0 | 3329
 
 ### 收录列表
 ---
@@ -93,9 +95,9 @@ repo | releases | star
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.3 | 3471 
 [hbase](https://github.com/apache/hbase) | 1.6.0 | 3367 
+[lucene](https://github.com/apache/lucene-solr) | 8.5.0 | 3329 
+[solr](https://github.com/apache/lucene-solr) | 8.5.0 | 3329 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
-[lucene](https://github.com/apache/lucene-solr) | 8.4.1 | 3280 
-[solr](https://github.com/apache/lucene-solr) | 8.4.1 | 3280 
 [camel](https://github.com/apache/camel) | 3.1.0 | 3110 
 [ignite](https://github.com/apache/ignite) | 2.8.0 | 3018 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
