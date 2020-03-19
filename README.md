@@ -44,6 +44,8 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta1 | 13169
 [lucene](https://github.com/apache/lucene-solr) | 8.5.0 | 3329
 [solr](https://github.com/apache/lucene-solr) | 8.5.0 | 3329
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.1 | 1745
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.17 | 319
 
 ### 收录列表
 ---
@@ -114,7 +116,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1840 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200310 | 1767 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.0 | 1702 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.1 | 1745 
 [avro](https://github.com/apache/avro) | 1.9.2 | 1483 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
@@ -132,7 +134,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.108 | 614 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 584 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.3 | 312 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.17 | 319 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 155 
