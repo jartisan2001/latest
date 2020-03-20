@@ -41,6 +41,8 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.48.Final | 22831
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec09 | 20867
+[fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec09 | 20867
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.67 | 20858
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta1 | 13169
 [lucene](https://github.com/apache/lucene-solr) | 8.5.0 | 3329
@@ -59,7 +61,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.48.Final | 22831 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.67 | 20858 
+[fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec09 | 20867 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 20273 
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 19454 
