@@ -40,6 +40,11 @@
 ---
 repo | releases | star
 ---|---|---
+[fastjson](https://github.com/alibaba/fastjson) | 1.1.46.sec09 | 20870
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.7.sec09 | 20870
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.4.sec09 | 20870
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.29.sec09 | 20870
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.27.sec09 | 20870
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec09 | 20867
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec09 | 20867
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.67 | 20858
@@ -59,7 +64,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.48.Final | 22831 
-[fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec09 | 20867 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.27.sec09 | 20870 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 20273 
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 19454 
@@ -97,7 +102,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 3.0.2 | 3597 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.3 | 3471 
-[hbase](https://github.com/apache/hbase) | 1.6.0 | 3367 
+[hbase](https://github.com/apache/hbase) | 2.2.4 | 3381 
 [lucene](https://github.com/apache/lucene-solr) | 8.5.0 | 3329 
 [solr](https://github.com/apache/lucene-solr) | 8.5.0 | 3329 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
