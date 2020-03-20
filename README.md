@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.48.Final | 22831
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.67 | 20858
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta1 | 13169
 [lucene](https://github.com/apache/lucene-solr) | 8.5.0 | 3329
 [solr](https://github.com/apache/lucene-solr) | 8.5.0 | 3329
@@ -58,7 +59,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.48.Final | 22831 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.66 | 20692 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.67 | 20858 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 20273 
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 19454 
@@ -88,7 +89,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.30 | 5129 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4426 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4337 
-[tomcat](https://github.com/apache/tomcat) | 8.5.53 | 4289 
+[tomcat](https://github.com/apache/tomcat) | 7.0.103 | 4302 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.12.Final | 4169 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [beam](https://github.com/apache/beam) | 2.19.0 | 3738 
