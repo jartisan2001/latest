@@ -40,11 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
-[netty](https://github.com/netty/netty) | 4.1.48.Final | 22831
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec09 | 20867
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec09 | 20867
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.67 | 20858
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta1 | 13169
 [lucene](https://github.com/apache/lucene-solr) | 8.5.0 | 3329
 [solr](https://github.com/apache/lucene-solr) | 8.5.0 | 3329
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.1 | 1745
