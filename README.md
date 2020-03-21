@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.48.sec09 | 20874
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.46.sec09 | 20870
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.7.sec09 | 20870
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.4.sec09 | 20870
@@ -64,7 +65,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.48.Final | 22831 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.27.sec09 | 20870 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.48.sec09 | 20874 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 20273 
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 19454 
