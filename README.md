@@ -50,10 +50,6 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec09 | 20867
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec09 | 20867
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.67 | 20858
-[lucene](https://github.com/apache/lucene-solr) | 8.5.0 | 3329
-[solr](https://github.com/apache/lucene-solr) | 8.5.0 | 3329
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.1 | 1745
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.17 | 319
 
 ### 收录列表
 ---
