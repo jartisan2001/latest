@@ -49,7 +49,6 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.27.sec09 | 20870
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec09 | 20867
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec09 | 20867
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.67 | 20858
 
 ### 收录列表
 ---
