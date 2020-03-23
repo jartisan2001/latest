@@ -41,14 +41,6 @@
 repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.58.sec09 | 20879
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.48.sec09 | 20874
-[fastjson](https://github.com/alibaba/fastjson) | 1.1.46.sec09 | 20870
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.7.sec09 | 20870
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.4.sec09 | 20870
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.29.sec09 | 20870
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.27.sec09 | 20870
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.8.sec09 | 20867
-[fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec09 | 20867
 [junit5](https://github.com/junit-team/junit5) | 5.6.1 | 3797
 
 ### 收录列表
