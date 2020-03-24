@@ -40,7 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.60.sec09 | 20908
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.58.sec09 | 20879
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta2 | 13285
 [junit5](https://github.com/junit-team/junit5) | 5.6.1 | 3797
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M1 | 3495
 
@@ -55,13 +57,13 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.48.Final | 22831 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.58.sec09 | 20879 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.60.sec09 | 20908 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 20273 
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 19454 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.4.1 | 15115 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta1 | 13182 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta2 | 13285 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.2 | 12280 
 [redisson](https://github.com/redisson/redisson) | 3.12.3 | 12166 
@@ -100,8 +102,8 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.1.0 | 3110 
 [ignite](https://github.com/apache/ignite) | 2.8.0 | 3018 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
+[shiro](https://github.com/apache/shiro) | 1.5.2 | 2889 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
-[shiro](https://github.com/apache/shiro) | 1.5.1 | 2850 
 [drools](https://github.com/kiegroup/drools) | 7.34.0.Final | 2800 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.27.v20200227 | 2797 
 [pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745 
