@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.60.sec09 | 20908
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.58.sec09 | 20879
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta2 | 13285
 [junit5](https://github.com/junit-team/junit5) | 5.6.1 | 3797
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M1 | 3495
