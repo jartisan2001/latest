@@ -15,11 +15,11 @@ import org.springframework.stereotype.Component;
 * @date 2018年1月2日 下午6:15:41 
 * @version V1.0   
 * @Aspect
-@Component
+* @Component 
 */
 
 public class RestControllerAspect {
-	 protected final Logger log = LoggerFactory.getLogger(this.getClass());
+	 protected final Logger log = LoggerFactory.getLogger(RestControllerAspect.class);
 	    @Before("execution(public * com.github.jartisan.latest.web.controller.*Controller.*(..))")
 	    public void logBeforeRestCall(JoinPoint pjp) throws Throwable {
 	        log.info(":::::AOP Before REST call:::::" + pjp);
