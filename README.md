@@ -44,6 +44,7 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta2 | 13285
 [junit5](https://github.com/junit-team/junit5) | 5.6.1 | 3797
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M1 | 3495
+[jackson](https://github.com/FasterXML/jackson-core) | 2.11.0.rc1 | 1769
 
 ### 收录列表
 ---
@@ -113,7 +114,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1840 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.8.11.20200310 | 1767 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.11.0.rc1 | 1769 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.1 | 1745 
 [avro](https://github.com/apache/avro) | 1.9.2 | 1483 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
