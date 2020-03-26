@@ -44,6 +44,7 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta2 | 13285
 [junit5](https://github.com/junit-team/junit5) | 5.6.1 | 3797
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M1 | 3495
+[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.alpha2 | 2822
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.0.rc1 | 1769
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.8 | 320
 
@@ -105,8 +106,8 @@ repo | releases | star
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
 [shiro](https://github.com/apache/shiro) | 1.5.2 | 2889 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
+[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.alpha2 | 2822 
 [drools](https://github.com/kiegroup/drools) | 7.34.0.Final | 2800 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.27.v20200227 | 2797 
 [pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745 
 [kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.37.3 | 2046 
