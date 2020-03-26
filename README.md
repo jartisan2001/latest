@@ -45,6 +45,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.6.1 | 3797
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M1 | 3495
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.0.rc1 | 1769
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.8 | 320
 
 ### 收录列表
 ---
@@ -133,7 +134,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.108 | 614 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 584 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.17 | 319 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.8 | 320 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 155 
