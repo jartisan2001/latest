@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.6.RELEASE | 46391
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.0.rc1 | 1769
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.8 | 320
 
@@ -48,7 +49,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.7 | 47298 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.5.RELEASE | 45652 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.6.RELEASE | 46391 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 40011 
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
