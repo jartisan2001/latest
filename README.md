@@ -40,11 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.60.sec09 | 20908
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta2 | 13285
-[junit5](https://github.com/junit-team/junit5) | 5.6.1 | 3797
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M1 | 3495
-[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.alpha2 | 2822
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.0.rc1 | 1769
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.8 | 320
 
