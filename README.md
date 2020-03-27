@@ -41,9 +41,11 @@
 repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.6.RELEASE | 46391
+[nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.0.rc1 | 1769
 [elide](https://github.com/yahoo/elide) | 4.5.14 | 641
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.8 | 320
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.4 | 320
 
 ### 收录列表
 ---
@@ -68,8 +70,8 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.12.3 | 12166 
 [flink](https://github.com/apache/flink) | 1.10.0 | 12101 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
+[nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.5 | 10771 
-[nacos](https://github.com/alibaba/nacos) | 1.2.0 | 10652 
 [mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.1 | 10022 
@@ -132,7 +134,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.108 | 614 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 584 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.8 | 320 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.4 | 320 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 155 
