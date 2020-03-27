@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.6.RELEASE | 46391
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.0.rc1 | 1769
+[elide](https://github.com/yahoo/elide) | 4.5.14 | 641
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.8 | 320
 
 ### 收录列表
@@ -126,7 +127,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.1 | 893 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
-[elide](https://github.com/yahoo/elide) | 4.5.13 | 633 
+[elide](https://github.com/yahoo/elide) | 4.5.14 | 641 
 [cxf](https://github.com/apache/cxf) | 3.3.5 | 624 
 [github-api](https://github.com/kohsuke/github-api) | 1.108 | 614 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
