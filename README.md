@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.6.RELEASE | 46391
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977
 [nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.13.Final | 4214
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.0.rc1 | 1769
@@ -59,7 +60,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 28.2-jre | 35863 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.48.Final | 22831 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.60.sec09 | 20908 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 20273 
 [arthas](https://github.com/alibaba/arthas) | 3.1.7 | 19454 
