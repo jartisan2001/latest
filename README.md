@@ -44,7 +44,6 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977
 [nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.13.Final | 4214
-[jackson](https://github.com/FasterXML/jackson-core) | 2.11.0.rc1 | 1769
 [elide](https://github.com/yahoo/elide) | 4.5.14 | 641
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.8 | 320
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.4 | 320
