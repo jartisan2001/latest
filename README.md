@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.6.RELEASE | 46391
 [nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.13.Final | 4214
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.0.rc1 | 1769
 [elide](https://github.com/yahoo/elide) | 4.5.14 | 641
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.8 | 320
@@ -89,7 +90,7 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4426 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4337 
 [tomcat](https://github.com/apache/tomcat) | 7.0.103 | 4302 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.12.Final | 4169 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.13.Final | 4214 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [junit5](https://github.com/junit-team/junit5) | 5.6.1 | 3799 
 [beam](https://github.com/apache/beam) | 2.19.0 | 3738 
@@ -113,7 +114,7 @@ repo | releases | star
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2022 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
-[commons-lang3](https://github.com/apache/commons-lang) | 3.9 | 1840 
+[commons-lang3](https://github.com/apache/commons-lang) | 3.10 | 1861 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.0.rc1 | 1769 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.1 | 1745 
