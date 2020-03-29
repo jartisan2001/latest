@@ -40,12 +40,10 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.6.RELEASE | 46391
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977
 [nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.13.Final | 4214
 [elide](https://github.com/yahoo/elide) | 4.5.14 | 641
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.8 | 320
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.4 | 320
 
 ### 收录列表
