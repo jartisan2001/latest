@@ -42,8 +42,10 @@ repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977
 [nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.31 | 5217
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.13.Final | 4214
 [elide](https://github.com/yahoo/elide) | 4.5.14 | 641
+[elide](https://github.com/yahoo/elide) | 4.5.15 | 641
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.4 | 320
 
 ### 收录列表
@@ -84,7 +86,7 @@ repo | releases | star
 [storm](https://github.com/apache/storm) | 2.1.0 | 5991 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [cassandra](https://github.com/apache/cassandra) | 3.11.6 | 5747 
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.30 | 5129 
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.31 | 5217 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4426 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4337 
 [tomcat](https://github.com/apache/tomcat) | 7.0.103 | 4302 
@@ -128,7 +130,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.1 | 893 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
-[elide](https://github.com/yahoo/elide) | 4.5.14 | 641 
+[elide](https://github.com/yahoo/elide) | 4.5.15 | 641 
 [cxf](https://github.com/apache/cxf) | 3.3.5 | 624 
 [github-api](https://github.com/kohsuke/github-api) | 1.108 | 614 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
