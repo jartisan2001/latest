@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977
+[redisson](https://github.com/redisson/redisson) | 3.12.4 | 12507
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.31 | 5217
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.13.Final | 4214
 [elide](https://github.com/yahoo/elide) | 4.5.15 | 641
@@ -64,8 +65,8 @@ repo | releases | star
 [kafka](https://github.com/apache/kafka) | 2.4.1 | 15115 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta2 | 13285 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
+[redisson](https://github.com/redisson/redisson) | 3.12.4 | 12507 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.2 | 12280 
-[redisson](https://github.com/redisson/redisson) | 3.12.3 | 12166 
 [flink](https://github.com/apache/flink) | 1.10.0 | 12101 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027 
