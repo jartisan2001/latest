@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977
 [redisson](https://github.com/redisson/redisson) | 3.12.4 | 12507
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.0 | 10890
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.31 | 5217
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.13.Final | 4214
 [elide](https://github.com/yahoo/elide) | 4.5.15 | 641
@@ -70,7 +71,7 @@ repo | releases | star
 [flink](https://github.com/apache/flink) | 1.10.0 | 12101 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.8.5 | 10771 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.0 | 10890 
 [mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.1 | 10022 
@@ -104,8 +105,8 @@ repo | releases | star
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
 [shiro](https://github.com/apache/shiro) | 1.5.2 | 2889 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
+[drools](https://github.com/kiegroup/drools) | 7.35.0.Final | 2841 
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.alpha2 | 2822 
-[drools](https://github.com/kiegroup/drools) | 7.34.0.Final | 2800 
 [pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745 
 [kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.37.3 | 2046 
