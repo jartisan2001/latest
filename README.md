@@ -43,6 +43,8 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.12.4 | 12507
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.0 | 10890
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.31 | 5217
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.16.Final | 4213
+[drools](https://github.com/kiegroup/drools) | 7.36.0.20200330 | 2842
 [elide](https://github.com/yahoo/elide) | 4.5.15 | 641
 
 ### 收录列表
@@ -87,7 +89,7 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4426 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4337 
 [tomcat](https://github.com/apache/tomcat) | 7.0.103 | 4302 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.13.Final | 4214 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.16.Final | 4213 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [junit5](https://github.com/junit-team/junit5) | 5.6.1 | 3799 
 [beam](https://github.com/apache/beam) | 2.19.0 | 3738 
@@ -103,7 +105,7 @@ repo | releases | star
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
 [shiro](https://github.com/apache/shiro) | 1.5.2 | 2889 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
-[drools](https://github.com/kiegroup/drools) | 7.35.0.Final | 2841 
+[drools](https://github.com/kiegroup/drools) | 7.36.0.20200330 | 2842 
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.alpha2 | 2822 
 [pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745 
 [kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
