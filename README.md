@@ -40,11 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977
 [redisson](https://github.com/redisson/redisson) | 3.12.4 | 12507
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.0 | 10890
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.31 | 5217
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.13.Final | 4214
 [elide](https://github.com/yahoo/elide) | 4.5.15 | 641
 
 ### 收录列表
