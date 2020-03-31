@@ -121,15 +121,15 @@ repo | releases | star
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1203 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.35.0.Final | 1070 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.19 | 1063 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.34.0.Final | 1056 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.1 | 893 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
 [elide](https://github.com/yahoo/elide) | 4.5.15 | 641 
-[cxf](https://github.com/apache/cxf) | 3.3.5 | 624 
+[cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [github-api](https://github.com/kohsuke/github-api) | 1.108 | 614 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.1 | 584 
