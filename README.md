@@ -47,6 +47,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.31 | 5217
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.16.Final | 4213
 [drools](https://github.com/kiegroup/drools) | 7.36.0.20200330 | 2842
+[drools](https://github.com/kiegroup/drools) | 7.36.0.20200331 | 2842
 [elide](https://github.com/yahoo/elide) | 4.5.15 | 641
 
 ### 收录列表
@@ -107,7 +108,7 @@ repo | releases | star
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
 [shiro](https://github.com/apache/shiro) | 1.5.2 | 2889 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
-[drools](https://github.com/kiegroup/drools) | 7.36.0.20200330 | 2842 
+[drools](https://github.com/kiegroup/drools) | 7.36.0.20200331 | 2842 
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.alpha2 | 2822 
 [pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745 
 [kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
