@@ -44,7 +44,6 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.8 | 47867
 [redisson](https://github.com/redisson/redisson) | 3.12.4 | 12507
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.0 | 10890
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.31 | 5217
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.16.Final | 4213
 [drools](https://github.com/kiegroup/drools) | 7.36.0.20200330 | 2842
 [drools](https://github.com/kiegroup/drools) | 7.36.0.20200331 | 2842
