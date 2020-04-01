@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.6.2 | 47867
+[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.8 | 47867
 [redisson](https://github.com/redisson/redisson) | 3.12.4 | 12507
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.0 | 10890
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.31 | 5217
@@ -51,7 +53,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.7 | 47298 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.8 | 47867 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.6.RELEASE | 46391 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 40011 
