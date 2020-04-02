@@ -41,9 +41,12 @@
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.8 | 47867
+[arthas](https://github.com/alibaba/arthas) | 3.1.8 | 20148
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.16.Final | 4213
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M2 | 3517
 [drools](https://github.com/kiegroup/drools) | 7.36.0.20200330 | 2842
 [drools](https://github.com/kiegroup/drools) | 7.36.0.20200331 | 2842
+[elide](https://github.com/yahoo/elide) | 4.5.16 | 641
 [github-api](https://github.com/kohsuke/github-api) | 1.109 | 632
 
 ### 收录列表
@@ -60,7 +63,7 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [druid](https://github.com/alibaba/druid) | 1.1.21 | 20273 
-[arthas](https://github.com/alibaba/arthas) | 3.1.7 | 19454 
+[arthas](https://github.com/alibaba/arthas) | 3.1.8 | 20148 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.4.1 | 15115 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.0-beta2 | 13285 
@@ -93,7 +96,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.6.1 | 3799 
 [beam](https://github.com/apache/beam) | 2.19.0 | 3738 
 [groovy](https://github.com/apache/groovy) | 3.0.2 | 3597 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M1 | 3495 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M2 | 3517 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
 [hbase](https://github.com/apache/hbase) | 2.2.4 | 3381 
 [lucene](https://github.com/apache/lucene-solr) | 8.5.0 | 3329 
@@ -128,7 +131,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.1 | 893 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
-[elide](https://github.com/yahoo/elide) | 4.5.15 | 641 
+[elide](https://github.com/yahoo/elide) | 4.5.16 | 641 
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [github-api](https://github.com/kohsuke/github-api) | 1.109 | 632 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
