@@ -40,12 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.8 | 47867
 [arthas](https://github.com/alibaba/arthas) | 3.1.8 | 20148
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.16.Final | 4213
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M2 | 3517
-[drools](https://github.com/kiegroup/drools) | 7.36.0.20200330 | 2842
-[drools](https://github.com/kiegroup/drools) | 7.36.0.20200331 | 2842
 [elide](https://github.com/yahoo/elide) | 4.5.16 | 641
 [github-api](https://github.com/kohsuke/github-api) | 1.109 | 632
 
