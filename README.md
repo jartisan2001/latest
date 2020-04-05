@@ -40,11 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[arthas](https://github.com/alibaba/arthas) | 3.1.8 | 20148
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.4 | 3519
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M2 | 3517
-[elide](https://github.com/yahoo/elide) | 4.5.16 | 641
-[github-api](https://github.com/kohsuke/github-api) | 1.109 | 632
 
 ### 收录列表
 ---
