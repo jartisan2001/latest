@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [arthas](https://github.com/alibaba/arthas) | 3.1.8 | 20148
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.4 | 3519
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M2 | 3517
 [elide](https://github.com/yahoo/elide) | 4.5.16 | 641
 [github-api](https://github.com/kohsuke/github-api) | 1.109 | 632
@@ -92,7 +93,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.6.1 | 3799 
 [beam](https://github.com/apache/beam) | 2.19.0 | 3738 
 [groovy](https://github.com/apache/groovy) | 3.0.2 | 3597 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M2 | 3517 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.4 | 3519 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
 [hbase](https://github.com/apache/hbase) | 2.2.4 | 3381 
 [lucene](https://github.com/apache/lucene-solr) | 8.5.0 | 3329 
