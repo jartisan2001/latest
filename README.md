@@ -95,7 +95,7 @@ repo | releases | star
 [lucene](https://github.com/apache/lucene-solr) | 8.5.0 | 3329 
 [solr](https://github.com/apache/lucene-solr) | 8.5.0 | 3329 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
-[camel](https://github.com/apache/camel) | 3.1.0 | 3110 
+[camel](https://github.com/apache/camel) | 3.2.0 | 3175 
 [ignite](https://github.com/apache/ignite) | 2.8.0 | 3018 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
 [shiro](https://github.com/apache/shiro) | 1.5.2 | 2889 
