@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[druid](https://github.com/alibaba/druid) | 1.1.22 | 20756
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.14.Final | 4214
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.4 | 3519
 [github-api](https://github.com/kohsuke/github-api) | 1.110 | 634
 
@@ -55,8 +57,8 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.48.Final | 22831 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977 
+[druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
-[druid](https://github.com/alibaba/druid) | 1.1.21 | 20273 
 [arthas](https://github.com/alibaba/arthas) | 3.1.8 | 20148 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.4.1 | 15115 
@@ -85,7 +87,7 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4426 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4337 
 [tomcat](https://github.com/apache/tomcat) | 7.0.103 | 4302 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.16.Final | 4213 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.14.Final | 4214 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [junit5](https://github.com/junit-team/junit5) | 5.6.1 | 3799 
 [beam](https://github.com/apache/beam) | 2.19.0 | 3738 
