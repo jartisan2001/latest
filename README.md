@@ -93,7 +93,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 3.0.2 | 3597 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.4 | 3519 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
-[hbase](https://github.com/apache/hbase) | 2.2.4 | 3381 
+[hbase](https://github.com/apache/hbase) | 2.1.10 | 3408 
 [lucene](https://github.com/apache/lucene-solr) | 8.5.0 | 3329 
 [solr](https://github.com/apache/lucene-solr) | 8.5.0 | 3329 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
