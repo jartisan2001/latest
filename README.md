@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[druid](https://github.com/alibaba/druid) | 1.1.22 | 20756
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.14.Final | 4214
 [github-api](https://github.com/kohsuke/github-api) | 1.110 | 634
 
