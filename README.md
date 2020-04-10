@@ -41,9 +41,7 @@
 repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.7 | 13665
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.14.Final | 4214
 [groovy](https://github.com/apache/groovy) | 3.0.3 | 3621
-[github-api](https://github.com/kohsuke/github-api) | 1.110 | 634
 
 ### 收录列表
 ---
