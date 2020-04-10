@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.7 | 13665
+[groovy](https://github.com/apache/groovy) | 2.5.11 | 3622
 [groovy](https://github.com/apache/groovy) | 3.0.3 | 3621
 
 ### 收录列表
@@ -89,7 +90,7 @@ repo | releases | star
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [junit5](https://github.com/junit-team/junit5) | 5.6.1 | 3799 
 [beam](https://github.com/apache/beam) | 2.19.0 | 3738 
-[groovy](https://github.com/apache/groovy) | 3.0.3 | 3621 
+[groovy](https://github.com/apache/groovy) | 2.5.11 | 3622 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.4 | 3519 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
 [hbase](https://github.com/apache/hbase) | 2.1.10 | 3408 
