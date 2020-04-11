@@ -44,6 +44,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.6.2 | 3844
 [groovy](https://github.com/apache/groovy) | 2.5.11 | 3622
 [groovy](https://github.com/apache/groovy) | 3.0.3 | 3621
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.28.v20200408 | 2836
 
 ### 收录列表
 ---
@@ -104,7 +105,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.5.2 | 2889 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
 [drools](https://github.com/kiegroup/drools) | 7.36.0.20200331 | 2842 
-[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.alpha2 | 2822 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.28.v20200408 | 2836 
 [pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745 
 [kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.37.3 | 2046 
