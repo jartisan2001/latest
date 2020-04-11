@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.7 | 13665
+[junit5](https://github.com/junit-team/junit5) | 5.6.2 | 3844
 [groovy](https://github.com/apache/groovy) | 2.5.11 | 3622
 [groovy](https://github.com/apache/groovy) | 3.0.3 | 3621
 
@@ -87,8 +88,8 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 8.5.54 | 4367 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4337 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.14.Final | 4214 
+[junit5](https://github.com/junit-team/junit5) | 5.6.2 | 3844 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
-[junit5](https://github.com/junit-team/junit5) | 5.6.1 | 3799 
 [beam](https://github.com/apache/beam) | 2.19.0 | 3738 
 [groovy](https://github.com/apache/groovy) | 2.5.11 | 3622 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.4 | 3519 
