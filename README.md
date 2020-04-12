@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[arthas](https://github.com/alibaba/arthas) | 3.2.0 | 20337
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.7 | 13665
 [junit5](https://github.com/junit-team/junit5) | 5.6.2 | 3844
 [groovy](https://github.com/apache/groovy) | 2.5.11 | 3622
@@ -61,8 +62,8 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.48.Final | 22831 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977 
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
+[arthas](https://github.com/alibaba/arthas) | 3.2.0 | 20337 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
-[arthas](https://github.com/alibaba/arthas) | 3.1.8 | 20148 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.4.1 | 15115 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.7 | 13665 
