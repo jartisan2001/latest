@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [arthas](https://github.com/alibaba/arthas) | 3.2.0 | 20337
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200411 | 1780
+[elide](https://github.com/yahoo/elide) | 4.6.0 | 643
 [dom4j](https://github.com/dom4j/dom4j) | 2.0.3 | 596
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596
 
@@ -127,7 +128,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.1 | 893 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
-[elide](https://github.com/yahoo/elide) | 4.5.16 | 641 
+[elide](https://github.com/yahoo/elide) | 4.6.0 | 643 
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [github-api](https://github.com/kohsuke/github-api) | 1.110 | 634 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
