@@ -40,7 +40,10 @@
 ---
 repo | releases | star
 ---|---|---
+[guava](https://github.com/google/guava) | 29.0-android | 36691
+[guava](https://github.com/google/guava) | 29.0-jre | 36691
 [arthas](https://github.com/alibaba/arthas) | 3.2.0 | 20337
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.0 | 2116
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200411 | 1780
 [elide](https://github.com/yahoo/elide) | 4.6.0 | 643
 [dom4j](https://github.com/dom4j/dom4j) | 2.0.3 | 596
@@ -54,7 +57,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.6.RELEASE | 46391 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 40011 
-[guava](https://github.com/google/guava) | 28.2-jre | 35863 
+[guava](https://github.com/google/guava) | 29.0-jre | 36691 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.48.Final | 22831 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977 
@@ -108,7 +111,7 @@ repo | releases | star
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.28.v20200408 | 2836 
 [pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745 
 [kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.37.3 | 2046 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.0 | 2116 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2022 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
