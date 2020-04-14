@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [guava](https://github.com/google/guava) | 29.0-android | 36691
 [guava](https://github.com/google/guava) | 29.0-jre | 36691
-[arthas](https://github.com/alibaba/arthas) | 3.2.0 | 20337
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.0 | 2116
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200411 | 1780
 [elide](https://github.com/yahoo/elide) | 4.6.0 | 643
