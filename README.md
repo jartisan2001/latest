@@ -43,10 +43,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-android | 36691
 [guava](https://github.com/google/guava) | 29.0-jre | 36691
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.0 | 2116
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200411 | 1780
 [elide](https://github.com/yahoo/elide) | 4.6.0 | 643
-[dom4j](https://github.com/dom4j/dom4j) | 2.0.3 | 596
-[dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596
 
 ### 收录列表
 ---
