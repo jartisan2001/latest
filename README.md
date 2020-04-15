@@ -42,7 +42,10 @@ repo | releases | star
 ---|---|---
 [guava](https://github.com/google/guava) | 29.0-android | 36691
 [guava](https://github.com/google/guava) | 29.0-jre | 36691
+[lucene](https://github.com/apache/lucene-solr) | 8.5.1 | 3393
+[solr](https://github.com/apache/lucene-solr) | 8.5.1 | 3393
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.0 | 2116
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.2 | 1795
 [elide](https://github.com/yahoo/elide) | 4.6.0 | 643
 
 ### 收录列表
@@ -95,8 +98,8 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.4 | 3519 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
 [hbase](https://github.com/apache/hbase) | 2.1.10 | 3408 
-[lucene](https://github.com/apache/lucene-solr) | 8.5.0 | 3329 
-[solr](https://github.com/apache/lucene-solr) | 8.5.0 | 3329 
+[lucene](https://github.com/apache/lucene-solr) | 8.5.1 | 3393 
+[solr](https://github.com/apache/lucene-solr) | 8.5.1 | 3393 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [camel](https://github.com/apache/camel) | 3.2.0 | 3175 
 [ignite](https://github.com/apache/ignite) | 2.8.0 | 3018 
@@ -113,8 +116,8 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.10 | 1861 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.2 | 1795 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200411 | 1780 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.1 | 1745 
 [avro](https://github.com/apache/avro) | 1.9.2 | 1483 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
