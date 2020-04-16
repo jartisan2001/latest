@@ -48,7 +48,6 @@ repo | releases | star
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.0 | 2116
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.2 | 1795
 [jbpm](https://github.com/kiegroup/jbpm) | 7.36.0.Final | 1076
-[elide](https://github.com/yahoo/elide) | 4.6.0 | 643
 
 ### 收录列表
 ---
