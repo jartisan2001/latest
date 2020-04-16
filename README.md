@@ -46,6 +46,7 @@ repo | releases | star
 [solr](https://github.com/apache/lucene-solr) | 8.5.1 | 3393
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.0 | 2116
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.2 | 1795
+[jbpm](https://github.com/kiegroup/jbpm) | 7.36.0.Final | 1076
 [elide](https://github.com/yahoo/elide) | 4.6.0 | 643
 
 ### 收录列表
@@ -122,8 +123,8 @@ repo | releases | star
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1203 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.36.0.Final | 1076 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.35.0.Final | 1070 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.19 | 1063 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
