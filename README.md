@@ -44,6 +44,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36691
 [lucene](https://github.com/apache/lucene-solr) | 8.5.1 | 3393
 [solr](https://github.com/apache/lucene-solr) | 8.5.1 | 3393
+[drools](https://github.com/kiegroup/drools) | 7.36.0.Final | 2885
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.0 | 2116
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.2 | 1795
 [jbpm](https://github.com/kiegroup/jbpm) | 7.36.0.Final | 1076
@@ -92,9 +93,9 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 8.5.54 | 4367 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4337 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.14.Final | 4214 
+[beam](https://github.com/apache/beam) | 2.20.0 | 3868 
 [junit5](https://github.com/junit-team/junit5) | 5.6.2 | 3844 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
-[beam](https://github.com/apache/beam) | 2.19.0 | 3738 
 [groovy](https://github.com/apache/groovy) | 2.5.11 | 3622 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.4 | 3519 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
@@ -107,7 +108,7 @@ repo | releases | star
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
 [shiro](https://github.com/apache/shiro) | 1.5.2 | 2889 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
-[drools](https://github.com/kiegroup/drools) | 7.36.0.20200331 | 2842 
+[drools](https://github.com/kiegroup/drools) | 7.36.0.Final | 2885 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.28.v20200408 | 2836 
 [pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745 
 [kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
