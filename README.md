@@ -40,15 +40,10 @@
 ---
 repo | releases | star
 ---|---|---
-[guava](https://github.com/google/guava) | 29.0-android | 36691
-[guava](https://github.com/google/guava) | 29.0-jre | 36691
 [redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718
 [lucene](https://github.com/apache/lucene-solr) | 8.5.1 | 3393
 [solr](https://github.com/apache/lucene-solr) | 8.5.1 | 3393
-[drools](https://github.com/kiegroup/drools) | 7.36.0.Final | 2885
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.0 | 2116
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.2 | 1795
-[jbpm](https://github.com/kiegroup/jbpm) | 7.36.0.Final | 1076
 [github-api](https://github.com/kohsuke/github-api) | 1.111 | 637
 
 ### 收录列表
