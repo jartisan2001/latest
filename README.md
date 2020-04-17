@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [guava](https://github.com/google/guava) | 29.0-android | 36691
 [guava](https://github.com/google/guava) | 29.0-jre | 36691
+[redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718
 [lucene](https://github.com/apache/lucene-solr) | 8.5.1 | 3393
 [solr](https://github.com/apache/lucene-solr) | 8.5.1 | 3393
 [drools](https://github.com/kiegroup/drools) | 7.36.0.Final | 2885
@@ -69,7 +70,7 @@ repo | releases | star
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.7 | 13665 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
-[redisson](https://github.com/redisson/redisson) | 3.12.4 | 12507 
+[redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.2 | 12280 
 [flink](https://github.com/apache/flink) | 1.10.0 | 12101 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
@@ -103,7 +104,7 @@ repo | releases | star
 [lucene](https://github.com/apache/lucene-solr) | 8.5.1 | 3393 
 [solr](https://github.com/apache/lucene-solr) | 8.5.1 | 3393 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
-[camel](https://github.com/apache/camel) | 3.2.0 | 3175 
+[camel](https://github.com/apache/camel) | 2.25.1 | 3194 
 [ignite](https://github.com/apache/ignite) | 2.8.0 | 3018 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
 [shiro](https://github.com/apache/shiro) | 1.5.2 | 2889 
