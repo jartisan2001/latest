@@ -41,10 +41,12 @@
 repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718
+[jib](https://github.com/GoogleContainerTools/jib) | 2.2.0 | 8798
 [lucene](https://github.com/apache/lucene-solr) | 8.5.1 | 3393
 [solr](https://github.com/apache/lucene-solr) | 8.5.1 | 3393
 [drools](https://github.com/kiegroup/drools) | 7.36.1.Final | 2891
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.2 | 1795
+[jbpm](https://github.com/kiegroup/jbpm) | 7.36.1.Final | 1077
 [github-api](https://github.com/kohsuke/github-api) | 1.111 | 637
 
 ### 收录列表
@@ -76,8 +78,8 @@ repo | releases | star
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.1 | 10022 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
+[jib](https://github.com/GoogleContainerTools/jib) | 2.2.0 | 8798 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8758 
-[jib](https://github.com/GoogleContainerTools/jib) | 2.1.0 | 8532 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.2 | 8340 
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7764 
 [zookeeper](https://github.com/apache/zookeeper) | 3.6.0 | 7707 
@@ -121,7 +123,7 @@ repo | releases | star
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1203 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.36.0.Final | 1076 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.36.1.Final | 1077 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.19 | 1063 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
