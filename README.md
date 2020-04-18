@@ -43,6 +43,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718
 [lucene](https://github.com/apache/lucene-solr) | 8.5.1 | 3393
 [solr](https://github.com/apache/lucene-solr) | 8.5.1 | 3393
+[drools](https://github.com/kiegroup/drools) | 7.36.1.Final | 2891
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.2 | 1795
 [github-api](https://github.com/kohsuke/github-api) | 1.111 | 637
 
@@ -102,9 +103,9 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 2.25.1 | 3194 
 [ignite](https://github.com/apache/ignite) | 2.8.0 | 3018 
 [hive](https://github.com/apache/hive) | 3.1.2 | 2989 
+[drools](https://github.com/kiegroup/drools) | 7.36.1.Final | 2891 
 [shiro](https://github.com/apache/shiro) | 1.5.2 | 2889 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
-[drools](https://github.com/kiegroup/drools) | 7.36.0.Final | 2885 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.28.v20200408 | 2836 
 [pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745 
 [kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
