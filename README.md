@@ -40,11 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
-[redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718
 [jib](https://github.com/GoogleContainerTools/jib) | 2.2.0 | 8798
 [drools](https://github.com/kiegroup/drools) | 7.36.1.Final | 2891
 [jbpm](https://github.com/kiegroup/jbpm) | 7.36.1.Final | 1077
-[github-api](https://github.com/kohsuke/github-api) | 1.111 | 637
 
 ### 收录列表
 ---
