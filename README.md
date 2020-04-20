@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [jib](https://github.com/GoogleContainerTools/jib) | 2.2.0 | 8798
+[junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863
 [drools](https://github.com/kiegroup/drools) | 7.36.1.Final | 2891
 [jbpm](https://github.com/kiegroup/jbpm) | 7.36.1.Final | 1077
 
@@ -88,7 +89,7 @@ repo | releases | star
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4337 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.14.Final | 4214 
 [beam](https://github.com/apache/beam) | 2.20.0 | 3868 
-[junit5](https://github.com/junit-team/junit5) | 5.6.2 | 3844 
+[junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [groovy](https://github.com/apache/groovy) | 2.5.11 | 3622 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.4 | 3519 
@@ -98,8 +99,8 @@ repo | releases | star
 [solr](https://github.com/apache/lucene-solr) | 8.5.1 | 3393 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [camel](https://github.com/apache/camel) | 2.25.1 | 3194 
+[hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [ignite](https://github.com/apache/ignite) | 2.8.0 | 3018 
-[hive](https://github.com/apache/hive) | 3.1.2 | 2989 
 [drools](https://github.com/kiegroup/drools) | 7.36.1.Final | 2891 
 [shiro](https://github.com/apache/shiro) | 1.5.2 | 2889 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
