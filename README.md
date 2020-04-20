@@ -42,8 +42,6 @@ repo | releases | star
 ---|---|---
 [jib](https://github.com/GoogleContainerTools/jib) | 2.2.0 | 8798
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863
-[drools](https://github.com/kiegroup/drools) | 7.36.1.Final | 2891
-[jbpm](https://github.com/kiegroup/jbpm) | 7.36.1.Final | 1077
 
 ### 收录列表
 ---
