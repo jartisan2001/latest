@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[jib](https://github.com/GoogleContainerTools/jib) | 2.2.0 | 8798
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863
 
 ### 收录列表
