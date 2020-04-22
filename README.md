@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[netty](https://github.com/netty/netty) | 4.1.49.Final | 23225
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863
 
 ### 收录列表
@@ -52,7 +53,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 40011 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
-[netty](https://github.com/netty/netty) | 4.1.48.Final | 22831 
+[netty](https://github.com/netty/netty) | 4.1.49.Final | 23225 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977 
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
 [arthas](https://github.com/alibaba/arthas) | 3.2.0 | 20337 
