@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.49.Final | 23225
-[junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863
 [elide](https://github.com/yahoo/elide) | 4.6.1 | 645
 
 ### 收录列表
