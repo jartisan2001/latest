@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.49.Final | 23225
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863
+[elide](https://github.com/yahoo/elide) | 4.6.1 | 645
 
 ### 收录列表
 ---
@@ -125,7 +126,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.1 | 893 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
-[elide](https://github.com/yahoo/elide) | 4.6.0 | 643 
+[elide](https://github.com/yahoo/elide) | 4.6.1 | 645 
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [github-api](https://github.com/kohsuke/github-api) | 1.111 | 637 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
