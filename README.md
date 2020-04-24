@@ -41,7 +41,9 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.49.Final | 23225
+[pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801
 [elide](https://github.com/yahoo/elide) | 4.6.1 | 645
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.18 | 328
 
 ### 收录列表
 ---
@@ -63,8 +65,8 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.1.7 | 13665 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
 [redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718 
+[flink](https://github.com/apache/flink) | 1.9.3 | 12669 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.2 | 12280 
-[flink](https://github.com/apache/flink) | 1.10.0 | 12101 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.0 | 10890 
@@ -103,7 +105,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.5.2 | 2889 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.28.v20200408 | 2836 
-[pmd](https://github.com/pmd/pmd) | 6.22.0 | 2745 
+[pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801 
 [kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.0 | 2114 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
@@ -121,8 +123,8 @@ repo | releases | star
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.19 | 1063 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
+[log4j2](https://github.com/apache/logging-log4j2) | 2.13.2 | 932 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
-[log4j2](https://github.com/apache/logging-log4j2) | 2.13.1 | 893 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
 [elide](https://github.com/yahoo/elide) | 4.6.1 | 645 
@@ -130,7 +132,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.111 | 637 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.4 | 320 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.18 | 328 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 155 
