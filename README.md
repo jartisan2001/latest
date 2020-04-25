@@ -41,6 +41,10 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.49.Final | 23225
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.1 | 14108
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.2 | 14108
+[joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396
+[hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha5 | 4232
 [pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801
 [elide](https://github.com/yahoo/elide) | 4.6.1 | 645
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.18 | 328
@@ -62,7 +66,7 @@ repo | releases | star
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.1.7 | 13665 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.2 | 14108 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
 [redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718 
 [flink](https://github.com/apache/flink) | 1.9.3 | 12669 
@@ -82,12 +86,12 @@ repo | releases | star
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6285 
 [storm](https://github.com/apache/storm) | 2.1.0 | 5991 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
-[cassandra](https://github.com/apache/cassandra) | 3.11.6 | 5747 
+[cassandra](https://github.com/apache/cassandra) | 4.0-alpha4 | 5864 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.31 | 5217 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4426 
+[joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [tomcat](https://github.com/apache/tomcat) | 8.5.54 | 4367 
-[joda-time](https://github.com/JodaOrg/joda-time) | 2.10.5 | 4337 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.14.Final | 4214 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha5 | 4232 
 [beam](https://github.com/apache/beam) | 2.20.0 | 3868 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
