@@ -40,13 +40,11 @@
 ---
 repo | releases | star
 ---|---|---
-[netty](https://github.com/netty/netty) | 4.1.49.Final | 23225
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.1 | 14108
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.2 | 14108
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha5 | 4232
 [pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801
-[elide](https://github.com/yahoo/elide) | 4.6.1 | 645
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.18 | 328
 
 ### 收录列表
