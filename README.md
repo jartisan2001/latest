@@ -43,6 +43,7 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.1 | 14108
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.2 | 14108
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.3 | 12754
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.32 | 5254
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha5 | 4232
 [pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801
@@ -88,7 +89,7 @@ repo | releases | star
 [storm](https://github.com/apache/storm) | 2.1.0 | 5991 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha4 | 5864 
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.31 | 5217 
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.32 | 5254 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4426 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [tomcat](https://github.com/apache/tomcat) | 8.5.54 | 4367 
