@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.1 | 14108
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.2 | 14108
+[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.3 | 12754
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha5 | 4232
 [pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801
@@ -67,9 +68,9 @@ repo | releases | star
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.2 | 14108 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
+[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.3 | 12754 
 [redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718 
 [flink](https://github.com/apache/flink) | 1.9.3 | 12669 
-[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.2 | 12280 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.0 | 10890 
