@@ -46,6 +46,7 @@ repo | releases | star
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha5 | 4232
 [pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801
+[jackson](https://github.com/FasterXML/jackson-core) | 2.11.0 | 1792
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.18 | 328
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc0 | 328
 
@@ -118,7 +119,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.10 | 1861 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.2 | 1795 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200411 | 1780 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.11.0 | 1792 
 [avro](https://github.com/apache/avro) | 1.9.2 | 1483 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
