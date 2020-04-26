@@ -69,7 +69,7 @@ repo | releases | star
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.2 | 14108 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
-[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.3 | 12754 
+[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.3 | 12761 
 [redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718 
 [flink](https://github.com/apache/flink) | 1.9.3 | 12669 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
@@ -119,7 +119,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.10 | 1861 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.2 | 1795 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.11.0 | 1792 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.11.0 | 1791 
 [avro](https://github.com/apache/avro) | 1.9.2 | 1483 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
