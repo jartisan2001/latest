@@ -40,17 +40,10 @@
 ---
 repo | releases | star
 ---|---|---
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.1 | 14108
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.2 | 14108
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.3 | 12754
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.32 | 5254
-[joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha5 | 4232
-[lucene](https://github.com/apache/lucene-solr) | 7.7.3 | 3423
-[solr](https://github.com/apache/lucene-solr) | 7.7.3 | 3423
-[pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.0 | 1792
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.18 | 328
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc0 | 328
 
 ### 收录列表
