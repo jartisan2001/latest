@@ -46,6 +46,8 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.32 | 5254
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha5 | 4232
+[lucene](https://github.com/apache/lucene-solr) | 7.7.3 | 3423
+[solr](https://github.com/apache/lucene-solr) | 7.7.3 | 3423
 [pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.0 | 1792
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.18 | 328
@@ -100,9 +102,9 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 2.5.11 | 3622 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.4 | 3519 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
+[lucene](https://github.com/apache/lucene-solr) | 7.7.3 | 3423 
+[solr](https://github.com/apache/lucene-solr) | 7.7.3 | 3423 
 [hbase](https://github.com/apache/hbase) | 2.1.10 | 3408 
-[lucene](https://github.com/apache/lucene-solr) | 8.5.1 | 3393 
-[solr](https://github.com/apache/lucene-solr) | 8.5.1 | 3393 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [camel](https://github.com/apache/camel) | 2.25.1 | 3194 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
