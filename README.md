@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.3 | 14184
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.3 | 12754
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.32 | 5254
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha5 | 4232
@@ -63,7 +64,7 @@ repo | releases | star
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.2 | 14108 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.3 | 14184 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.3 | 12761 
 [redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718 
