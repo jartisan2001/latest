@@ -43,9 +43,7 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.3 | 14184
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.3 | 12754
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.32 | 5254
-[hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha5 | 4232
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.0 | 1792
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc0 | 328
 
 ### 收录列表
 ---
