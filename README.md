@@ -41,9 +41,6 @@
 repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.3 | 14184
-[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.3 | 12754
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.32 | 5254
-[jackson](https://github.com/FasterXML/jackson-core) | 2.11.0 | 1792
 
 ### 收录列表
 ---
