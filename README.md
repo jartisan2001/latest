@@ -40,7 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.3 | 14184
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M3 | 3617
 
 ### 收录列表
 ---
@@ -66,10 +66,10 @@ repo | releases | star
 [flink](https://github.com/apache/flink) | 1.9.3 | 12669 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027 
+[shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.0 | 10902 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.0 | 10890 
 [mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
-[shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.0.1 | 10022 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.2.0 | 8797 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8758 
@@ -89,7 +89,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [groovy](https://github.com/apache/groovy) | 2.5.11 | 3622 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.4 | 3519 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M3 | 3617 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
 [lucene](https://github.com/apache/lucene-solr) | 7.7.3 | 3423 
 [solr](https://github.com/apache/lucene-solr) | 7.7.3 | 3423 
