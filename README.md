@@ -44,6 +44,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.15.Final | 4235
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M3 | 3617
 [jetty server](https://github.com/eclipse/jetty.project) | 9.2.30.v20200428 | 2852
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc1 | 328
 
 ### 收录列表
 ---
@@ -101,8 +102,8 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 2.25.1 | 3194 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [ignite](https://github.com/apache/ignite) | 2.8.0 | 3018 
+[shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
 [drools](https://github.com/kiegroup/drools) | 7.36.1.Final | 2891 
-[shiro](https://github.com/apache/shiro) | 1.5.2 | 2889 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.2.30.v20200428 | 2852 
 [pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801 
@@ -132,7 +133,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.111 | 637 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc0 | 328 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc1 | 328 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 155 
