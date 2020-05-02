@@ -43,6 +43,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.17.Final | 4235
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.15.Final | 4235
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M3 | 3617
+[jetty server](https://github.com/eclipse/jetty.project) | 9.2.30.v20200428 | 2852
 
 ### 收录列表
 ---
@@ -103,7 +104,7 @@ repo | releases | star
 [drools](https://github.com/kiegroup/drools) | 7.36.1.Final | 2891 
 [shiro](https://github.com/apache/shiro) | 1.5.2 | 2889 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.28.v20200408 | 2836 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.2.30.v20200428 | 2852 
 [pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801 
 [kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.0 | 2114 
