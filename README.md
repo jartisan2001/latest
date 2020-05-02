@@ -43,7 +43,6 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.17.Final | 4235
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.15.Final | 4235
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M3 | 3617
-[jetty server](https://github.com/eclipse/jetty.project) | 9.2.30.v20200428 | 2852
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc1 | 328
 
 ### 收录列表
