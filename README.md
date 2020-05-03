@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.17.Final | 4235
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.15.Final | 4235
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M3 | 3617
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.4 | 1790
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc1 | 328
 
