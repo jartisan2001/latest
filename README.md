@@ -43,6 +43,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.17.Final | 4235
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.15.Final | 4235
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M3 | 3617
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.4 | 1790
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc1 | 328
 
 ### 收录列表
@@ -114,7 +115,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.10 | 1861 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.2 | 1795 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.11.0 | 1791 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.4 | 1790 
 [avro](https://github.com/apache/avro) | 1.9.2 | 1483 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
