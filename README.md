@@ -40,7 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.4 | 1790
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-1 | 41350
 
 ### 收录列表
 ---
@@ -49,7 +49,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.8 | 47867 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.6.RELEASE | 46391 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.11.4 | 40011 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-1 | 41350 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.49.Final | 23225 
