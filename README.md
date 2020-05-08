@@ -43,6 +43,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.14.RELEASE | 47481
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.7.RELEASE | 47481
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.4 | 12853
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc2 | 330
 
 ### 收录列表
 ---
@@ -131,7 +132,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.111 | 637 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc1 | 328 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc2 | 330 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 155 
