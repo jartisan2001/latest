@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.14.RELEASE | 47481
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.7.RELEASE | 47481
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-1 | 41350
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.4 | 12853
 
 ### 收录列表
