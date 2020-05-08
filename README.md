@@ -43,13 +43,14 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.14.RELEASE | 47481
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.7.RELEASE | 47481
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-1 | 41350
+[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.4 | 12853
 
 ### 收录列表
 ---
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.8 | 47867 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.7.RELEASE | 47481 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.7.RELEASE | 47491 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-1 | 41350 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
@@ -62,8 +63,8 @@ repo | releases | star
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.3 | 14184 
+[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.4 | 12853 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
-[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.3 | 12761 
 [redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718 
 [flink](https://github.com/apache/flink) | 1.9.3 | 12669 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
