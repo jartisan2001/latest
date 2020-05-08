@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.14.RELEASE | 47481
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.7.RELEASE | 47481
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-1 | 41350
 
 ### 收录列表
@@ -47,7 +49,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.8 | 47867 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.6.RELEASE | 46391 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.7.RELEASE | 47481 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-1 | 41350 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
