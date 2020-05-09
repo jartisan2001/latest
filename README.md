@@ -45,6 +45,7 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.4 | 12853
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.5 | 3634
+[elide](https://github.com/yahoo/elide) | 4.6.2 | 654
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc2 | 330
 
 ### 收录列表
@@ -104,7 +105,7 @@ repo | releases | star
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [ignite](https://github.com/apache/ignite) | 2.8.0 | 3018 
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
-[drools](https://github.com/kiegroup/drools) | 7.36.1.Final | 2891 
+[drools](https://github.com/kiegroup/drools) | 7.37.0.Final | 2932 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.2.30.v20200428 | 2852 
 [pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801 
@@ -129,7 +130,7 @@ repo | releases | star
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
-[elide](https://github.com/yahoo/elide) | 4.6.1 | 645 
+[elide](https://github.com/yahoo/elide) | 4.6.2 | 654 
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [github-api](https://github.com/kohsuke/github-api) | 1.111 | 637 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
