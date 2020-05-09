@@ -42,7 +42,9 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.14.RELEASE | 47481
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.7.RELEASE | 47481
+[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.4 | 12853
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.5 | 3634
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc2 | 330
 
 ### 收录列表
@@ -63,7 +65,7 @@ repo | releases | star
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.3 | 14184 
-[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.4 | 12853 
+[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
 [redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718 
 [flink](https://github.com/apache/flink) | 1.9.3 | 12669 
@@ -91,8 +93,8 @@ repo | releases | star
 [beam](https://github.com/apache/beam) | 2.20.0 | 3868 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.5 | 3634 
 [groovy](https://github.com/apache/groovy) | 2.5.11 | 3622 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.M3 | 3617 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
 [lucene](https://github.com/apache/lucene-solr) | 7.7.3 | 3423 
 [solr](https://github.com/apache/lucene-solr) | 7.7.3 | 3423 
