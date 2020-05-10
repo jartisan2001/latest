@@ -45,6 +45,7 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.4 | 12853
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.5 | 3634
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150
 [elide](https://github.com/yahoo/elide) | 4.6.2 | 654
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc2 | 330
 
@@ -110,7 +111,7 @@ repo | releases | star
 [jetty server](https://github.com/eclipse/jetty.project) | 9.2.30.v20200428 | 2852 
 [pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801 
 [kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.0 | 2114 
+[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2022 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
