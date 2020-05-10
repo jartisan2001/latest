@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.14.RELEASE | 47481
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.7.RELEASE | 47481
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.4 | 12853
