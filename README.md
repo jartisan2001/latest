@@ -40,13 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.7.RELEASE | 47481
-[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856
-[HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.4 | 12853
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.5 | 3634
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150
 [elide](https://github.com/yahoo/elide) | 4.6.2 | 654
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc2 | 330
 
 ### 收录列表
 ---
