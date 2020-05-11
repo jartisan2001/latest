@@ -76,16 +76,16 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 2.2.0 | 8797 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8758 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.2 | 8340 
-[zookeeper](https://github.com/apache/zookeeper) | 3.6.1 | 7986 
+[zookeeper](https://github.com/apache/zookeeper) | 3.5.8 | 8056 
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7764 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6285 
 [storm](https://github.com/apache/storm) | 2.1.0 | 5991 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha4 | 5864 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.32 | 5254 
+[tomcat](https://github.com/apache/tomcat) | 8.5.55 | 4459 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4426 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
-[tomcat](https://github.com/apache/tomcat) | 8.5.54 | 4367 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.15.Final | 4235 
 [beam](https://github.com/apache/beam) | 2.20.0 | 3868 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
