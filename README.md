@@ -41,9 +41,7 @@
 repo | releases | star
 ---|---|---
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.3 | 8661
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.5 | 3634
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150
-[elide](https://github.com/yahoo/elide) | 4.6.2 | 654
 
 ### 收录列表
 ---
