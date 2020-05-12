@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.3 | 8661
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.5 | 3634
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150
 [elide](https://github.com/yahoo/elide) | 4.6.2 | 654
@@ -75,7 +76,7 @@ repo | releases | star
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.2.0 | 8797 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8758 
-[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.2 | 8340 
+[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.3 | 8661 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.8 | 8056 
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7764 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6285 
