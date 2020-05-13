@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.7.0 | 48826
+[netty](https://github.com/netty/netty) | 4.1.50.Final | 23493
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.3 | 8661
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.3 | 1843
 
@@ -47,13 +49,13 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.8 | 47867 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.7.0 | 48826 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.7.RELEASE | 47491 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-1 | 41350 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
-[netty](https://github.com/netty/netty) | 4.1.49.Final | 23225 
+[netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977 
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
 [arthas](https://github.com/alibaba/arthas) | 3.2.0 | 20337 
