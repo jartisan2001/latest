@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.3 | 8661
-[tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.3 | 1843
 
 ### 收录列表
