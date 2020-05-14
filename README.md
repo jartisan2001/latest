@@ -40,7 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.9 | 48827
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.7.0 | 48826
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-2 | 41481
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.3 | 8661
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.3 | 1843
@@ -49,10 +51,10 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.7.0 | 48826 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.9 | 48827 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.7.RELEASE | 47491 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-1 | 41350 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-2 | 41481 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
