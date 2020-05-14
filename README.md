@@ -46,6 +46,7 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.3 | 8661
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.3 | 1843
+[log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950
 
 ### 收录列表
 ---
@@ -125,7 +126,7 @@ repo | releases | star
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.19 | 1063 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
-[log4j2](https://github.com/apache/logging-log4j2) | 2.13.2 | 932 
+[log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
