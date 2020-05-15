@@ -40,11 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.9 | 48827
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.7.0 | 48826
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-2 | 41481
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.3 | 1843
 
 ### 收录列表
 ---
