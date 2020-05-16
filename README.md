@@ -41,8 +41,10 @@
 repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.0.RELEASE | 47727
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0 | 41533
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-2 | 41481
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.1 | 11032
 
 ### 收录列表
 ---
@@ -51,7 +53,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.9 | 48827 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.0.RELEASE | 47727 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-2 | 41481 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0 | 41533 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
@@ -67,9 +69,9 @@ repo | releases | star
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
 [redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.1 | 11032 
 [nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.0 | 10902 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.0 | 10890 
 [mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
@@ -97,7 +99,7 @@ repo | releases | star
 [solr](https://github.com/apache/lucene-solr) | 7.7.3 | 3423 
 [hbase](https://github.com/apache/hbase) | 2.1.10 | 3408 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
-[camel](https://github.com/apache/camel) | 2.25.1 | 3194 
+[camel](https://github.com/apache/camel) | 3.3.0 | 3222 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [ignite](https://github.com/apache/ignite) | 2.8.0 | 3018 
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
