@@ -42,8 +42,6 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.0.RELEASE | 47727
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0 | 41533
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-2 | 41481
-[netty](https://github.com/netty/netty) | 4.1.50.Final | 23493
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.1 | 11032
 
 ### 收录列表
