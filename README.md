@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.3.0.RELEASE | 47727
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-2 | 41481
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493
 
@@ -48,7 +49,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.9 | 48827 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.7.RELEASE | 47491 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.3.0.RELEASE | 47727 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0-rc-2 | 41481 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
