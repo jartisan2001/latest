@@ -53,7 +53,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.9 | 48827 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.0.RELEASE | 47727 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0 | 41533 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0 | 41535 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
@@ -85,7 +85,7 @@ repo | releases | star
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha4 | 5864 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.32 | 5254 
-[tomcat](https://github.com/apache/tomcat) | 8.5.55 | 4459 
+[tomcat](https://github.com/apache/tomcat) | 7.0.104 | 4476 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4426 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.15.Final | 4235 
