@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.3.0.RELEASE | 47727
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0 | 41533
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.1 | 11032
 
