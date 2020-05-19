@@ -42,6 +42,8 @@ repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0 | 41533
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.1 | 11032
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.16.Final | 4254
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc3 | 332
 
 ### 收录列表
 ---
@@ -85,7 +87,7 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 7.0.104 | 4476 
 [mesos](https://github.com/apache/mesos) | 1.9.0 | 4426 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.15.Final | 4235 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.16.Final | 4254 
 [beam](https://github.com/apache/beam) | 2.20.0 | 3868 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
@@ -130,7 +132,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.111 | 637 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc2 | 330 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc3 | 332 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 155 
