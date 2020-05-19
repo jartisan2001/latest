@@ -40,8 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0 | 41533
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.1 | 11032
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.16.Final | 4254
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc3 | 332
 
