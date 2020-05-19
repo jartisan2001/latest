@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.16.Final | 4254
+[spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc3 | 332
 
 ### 收录列表
@@ -115,8 +116,8 @@ repo | releases | star
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.4 | 1790 
 [avro](https://github.com/apache/avro) | 1.9.2 | 1483 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
+[spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
-[spring-retry](https://github.com/spring-projects/spring-retry) | 1.2.5.RELEASE | 1203 
 [jbpm](https://github.com/kiegroup/jbpm) | 7.37.0.Final | 1093 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.19 | 1063 
