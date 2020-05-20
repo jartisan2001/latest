@@ -83,8 +83,8 @@ repo | releases | star
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha4 | 5864 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.32 | 5254 
+[mesos](https://github.com/apache/mesos) | 1.7.3 | 4498 
 [tomcat](https://github.com/apache/tomcat) | 7.0.104 | 4476 
-[mesos](https://github.com/apache/mesos) | 1.9.0 | 4426 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.16.Final | 4254 
 [beam](https://github.com/apache/beam) | 2.20.0 | 3868 
