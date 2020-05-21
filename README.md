@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.1 | 41640
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.16.Final | 4254
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc3 | 332
 
