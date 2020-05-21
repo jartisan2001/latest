@@ -41,6 +41,8 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.1 | 41640
+[groovy](https://github.com/apache/groovy) | 3.0.4 | 3667
+[groovy](https://github.com/apache/groovy) | 2.5.12 | 3667
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc3 | 332
 
@@ -90,8 +92,8 @@ repo | releases | star
 [beam](https://github.com/apache/beam) | 2.20.0 | 3868 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
+[groovy](https://github.com/apache/groovy) | 2.5.12 | 3667 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.5 | 3634 
-[groovy](https://github.com/apache/groovy) | 2.5.11 | 3622 
 [JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
 [lucene](https://github.com/apache/lucene-solr) | 7.7.3 | 3423 
 [solr](https://github.com/apache/lucene-solr) | 7.7.3 | 3423 
@@ -105,7 +107,7 @@ repo | releases | star
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.2.30.v20200428 | 2852 
 [pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801 
-[kylin](https://github.com/apache/kylin) | 2.6.5 | 2561 
+[kylin](https://github.com/apache/kylin) | 3.0.2 | 2651 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2022 
