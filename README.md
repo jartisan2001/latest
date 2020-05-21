@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.1 | 41640
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.16.Final | 4254
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc3 | 332
@@ -51,7 +52,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.9 | 48827 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.0.RELEASE | 47727 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.0 | 41535 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.1 | 41640 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
