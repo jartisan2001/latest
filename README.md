@@ -41,9 +41,12 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.1 | 41640
+[jib](https://github.com/GoogleContainerTools/jib) | 2.3.0 | 8961
 [groovy](https://github.com/apache/groovy) | 3.0.4 | 3667
 [groovy](https://github.com/apache/groovy) | 2.5.12 | 3667
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.29.v20200521 | 2854
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269
+[elide](https://github.com/yahoo/elide) | 4.6.3 | 658
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc3 | 332
 
 ### 收录列表
@@ -74,8 +77,8 @@ repo | releases | star
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.0 | 10902 
 [mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
+[jib](https://github.com/GoogleContainerTools/jib) | 2.3.0 | 8961 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
-[jib](https://github.com/GoogleContainerTools/jib) | 2.2.0 | 8797 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8758 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.3 | 8661 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.8 | 8056 
@@ -105,7 +108,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
 [drools](https://github.com/kiegroup/drools) | 7.37.0.Final | 2932 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.2.30.v20200428 | 2852 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.29.v20200521 | 2854 
 [pmd](https://github.com/pmd/pmd) | 6.23.0 | 2801 
 [kylin](https://github.com/apache/kylin) | 3.0.2 | 2651 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
@@ -127,8 +130,8 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
+[elide](https://github.com/yahoo/elide) | 4.6.3 | 658 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
-[elide](https://github.com/yahoo/elide) | 4.6.2 | 654 
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [github-api](https://github.com/kohsuke/github-api) | 1.111 | 637 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
