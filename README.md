@@ -41,9 +41,11 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.1 | 41640
+[redisson](https://github.com/redisson/redisson) | 3.13.0 | 13145
 [jib](https://github.com/GoogleContainerTools/jib) | 2.3.0 | 8961
 [groovy](https://github.com/apache/groovy) | 3.0.4 | 3667
 [groovy](https://github.com/apache/groovy) | 2.5.12 | 3667
+[JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.29.v20200521 | 2854
 [elide](https://github.com/yahoo/elide) | 4.6.3 | 658
 
@@ -65,10 +67,10 @@ repo | releases | star
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.3 | 14184 
+[redisson](https://github.com/redisson/redisson) | 3.13.0 | 13145 
 [flink](https://github.com/apache/flink) | 1.10.1 | 12921 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
-[redisson](https://github.com/redisson/redisson) | 3.12.5 | 12718 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.1 | 11032 
 [nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027 
@@ -95,7 +97,7 @@ repo | releases | star
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [groovy](https://github.com/apache/groovy) | 2.5.12 | 3667 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.5 | 3634 
-[JSON-java](https://github.com/stleary/JSON-java) | 20190722 | 3480 
+[JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
 [lucene](https://github.com/apache/lucene-solr) | 7.7.3 | 3423 
 [solr](https://github.com/apache/lucene-solr) | 7.7.3 | 3423 
 [hbase](https://github.com/apache/hbase) | 2.1.10 | 3408 
