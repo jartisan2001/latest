@@ -45,9 +45,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 3.0.4 | 3667
 [groovy](https://github.com/apache/groovy) | 2.5.12 | 3667
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.29.v20200521 | 2854
-[spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269
 [elide](https://github.com/yahoo/elide) | 4.6.3 | 658
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc3 | 332
 
 ### 收录列表
 ---
