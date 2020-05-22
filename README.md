@@ -77,7 +77,7 @@ repo | releases | star
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.0 | 10902 
 [mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
-[jib](https://github.com/GoogleContainerTools/jib) | 2.3.0 | 8961 
+[jib](https://github.com/GoogleContainerTools/jib) | 2.3.0 | 8965 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8758 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.3 | 8661 
