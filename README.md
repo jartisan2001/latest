@@ -45,7 +45,6 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 2.3.0 | 8961
 [groovy](https://github.com/apache/groovy) | 3.0.4 | 3667
 [groovy](https://github.com/apache/groovy) | 2.5.12 | 3667
-[JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.29.v20200521 | 2854
 [elide](https://github.com/yahoo/elide) | 4.6.3 | 658
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc4 | 332
