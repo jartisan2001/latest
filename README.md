@@ -40,11 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.1 | 41640
 [redisson](https://github.com/redisson/redisson) | 3.13.0 | 13145
 [jib](https://github.com/GoogleContainerTools/jib) | 2.3.0 | 8961
-[groovy](https://github.com/apache/groovy) | 3.0.4 | 3667
-[groovy](https://github.com/apache/groovy) | 2.5.12 | 3667
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.29.v20200521 | 2854
 [elide](https://github.com/yahoo/elide) | 4.6.3 | 658
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc4 | 332
