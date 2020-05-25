@@ -40,11 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[redisson](https://github.com/redisson/redisson) | 3.13.0 | 13145
-[jib](https://github.com/GoogleContainerTools/jib) | 2.3.0 | 8961
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.29.v20200521 | 2854
 [pmd](https://github.com/pmd/pmd) | 6.24.0 | 2837
-[elide](https://github.com/yahoo/elide) | 4.6.3 | 658
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc4 | 332
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.19 | 332
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.9 | 332
