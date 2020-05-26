@@ -44,6 +44,7 @@ repo | releases | star
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc4 | 332
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.19 | 332
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.9 | 332
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.5 | 332
 
 ### 收录列表
 ---
@@ -132,7 +133,7 @@ repo | releases | star
 [github-api](https://github.com/kohsuke/github-api) | 1.111 | 637 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.9 | 332 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.5 | 332 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 155 
