@@ -41,8 +41,6 @@
 repo | releases | star
 ---|---|---
 [pmd](https://github.com/pmd/pmd) | 6.24.0 | 2837
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0-rc4 | 332
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.19 | 332
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.9 | 332
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.5 | 332
 
