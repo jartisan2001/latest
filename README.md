@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [pmd](https://github.com/pmd/pmd) | 6.24.0 | 2837
+[elide](https://github.com/yahoo/elide) | 4.6.4 | 661
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.9 | 332
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.5 | 332
 
@@ -125,7 +126,7 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
-[elide](https://github.com/yahoo/elide) | 4.6.3 | 658 
+[elide](https://github.com/yahoo/elide) | 4.6.4 | 661 
 [commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [github-api](https://github.com/kohsuke/github-api) | 1.111 | 637 
