@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[pmd](https://github.com/pmd/pmd) | 6.24.0 | 2837
 [elide](https://github.com/yahoo/elide) | 4.6.4 | 661
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.9 | 332
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.5 | 332
