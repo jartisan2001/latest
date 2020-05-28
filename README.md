@@ -40,6 +40,10 @@
 ---
 repo | releases | star
 ---|---|---
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.2 | 41782
+[arthas](https://github.com/alibaba/arthas) | 3.3.0 | 21304
+[lucene](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
+[solr](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
 [elide](https://github.com/yahoo/elide) | 4.6.4 | 661
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.9 | 332
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.5 | 332
@@ -51,13 +55,13 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.9 | 48827 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.0.RELEASE | 47727 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.1 | 41640 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.2 | 41782 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
+[arthas](https://github.com/alibaba/arthas) | 3.3.0 | 21304 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977 
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
-[arthas](https://github.com/alibaba/arthas) | 3.2.0 | 20337 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
@@ -87,19 +91,19 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 7.0.104 | 4476 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.16.Final | 4254 
-[beam](https://github.com/apache/beam) | 2.20.0 | 3868 
+[beam](https://github.com/apache/beam) | 2.21.0 | 3984 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [groovy](https://github.com/apache/groovy) | 2.5.12 | 3667 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.5 | 3634 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
-[lucene](https://github.com/apache/lucene-solr) | 7.7.3 | 3423 
-[solr](https://github.com/apache/lucene-solr) | 7.7.3 | 3423 
-[hbase](https://github.com/apache/hbase) | 2.1.10 | 3408 
+[hbase](https://github.com/apache/hbase) | 2.2.5 | 3523 
+[lucene](https://github.com/apache/lucene-solr) | 8.5.2 | 3502 
+[solr](https://github.com/apache/lucene-solr) | 8.5.2 | 3502 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [camel](https://github.com/apache/camel) | 3.3.0 | 3222 
+[ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
-[ignite](https://github.com/apache/ignite) | 2.8.0 | 3018 
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
 [drools](https://github.com/kiegroup/drools) | 7.37.0.Final | 2932 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
