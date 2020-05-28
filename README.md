@@ -44,6 +44,7 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.3.0 | 21304
 [lucene](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
 [solr](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
+[commons-io](https://github.com/apache/commons-io) | 2.7 | 689
 [elide](https://github.com/yahoo/elide) | 4.6.4 | 661
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.9 | 332
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.5 | 332
@@ -55,11 +56,11 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.9 | 48827 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.0.RELEASE | 47727 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.2 | 41782 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.2 | 41800 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
-[arthas](https://github.com/alibaba/arthas) | 3.3.0 | 21304 
+[arthas](https://github.com/alibaba/arthas) | 3.3.0 | 21315 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977 
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
@@ -129,8 +130,8 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
+[commons-io](https://github.com/apache/commons-io) | 2.7 | 689 
 [elide](https://github.com/yahoo/elide) | 4.6.4 | 661 
-[commons-io](https://github.com/apache/commons-io) | 2.6 | 658 
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [github-api](https://github.com/kohsuke/github-api) | 1.111 | 637 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
