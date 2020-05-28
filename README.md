@@ -44,9 +44,7 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.3.0 | 21304
 [lucene](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
 [solr](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
-[commons-io](https://github.com/apache/commons-io) | 2.7 | 689
 [elide](https://github.com/yahoo/elide) | 4.6.4 | 661
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.9 | 332
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.5 | 332
 
 ### 收录列表
