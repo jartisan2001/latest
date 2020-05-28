@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.2 | 41782
 [arthas](https://github.com/alibaba/arthas) | 3.3.0 | 21304
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone5 | 11065
 [lucene](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
 [solr](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
 [elide](https://github.com/yahoo/elide) | 4.6.4 | 661
@@ -70,7 +71,7 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.1 | 11032 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone5 | 11065 
 [nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.0 | 10902 
 [mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246 
