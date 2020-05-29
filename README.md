@@ -41,10 +41,14 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.2 | 41782
+[arthas](https://github.com/alibaba/arthas) | 3.3.1 | 21348
 [arthas](https://github.com/alibaba/arthas) | 3.3.0 | 21304
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone5 | 11065
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.17.Final | 4273
 [lucene](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
 [solr](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
+[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta0 | 2862
+[github-api](https://github.com/kohsuke/github-api) | 1.112 | 662
 [elide](https://github.com/yahoo/elide) | 4.6.4 | 661
 
 ### 收录列表
@@ -58,7 +62,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
-[arthas](https://github.com/alibaba/arthas) | 3.3.0 | 21315 
+[arthas](https://github.com/alibaba/arthas) | 3.3.1 | 21348 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977 
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
@@ -89,7 +93,7 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [tomcat](https://github.com/apache/tomcat) | 7.0.104 | 4476 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.16.Final | 4254 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.17.Final | 4273 
 [beam](https://github.com/apache/beam) | 2.21.0 | 3984 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
@@ -106,7 +110,7 @@ repo | releases | star
 [drools](https://github.com/kiegroup/drools) | 7.38.0.Final | 2973 
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.29.v20200521 | 2854 
+[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta0 | 2862 
 [pmd](https://github.com/pmd/pmd) | 6.24.0 | 2837 
 [kylin](https://github.com/apache/kylin) | 3.0.2 | 2651 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
@@ -121,7 +125,7 @@ repo | releases | star
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.37.0.Final | 1093 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.38.0.Final | 1105 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.19 | 1063 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
@@ -129,9 +133,9 @@ repo | releases | star
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.7 | 689 
+[github-api](https://github.com/kohsuke/github-api) | 1.112 | 662 
 [elide](https://github.com/yahoo/elide) | 4.6.4 | 661 
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
-[github-api](https://github.com/kohsuke/github-api) | 1.111 | 637 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.5 | 332 
