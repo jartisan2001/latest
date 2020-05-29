@@ -45,9 +45,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone5 | 11065
 [lucene](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
 [solr](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
-[drools](https://github.com/kiegroup/drools) | 7.38.0.Final | 2973
 [elide](https://github.com/yahoo/elide) | 4.6.4 | 661
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.5 | 332
 
 ### 收录列表
 ---
