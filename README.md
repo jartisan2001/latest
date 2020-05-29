@@ -45,6 +45,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone5 | 11065
 [lucene](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
 [solr](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
+[drools](https://github.com/kiegroup/drools) | 7.38.0.Final | 2973
 [elide](https://github.com/yahoo/elide) | 4.6.4 | 661
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.5 | 332
 
@@ -87,7 +88,7 @@ repo | releases | star
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha4 | 5864 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.32 | 5254 
-[mesos](https://github.com/apache/mesos) | 1.7.3 | 4498 
+[mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [tomcat](https://github.com/apache/tomcat) | 7.0.104 | 4476 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.16.Final | 4254 
@@ -104,8 +105,8 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.3.0 | 3222 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
+[drools](https://github.com/kiegroup/drools) | 7.38.0.Final | 2973 
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
-[drools](https://github.com/kiegroup/drools) | 7.37.0.Final | 2932 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.29.v20200521 | 2854 
 [pmd](https://github.com/pmd/pmd) | 6.24.0 | 2837 
