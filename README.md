@@ -45,11 +45,8 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.3.0 | 21304
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone5 | 11065
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.17.Final | 4273
-[lucene](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
-[solr](https://github.com/apache/lucene-solr) | 8.5.2 | 3502
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta0 | 2862
 [github-api](https://github.com/kohsuke/github-api) | 1.112 | 662
-[elide](https://github.com/yahoo/elide) | 4.6.4 | 661
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.20 | 332
 
 ### 收录列表
