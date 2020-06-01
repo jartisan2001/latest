@@ -66,7 +66,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.70 | 21575 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.70 | 21605 
 [arthas](https://github.com/alibaba/arthas) | 3.3.1 | 21348 
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
