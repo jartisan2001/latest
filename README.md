@@ -50,6 +50,7 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.58.sec10 | 21550
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.60.sec10 | 21550
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.70 | 21550
+[arthas](https://github.com/alibaba/arthas) | 3.3.2 | 21380
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.33 | 5321
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.20 | 332
 
@@ -65,7 +66,7 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.70 | 21605 
-[arthas](https://github.com/alibaba/arthas) | 3.3.1 | 21348 
+[arthas](https://github.com/alibaba/arthas) | 3.3.2 | 21380 
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
