@@ -50,9 +50,7 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.58.sec10 | 21550
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.60.sec10 | 21550
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.70 | 21550
-[arthas](https://github.com/alibaba/arthas) | 3.3.1 | 21348
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.33 | 5321
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.17.Final | 4273
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.20 | 332
 
 ### 收录列表
