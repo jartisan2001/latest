@@ -40,7 +40,18 @@
 ---
 repo | releases | star
 ---|---|---
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.31.sec10 | 21550
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.48.sec10 | 21550
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.50.sec10 | 21550
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.51.sec10 | 21550
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.54.sec10 | 21550
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.55.sec10 | 21550
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.57.sec10 | 21550
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.58.sec10 | 21550
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.60.sec10 | 21550
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.70 | 21550
 [arthas](https://github.com/alibaba/arthas) | 3.3.1 | 21348
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.33 | 5321
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.17.Final | 4273
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.20 | 332
 
@@ -55,8 +66,8 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.70 | 21550 
 [arthas](https://github.com/alibaba/arthas) | 3.3.1 | 21348 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.68 | 20977 
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
@@ -82,7 +93,7 @@ repo | releases | star
 [storm](https://github.com/apache/storm) | 2.1.0 | 5991 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha4 | 5864 
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.32 | 5254 
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.33 | 5321 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [tomcat](https://github.com/apache/tomcat) | 7.0.104 | 4476 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
