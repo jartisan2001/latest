@@ -52,6 +52,7 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.70 | 21550
 [arthas](https://github.com/alibaba/arthas) | 3.3.2 | 21380
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.33 | 5321
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0 | 333
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.20 | 332
 
 ### 收录列表
@@ -141,7 +142,7 @@ repo | releases | star
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.20 | 332 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0 | 333 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 155 
