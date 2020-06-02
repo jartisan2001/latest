@@ -53,7 +53,6 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.3.2 | 21380
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.33 | 5321
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0 | 333
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.20 | 332
 
 ### 收录列表
 ---
