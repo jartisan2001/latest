@@ -41,18 +41,8 @@
 repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec10 | 21681
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.31.sec10 | 21550
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.48.sec10 | 21550
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.50.sec10 | 21550
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.51.sec10 | 21550
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.54.sec10 | 21550
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.55.sec10 | 21550
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.57.sec10 | 21550
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.58.sec10 | 21550
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.60.sec10 | 21550
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.70 | 21550
 [arthas](https://github.com/alibaba/arthas) | 3.3.2 | 21380
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.33 | 5321
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0 | 333
 
 ### 收录列表
