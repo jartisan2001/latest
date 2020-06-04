@@ -43,9 +43,6 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.10 | 49193
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.7.1 | 49193
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec10 | 21681
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.70 | 21550
-[arthas](https://github.com/alibaba/arthas) | 3.3.2 | 21380
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.0 | 333
 
 ### 收录列表
 ---
