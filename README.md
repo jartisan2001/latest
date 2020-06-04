@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.10 | 49193
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.7.1 | 49193
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec10 | 21681
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.70 | 21550
 [arthas](https://github.com/alibaba/arthas) | 3.3.2 | 21380
@@ -49,7 +51,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.9 | 48827 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.7.1 | 49193 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.0.RELEASE | 47727 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.2 | 41811 
