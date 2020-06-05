@@ -42,7 +42,9 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.10 | 49193
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.7.1 | 49193
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.2.sec10 | 21701
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec10 | 21681
+[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608
 
 ### 收录列表
 ---
@@ -55,17 +57,17 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
-[fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec10 | 21681 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.2.sec10 | 21701 
 [arthas](https://github.com/alibaba/arthas) | 3.3.2 | 21380 
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.3 | 14184 
+[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
 [redisson](https://github.com/redisson/redisson) | 3.13.0 | 13145 
 [flink](https://github.com/apache/flink) | 1.10.1 | 12921 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
-[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.4 | 12800 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone5 | 11065 
 [nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027 
