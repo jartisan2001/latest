@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.2.sec10 | 21701
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608
+[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999
 
 ### 收录列表
 ---
@@ -99,9 +100,9 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.3.0 | 3222 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
+[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
 [drools](https://github.com/kiegroup/drools) | 7.38.0.Final | 2973 
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
-[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.2 | 2887 
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta0 | 2862 
 [pmd](https://github.com/pmd/pmd) | 6.24.0 | 2837 
 [kylin](https://github.com/apache/kylin) | 3.0.2 | 2651 
