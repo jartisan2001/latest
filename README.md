@@ -40,10 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.10 | 49193
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.7.1 | 49193
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.2.sec10 | 21701
-[fastjson](https://github.com/alibaba/fastjson) | 1.1.34.sec10 | 21681
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608
 
 ### 收录列表
