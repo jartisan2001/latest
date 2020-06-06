@@ -43,6 +43,7 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.2.sec10 | 21701
 [arthas](https://github.com/alibaba/arthas) | 3.3.3 | 21462
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.6 | 3709
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999
 
 ### 收录列表
@@ -91,8 +92,8 @@ repo | releases | star
 [beam](https://github.com/apache/beam) | 2.21.0 | 3984 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.6 | 3709 
 [groovy](https://github.com/apache/groovy) | 2.5.12 | 3667 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.5 | 3634 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
 [hbase](https://github.com/apache/hbase) | 2.2.5 | 3523 
 [lucene](https://github.com/apache/lucene-solr) | 8.5.2 | 3502 
@@ -104,7 +105,7 @@ repo | releases | star
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
 [drools](https://github.com/kiegroup/drools) | 7.38.0.Final | 2973 
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
-[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta0 | 2862 
+[jetty server](https://github.com/eclipse/jetty.project) | 11.0.0-alpha0 | 2867 
 [pmd](https://github.com/pmd/pmd) | 6.24.0 | 2837 
 [kylin](https://github.com/apache/kylin) | 3.0.2 | 2651 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
