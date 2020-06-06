@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.2.sec10 | 21701
+[arthas](https://github.com/alibaba/arthas) | 3.3.3 | 21462
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999
 
@@ -56,7 +57,7 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.2.sec10 | 21701 
-[arthas](https://github.com/alibaba/arthas) | 3.3.2 | 21380 
+[arthas](https://github.com/alibaba/arthas) | 3.3.3 | 21462 
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
