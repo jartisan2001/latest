@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.61.sec10 | 21719
 [arthas](https://github.com/alibaba/arthas) | 3.3.3 | 21462
+[nacos](https://github.com/alibaba/nacos) | 1.3.0 | 12403
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.6 | 3709
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.21 | 335
@@ -71,9 +72,9 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.13.0 | 13145 
 [flink](https://github.com/apache/flink) | 1.10.1 | 12921 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
+[nacos](https://github.com/alibaba/nacos) | 1.3.0 | 12403 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone5 | 11065 
-[nacos](https://github.com/alibaba/nacos) | 1.2.1 | 11027 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.0 | 10902 
 [mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
