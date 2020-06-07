@@ -40,11 +40,14 @@
 ---
 repo | releases | star
 ---|---|---
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.61.sec10 | 21719
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.2.sec10 | 21701
 [arthas](https://github.com/alibaba/arthas) | 3.3.3 | 21462
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.6 | 3709
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.21 | 335
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.10 | 335
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.21 | 334
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.19 | 334
 
@@ -59,7 +62,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.2.sec10 | 21701 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.61.sec10 | 21719 
 [arthas](https://github.com/alibaba/arthas) | 3.3.3 | 21462 
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
@@ -135,7 +138,7 @@ repo | releases | star
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.19 | 334 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.10 | 335 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 155 
