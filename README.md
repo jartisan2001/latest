@@ -74,8 +74,8 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [nacos](https://github.com/alibaba/nacos) | 1.3.0 | 12403 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
+[shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone5 | 11065 
-[shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.0 | 10902 
 [mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.3.0 | 8965 
