@@ -45,6 +45,8 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.3.0 | 12403
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.6 | 3709
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.6 | 336
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.1 | 336
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.21 | 335
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.10 | 335
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.21 | 334
@@ -89,8 +91,8 @@ repo | releases | star
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha4 | 5864 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.33 | 5321 
+[tomcat](https://github.com/apache/tomcat) | 8.5.56 | 4548 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
-[tomcat](https://github.com/apache/tomcat) | 7.0.104 | 4476 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.17.Final | 4273 
 [beam](https://github.com/apache/beam) | 2.21.0 | 3984 
@@ -124,9 +126,9 @@ repo | releases | star
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
+[pdfbox](https://github.com/apache/pdfbox) | 2.0.20 | 1153 
 [jbpm](https://github.com/kiegroup/jbpm) | 7.38.0.Final | 1105 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
-[pdfbox](https://github.com/apache/pdfbox) | 2.0.19 | 1063 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
@@ -137,7 +139,7 @@ repo | releases | star
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.10 | 336 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.1 | 336 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 155 
