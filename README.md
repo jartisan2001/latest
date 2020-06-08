@@ -41,10 +41,8 @@
 repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.61.sec10 | 21719
-[arthas](https://github.com/alibaba/arthas) | 3.3.3 | 21462
 [nacos](https://github.com/alibaba/nacos) | 1.3.0 | 12403
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.6 | 3709
-[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.6 | 336
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.1 | 336
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.21 | 335
