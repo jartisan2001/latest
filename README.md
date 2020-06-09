@@ -43,6 +43,7 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.61.sec10 | 21719
 [nacos](https://github.com/alibaba/nacos) | 1.3.0 | 12403
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.6 | 3709
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.4 | 1889
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.6 | 336
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.1 | 336
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.21 | 335
@@ -116,8 +117,8 @@ repo | releases | star
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2022 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.4 | 1889 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.10 | 1861 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.3 | 1843 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.4 | 1790 
 [avro](https://github.com/apache/avro) | 1.9.2 | 1483 
