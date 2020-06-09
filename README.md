@@ -40,16 +40,12 @@
 ---
 repo | releases | star
 ---|---|---
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.61.sec10 | 21719
 [nacos](https://github.com/alibaba/nacos) | 1.3.0 | 12403
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.6 | 3709
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.4 | 1889
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.6 | 336
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.1 | 336
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.21 | 335
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.10 | 335
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.14.21 | 334
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.19 | 334
 
 ### 收录列表
 ---
