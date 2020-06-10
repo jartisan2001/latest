@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.4 | 15135
 [redisson](https://github.com/redisson/redisson) | 3.13.1 | 13329
+[jib](https://github.com/GoogleContainerTools/jib) | 2.4.0 | 9073
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.4 | 1889
 [github-api](https://github.com/kohsuke/github-api) | 1.113 | 669
 
@@ -73,7 +74,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone5 | 11065 
 [mockito](https://github.com/mockito/mockito) | 3.3.3 | 10246 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
-[jib](https://github.com/GoogleContainerTools/jib) | 2.3.0 | 8965 
+[jib](https://github.com/GoogleContainerTools/jib) | 2.4.0 | 9073 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8758 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.3 | 8661 
