@@ -40,8 +40,11 @@
 ---
 repo | releases | star
 ---|---|---
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.4 | 15135
+[redisson](https://github.com/redisson/redisson) | 3.13.1 | 13329
 [nacos](https://github.com/alibaba/nacos) | 1.3.0 | 12403
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.4 | 1889
+[github-api](https://github.com/kohsuke/github-api) | 1.113 | 669
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.6 | 336
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.1 | 336
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.21 | 335
@@ -64,9 +67,9 @@ repo | releases | star
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.3 | 14184 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.4 | 15135 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
-[redisson](https://github.com/redisson/redisson) | 3.13.0 | 13145 
+[redisson](https://github.com/redisson/redisson) | 3.13.1 | 13329 
 [flink](https://github.com/apache/flink) | 1.10.1 | 12921 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [nacos](https://github.com/alibaba/nacos) | 1.3.0 | 12403 
@@ -129,7 +132,7 @@ repo | releases | star
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.7 | 689 
-[github-api](https://github.com/kohsuke/github-api) | 1.112 | 662 
+[github-api](https://github.com/kohsuke/github-api) | 1.113 | 669 
 [elide](https://github.com/yahoo/elide) | 4.6.4 | 661 
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
