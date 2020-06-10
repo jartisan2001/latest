@@ -42,13 +42,8 @@ repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.4 | 15135
 [redisson](https://github.com/redisson/redisson) | 3.13.1 | 13329
-[nacos](https://github.com/alibaba/nacos) | 1.3.0 | 12403
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.4 | 1889
 [github-api](https://github.com/kohsuke/github-api) | 1.113 | 669
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.6 | 336
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.1 | 336
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.21 | 335
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.10 | 335
 
 ### 收录列表
 ---
