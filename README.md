@@ -45,6 +45,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 2.4.0 | 9073
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.4 | 1889
 [github-api](https://github.com/kohsuke/github-api) | 1.113 | 669
+[github-api](https://github.com/kohsuke/github-api) | 1.114 | 669
 
 ### 收录列表
 ---
@@ -128,7 +129,7 @@ repo | releases | star
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.7 | 689 
-[github-api](https://github.com/kohsuke/github-api) | 1.113 | 669 
+[github-api](https://github.com/kohsuke/github-api) | 1.114 | 669 
 [elide](https://github.com/yahoo/elide) | 4.6.4 | 661 
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
