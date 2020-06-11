@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.15.RELEASE | 48407
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.8.RELEASE | 48407
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.4 | 15135
 [redisson](https://github.com/redisson/redisson) | 3.13.1 | 13329
 [jib](https://github.com/GoogleContainerTools/jib) | 2.4.0 | 9073
@@ -52,7 +54,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.7.1 | 49193 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.3.0.RELEASE | 47727 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.8.RELEASE | 48407 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.2 | 41811 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
