@@ -55,7 +55,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.7.1 | 49193 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.3.1.RELEASE | 48417 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.3.1.RELEASE | 48428 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.2 | 41811 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
