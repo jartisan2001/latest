@@ -43,11 +43,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.1.RELEASE | 48417
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.15.RELEASE | 48407
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.8.RELEASE | 48407
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.4 | 15135
-[redisson](https://github.com/redisson/redisson) | 3.13.1 | 13329
 [jib](https://github.com/GoogleContainerTools/jib) | 2.4.0 | 9073
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.4 | 1889
-[github-api](https://github.com/kohsuke/github-api) | 1.113 | 669
 [github-api](https://github.com/kohsuke/github-api) | 1.114 | 669
 
 ### 收录列表
