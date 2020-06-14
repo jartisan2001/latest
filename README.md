@@ -41,10 +41,6 @@
 repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.1.RELEASE | 48417
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.15.RELEASE | 48407
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.8.RELEASE | 48407
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.30.v20200611 | 2871
-[github-api](https://github.com/kohsuke/github-api) | 1.114 | 669
 
 ### 收录列表
 ---
