@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.1.RELEASE | 48417
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.71 | 21795
 
 ### 收录列表
 ---
@@ -53,7 +54,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.61.sec10 | 21719 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.71 | 21795 
 [arthas](https://github.com/alibaba/arthas) | 3.3.3 | 21462 
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
