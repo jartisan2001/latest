@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.3.1.RELEASE | 48417
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.71 | 21795
 
 ### 收录列表
