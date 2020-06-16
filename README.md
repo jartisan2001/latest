@@ -99,8 +99,8 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.3.0 | 3222 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
+[drools](https://github.com/kiegroup/drools) | 7.39.0.CR1 | 3013 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
-[drools](https://github.com/kiegroup/drools) | 7.38.0.Final | 2973 
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.30.v20200611 | 2871 
 [pmd](https://github.com/pmd/pmd) | 6.24.0 | 2837 
