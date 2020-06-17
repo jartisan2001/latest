@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.71 | 21795
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.5 | 15282
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.RC1 | 3734
 
 ### 收录列表
@@ -60,7 +61,7 @@ repo | releases | star
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.4 | 15135 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.5 | 15282 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
 [redisson](https://github.com/redisson/redisson) | 3.13.1 | 13329 
 [flink](https://github.com/apache/flink) | 1.10.1 | 12921 
