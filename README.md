@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.71 | 21795
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.5 | 15282
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.RC1 | 3734
 
