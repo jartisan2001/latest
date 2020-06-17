@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.5 | 15282
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.RC1 | 3734
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.11 | 340
 
 ### 收录列表
 ---
@@ -130,7 +131,7 @@ repo | releases | star
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.1 | 336 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.11 | 340 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 155 
