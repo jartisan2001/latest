@@ -49,7 +49,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.7.1 | 49193 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.8.0 | 49453 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.1.RELEASE | 48428 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.2 | 41811 
@@ -98,7 +98,7 @@ repo | releases | star
 [lucene](https://github.com/apache/lucene-solr) | 8.5.2 | 3502 
 [solr](https://github.com/apache/lucene-solr) | 8.5.2 | 3502 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
-[camel](https://github.com/apache/camel) | 3.3.0 | 3222 
+[camel](https://github.com/apache/camel) | 3.4.0 | 3269 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [drools](https://github.com/kiegroup/drools) | 7.39.0.CR1 | 3013 
