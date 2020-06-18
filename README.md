@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.5 | 15282
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.RC1 | 3734
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.11 | 340
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.7 | 340
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.2 | 340
