@@ -40,8 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.11 | 340
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.7 | 340
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.2 | 340
 
 ### 收录列表
