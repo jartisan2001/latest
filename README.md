@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.5 | 1905
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.2 | 340
 
 ### 收录列表
@@ -108,7 +109,7 @@ repo | releases | star
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2022 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.4 | 1890 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.5 | 1905 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.10 | 1861 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.4 | 1790 
