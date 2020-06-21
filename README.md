@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.5 | 1905
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.2 | 340
 
 ### 收录列表
 ---
