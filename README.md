@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.18.Final | 4288
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.RC2 | 3751
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.5 | 1905
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200621 | 1824
 
@@ -90,7 +91,7 @@ repo | releases | star
 [beam](https://github.com/apache/beam) | 2.22.0 | 4007 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.RC1 | 3734 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.RC2 | 3751 
 [groovy](https://github.com/apache/groovy) | 2.5.12 | 3667 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
 [hbase](https://github.com/apache/hbase) | 2.2.5 | 3523 
