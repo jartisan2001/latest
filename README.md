@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.18.Final | 4288
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.RC2 | 3751
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.6 | 1907
@@ -62,8 +63,8 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.5 | 15282 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
 [redisson](https://github.com/redisson/redisson) | 3.13.1 | 13329 
 [flink](https://github.com/apache/flink) | 1.10.1 | 12921 
