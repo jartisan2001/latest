@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.18.Final | 4288
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.RC2 | 3751
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.6 | 1907
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.5 | 1905
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200621 | 1824
 
@@ -87,7 +88,7 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 8.5.56 | 4548 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.18.Final | 4288 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.18.Final | 4289 
 [beam](https://github.com/apache/beam) | 2.22.0 | 4007 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
@@ -111,7 +112,7 @@ repo | releases | star
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2022 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.5 | 1905 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.6 | 1907 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.10 | 1861 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200621 | 1824 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
