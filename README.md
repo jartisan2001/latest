@@ -44,7 +44,6 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.18.Final | 4288
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.RC2 | 3751
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.6 | 1907
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.5 | 1905
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200621 | 1824
 
 ### 收录列表
