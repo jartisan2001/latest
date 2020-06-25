@@ -45,6 +45,7 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.RC2 | 3751
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.6 | 1907
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200621 | 1824
+[jackson](https://github.com/FasterXML/jackson-core) | 2.11.1 | 1824
 [elide](https://github.com/yahoo/elide) | 4.6.5 | 688
 
 ### 收录列表
@@ -115,7 +116,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.6 | 1907 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.10 | 1861 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200621 | 1824 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.11.1 | 1824 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
 [avro](https://github.com/apache/avro) | 1.9.2 | 1483 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
