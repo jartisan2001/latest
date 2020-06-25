@@ -45,6 +45,7 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0.RC2 | 3751
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.6 | 1907
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200621 | 1824
+[elide](https://github.com/yahoo/elide) | 4.6.5 | 688
 
 ### 收录列表
 ---
@@ -128,8 +129,8 @@ repo | releases | star
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [commons-io](https://github.com/apache/commons-io) | 2.7 | 689 
+[elide](https://github.com/yahoo/elide) | 4.6.5 | 688 
 [github-api](https://github.com/kohsuke/github-api) | 1.114 | 669 
-[elide](https://github.com/yahoo/elide) | 4.6.4 | 661 
 [cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
