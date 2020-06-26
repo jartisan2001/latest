@@ -81,7 +81,7 @@ repo | releases | star
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.8 | 8056 
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7764 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6285 
-[storm](https://github.com/apache/storm) | 2.1.0 | 5991 
+[storm](https://github.com/apache/storm) | 2.2.0 | 6093 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha4 | 5864 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.33 | 5321 
