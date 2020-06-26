@@ -40,10 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.18.Final | 4288
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0 | 3756
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.6 | 1907
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.1 | 1824
 [elide](https://github.com/yahoo/elide) | 4.6.5 | 688
 
