@@ -40,9 +40,12 @@
 ---
 repo | releases | star
 ---|---|---
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.72 | 21868
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0 | 3756
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.1 | 1824
 [elide](https://github.com/yahoo/elide) | 4.6.5 | 688
+[cxf](https://github.com/apache/cxf) | 3.2.14 | 650
+[cxf](https://github.com/apache/cxf) | 3.3.7 | 650
 
 ### 收录列表
 ---
@@ -55,7 +58,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.71 | 21795 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.72 | 21868 
 [arthas](https://github.com/alibaba/arthas) | 3.3.3 | 21462 
 [druid](https://github.com/alibaba/druid) | 1.1.22 | 20756 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
@@ -128,7 +131,7 @@ repo | releases | star
 [commons-io](https://github.com/apache/commons-io) | 2.7 | 689 
 [elide](https://github.com/yahoo/elide) | 4.6.5 | 688 
 [github-api](https://github.com/kohsuke/github-api) | 1.114 | 669 
-[cxf](https://github.com/apache/cxf) | 3.3.6 | 638 
+[cxf](https://github.com/apache/cxf) | 3.3.7 | 650 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.2 | 340 
