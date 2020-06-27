@@ -43,9 +43,6 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.72 | 21868
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0 | 3756
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.1 | 1824
-[elide](https://github.com/yahoo/elide) | 4.6.5 | 688
-[cxf](https://github.com/apache/cxf) | 3.2.14 | 650
-[cxf](https://github.com/apache/cxf) | 3.3.7 | 650
 
 ### 收录列表
 ---
