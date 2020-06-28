@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.72 | 21868
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.34 | 5363
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0 | 3756
 [pmd](https://github.com/pmd/pmd) | 6.25.0 | 2903
 
@@ -83,7 +84,7 @@ repo | releases | star
 [storm](https://github.com/apache/storm) | 2.2.0 | 6093 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha4 | 5864 
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.33 | 5321 
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.34 | 5363 
 [tomcat](https://github.com/apache/tomcat) | 8.5.56 | 4548 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
