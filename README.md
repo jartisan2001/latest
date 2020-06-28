@@ -44,7 +44,6 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0 | 3756
 [pmd](https://github.com/pmd/pmd) | 6.25.0 | 2903
-[jackson](https://github.com/FasterXML/jackson-core) | 2.11.1 | 1824
 
 ### 收录列表
 ---
