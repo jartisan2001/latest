@@ -44,7 +44,6 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.72 | 21868
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.34 | 5363
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.0 | 3756
 [pmd](https://github.com/pmd/pmd) | 6.25.0 | 2903
 
 ### 收录列表
