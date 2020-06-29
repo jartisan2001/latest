@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[fastjson](https://github.com/alibaba/fastjson) | 1.1.72.android | 21887
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.72 | 21868
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.34 | 5363
@@ -57,7 +58,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.72 | 21868 
+[fastjson](https://github.com/alibaba/fastjson) | 1.1.72.android | 21887 
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562 
 [arthas](https://github.com/alibaba/arthas) | 3.3.3 | 21462 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
