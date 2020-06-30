@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.72.android | 21887
 [arthas](https://github.com/alibaba/arthas) | 3.3.4 | 21808
+[nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA | 12831
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.34 | 5363
 
 ### 收录列表
@@ -66,7 +67,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.13.1 | 13329 
 [flink](https://github.com/apache/flink) | 1.10.1 | 12921 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
-[nacos](https://github.com/alibaba/nacos) | 1.3.0 | 12403 
+[nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA | 12831 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone5 | 11065 
