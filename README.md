@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.72.android | 21887
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.72 | 21868
+[arthas](https://github.com/alibaba/arthas) | 3.3.4 | 21808
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.34 | 5363
 [pmd](https://github.com/pmd/pmd) | 6.25.0 | 2903
@@ -58,8 +59,8 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.72.android | 21887 
+[arthas](https://github.com/alibaba/arthas) | 3.3.4 | 21808 
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562 
-[arthas](https://github.com/alibaba/arthas) | 3.3.3 | 21462 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
@@ -116,7 +117,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.10 | 1861 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.1 | 1824 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
-[avro](https://github.com/apache/avro) | 1.9.2 | 1483 
+[avro](https://github.com/apache/avro) | 1.10.0 | 1607 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
