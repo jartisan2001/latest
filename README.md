@@ -40,12 +40,10 @@
 ---
 repo | releases | star
 ---|---|---
-[fastjson](https://github.com/alibaba/fastjson) | 1.1.72.android | 21887
 [arthas](https://github.com/alibaba/arthas) | 3.3.5 | 21842
 [arthas](https://github.com/alibaba/arthas) | 3.3.6 | 21842
 [arthas](https://github.com/alibaba/arthas) | 3.3.4 | 21808
 [nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA | 12831
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.34 | 5363
 [drools](https://github.com/kiegroup/drools) | 7.39.0.Final | 3051
 [jbpm](https://github.com/kiegroup/jbpm) | 7.39.0.Final | 1116
 
