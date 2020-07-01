@@ -44,6 +44,8 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.3.4 | 21808
 [nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA | 12831
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.34 | 5363
+[drools](https://github.com/kiegroup/drools) | 7.39.0.Final | 3051
+[jbpm](https://github.com/kiegroup/jbpm) | 7.39.0.Final | 1116
 
 ### 收录列表
 ---
@@ -101,7 +103,7 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.4.0 | 3269 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
-[drools](https://github.com/kiegroup/drools) | 7.39.0.CR1 | 3013 
+[drools](https://github.com/kiegroup/drools) | 7.39.0.Final | 3051 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
 [pmd](https://github.com/pmd/pmd) | 6.25.0 | 2903 
@@ -120,7 +122,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.20 | 1153 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.38.0.Final | 1105 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.39.0.Final | 1116 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
