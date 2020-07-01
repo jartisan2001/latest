@@ -41,6 +41,8 @@
 repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.72.android | 21887
+[arthas](https://github.com/alibaba/arthas) | 3.3.5 | 21842
+[arthas](https://github.com/alibaba/arthas) | 3.3.6 | 21842
 [arthas](https://github.com/alibaba/arthas) | 3.3.4 | 21808
 [nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA | 12831
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.34 | 5363
@@ -59,7 +61,7 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.72.android | 21887 
-[arthas](https://github.com/alibaba/arthas) | 3.3.4 | 21808 
+[arthas](https://github.com/alibaba/arthas) | 3.3.6 | 21842 
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
