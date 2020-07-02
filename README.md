@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [arthas](https://github.com/alibaba/arthas) | 3.3.5 | 21842
 [arthas](https://github.com/alibaba/arthas) | 3.3.6 | 21842
-[arthas](https://github.com/alibaba/arthas) | 3.3.4 | 21808
 [nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA | 12831
 [drools](https://github.com/kiegroup/drools) | 7.39.0.Final | 3051
 [jbpm](https://github.com/kiegroup/jbpm) | 7.39.0.Final | 1116
