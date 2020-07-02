@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [arthas](https://github.com/alibaba/arthas) | 3.3.5 | 21842
 [arthas](https://github.com/alibaba/arthas) | 3.3.6 | 21842
+[redisson](https://github.com/redisson/redisson) | 3.13.2 | 13553
 [nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA | 12831
 [drools](https://github.com/kiegroup/drools) | 7.39.0.Final | 3051
 [jbpm](https://github.com/kiegroup/jbpm) | 7.39.0.Final | 1116
@@ -65,7 +66,7 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
-[redisson](https://github.com/redisson/redisson) | 3.13.1 | 13329 
+[redisson](https://github.com/redisson/redisson) | 3.13.2 | 13553 
 [flink](https://github.com/apache/flink) | 1.10.1 | 12921 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA | 12831 
