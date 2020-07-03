@@ -108,7 +108,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
 [pmd](https://github.com/pmd/pmd) | 6.25.0 | 2903 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.30.v20200611 | 2871 
-[kylin](https://github.com/apache/kylin) | 3.0.2 | 2651 
+[kylin](https://github.com/apache/kylin) | 3.1.0 | 2699 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2022 
