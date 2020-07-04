@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[arthas](https://github.com/alibaba/arthas) | 3.3.6 | 21842
 [redisson](https://github.com/redisson/redisson) | 3.13.2 | 13553
 
 ### 收录列表
