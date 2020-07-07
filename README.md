@@ -40,7 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[redisson](https://github.com/redisson/redisson) | 3.13.2 | 13553
+[drools](https://github.com/kiegroup/drools) | 7.40.0.20200703 | 3058
 
 ### 收录列表
 ---
@@ -62,7 +62,7 @@ repo | releases | star
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
 [redisson](https://github.com/redisson/redisson) | 3.13.2 | 13553 
-[flink](https://github.com/apache/flink) | 1.10.1 | 12921 
+[flink](https://github.com/apache/flink) | 1.11.0 | 13428 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA | 12831 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
@@ -81,7 +81,7 @@ repo | releases | star
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [cassandra](https://github.com/apache/cassandra) | 4.0-alpha4 | 5864 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.34 | 5363 
-[tomcat](https://github.com/apache/tomcat) | 8.5.56 | 4548 
+[tomcat](https://github.com/apache/tomcat) | 8.5.57 | 4637 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.18.Final | 4289 
@@ -98,7 +98,7 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.4.0 | 3269 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
-[drools](https://github.com/kiegroup/drools) | 7.39.0.Final | 3051 
+[drools](https://github.com/kiegroup/drools) | 7.40.0.20200703 | 3058 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
 [pmd](https://github.com/pmd/pmd) | 6.25.0 | 2903 
