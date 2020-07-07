@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [drools](https://github.com/kiegroup/drools) | 7.40.0.20200703 | 3058
+[jbpm](https://github.com/kiegroup/jbpm) | 7.40.0.20200703 | 1119
 
 ### 收录列表
 ---
@@ -117,7 +118,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.20 | 1153 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.39.0.Final | 1116 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.40.0.20200703 | 1119 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
