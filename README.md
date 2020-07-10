@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[netty](https://github.com/netty/netty) | 4.1.51.Final | 24079
 [nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA.1 | 12995
 [drools](https://github.com/kiegroup/drools) | 7.40.0.Final | 3062
 [jbpm](https://github.com/kiegroup/jbpm) | 7.40.0.Final | 1120
@@ -55,7 +56,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.2 | 41811 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
-[netty](https://github.com/netty/netty) | 4.1.50.Final | 23493 
+[netty](https://github.com/netty/netty) | 4.1.51.Final | 24079 
 [fastjson](https://github.com/alibaba/fastjson) | 1.1.72.android | 21887 
 [arthas](https://github.com/alibaba/arthas) | 3.3.6 | 21842 
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562 
