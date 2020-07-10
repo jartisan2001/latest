@@ -42,8 +42,6 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.51.Final | 24079
 [nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA.1 | 12995
-[drools](https://github.com/kiegroup/drools) | 7.40.0.Final | 3062
-[jbpm](https://github.com/kiegroup/jbpm) | 7.40.0.Final | 1120
 [elide](https://github.com/yahoo/elide) | 4.6.6 | 693
 
 ### 收录列表
