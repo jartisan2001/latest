@@ -41,7 +41,9 @@
 repo | releases | star
 ---|---|---
 [nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA.1 | 12995
+[drools](https://github.com/kiegroup/drools) | 7.40.0.Final | 3062
 [jbpm](https://github.com/kiegroup/jbpm) | 7.40.0.Final | 1120
+[elide](https://github.com/yahoo/elide) | 4.6.6 | 693
 
 ### 收录列表
 ---
@@ -99,7 +101,7 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.4.0 | 3269 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
-[drools](https://github.com/kiegroup/drools) | 7.40.0.20200703 | 3058 
+[drools](https://github.com/kiegroup/drools) | 7.40.0.Final | 3062 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
 [pmd](https://github.com/pmd/pmd) | 6.25.0 | 2903 
@@ -124,8 +126,8 @@ repo | releases | star
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
+[elide](https://github.com/yahoo/elide) | 4.6.6 | 693 
 [commons-io](https://github.com/apache/commons-io) | 2.7 | 689 
-[elide](https://github.com/yahoo/elide) | 4.6.5 | 688 
 [github-api](https://github.com/kohsuke/github-api) | 1.114 | 669 
 [cxf](https://github.com/apache/cxf) | 3.3.7 | 650 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
