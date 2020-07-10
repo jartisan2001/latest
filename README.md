@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.51.Final | 24079
+[nacos](https://github.com/alibaba/nacos) | 1.3.1 | 13024
 [nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA.1 | 12995
 [elide](https://github.com/yahoo/elide) | 4.6.6 | 693
 
@@ -65,7 +66,7 @@ repo | releases | star
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
 [redisson](https://github.com/redisson/redisson) | 3.13.2 | 13553 
 [flink](https://github.com/apache/flink) | 1.11.0 | 13428 
-[nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA.1 | 12995 
+[nacos](https://github.com/alibaba/nacos) | 1.3.1 | 13024 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
