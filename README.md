@@ -73,7 +73,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone5 | 11065 
-[mockito](https://github.com/mockito/mockito) | 3.4.0 | 10760 
+[mockito](https://github.com/mockito/mockito) | 3.4.0 | 10762 
 [hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.4.0 | 9073 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
@@ -92,7 +92,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.18.Final | 4289 
 [beam](https://github.com/apache/beam) | 2.22.0 | 4007 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.7 | 3851 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.7 | 3853 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [groovy](https://github.com/apache/groovy) | 2.5.12 | 3667 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
