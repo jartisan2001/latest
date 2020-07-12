@@ -40,9 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[netty](https://github.com/netty/netty) | 4.1.51.Final | 24079
 [nacos](https://github.com/alibaba/nacos) | 1.3.1 | 13024
-[nacos](https://github.com/alibaba/nacos) | 1.3.1-BETA.1 | 12995
 [mockito](https://github.com/mockito/mockito) | 3.4.0 | 10760
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.7 | 3851
 [elide](https://github.com/yahoo/elide) | 4.6.6 | 693
