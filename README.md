@@ -40,10 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
-[nacos](https://github.com/alibaba/nacos) | 1.3.1 | 13024
 [mockito](https://github.com/mockito/mockito) | 3.4.0 | 10760
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.7 | 3851
-[elide](https://github.com/yahoo/elide) | 4.6.6 | 693
 
 ### 收录列表
 ---
