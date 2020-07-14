@@ -42,6 +42,8 @@ repo | releases | star
 ---|---|---
 [mockito](https://github.com/mockito/mockito) | 3.4.0 | 10760
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.7 | 3851
+[lucene](https://github.com/apache/lucene-solr) | 8.6.0 | 3619
+[solr](https://github.com/apache/lucene-solr) | 8.6.0 | 3619
 
 ### 收录列表
 ---
@@ -91,10 +93,10 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.7 | 3853 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [groovy](https://github.com/apache/groovy) | 2.5.12 | 3667 
+[lucene](https://github.com/apache/lucene-solr) | 8.6.0 | 3619 
+[solr](https://github.com/apache/lucene-solr) | 8.6.0 | 3619 
+[hbase](https://github.com/apache/hbase) | 2.3.0 | 3590 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
-[hbase](https://github.com/apache/hbase) | 2.2.5 | 3523 
-[lucene](https://github.com/apache/lucene-solr) | 8.5.2 | 3502 
-[solr](https://github.com/apache/lucene-solr) | 8.5.2 | 3502 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [camel](https://github.com/apache/camel) | 3.4.0 | 3269 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
