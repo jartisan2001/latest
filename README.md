@@ -40,8 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[lucene](https://github.com/apache/lucene-solr) | 8.6.0 | 3619
-[solr](https://github.com/apache/lucene-solr) | 8.6.0 | 3619
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.2 | 11183
 
 ### 收录列表
 ---
@@ -68,7 +67,7 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone5 | 11065 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.2 | 11183 
 [mockito](https://github.com/mockito/mockito) | 3.4.0 | 10762 
 [hadoop](https://github.com/apache/hadoop) | 3.3.0 | 10627 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.4.0 | 9073 
@@ -96,7 +95,7 @@ repo | releases | star
 [hbase](https://github.com/apache/hbase) | 2.3.0 | 3590 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
-[camel](https://github.com/apache/camel) | 3.4.0 | 3269 
+[camel](https://github.com/apache/camel) | 3.4.1 | 3310 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [drools](https://github.com/kiegroup/drools) | 7.40.0.Final | 3062 
