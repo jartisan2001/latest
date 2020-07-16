@@ -70,7 +70,7 @@ repo | releases | star
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0-milestone5 | 11065 
 [mockito](https://github.com/mockito/mockito) | 3.4.0 | 10762 
-[hadoop](https://github.com/apache/hadoop) | 2.10.0 | 10124 
+[hadoop](https://github.com/apache/hadoop) | 3.3.0 | 10627 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.4.0 | 9073 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8758 
@@ -103,7 +103,7 @@ repo | releases | star
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
 [pmd](https://github.com/pmd/pmd) | 6.25.0 | 2903 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.30.v20200611 | 2871 
+[jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta1 | 2897 
 [kylin](https://github.com/apache/kylin) | 3.1.0 | 2699 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
