@@ -41,8 +41,6 @@
 repo | releases | star
 ---|---|---
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.2 | 11183
-[mockito](https://github.com/mockito/mockito) | 3.4.0 | 10760
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.7 | 3851
 [lucene](https://github.com/apache/lucene-solr) | 8.6.0 | 3619
 [solr](https://github.com/apache/lucene-solr) | 8.6.0 | 3619
 [camel](https://github.com/apache/camel) | 3.4.1 | 3310
