@@ -14,7 +14,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <druid>1.1.19</druid>
-	<fastjson>1.2.59</fastjson>
+	<fastjson>1.2.72</fastjson>
     <spring.boot.mybatis>2.0.1</spring.boot.mybatis>
 	<spring.boot.pagehelper>1.2.12</spring.boot.pagehelper>
 	<jjwt>0.9.1</jjwt>
@@ -45,7 +45,7 @@
 	        <dependency>
 	            <groupId>org.springframework.boot</groupId>
 	            <artifactId>spring-boot-dependencies</artifactId>
-	            <version>2.1.13.RELEASE</version>
+	            <version>2.1.15.RELEASE</version>
 	            <type>pom</type>
 	            <scope>import</scope>
 	        </dependency>
@@ -199,7 +199,7 @@
 				 <plugin>
 	                <groupId>org.springframework.boot</groupId>
 	                <artifactId>spring-boot-maven-plugin</artifactId>
-	                <version>2.1.9.RELEASE</version>
+	                <version>2.1.15.RELEASE</version>
 	                <executions>
 	                       <execution>
 	                           <goals>

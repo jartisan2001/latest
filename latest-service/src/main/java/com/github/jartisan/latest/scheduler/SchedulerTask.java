@@ -28,9 +28,9 @@ public class SchedulerTask {
 	
 	private int count =0;
     /***
-     * 每隔6点小时
+     * 每隔12点小时
      */
-    @Scheduled(cron = "0 0 0/6 * * ?")
+    @Scheduled(cron = "0 0 0/12 * * ?")
     private void sonatypeMavenTask(){
     	sonatypeService.discover(Const.CHECK_TYPE_MAVEN);
     	log.info("this is sonatype task runing {}",count++);
@@ -38,12 +38,12 @@ public class SchedulerTask {
     
     
     /***
-     *  每隔6小时
+     *  每隔12小时
      *  以一个固定延迟时间1000*60*60秒钟调用一次执行
      *	这个周期是以上一个调用任务的##完成时间##为基准，在上一个任务完成之后，1000*60*60 s后再次执行
      *  @Scheduled(fixedDelay = 1000*60*60)
      */
-    @Scheduled(cron = "0 0 0/6 * * ?")
+    @Scheduled(cron = "0 0 0/12 * * ?")
     private void sonatypeGithubTask(){
     	sonatypeService.discover(Const.CHECK_TYPE_GITHUB);
     	log.info("this is sonatype task runing {}",count++);
@@ -74,7 +74,7 @@ public class SchedulerTask {
     *	这个周期是以上一个调用任务的##完成时间##为基准，在上一个任务完成之后，1000*60*10 s后再次执行
     *  @Scheduled(fixedDelay = 1000*60*10)
     */
-   @Scheduled(cron = "0 0 0/4 * * ?")
+   @Scheduled(cron = "0 0 0/10 * * ?")
    public void syncReadmeTask(){
 	   StopWatch stopwatch = new StopWatch("Readme统计");
 	   stopwatch.start();

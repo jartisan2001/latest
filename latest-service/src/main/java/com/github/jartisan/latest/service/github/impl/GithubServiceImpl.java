@@ -108,10 +108,15 @@ public class GithubServiceImpl implements GithubService {
 		log.info("TaskCount : {} , TotalTimeSeconds : {} s", stopwatch.getTaskCount(), stopwatch.getTotalTimeSeconds());
 
 	}
+	
+	/****
+	 * 最近6天数据
+	 * 更新同步项目Readme文件
+	 */
 
 	@Override
 	public void syncReadme() throws Exception{
-		List<LatestQuery> latests = favoriteLogMapper.listLatestBeforeDay(Const.CHECK_TYPE_MAVEN,3);
+		List<LatestQuery> latests = favoriteLogMapper.listLatestBeforeDay(Const.CHECK_TYPE_MAVEN,6);
 
 		if(latests.isEmpty()) {
 			log.info("当天的版本更新列表不存在");
