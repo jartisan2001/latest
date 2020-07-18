@@ -46,7 +46,6 @@ repo | releases | star
 [lucene](https://github.com/apache/lucene-solr) | 8.6.0 | 3619
 [solr](https://github.com/apache/lucene-solr) | 8.6.0 | 3619
 [camel](https://github.com/apache/camel) | 3.4.1 | 3310
-[commons-lang3](https://github.com/apache/commons-lang) | 3.11 | 1957
 [github-api](https://github.com/kohsuke/github-api) | 1.115 | 684
 
 ### 收录列表
