@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.2 | 11183
+[mockito](https://github.com/mockito/mockito) | 3.4.4 | 10796
 [mockito](https://github.com/mockito/mockito) | 3.4.2 | 10794
 [mockito](https://github.com/mockito/mockito) | 3.4.3 | 10794
 [github-api](https://github.com/kohsuke/github-api) | 1.115 | 684
@@ -71,7 +72,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.2 | 11183 
-[mockito](https://github.com/mockito/mockito) | 3.4.3 | 10794 
+[mockito](https://github.com/mockito/mockito) | 3.4.4 | 10796 
 [hadoop](https://github.com/apache/hadoop) | 3.3.0 | 10627 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.4.0 | 9073 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
