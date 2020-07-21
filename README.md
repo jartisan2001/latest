@@ -44,6 +44,7 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.4.4 | 10796
 [mockito](https://github.com/mockito/mockito) | 3.4.2 | 10794
 [mockito](https://github.com/mockito/mockito) | 3.4.3 | 10794
+[cassandra](https://github.com/apache/cassandra) | 4.0-beta1 | 6055
 [github-api](https://github.com/kohsuke/github-api) | 1.115 | 684
 
 ### 收录列表
@@ -82,8 +83,8 @@ repo | releases | star
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7764 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6285 
 [storm](https://github.com/apache/storm) | 2.2.0 | 6093 
+[cassandra](https://github.com/apache/cassandra) | 4.0-beta1 | 6055 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
-[cassandra](https://github.com/apache/cassandra) | 4.0-alpha4 | 5864 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.34 | 5363 
 [tomcat](https://github.com/apache/tomcat) | 7.0.105 | 4639 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
