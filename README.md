@@ -40,14 +40,18 @@
 ---
 repo | releases | star
 ---|---|---
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 4.0.0-rc-1 | 42887
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 4.0.0-rc-2 | 42887
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.2 | 11183
 [mockito](https://github.com/mockito/mockito) | 3.4.4 | 10796
 [mockito](https://github.com/mockito/mockito) | 3.4.2 | 10794
 [mockito](https://github.com/mockito/mockito) | 3.4.3 | 10794
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta1 | 6055
+[groovy](https://github.com/apache/groovy) | 2.4.20 | 3746
 [camel](https://github.com/apache/camel) | 2.25.2 | 3319
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.5 | 1842
 [github-api](https://github.com/kohsuke/github-api) | 1.115 | 684
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.22 | 358
 
 ### 收录列表
 ---
@@ -55,8 +59,8 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.8.0 | 49453 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.1.RELEASE | 48428 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 4.0.0-rc-2 | 42887 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.2 | 41811 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
 [netty](https://github.com/netty/netty) | 4.1.51.Final | 24079 
@@ -96,7 +100,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.7 | 3853 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
-[groovy](https://github.com/apache/groovy) | 2.5.12 | 3667 
+[groovy](https://github.com/apache/groovy) | 2.4.20 | 3746 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.0 | 3619 
 [solr](https://github.com/apache/lucene-solr) | 8.6.0 | 3619 
 [hbase](https://github.com/apache/hbase) | 2.3.0 | 3590 
@@ -136,7 +140,7 @@ repo | releases | star
 [cxf](https://github.com/apache/cxf) | 3.3.7 | 650 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.2 | 340 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.22 | 358 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.8 | 155 
