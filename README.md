@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 4.0.0-rc-1 | 42887
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 4.0.0-rc-2 | 42887
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.2 | 11183
 [mockito](https://github.com/mockito/mockito) | 3.4.4 | 10796
 [mockito](https://github.com/mockito/mockito) | 3.4.2 | 10794
 [mockito](https://github.com/mockito/mockito) | 3.4.3 | 10794
