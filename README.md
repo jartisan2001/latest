@@ -45,6 +45,8 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.4.2 | 10794
 [mockito](https://github.com/mockito/mockito) | 3.4.3 | 10794
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta1 | 6055
+[camel](https://github.com/apache/camel) | 2.25.2 | 3319
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.5 | 1842
 [github-api](https://github.com/kohsuke/github-api) | 1.115 | 684
 
 ### 收录列表
@@ -65,9 +67,9 @@ repo | releases | star
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
 [kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
+[flink](https://github.com/apache/flink) | 1.11.1 | 13639 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
 [redisson](https://github.com/redisson/redisson) | 3.13.2 | 13553 
-[flink](https://github.com/apache/flink) | 1.11.0 | 13428 
 [nacos](https://github.com/alibaba/nacos) | 1.3.1 | 13024 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
@@ -100,7 +102,7 @@ repo | releases | star
 [hbase](https://github.com/apache/hbase) | 2.3.0 | 3590 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
-[camel](https://github.com/apache/camel) | 3.4.1 | 3310 
+[camel](https://github.com/apache/camel) | 2.25.2 | 3319 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [drools](https://github.com/kiegroup/drools) | 7.40.0.Final | 3062 
@@ -115,7 +117,7 @@ repo | releases | star
 [commons-lang3](https://github.com/apache/commons-lang) | 3.11 | 1957 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.6 | 1907 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.11.1 | 1824 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.10.5 | 1842 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
 [avro](https://github.com/apache/avro) | 1.10.0 | 1607 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
