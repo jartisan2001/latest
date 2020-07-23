@@ -47,6 +47,7 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.4.3 | 10794
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta1 | 6055
 [groovy](https://github.com/apache/groovy) | 2.4.20 | 3746
+[camel](https://github.com/apache/camel) | 3.4.2 | 3323
 [camel](https://github.com/apache/camel) | 2.25.2 | 3319
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.5 | 1842
 [github-api](https://github.com/kohsuke/github-api) | 1.115 | 684
@@ -104,8 +105,8 @@ repo | releases | star
 [solr](https://github.com/apache/lucene-solr) | 8.6.0 | 3619 
 [hbase](https://github.com/apache/hbase) | 2.3.0 | 3590 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
+[camel](https://github.com/apache/camel) | 3.4.2 | 3323 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
-[camel](https://github.com/apache/camel) | 2.25.2 | 3319 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [drools](https://github.com/kiegroup/drools) | 7.40.0.Final | 3062 
