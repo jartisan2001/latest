@@ -46,6 +46,8 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.4.2 | 10794
 [mockito](https://github.com/mockito/mockito) | 3.4.3 | 10794
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta1 | 6055
+[groovy](https://github.com/apache/groovy) | 2.5.13 | 3748
+[groovy](https://github.com/apache/groovy) | 3.0.5 | 3748
 [groovy](https://github.com/apache/groovy) | 2.4.20 | 3746
 [camel](https://github.com/apache/camel) | 3.4.2 | 3323
 [camel](https://github.com/apache/camel) | 2.25.2 | 3319
@@ -100,7 +102,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.7 | 3853 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
-[groovy](https://github.com/apache/groovy) | 2.4.20 | 3746 
+[groovy](https://github.com/apache/groovy) | 3.0.5 | 3748 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.0 | 3619 
 [solr](https://github.com/apache/lucene-solr) | 8.6.0 | 3619 
 [hbase](https://github.com/apache/hbase) | 2.3.0 | 3590 
