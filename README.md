@@ -40,11 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 4.0.0-rc-1 | 42887
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 4.0.0-rc-2 | 42887
 [mockito](https://github.com/mockito/mockito) | 3.4.4 | 10796
-[mockito](https://github.com/mockito/mockito) | 3.4.2 | 10794
-[mockito](https://github.com/mockito/mockito) | 3.4.3 | 10794
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta1 | 6055
 [groovy](https://github.com/apache/groovy) | 2.5.13 | 3748
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748
@@ -52,7 +49,6 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.4.2 | 3323
 [camel](https://github.com/apache/camel) | 2.25.2 | 3319
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.5 | 1842
-[github-api](https://github.com/kohsuke/github-api) | 1.115 | 684
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.22 | 358
 
 ### 收录列表
