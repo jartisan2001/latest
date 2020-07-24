@@ -44,12 +44,10 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200
 [mockito](https://github.com/mockito/mockito) | 3.4.4 | 10796
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.4 | 8926
-[cassandra](https://github.com/apache/cassandra) | 4.0-beta1 | 6055
 [groovy](https://github.com/apache/groovy) | 2.5.13 | 3748
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748
 [groovy](https://github.com/apache/groovy) | 2.4.20 | 3746
 [camel](https://github.com/apache/camel) | 3.4.2 | 3323
-[camel](https://github.com/apache/camel) | 2.25.2 | 3319
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.5 | 1842
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.22 | 358
 
