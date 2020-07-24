@@ -41,7 +41,9 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 4.0.0-rc-2 | 42887
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200
 [mockito](https://github.com/mockito/mockito) | 3.4.4 | 10796
+[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.4 | 8926
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta1 | 6055
 [groovy](https://github.com/apache/groovy) | 2.5.13 | 3748
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748
@@ -76,13 +78,13 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.2 | 11183 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200 
 [mockito](https://github.com/mockito/mockito) | 3.4.4 | 10796 
 [hadoop](https://github.com/apache/hadoop) | 3.3.0 | 10627 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.4.0 | 9073 
+[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.4 | 8926 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8758 
-[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.3 | 8661 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.8 | 8056 
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7764 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6285 
