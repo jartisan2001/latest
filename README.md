@@ -46,12 +46,10 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 4.0.0-rc-2 | 42887
 [arthas](https://github.com/alibaba/arthas) | 3.3.7 | 22277
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200
-[mockito](https://github.com/mockito/mockito) | 3.4.4 | 10796
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.4 | 8926
 [groovy](https://github.com/apache/groovy) | 2.5.13 | 3748
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748
 [groovy](https://github.com/apache/groovy) | 2.4.20 | 3746
-[camel](https://github.com/apache/camel) | 3.4.2 | 3323
 [drools](https://github.com/kiegroup/drools) | 7.41.0.t20200723 | 3106
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.5 | 1842
 [jbpm](https://github.com/kiegroup/jbpm) | 7.41.0.t20200723 | 1122
