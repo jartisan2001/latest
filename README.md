@@ -51,6 +51,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748
 [groovy](https://github.com/apache/groovy) | 2.4.20 | 3746
 [drools](https://github.com/kiegroup/drools) | 7.41.0.t20200723 | 3106
+[pmd](https://github.com/pmd/pmd) | 6.26.0 | 2958
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.5 | 1842
 [jbpm](https://github.com/kiegroup/jbpm) | 7.41.0.t20200723 | 1122
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.12 | 359
@@ -116,8 +117,8 @@ repo | releases | star
 [drools](https://github.com/kiegroup/drools) | 7.41.0.t20200723 | 3106 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
+[pmd](https://github.com/pmd/pmd) | 6.26.0 | 2958 
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
-[pmd](https://github.com/pmd/pmd) | 6.25.0 | 2903 
 [jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta1 | 2897 
 [kylin](https://github.com/apache/kylin) | 3.1.0 | 2699 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
