@@ -48,6 +48,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.4 | 8926
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.35 | 5407
 [groovy](https://github.com/apache/groovy) | 2.5.13 | 3748
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748
 [groovy](https://github.com/apache/groovy) | 2.4.20 | 3746
@@ -98,7 +99,7 @@ repo | releases | star
 [storm](https://github.com/apache/storm) | 2.2.0 | 6093 
 [cassandra](https://github.com/apache/cassandra) | 3.11.7 | 6070 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.34 | 5363 
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.35 | 5407 
 [tomcat](https://github.com/apache/tomcat) | 7.0.105 | 4639 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
