@@ -43,7 +43,6 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.2.RELEASE | 49399
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.16.RELEASE | 49388
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.9.RELEASE | 49388
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 4.0.0-rc-2 | 42887
 [arthas](https://github.com/alibaba/arthas) | 3.3.7 | 22277
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475
@@ -54,7 +53,6 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 2.4.20 | 3746
 [drools](https://github.com/kiegroup/drools) | 7.41.0.t20200723 | 3106
 [pmd](https://github.com/pmd/pmd) | 6.26.0 | 2958
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.5 | 1842
 [jbpm](https://github.com/kiegroup/jbpm) | 7.41.0.t20200723 | 1122
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.12 | 359
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.8 | 359
