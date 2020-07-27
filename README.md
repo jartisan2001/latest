@@ -46,6 +46,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 4.0.0-rc-2 | 42887
 [arthas](https://github.com/alibaba/arthas) | 3.3.7 | 22277
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200
+[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.4 | 8926
 [groovy](https://github.com/apache/groovy) | 2.5.13 | 3748
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748
@@ -87,10 +88,10 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200 
 [mockito](https://github.com/mockito/mockito) | 3.4.4 | 10796 
 [hadoop](https://github.com/apache/hadoop) | 3.3.0 | 10627 
+[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.4.0 | 9073 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.4 | 8926 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
-[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.2.13 | 8758 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.8 | 8056 
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7764 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6285 
