@@ -50,16 +50,11 @@ repo | releases | star
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.4 | 8926
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.35 | 5407
-[groovy](https://github.com/apache/groovy) | 2.5.13 | 3748
-[groovy](https://github.com/apache/groovy) | 3.0.5 | 3748
-[groovy](https://github.com/apache/groovy) | 2.4.20 | 3746
 [drools](https://github.com/kiegroup/drools) | 7.41.0.t20200723 | 3106
 [pmd](https://github.com/pmd/pmd) | 6.26.0 | 2958
 [jbpm](https://github.com/kiegroup/jbpm) | 7.41.0.t20200723 | 1122
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.12 | 359
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.8 | 359
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.22 | 358
-[commons-text](https://github.com/apache/commons-text) | 1.9 | 173
 
 ### 收录列表
 ---
