@@ -43,7 +43,9 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.2.RELEASE | 49399
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.16.RELEASE | 49388
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.9.RELEASE | 49388
+[dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068
 [arthas](https://github.com/alibaba/arthas) | 3.3.7 | 22277
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.4 | 8926
@@ -68,10 +70,10 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 4.0.0-rc-2 | 42887 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
-[dubbo](https://github.com/apache/incubator-dubbo) | 2.6.8 | 31298 
+[dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068 
 [netty](https://github.com/netty/netty) | 4.1.51.Final | 24079 
 [arthas](https://github.com/alibaba/arthas) | 3.3.7 | 22277 
-[fastjson](https://github.com/alibaba/fastjson) | 1.1.72.android | 21887 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059 
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
