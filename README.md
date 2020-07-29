@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.11 | 50141
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.8.1 | 50141
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.2.RELEASE | 49399
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.16.RELEASE | 49388
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.9.RELEASE | 49388
@@ -50,6 +52,7 @@ repo | releases | star
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.4 | 8926
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.35 | 5407
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.19.Final | 4329
 [drools](https://github.com/kiegroup/drools) | 7.41.0.t20200723 | 3106
 [pmd](https://github.com/pmd/pmd) | 6.26.0 | 2958
 [jbpm](https://github.com/kiegroup/jbpm) | 7.41.0.t20200723 | 1122
@@ -60,7 +63,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.8.0 | 49453 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.8.1 | 50141 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.2.RELEASE | 49399 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 4.0.0-rc-2 | 42887 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
@@ -98,7 +101,7 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 7.0.105 | 4639 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.18.Final | 4289 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.19.Final | 4329 
 [beam](https://github.com/apache/beam) | 2.22.0 | 4007 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.7 | 3853 
