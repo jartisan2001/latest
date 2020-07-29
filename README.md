@@ -48,12 +48,9 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068
 [arthas](https://github.com/alibaba/arthas) | 3.3.7 | 22277
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475
-[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.4 | 8926
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.35 | 5407
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.19.Final | 4329
-[beam](https://github.com/apache/beam) | 2.23.0 | 4137
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945
 [drools](https://github.com/kiegroup/drools) | 7.41.0.t20200723 | 3106
 [pmd](https://github.com/pmd/pmd) | 6.26.0 | 2958
