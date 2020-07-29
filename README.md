@@ -53,9 +53,12 @@ repo | releases | star
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.4 | 8926
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.35 | 5407
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.19.Final | 4329
+[beam](https://github.com/apache/beam) | 2.23.0 | 4137
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945
 [drools](https://github.com/kiegroup/drools) | 7.41.0.t20200723 | 3106
 [pmd](https://github.com/pmd/pmd) | 6.26.0 | 2958
 [jbpm](https://github.com/kiegroup/jbpm) | 7.41.0.t20200723 | 1122
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.3 | 361
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.12 | 359
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.8 | 359
 
@@ -102,9 +105,9 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.19.Final | 4329 
-[beam](https://github.com/apache/beam) | 2.22.0 | 4007 
+[beam](https://github.com/apache/beam) | 2.23.0 | 4137 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 1.3.7 | 3853 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.0 | 3619 
@@ -146,7 +149,7 @@ repo | releases | star
 [cxf](https://github.com/apache/cxf) | 3.3.7 | 650 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.8 | 359 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.3 | 361 
 [commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 173 
