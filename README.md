@@ -43,21 +43,15 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.11 | 50141
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.8.1 | 50141
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.2.RELEASE | 49399
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.16.RELEASE | 49388
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.9.RELEASE | 49388
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.4 | 43026
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068
-[arthas](https://github.com/alibaba/arthas) | 3.3.7 | 22277
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.35 | 5407
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.19.Final | 4329
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945
-[drools](https://github.com/kiegroup/drools) | 7.41.0.t20200723 | 3106
 [pmd](https://github.com/pmd/pmd) | 6.26.0 | 2958
-[jbpm](https://github.com/kiegroup/jbpm) | 7.41.0.t20200723 | 1122
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.3 | 361
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.12 | 359
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.8 | 359
 
 ### 收录列表
