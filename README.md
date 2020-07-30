@@ -45,6 +45,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.2.RELEASE | 49399
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.16.RELEASE | 49388
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.9.RELEASE | 49388
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.4 | 43026
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068
 [arthas](https://github.com/alibaba/arthas) | 3.3.7 | 22277
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059
@@ -65,7 +66,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.8.1 | 50141 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.2.RELEASE | 49399 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 4.0.0-rc-2 | 42887 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.4 | 43026 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068 
