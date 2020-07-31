@@ -46,6 +46,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.4 | 43026
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059
+[mockito](https://github.com/mockito/mockito) | 3.4.6 | 10847
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.35 | 5407
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.19.Final | 4329
@@ -80,7 +81,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200 
-[mockito](https://github.com/mockito/mockito) | 3.4.4 | 10796 
+[mockito](https://github.com/mockito/mockito) | 3.4.6 | 10847 
 [hadoop](https://github.com/apache/hadoop) | 3.3.0 | 10627 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.4.0 | 9073 
@@ -90,7 +91,7 @@ repo | releases | star
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7764 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6285 
 [storm](https://github.com/apache/storm) | 2.2.0 | 6093 
-[cassandra](https://github.com/apache/cassandra) | 3.11.7 | 6070 
+[cassandra](https://github.com/apache/cassandra) | 3.0.21 | 6080 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.35 | 5407 
 [tomcat](https://github.com/apache/tomcat) | 7.0.105 | 4639 
@@ -114,7 +115,7 @@ repo | releases | star
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
 [pmd](https://github.com/pmd/pmd) | 6.26.0 | 2958 
 [shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
-[jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta1 | 2897 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.31.v20200723 | 2916 
 [kylin](https://github.com/apache/kylin) | 3.1.0 | 2699 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
