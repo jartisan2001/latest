@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.11 | 50141
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.8.1 | 50141
-[springboot](https://github.com/spring-projects/spring-boot) | 2.3.2.RELEASE | 49399
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.4 | 43026
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059
@@ -51,9 +50,7 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.35 | 5407
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.19.Final | 4329
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945
-[pmd](https://github.com/pmd/pmd) | 6.26.0 | 2958
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.3 | 361
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.8 | 359
 
 ### 收录列表
 ---
