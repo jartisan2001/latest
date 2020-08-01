@@ -44,10 +44,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.8.1 | 50141
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.4 | 43026
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059
 [mockito](https://github.com/mockito/mockito) | 3.4.6 | 10847
-[pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.35 | 5407
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.19.Final | 4329
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945
 [drools](https://github.com/kiegroup/drools) | 7.41.0.Final | 3114
