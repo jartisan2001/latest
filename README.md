@@ -50,6 +50,11 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.35 | 5407
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.19.Final | 4329
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945
+[drools](https://github.com/kiegroup/drools) | 7.41.0.Final | 3114
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.0 | 1964
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.1 | 1964
+[jbpm](https://github.com/kiegroup/jbpm) | 7.41.0.Final | 1125
+[elide](https://github.com/yahoo/elide) | 4.6.7 | 705
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.3 | 361
 
 ### 收录列表
@@ -107,7 +112,7 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.4.2 | 3323 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
-[drools](https://github.com/kiegroup/drools) | 7.41.0.t20200723 | 3106 
+[drools](https://github.com/kiegroup/drools) | 7.41.0.Final | 3114 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
 [pmd](https://github.com/pmd/pmd) | 6.26.0 | 2958 
@@ -117,9 +122,9 @@ repo | releases | star
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2022 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.1 | 1964 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.11 | 1957 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.0.6 | 1907 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.5 | 1842 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
 [avro](https://github.com/apache/avro) | 1.10.0 | 1607 
@@ -127,13 +132,13 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.20 | 1153 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.41.0.t20200723 | 1122 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.41.0.Final | 1125 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
-[elide](https://github.com/yahoo/elide) | 4.6.6 | 693 
+[elide](https://github.com/yahoo/elide) | 4.6.7 | 705 
 [commons-io](https://github.com/apache/commons-io) | 2.7 | 689 
 [github-api](https://github.com/kohsuke/github-api) | 1.115 | 684 
 [cxf](https://github.com/apache/cxf) | 3.3.7 | 650 
