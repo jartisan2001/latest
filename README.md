@@ -40,12 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.11 | 50141
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.8.1 | 50141
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.4 | 43026
-[dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068
 [mockito](https://github.com/mockito/mockito) | 3.4.6 | 10847
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.19.Final | 4329
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945
 [drools](https://github.com/kiegroup/drools) | 7.41.0.Final | 3114
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.0 | 1964
