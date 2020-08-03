@@ -46,6 +46,7 @@ repo | releases | star
 [drools](https://github.com/kiegroup/drools) | 7.41.0.Final | 3114
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.0 | 1964
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.1 | 1964
+[jackson](https://github.com/FasterXML/jackson-core) | 2.11.2 | 1846
 [jbpm](https://github.com/kiegroup/jbpm) | 7.41.0.Final | 1125
 [elide](https://github.com/yahoo/elide) | 4.6.7 | 705
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.3 | 361
@@ -118,7 +119,7 @@ repo | releases | star
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.1 | 1964 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.11 | 1957 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.5 | 1842 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.11.2 | 1846 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
 [avro](https://github.com/apache/avro) | 1.10.0 | 1607 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
