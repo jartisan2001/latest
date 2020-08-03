@@ -43,11 +43,9 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.4 | 43026
 [mockito](https://github.com/mockito/mockito) | 3.4.6 | 10847
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945
-[drools](https://github.com/kiegroup/drools) | 7.41.0.Final | 3114
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.0 | 1964
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.1 | 1964
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.2 | 1846
-[jbpm](https://github.com/kiegroup/jbpm) | 7.41.0.Final | 1125
 [elide](https://github.com/yahoo/elide) | 4.6.7 | 705
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.3 | 361
 
