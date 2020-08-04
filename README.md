@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.12.4 | 43026
+[kafka](https://github.com/apache/kafka) | 2.6.0 | 16496
 [mockito](https://github.com/mockito/mockito) | 3.4.6 | 10847
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.0 | 1964
@@ -65,8 +66,8 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
+[kafka](https://github.com/apache/kafka) | 2.6.0 | 16496 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
-[kafka](https://github.com/apache/kafka) | 2.5.0 | 15427 
 [flink](https://github.com/apache/flink) | 1.11.1 | 13639 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
 [redisson](https://github.com/redisson/redisson) | 3.13.2 | 13553 
