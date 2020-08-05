@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.13.3 | 13866
 [nacos](https://github.com/alibaba/nacos) | 1.3.2 | 13444
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.0 | 1964
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.1 | 1964
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.2 | 1846
 [elide](https://github.com/yahoo/elide) | 4.6.7 | 705
