@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[redisson](https://github.com/redisson/redisson) | 3.13.3 | 13866
+[nacos](https://github.com/alibaba/nacos) | 1.3.2 | 13444
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.0 | 1964
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.1 | 1964
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.2 | 1846
@@ -63,10 +65,10 @@ repo | releases | star
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.6.0 | 16496 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
+[redisson](https://github.com/redisson/redisson) | 3.13.3 | 13866 
 [flink](https://github.com/apache/flink) | 1.11.1 | 13639 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
-[redisson](https://github.com/redisson/redisson) | 3.13.2 | 13553 
-[nacos](https://github.com/alibaba/nacos) | 1.3.1 | 13024 
+[nacos](https://github.com/alibaba/nacos) | 1.3.2 | 13444 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
