@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.13.3 | 13866
 [nacos](https://github.com/alibaba/nacos) | 1.3.2 | 13444
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.18.Final | 4342
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.1 | 1964
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.2 | 1846
 [elide](https://github.com/yahoo/elide) | 4.6.7 | 705
@@ -88,7 +89,7 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 7.0.105 | 4639 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.19.Final | 4329 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.18.Final | 4342 
 [beam](https://github.com/apache/beam) | 2.23.0 | 4137 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
