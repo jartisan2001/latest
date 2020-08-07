@@ -44,7 +44,6 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.3.2 | 13444
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.18.Final | 4342
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.2 | 1846
-[elide](https://github.com/yahoo/elide) | 4.6.7 | 705
 
 ### 收录列表
 ---
