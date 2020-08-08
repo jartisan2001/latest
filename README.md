@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.13.3 | 13866
 [nacos](https://github.com/alibaba/nacos) | 1.3.2 | 13444
+[jib](https://github.com/GoogleContainerTools/jib) | 2.5.0 | 9340
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.18.Final | 4342
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.2 | 1846
 
@@ -74,7 +75,7 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.4.6 | 10847 
 [hadoop](https://github.com/apache/hadoop) | 3.3.0 | 10627 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
-[jib](https://github.com/GoogleContainerTools/jib) | 2.4.0 | 9073 
+[jib](https://github.com/GoogleContainerTools/jib) | 2.5.0 | 9340 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.2.4 | 8926 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.8 | 8056 
