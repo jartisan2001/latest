@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.0 | 9340
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.0 | 8984
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.20.Final | 4351
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.18.Final | 4342
 
 ### 收录列表
@@ -60,7 +61,7 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
-[kafka](https://github.com/apache/kafka) | 2.6.0 | 16496 
+[kafka](https://github.com/apache/kafka) | 2.5.1 | 16567 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
 [redisson](https://github.com/redisson/redisson) | 3.13.3 | 13866 
 [flink](https://github.com/apache/flink) | 1.11.1 | 13639 
@@ -86,7 +87,7 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 7.0.105 | 4639 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.18.Final | 4342 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.20.Final | 4351 
 [beam](https://github.com/apache/beam) | 2.23.0 | 4137 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
