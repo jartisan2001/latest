@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [arthas](https://github.com/alibaba/arthas) | 3.3.8 | 22492
 [arthas](https://github.com/alibaba/arthas) | 3.3.9 | 22492
+[jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.1 | 9348
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.0 | 9340
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.0 | 8984
@@ -77,7 +78,7 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.4.6 | 10847 
 [hadoop](https://github.com/apache/hadoop) | 3.3.0 | 10627 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
-[jib](https://github.com/GoogleContainerTools/jib) | 2.5.1 | 9348 
+[jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.0 | 8984 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.8 | 8056 
