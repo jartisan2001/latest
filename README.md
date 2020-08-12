@@ -40,6 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
+[arthas](https://github.com/alibaba/arthas) | 3.3.8 | 22492
+[arthas](https://github.com/alibaba/arthas) | 3.3.9 | 22492
+[jib](https://github.com/GoogleContainerTools/jib) | 2.5.1 | 9348
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.0 | 9340
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.0 | 8984
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.20.Final | 4351
@@ -56,7 +59,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068 
 [netty](https://github.com/netty/netty) | 4.1.51.Final | 24079 
-[arthas](https://github.com/alibaba/arthas) | 3.3.7 | 22277 
+[arthas](https://github.com/alibaba/arthas) | 3.3.9 | 22492 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059 
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562 
 [p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
@@ -74,7 +77,7 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.4.6 | 10847 
 [hadoop](https://github.com/apache/hadoop) | 3.3.0 | 10627 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
-[jib](https://github.com/GoogleContainerTools/jib) | 2.5.0 | 9340 
+[jib](https://github.com/GoogleContainerTools/jib) | 2.5.1 | 9348 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.0 | 8984 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.8 | 8056 
