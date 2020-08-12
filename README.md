@@ -47,7 +47,6 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.0 | 9340
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.0 | 8984
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.20.Final | 4351
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.18.Final | 4342
 
 ### 收录列表
 ---
