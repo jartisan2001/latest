@@ -44,8 +44,6 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.3.9 | 22492
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.1 | 9348
-[jib](https://github.com/GoogleContainerTools/jib) | 2.5.0 | 9340
-[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.0 | 8984
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.20.Final | 4351
 
 ### 收录列表
