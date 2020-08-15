@@ -47,6 +47,9 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.1 | 9348
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.20.Final | 4351
+[lucene](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
+[solr](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
+[github-api](https://github.com/kohsuke/github-api) | 1.116 | 696
 
 ### 收录列表
 ---
@@ -96,8 +99,8 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748 
-[lucene](https://github.com/apache/lucene-solr) | 8.6.0 | 3619 
-[solr](https://github.com/apache/lucene-solr) | 8.6.0 | 3619 
+[lucene](https://github.com/apache/lucene-solr) | 8.6.1 | 3682 
+[solr](https://github.com/apache/lucene-solr) | 8.6.1 | 3682 
 [hbase](https://github.com/apache/hbase) | 2.3.0 | 3590 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
 [camel](https://github.com/apache/camel) | 3.4.2 | 3323 
@@ -130,8 +133,8 @@ repo | releases | star
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [mina](https://github.com/apache/mina) | 2.1.3 | 735 
 [elide](https://github.com/yahoo/elide) | 4.6.7 | 705 
+[github-api](https://github.com/kohsuke/github-api) | 1.116 | 696 
 [commons-io](https://github.com/apache/commons-io) | 2.7 | 689 
-[github-api](https://github.com/kohsuke/github-api) | 1.115 | 684 
 [cxf](https://github.com/apache/cxf) | 3.3.7 | 650 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
