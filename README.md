@@ -43,12 +43,9 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.3.RELEASE | 49839
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0-rc-3 | 43236
-[arthas](https://github.com/alibaba/arthas) | 3.3.8 | 22492
 [arthas](https://github.com/alibaba/arthas) | 3.3.9 | 22492
 [mockito](https://github.com/mockito/mockito) | 3.5.0 | 10915
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351
-[jib](https://github.com/GoogleContainerTools/jib) | 2.5.1 | 9348
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.20.Final | 4351
 [lucene](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
 [solr](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
 [github-api](https://github.com/kohsuke/github-api) | 1.116 | 696
