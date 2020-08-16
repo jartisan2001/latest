@@ -41,9 +41,11 @@
 repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.3.RELEASE | 49839
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0-rc-3 | 43236
 [arthas](https://github.com/alibaba/arthas) | 3.3.8 | 22492
 [arthas](https://github.com/alibaba/arthas) | 3.3.9 | 22492
+[mockito](https://github.com/mockito/mockito) | 3.5.0 | 10915
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.1 | 9348
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.20.Final | 4351
@@ -57,7 +59,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.8.1 | 50141 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.3.RELEASE | 49839 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0-rc-3 | 43236 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068 
@@ -77,7 +79,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200 
-[mockito](https://github.com/mockito/mockito) | 3.4.6 | 10847 
+[mockito](https://github.com/mockito/mockito) | 3.5.0 | 10915 
 [hadoop](https://github.com/apache/hadoop) | 3.3.0 | 10627 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351 
