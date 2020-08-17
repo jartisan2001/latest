@@ -43,13 +43,10 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.3.RELEASE | 49839
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0-rc-3 | 43236
-[arthas](https://github.com/alibaba/arthas) | 3.3.9 | 22492
 [mockito](https://github.com/mockito/mockito) | 3.5.0 | 10915
-[jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100
 [lucene](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
 [solr](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
-[camel](https://github.com/apache/camel) | 3.4.3 | 3357
 [github-api](https://github.com/kohsuke/github-api) | 1.116 | 696
 
 ### 收录列表
