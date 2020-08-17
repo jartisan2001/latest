@@ -46,6 +46,7 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.3.9 | 22492
 [mockito](https://github.com/mockito/mockito) | 3.5.0 | 10915
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351
+[junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100
 [lucene](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
 [solr](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
 [camel](https://github.com/apache/camel) | 3.4.3 | 3357
@@ -95,8 +96,8 @@ repo | releases | star
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.20.Final | 4351 
 [beam](https://github.com/apache/beam) | 2.23.0 | 4137 
+[junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945 
-[junit5](https://github.com/junit-team/junit5) | 5.7.0-M1 | 3863 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.1 | 3682 
