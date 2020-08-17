@@ -48,6 +48,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351
 [lucene](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
 [solr](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
+[camel](https://github.com/apache/camel) | 3.4.3 | 3357
 [github-api](https://github.com/kohsuke/github-api) | 1.116 | 696
 
 ### 收录列表
@@ -102,7 +103,7 @@ repo | releases | star
 [solr](https://github.com/apache/lucene-solr) | 8.6.1 | 3682 
 [hbase](https://github.com/apache/hbase) | 2.3.0 | 3590 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
-[camel](https://github.com/apache/camel) | 3.4.2 | 3323 
+[camel](https://github.com/apache/camel) | 3.4.3 | 3357 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [drools](https://github.com/kiegroup/drools) | 7.41.0.Final | 3114 
