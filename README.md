@@ -47,6 +47,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100
 [lucene](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
 [solr](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
+[shiro](https://github.com/apache/shiro) | 1.6.0 | 3111
 [github-api](https://github.com/kohsuke/github-api) | 1.116 | 696
 
 ### 收录列表
@@ -105,10 +106,10 @@ repo | releases | star
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [drools](https://github.com/kiegroup/drools) | 7.41.0.Final | 3114 
+[shiro](https://github.com/apache/shiro) | 1.6.0 | 3111 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
 [pmd](https://github.com/pmd/pmd) | 6.26.0 | 2958 
-[shiro](https://github.com/apache/shiro) | 1.5.3 | 2957 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.31.v20200723 | 2916 
 [kylin](https://github.com/apache/kylin) | 3.1.0 | 2699 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
