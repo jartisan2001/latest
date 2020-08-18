@@ -47,7 +47,6 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100
 [lucene](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
 [solr](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
-[shiro](https://github.com/apache/shiro) | 1.6.0 | 3111
 [github-api](https://github.com/kohsuke/github-api) | 1.116 | 696
 
 ### 收录列表
