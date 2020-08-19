@@ -45,6 +45,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.3.RELEASE | 49839
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0-rc-3 | 43236
+[mockito](https://github.com/mockito/mockito) | 3.5.2 | 10929
 [mockito](https://github.com/mockito/mockito) | 3.5.0 | 10915
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100
 [lucene](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
@@ -77,7 +78,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200 
-[mockito](https://github.com/mockito/mockito) | 3.5.0 | 10915 
+[mockito](https://github.com/mockito/mockito) | 3.5.2 | 10929 
 [hadoop](https://github.com/apache/hadoop) | 3.3.0 | 10627 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351 
