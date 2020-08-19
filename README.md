@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.12 | 50519
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.0 | 50519
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.3.RELEASE | 49839
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0-rc-3 | 43236
@@ -53,7 +55,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.8.1 | 50141 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.0 | 50519 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.3.RELEASE | 49839 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
