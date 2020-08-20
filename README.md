@@ -42,14 +42,10 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.12 | 50519
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.0 | 50519
-[springboot](https://github.com/spring-projects/spring-boot) | 2.3.3.RELEASE | 49839
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0-rc-3 | 43236
 [mockito](https://github.com/mockito/mockito) | 3.5.2 | 10929
 [mockito](https://github.com/mockito/mockito) | 3.5.0 | 10915
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100
-[lucene](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
-[solr](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.2 | 1983
 
 ### 收录列表
