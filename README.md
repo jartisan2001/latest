@@ -50,6 +50,7 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100
 [lucene](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
 [solr](https://github.com/apache/lucene-solr) | 8.6.1 | 3682
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.2 | 1983
 
 ### 收录列表
 ---
@@ -101,7 +102,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.1 | 3682 
 [solr](https://github.com/apache/lucene-solr) | 8.6.1 | 3682 
-[hbase](https://github.com/apache/hbase) | 2.3.0 | 3590 
+[hbase](https://github.com/apache/hbase) | 2.3.1 | 3658 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
 [camel](https://github.com/apache/camel) | 3.4.3 | 3357 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
@@ -116,7 +117,7 @@ repo | releases | star
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2022 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.1 | 1964 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.2 | 1983 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.11 | 1957 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.2 | 1846 
