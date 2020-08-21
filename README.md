@@ -43,11 +43,14 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.12 | 50519
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.0 | 50519
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255
+[flink](https://github.com/apache/flink) | 1.10.2 | 13907
 [mockito](https://github.com/mockito/mockito) | 3.5.2 | 10929
 [mockito](https://github.com/mockito/mockito) | 3.5.0 | 10915
+[hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha6 | 4359
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100
 [drools](https://github.com/kiegroup/drools) | 7.42.0.Final | 3156
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.2 | 1983
+[pdfbox](https://github.com/apache/pdfbox) | 2.0.21 | 1231
 [jbpm](https://github.com/kiegroup/jbpm) | 7.42.0.Final | 1132
 
 ### 收录列表
@@ -68,8 +71,8 @@ repo | releases | star
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.1 | 16567 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
+[flink](https://github.com/apache/flink) | 1.10.2 | 13907 
 [redisson](https://github.com/redisson/redisson) | 3.13.3 | 13866 
-[flink](https://github.com/apache/flink) | 1.11.1 | 13639 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
 [nacos](https://github.com/alibaba/nacos) | 1.3.2 | 13444 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
@@ -92,7 +95,7 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 7.0.105 | 4639 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.20.Final | 4351 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha6 | 4359 
 [beam](https://github.com/apache/beam) | 2.23.0 | 4137 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945 
@@ -123,8 +126,8 @@ repo | releases | star
 [avro](https://github.com/apache/avro) | 1.10.0 | 1607 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269 
+[pdfbox](https://github.com/apache/pdfbox) | 2.0.21 | 1231 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
-[pdfbox](https://github.com/apache/pdfbox) | 2.0.20 | 1153 
 [jbpm](https://github.com/kiegroup/jbpm) | 7.42.0.Final | 1132 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
