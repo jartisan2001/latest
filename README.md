@@ -46,7 +46,9 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.5.2 | 10929
 [mockito](https://github.com/mockito/mockito) | 3.5.0 | 10915
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100
+[drools](https://github.com/kiegroup/drools) | 7.42.0.Final | 3156
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.2 | 1983
+[jbpm](https://github.com/kiegroup/jbpm) | 7.42.0.Final | 1132
 
 ### 收录列表
 ---
@@ -103,7 +105,7 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.4.3 | 3357 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
-[drools](https://github.com/kiegroup/drools) | 7.41.0.Final | 3114 
+[drools](https://github.com/kiegroup/drools) | 7.42.0.Final | 3156 
 [shiro](https://github.com/apache/shiro) | 1.6.0 | 3111 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
@@ -123,7 +125,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.20 | 1153 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.41.0.Final | 1125 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.42.0.Final | 1132 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
