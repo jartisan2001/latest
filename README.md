@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.12 | 50519
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.0 | 50519
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255
 [flink](https://github.com/apache/flink) | 1.10.2 | 13907
 [mockito](https://github.com/mockito/mockito) | 3.5.2 | 10929
 [mockito](https://github.com/mockito/mockito) | 3.5.0 | 10915
