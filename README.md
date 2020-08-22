@@ -44,7 +44,6 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.0 | 50519
 [flink](https://github.com/apache/flink) | 1.10.2 | 13907
 [mockito](https://github.com/mockito/mockito) | 3.5.2 | 10929
-[mockito](https://github.com/mockito/mockito) | 3.5.0 | 10915
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha6 | 4359
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100
 [drools](https://github.com/kiegroup/drools) | 7.42.0.Final | 3156
