@@ -44,6 +44,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.0 | 50519
 [p3c](https://github.com/alibaba/p3c) | 2.1.0 | 22877
 [flink](https://github.com/apache/flink) | 1.10.2 | 13907
+[mockito](https://github.com/mockito/mockito) | 3.5.5 | 10941
 [mockito](https://github.com/mockito/mockito) | 3.5.2 | 10929
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha6 | 4359
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100
@@ -78,7 +79,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200 
-[mockito](https://github.com/mockito/mockito) | 3.5.2 | 10929 
+[mockito](https://github.com/mockito/mockito) | 3.5.5 | 10941 
 [hadoop](https://github.com/apache/hadoop) | 3.1.4 | 10773 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351 
