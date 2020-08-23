@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.12 | 50519
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.0 | 50519
+[p3c](https://github.com/alibaba/p3c) | 2.1.0 | 22877
 [flink](https://github.com/apache/flink) | 1.10.2 | 13907
 [mockito](https://github.com/mockito/mockito) | 3.5.2 | 10929
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha6 | 4359
@@ -62,10 +63,10 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068 
 [netty](https://github.com/netty/netty) | 4.1.51.Final | 24079 
+[p3c](https://github.com/alibaba/p3c) | 2.1.0 | 22877 
 [arthas](https://github.com/alibaba/arthas) | 3.3.9 | 22492 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059 
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562 
-[p3c](https://github.com/alibaba/p3c) | 2.0.1 | 20320 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.1 | 16567 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
