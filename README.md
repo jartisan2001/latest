@@ -40,16 +40,12 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.12 | 50519
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.0 | 50519
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889
 [p3c](https://github.com/alibaba/p3c) | 2.1.0 | 22877
 [mockito](https://github.com/mockito/mockito) | 3.5.5 | 10941
 [mockito](https://github.com/mockito/mockito) | 3.5.2 | 10929
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha6 | 4359
-[drools](https://github.com/kiegroup/drools) | 7.42.0.Final | 3156
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.2 | 1983
-[jbpm](https://github.com/kiegroup/jbpm) | 7.42.0.Final | 1132
 
 ### 收录列表
 ---
