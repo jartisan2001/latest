@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.12 | 50519
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.0 | 50519
+[p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889
 [p3c](https://github.com/alibaba/p3c) | 2.1.0 | 22877
 [mockito](https://github.com/mockito/mockito) | 3.5.5 | 10941
 [mockito](https://github.com/mockito/mockito) | 3.5.2 | 10929
@@ -61,7 +62,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068 
 [netty](https://github.com/netty/netty) | 4.1.51.Final | 24079 
-[p3c](https://github.com/alibaba/p3c) | 2.1.0 | 22877 
+[p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889 
 [arthas](https://github.com/alibaba/arthas) | 3.3.9 | 22492 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059 
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562 
