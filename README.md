@@ -127,7 +127,7 @@ repo | releases | star
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
-[mina](https://github.com/apache/mina) | 2.1.3 | 735 
+[mina](https://github.com/apache/mina) | 2.1.4 | 754 
 [elide](https://github.com/yahoo/elide) | 4.6.7 | 705 
 [github-api](https://github.com/kohsuke/github-api) | 1.116 | 696 
 [commons-io](https://github.com/apache/commons-io) | 2.7 | 689 
