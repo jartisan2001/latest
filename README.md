@@ -43,9 +43,7 @@ repo | releases | star
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889
 [p3c](https://github.com/alibaba/p3c) | 2.1.0 | 22877
 [mockito](https://github.com/mockito/mockito) | 3.5.5 | 10941
-[mockito](https://github.com/mockito/mockito) | 3.5.2 | 10929
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha6 | 4359
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.2 | 1983
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200824 | 1853
 [cxf](https://github.com/apache/cxf) | 3.4.0 | 664
 
