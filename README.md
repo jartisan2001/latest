@@ -46,6 +46,8 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.5.2 | 10929
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha6 | 4359
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.2 | 1983
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200824 | 1853
+[cxf](https://github.com/apache/cxf) | 3.4.0 | 664
 
 ### 收录列表
 ---
@@ -115,7 +117,7 @@ repo | releases | star
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.2 | 1983 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.11 | 1957 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.11.2 | 1846 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200824 | 1853 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
 [avro](https://github.com/apache/avro) | 1.10.0 | 1607 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
@@ -131,7 +133,7 @@ repo | releases | star
 [elide](https://github.com/yahoo/elide) | 4.6.7 | 705 
 [github-api](https://github.com/kohsuke/github-api) | 1.116 | 696 
 [commons-io](https://github.com/apache/commons-io) | 2.7 | 689 
-[cxf](https://github.com/apache/cxf) | 3.3.7 | 650 
+[cxf](https://github.com/apache/cxf) | 3.4.0 | 664 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.3 | 361 
