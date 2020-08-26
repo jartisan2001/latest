@@ -42,8 +42,10 @@ repo | releases | star
 ---|---|---
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889
 [p3c](https://github.com/alibaba/p3c) | 2.1.0 | 22877
+[mockito](https://github.com/mockito/mockito) | 3.5.6 | 10950
 [mockito](https://github.com/mockito/mockito) | 3.5.5 | 10941
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha6 | 4359
+[drools](https://github.com/kiegroup/drools) | 7.43.0.t20200824 | 3162
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200824 | 1853
 [cxf](https://github.com/apache/cxf) | 3.4.0 | 664
 
@@ -73,7 +75,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200 
-[mockito](https://github.com/mockito/mockito) | 3.5.5 | 10941 
+[mockito](https://github.com/mockito/mockito) | 3.5.6 | 10950 
 [hadoop](https://github.com/apache/hadoop) | 3.1.4 | 10773 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351 
@@ -102,7 +104,7 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.4.3 | 3357 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
-[drools](https://github.com/kiegroup/drools) | 7.42.0.Final | 3156 
+[drools](https://github.com/kiegroup/drools) | 7.43.0.t20200824 | 3162 
 [shiro](https://github.com/apache/shiro) | 1.6.0 | 3111 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
