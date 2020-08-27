@@ -45,10 +45,8 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.5.7 | 10954
 [mockito](https://github.com/mockito/mockito) | 3.5.6 | 10950
 [mockito](https://github.com/mockito/mockito) | 3.5.5 | 10941
-[hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha6 | 4359
 [drools](https://github.com/kiegroup/drools) | 7.43.0.t20200824 | 3162
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200824 | 1853
-[cxf](https://github.com/apache/cxf) | 3.4.0 | 664
 
 ### 收录列表
 ---
