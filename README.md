@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889
 [p3c](https://github.com/alibaba/p3c) | 2.1.0 | 22877
+[mockito](https://github.com/mockito/mockito) | 3.5.7 | 10954
 [mockito](https://github.com/mockito/mockito) | 3.5.6 | 10950
 [mockito](https://github.com/mockito/mockito) | 3.5.5 | 10941
 [hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha6 | 4359
@@ -75,7 +76,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200 
-[mockito](https://github.com/mockito/mockito) | 3.5.6 | 10950 
+[mockito](https://github.com/mockito/mockito) | 3.5.7 | 10954 
 [hadoop](https://github.com/apache/hadoop) | 3.1.4 | 10773 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351 
