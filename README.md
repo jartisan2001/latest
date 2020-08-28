@@ -45,6 +45,7 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.5.7 | 10954
 [mockito](https://github.com/mockito/mockito) | 3.5.6 | 10950
 [mockito](https://github.com/mockito/mockito) | 3.5.5 | 10941
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367
 [drools](https://github.com/kiegroup/drools) | 7.43.0.t20200824 | 3162
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200824 | 1853
 
@@ -90,7 +91,7 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 7.0.105 | 4639 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 6.0.0.Alpha6 | 4359 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367 
 [beam](https://github.com/apache/beam) | 2.23.0 | 4137 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945 
