@@ -40,10 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
-[p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889
 [mockito](https://github.com/mockito/mockito) | 3.5.7 | 10954
 [mockito](https://github.com/mockito/mockito) | 3.5.6 | 10950
-[mockito](https://github.com/mockito/mockito) | 3.5.5 | 10941
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36 | 5454
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367
 [drools](https://github.com/kiegroup/drools) | 7.43.0.t20200824 | 3162
