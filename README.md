@@ -44,7 +44,6 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.5.6 | 10950
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36 | 5454
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367
-[drools](https://github.com/kiegroup/drools) | 7.43.0.t20200824 | 3162
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200824 | 1853
 
 ### 收录列表
