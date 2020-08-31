@@ -44,6 +44,8 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.5.6 | 10950
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36 | 5454
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367
+[lucene](https://github.com/apache/lucene-solr) | 8.6.2 | 3724
+[solr](https://github.com/apache/lucene-solr) | 8.6.2 | 3724
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200824 | 1853
 
 ### 收录列表
@@ -94,8 +96,8 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748 
-[lucene](https://github.com/apache/lucene-solr) | 8.6.1 | 3682 
-[solr](https://github.com/apache/lucene-solr) | 8.6.1 | 3682 
+[lucene](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
+[solr](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
 [hbase](https://github.com/apache/hbase) | 2.3.1 | 3658 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
 [camel](https://github.com/apache/camel) | 3.4.3 | 3357 
