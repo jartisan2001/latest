@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[mockito](https://github.com/mockito/mockito) | 3.5.7 | 10954
 [cassandra](https://github.com/apache/cassandra) | 2.1.22 | 6140
 [cassandra](https://github.com/apache/cassandra) | 2.2.18 | 6140
 [cassandra](https://github.com/apache/cassandra) | 3.0.22 | 6140
