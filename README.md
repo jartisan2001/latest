@@ -41,10 +41,16 @@
 repo | releases | star
 ---|---|---
 [mockito](https://github.com/mockito/mockito) | 3.5.7 | 10954
+[cassandra](https://github.com/apache/cassandra) | 2.1.22 | 6140
+[cassandra](https://github.com/apache/cassandra) | 2.2.18 | 6140
+[cassandra](https://github.com/apache/cassandra) | 3.0.22 | 6140
+[cassandra](https://github.com/apache/cassandra) | 3.11.8 | 6140
+[cassandra](https://github.com/apache/cassandra) | 4.0-beta2 | 6140
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36 | 5454
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367
 [lucene](https://github.com/apache/lucene-solr) | 8.6.2 | 3724
 [solr](https://github.com/apache/lucene-solr) | 8.6.2 | 3724
+[pmd](https://github.com/pmd/pmd) | 6.27.0 | 3017
 
 ### 收录列表
 ---
@@ -81,8 +87,8 @@ repo | releases | star
 [zookeeper](https://github.com/apache/zookeeper) | 3.5.8 | 8056 
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7764 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6285 
+[cassandra](https://github.com/apache/cassandra) | 4.0-beta2 | 6140 
 [storm](https://github.com/apache/storm) | 2.2.0 | 6093 
-[cassandra](https://github.com/apache/cassandra) | 3.0.21 | 6080 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36 | 5454 
 [tomcat](https://github.com/apache/tomcat) | 7.0.105 | 4639 
@@ -104,8 +110,8 @@ repo | releases | star
 [drools](https://github.com/kiegroup/drools) | 7.43.0.t20200824 | 3162 
 [shiro](https://github.com/apache/shiro) | 1.6.0 | 3111 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
+[pmd](https://github.com/pmd/pmd) | 6.27.0 | 3017 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
-[pmd](https://github.com/pmd/pmd) | 6.26.0 | 2958 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.31.v20200723 | 2916 
 [kylin](https://github.com/apache/kylin) | 3.1.0 | 2699 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
