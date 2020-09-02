@@ -47,7 +47,6 @@ repo | releases | star
 [cassandra](https://github.com/apache/cassandra) | 3.11.8 | 6140
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta2 | 6140
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36 | 5454
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367
 [lucene](https://github.com/apache/lucene-solr) | 8.6.2 | 3724
 [solr](https://github.com/apache/lucene-solr) | 8.6.2 | 3724
 [pmd](https://github.com/pmd/pmd) | 6.27.0 | 3017
