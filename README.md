@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[mockito](https://github.com/mockito/mockito) | 3.5.9 | 10977
 [cassandra](https://github.com/apache/cassandra) | 2.1.22 | 6140
 [cassandra](https://github.com/apache/cassandra) | 2.2.18 | 6140
 [cassandra](https://github.com/apache/cassandra) | 3.0.22 | 6140
@@ -50,6 +51,7 @@ repo | releases | star
 [lucene](https://github.com/apache/lucene-solr) | 8.6.2 | 3724
 [solr](https://github.com/apache/lucene-solr) | 8.6.2 | 3724
 [pmd](https://github.com/pmd/pmd) | 6.27.0 | 3017
+[commons-codec](https://github.com/apache/commons-codec) | 1.15 | 269
 
 ### 收录列表
 ---
@@ -77,7 +79,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200 
-[mockito](https://github.com/mockito/mockito) | 3.5.7 | 10954 
+[mockito](https://github.com/mockito/mockito) | 3.5.9 | 10977 
 [hadoop](https://github.com/apache/hadoop) | 3.1.4 | 10773 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351 
@@ -139,7 +141,7 @@ repo | releases | star
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.3 | 361 
-[commons-codec](https://github.com/apache/commons-codec) | 1.14 | 238 
+[commons-codec](https://github.com/apache/commons-codec) | 1.15 | 269 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 173 
 [commons-compress](https://github.com/apache/commons-compress) | 1.20 | 139 
