@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta2 | 11305
 [mockito](https://github.com/mockito/mockito) | 3.5.9 | 10977
 [cassandra](https://github.com/apache/cassandra) | 2.1.22 | 6140
 [cassandra](https://github.com/apache/cassandra) | 2.2.18 | 6140
@@ -76,8 +77,8 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.3.2 | 13444 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta2 | 11305 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta1 | 11200 
 [mockito](https://github.com/mockito/mockito) | 3.5.9 | 10977 
 [hadoop](https://github.com/apache/hadoop) | 3.1.4 | 10773 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
