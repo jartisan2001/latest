@@ -44,16 +44,10 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.13.4 | 14152
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta2 | 11305
 [mockito](https://github.com/mockito/mockito) | 3.5.9 | 10977
-[cassandra](https://github.com/apache/cassandra) | 2.1.22 | 6140
-[cassandra](https://github.com/apache/cassandra) | 2.2.18 | 6140
-[cassandra](https://github.com/apache/cassandra) | 3.0.22 | 6140
-[cassandra](https://github.com/apache/cassandra) | 3.11.8 | 6140
-[cassandra](https://github.com/apache/cassandra) | 4.0-beta2 | 6140
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36 | 5454
 [lucene](https://github.com/apache/lucene-solr) | 8.6.2 | 3724
 [solr](https://github.com/apache/lucene-solr) | 8.6.2 | 3724
 [pmd](https://github.com/pmd/pmd) | 6.27.0 | 3017
-[commons-codec](https://github.com/apache/commons-codec) | 1.15 | 269
 
 ### 收录列表
 ---
