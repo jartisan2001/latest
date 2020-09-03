@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[arthas](https://github.com/alibaba/arthas) | 3.4.0 | 22813
+[redisson](https://github.com/redisson/redisson) | 3.13.4 | 14152
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta2 | 11305
 [mockito](https://github.com/mockito/mockito) | 3.5.9 | 10977
 [cassandra](https://github.com/apache/cassandra) | 2.1.22 | 6140
@@ -65,14 +67,14 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068 
 [netty](https://github.com/netty/netty) | 4.1.51.Final | 24079 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889 
-[arthas](https://github.com/alibaba/arthas) | 3.3.9 | 22492 
+[arthas](https://github.com/alibaba/arthas) | 3.4.0 | 22813 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059 
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.1 | 16567 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
+[redisson](https://github.com/redisson/redisson) | 3.13.4 | 14152 
 [flink](https://github.com/apache/flink) | 1.10.2 | 13907 
-[redisson](https://github.com/redisson/redisson) | 3.13.3 | 13866 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
 [nacos](https://github.com/alibaba/nacos) | 1.3.2 | 13444 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
