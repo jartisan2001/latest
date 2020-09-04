@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.1 | 50859
 [arthas](https://github.com/alibaba/arthas) | 3.4.0 | 22813
 [redisson](https://github.com/redisson/redisson) | 3.13.4 | 14152
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta2 | 11305
@@ -53,7 +54,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.0 | 50519 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.1 | 50859 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.3.RELEASE | 49839 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
