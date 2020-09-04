@@ -45,7 +45,6 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.13.4 | 14152
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta2 | 11305
 [mockito](https://github.com/mockito/mockito) | 3.5.9 | 10977
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.36 | 5454
 [lucene](https://github.com/apache/lucene-solr) | 8.6.2 | 3724
 [solr](https://github.com/apache/lucene-solr) | 8.6.2 | 3724
 [pmd](https://github.com/pmd/pmd) | 6.27.0 | 3017
