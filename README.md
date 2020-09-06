@@ -45,6 +45,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.13.4 | 14152
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta2 | 11305
 [mockito](https://github.com/mockito/mockito) | 3.5.9 | 10977
+[camel](https://github.com/apache/camel) | 3.5.0 | 3376
 [pmd](https://github.com/pmd/pmd) | 6.27.0 | 3017
 
 ### 收录列表
@@ -99,7 +100,7 @@ repo | releases | star
 [solr](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
 [hbase](https://github.com/apache/hbase) | 2.3.1 | 3658 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
-[camel](https://github.com/apache/camel) | 3.4.3 | 3357 
+[camel](https://github.com/apache/camel) | 3.5.0 | 3376 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [drools](https://github.com/kiegroup/drools) | 7.43.0.t20200824 | 3162 
