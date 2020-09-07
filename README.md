@@ -46,7 +46,6 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta2 | 11305
 [mockito](https://github.com/mockito/mockito) | 3.5.10 | 10986
 [mockito](https://github.com/mockito/mockito) | 3.5.9 | 10977
-[pmd](https://github.com/pmd/pmd) | 6.27.0 | 3017
 
 ### 收录列表
 ---
