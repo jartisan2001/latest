@@ -44,6 +44,7 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.4.0 | 22813
 [redisson](https://github.com/redisson/redisson) | 3.13.4 | 14152
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta2 | 11305
+[mockito](https://github.com/mockito/mockito) | 3.5.10 | 10986
 [mockito](https://github.com/mockito/mockito) | 3.5.9 | 10977
 [pmd](https://github.com/pmd/pmd) | 6.27.0 | 3017
 
@@ -73,7 +74,7 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta2 | 11305 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
-[mockito](https://github.com/mockito/mockito) | 3.5.9 | 10977 
+[mockito](https://github.com/mockito/mockito) | 3.5.10 | 10986 
 [hadoop](https://github.com/apache/hadoop) | 3.1.4 | 10773 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351 
