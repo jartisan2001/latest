@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[netty](https://github.com/netty/netty) | 4.1.52.Final | 24656
 [mockito](https://github.com/mockito/mockito) | 3.5.10 | 10986
 
 ### 收录列表
@@ -52,7 +53,7 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068 
-[netty](https://github.com/netty/netty) | 4.1.51.Final | 24079 
+[netty](https://github.com/netty/netty) | 4.1.52.Final | 24656 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889 
 [arthas](https://github.com/alibaba/arthas) | 3.4.0 | 22813 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059 
