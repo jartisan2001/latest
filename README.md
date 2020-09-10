@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.52.Final | 24656
 [mockito](https://github.com/mockito/mockito) | 3.5.10 | 10986
+[zookeeper](https://github.com/apache/zookeeper) | 3.6.2 | 8526
 
 ### 收录列表
 ---
@@ -75,7 +76,7 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.0 | 8984 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
-[zookeeper](https://github.com/apache/zookeeper) | 3.5.8 | 8056 
+[zookeeper](https://github.com/apache/zookeeper) | 3.6.2 | 8526 
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7764 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6285 
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta2 | 6140 
