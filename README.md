@@ -41,8 +41,6 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.52.Final | 24656
-[mockito](https://github.com/mockito/mockito) | 3.5.10 | 10986
-[zookeeper](https://github.com/apache/zookeeper) | 3.6.2 | 8526
 [jbpm](https://github.com/kiegroup/jbpm) | 7.43.0.Final | 1145
 [commons-io](https://github.com/apache/commons-io) | 2.8.0 | 726
 
