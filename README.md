@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.52.Final | 24656
+[drools](https://github.com/kiegroup/drools) | 7.43.0.Final | 3189
 [jbpm](https://github.com/kiegroup/jbpm) | 7.43.0.Final | 1145
 [commons-io](https://github.com/apache/commons-io) | 2.8.0 | 726
 
@@ -99,7 +100,7 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.5.0 | 3376 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
-[drools](https://github.com/kiegroup/drools) | 7.43.0.t20200824 | 3162 
+[drools](https://github.com/kiegroup/drools) | 7.43.0.Final | 3189 
 [shiro](https://github.com/apache/shiro) | 1.6.0 | 3111 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [pmd](https://github.com/pmd/pmd) | 6.27.0 | 3017 
