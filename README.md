@@ -45,7 +45,6 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083
 [drools](https://github.com/kiegroup/drools) | 7.43.0.Final | 3189
 [jbpm](https://github.com/kiegroup/jbpm) | 7.43.0.Final | 1145
-[commons-io](https://github.com/apache/commons-io) | 2.8.0 | 726
 
 ### 收录列表
 ---
