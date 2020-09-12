@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.52.Final | 24656
+[arthas](https://github.com/alibaba/arthas) | 3.4.1 | 22938
 [drools](https://github.com/kiegroup/drools) | 7.43.0.Final | 3189
 [jbpm](https://github.com/kiegroup/jbpm) | 7.43.0.Final | 1145
 [commons-io](https://github.com/apache/commons-io) | 2.8.0 | 726
@@ -56,8 +57,8 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068 
 [netty](https://github.com/netty/netty) | 4.1.52.Final | 24656 
+[arthas](https://github.com/alibaba/arthas) | 3.4.1 | 22938 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889 
-[arthas](https://github.com/alibaba/arthas) | 3.4.0 | 22813 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059 
 [druid](https://github.com/alibaba/druid) | 1.1.23 | 21562 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
