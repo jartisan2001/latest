@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.52.Final | 24656
 [arthas](https://github.com/alibaba/arthas) | 3.4.1 | 22938
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083
 [drools](https://github.com/kiegroup/drools) | 7.43.0.Final | 3189
 [jbpm](https://github.com/kiegroup/jbpm) | 7.43.0.Final | 1145
 [commons-io](https://github.com/apache/commons-io) | 2.8.0 | 726
@@ -91,7 +92,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367 
 [beam](https://github.com/apache/beam) | 2.23.0 | 4137 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.1 | 3945 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
