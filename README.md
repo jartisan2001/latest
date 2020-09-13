@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.52.Final | 24656
 [arthas](https://github.com/alibaba/arthas) | 3.4.1 | 22938
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083
 [drools](https://github.com/kiegroup/drools) | 7.43.0.Final | 3189
 [jbpm](https://github.com/kiegroup/jbpm) | 7.43.0.Final | 1145
@@ -84,7 +85,7 @@ repo | releases | star
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta2 | 6140 
 [storm](https://github.com/apache/storm) | 2.2.0 | 6093 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.36 | 5454 
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487 
 [tomcat](https://github.com/apache/tomcat) | 7.0.105 | 4639 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
