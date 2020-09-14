@@ -43,6 +43,7 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.52.Final | 24656
 [arthas](https://github.com/alibaba/arthas) | 3.4.1 | 22938
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487
+[junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083
 [drools](https://github.com/kiegroup/drools) | 7.43.0.Final | 3189
 [jbpm](https://github.com/kiegroup/jbpm) | 7.43.0.Final | 1145
@@ -90,8 +91,8 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367 
+[junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147 
 [beam](https://github.com/apache/beam) | 2.23.0 | 4137 
-[junit5](https://github.com/junit-team/junit5) | 5.7.0-RC1 | 4100 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748 
@@ -108,7 +109,7 @@ repo | releases | star
 [pmd](https://github.com/pmd/pmd) | 6.27.0 | 3017 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.31.v20200723 | 2916 
-[kylin](https://github.com/apache/kylin) | 3.1.0 | 2699 
+[kylin](https://github.com/apache/kylin) | 4.0.0-alpha | 2770 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2022 
