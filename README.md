@@ -40,13 +40,10 @@
 ---
 repo | releases | star
 ---|---|---
-[netty](https://github.com/netty/netty) | 4.1.52.Final | 24656
 [arthas](https://github.com/alibaba/arthas) | 3.4.1 | 22938
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083
-[drools](https://github.com/kiegroup/drools) | 7.43.0.Final | 3189
-[jbpm](https://github.com/kiegroup/jbpm) | 7.43.0.Final | 1145
 
 ### 收录列表
 ---
