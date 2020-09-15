@@ -44,6 +44,8 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083
+[drools](https://github.com/kiegroup/drools) | 7.43.1.Final | 3200
+[jbpm](https://github.com/kiegroup/jbpm) | 7.43.1.Final | 1146
 
 ### 收录列表
 ---
@@ -100,7 +102,7 @@ repo | releases | star
 [camel](https://github.com/apache/camel) | 3.5.0 | 3376 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
-[drools](https://github.com/kiegroup/drools) | 7.43.0.Final | 3189 
+[drools](https://github.com/kiegroup/drools) | 7.43.1.Final | 3200 
 [shiro](https://github.com/apache/shiro) | 1.6.0 | 3111 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [pmd](https://github.com/pmd/pmd) | 6.27.0 | 3017 
@@ -120,7 +122,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.21 | 1231 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.43.0.Final | 1145 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.43.1.Final | 1146 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [struts](https://github.com/apache/struts) | 2.5.22 | 993 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
