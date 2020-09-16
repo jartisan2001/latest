@@ -41,7 +41,9 @@
 repo | releases | star
 ---|---|---
 [arthas](https://github.com/alibaba/arthas) | 3.4.1 | 22938
+[flink](https://github.com/apache/flink) | 1.11.2 | 14132
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487
+[tomcat](https://github.com/apache/tomcat) | 9.0.38 | 4833
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083
 [drools](https://github.com/kiegroup/drools) | 7.43.1.Final | 3200
@@ -66,7 +68,7 @@ repo | releases | star
 [kafka](https://github.com/apache/kafka) | 2.5.1 | 16567 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
 [redisson](https://github.com/redisson/redisson) | 3.13.4 | 14152 
-[flink](https://github.com/apache/flink) | 1.10.2 | 13907 
+[flink](https://github.com/apache/flink) | 1.11.2 | 14132 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
 [nacos](https://github.com/alibaba/nacos) | 1.3.2 | 13444 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
@@ -86,7 +88,7 @@ repo | releases | star
 [storm](https://github.com/apache/storm) | 2.2.0 | 6093 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487 
-[tomcat](https://github.com/apache/tomcat) | 7.0.105 | 4639 
+[tomcat](https://github.com/apache/tomcat) | 9.0.38 | 4833 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367 
