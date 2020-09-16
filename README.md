@@ -43,6 +43,7 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.4.1 | 22938
 [flink](https://github.com/apache/flink) | 1.11.2 | 14132
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487
+[tomcat](https://github.com/apache/tomcat) | 8.5.58 | 4835
 [tomcat](https://github.com/apache/tomcat) | 9.0.38 | 4833
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083
@@ -88,7 +89,7 @@ repo | releases | star
 [storm](https://github.com/apache/storm) | 2.2.0 | 6093 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487 
-[tomcat](https://github.com/apache/tomcat) | 9.0.38 | 4833 
+[tomcat](https://github.com/apache/tomcat) | 8.5.58 | 4835 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367 
@@ -99,7 +100,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
 [solr](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
-[hbase](https://github.com/apache/hbase) | 2.3.1 | 3658 
+[hbase](https://github.com/apache/hbase) | 2.2.6 | 3699 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
 [camel](https://github.com/apache/camel) | 3.5.0 | 3376 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
