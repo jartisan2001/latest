@@ -41,10 +41,8 @@
 repo | releases | star
 ---|---|---
 [arthas](https://github.com/alibaba/arthas) | 3.4.1 | 22938
-[flink](https://github.com/apache/flink) | 1.11.2 | 14132
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487
 [tomcat](https://github.com/apache/tomcat) | 8.5.58 | 4835
-[tomcat](https://github.com/apache/tomcat) | 9.0.38 | 4833
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083
 [drools](https://github.com/kiegroup/drools) | 7.43.1.Final | 3200
