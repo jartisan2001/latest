@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [arthas](https://github.com/alibaba/arthas) | 3.4.1 | 22938
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.3 | 11336
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487
 [tomcat](https://github.com/apache/tomcat) | 8.5.58 | 4835
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147
@@ -72,7 +73,7 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 1.3.2 | 13444 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta2 | 11305 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.3 | 11336 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [mockito](https://github.com/mockito/mockito) | 3.5.10 | 10986 
 [hadoop](https://github.com/apache/hadoop) | 3.1.4 | 10773 
