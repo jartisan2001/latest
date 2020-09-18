@@ -46,9 +46,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta3 | 11344
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.3 | 11336
 [mockito](https://github.com/mockito/mockito) | 3.5.11 | 11031
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083
 [drools](https://github.com/kiegroup/drools) | 7.43.1.Final | 3200
 [jbpm](https://github.com/kiegroup/jbpm) | 7.43.1.Final | 1146
 
