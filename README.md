@@ -42,7 +42,10 @@ repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.17.RELEASE | 50544
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.10.RELEASE | 50544
+[nacos](https://github.com/alibaba/nacos) | 1.3.3 | 14149
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta3 | 11344
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.3 | 11336
+[mockito](https://github.com/mockito/mockito) | 3.5.11 | 11031
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083
@@ -68,14 +71,14 @@ repo | releases | star
 [kafka](https://github.com/apache/kafka) | 2.5.1 | 16567 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
 [redisson](https://github.com/redisson/redisson) | 3.13.4 | 14152 
+[nacos](https://github.com/alibaba/nacos) | 1.3.3 | 14149 
 [flink](https://github.com/apache/flink) | 1.11.2 | 14132 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
-[nacos](https://github.com/alibaba/nacos) | 1.3.2 | 13444 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.3 | 11336 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta3 | 11344 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
-[mockito](https://github.com/mockito/mockito) | 3.5.10 | 10986 
+[mockito](https://github.com/mockito/mockito) | 3.5.11 | 11031 
 [hadoop](https://github.com/apache/hadoop) | 3.1.4 | 10773 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351 
@@ -92,8 +95,8 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367 
+[beam](https://github.com/apache/beam) | 2.24.0 | 4246 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147 
-[beam](https://github.com/apache/beam) | 2.23.0 | 4137 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748 
