@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.17.RELEASE | 50544
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.10.RELEASE | 50544
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.3 | 11336
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147
@@ -52,7 +54,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.1 | 50859 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.3.3.RELEASE | 49839 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.10.RELEASE | 50544 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
