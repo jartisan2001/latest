@@ -40,8 +40,10 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.3.4.RELEASE | 50580
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.17.RELEASE | 50544
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.10.RELEASE | 50544
+[druid](https://github.com/alibaba/druid) | 1.1.24 | 22201
 [nacos](https://github.com/alibaba/nacos) | 1.3.3 | 14149
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta3 | 11344
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.3 | 11336
@@ -55,7 +57,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.1 | 50859 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.10.RELEASE | 50544 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.3.4.RELEASE | 50580 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
@@ -63,8 +65,8 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.52.Final | 24656 
 [arthas](https://github.com/alibaba/arthas) | 3.4.1 | 22938 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889 
+[druid](https://github.com/alibaba/druid) | 1.1.24 | 22201 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059 
-[druid](https://github.com/alibaba/druid) | 1.1.23 | 21562 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.1 | 16567 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
