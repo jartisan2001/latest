@@ -49,8 +49,6 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.3 | 11336
 [mockito](https://github.com/mockito/mockito) | 3.5.11 | 11031
 [tomcat](https://github.com/apache/tomcat) | 7.0.106 | 4852
-[drools](https://github.com/kiegroup/drools) | 7.43.1.Final | 3200
-[jbpm](https://github.com/kiegroup/jbpm) | 7.43.1.Final | 1146
 
 ### 收录列表
 ---
