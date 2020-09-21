@@ -48,6 +48,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta3 | 11344
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.3 | 11336
 [mockito](https://github.com/mockito/mockito) | 3.5.11 | 11031
+[tomcat](https://github.com/apache/tomcat) | 7.0.106 | 4852
 [drools](https://github.com/kiegroup/drools) | 7.43.1.Final | 3200
 [jbpm](https://github.com/kiegroup/jbpm) | 7.43.1.Final | 1146
 
@@ -90,7 +91,7 @@ repo | releases | star
 [storm](https://github.com/apache/storm) | 2.2.0 | 6093 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487 
-[tomcat](https://github.com/apache/tomcat) | 8.5.58 | 4835 
+[tomcat](https://github.com/apache/tomcat) | 7.0.106 | 4852 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367 
