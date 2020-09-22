@@ -49,6 +49,8 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.3 | 11336
 [mockito](https://github.com/mockito/mockito) | 3.5.11 | 11031
 [tomcat](https://github.com/apache/tomcat) | 7.0.106 | 4852
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.3 | 4131
+[elide](https://github.com/yahoo/elide) | 4.6.8 | 711
 
 ### 收录列表
 ---
@@ -95,7 +97,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367 
 [beam](https://github.com/apache/beam) | 2.24.0 | 4246 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.2 | 4083 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.3 | 4131 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
@@ -132,7 +134,7 @@ repo | releases | star
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [mina](https://github.com/apache/mina) | 2.1.4 | 754 
 [commons-io](https://github.com/apache/commons-io) | 2.8.0 | 726 
-[elide](https://github.com/yahoo/elide) | 4.6.7 | 705 
+[elide](https://github.com/yahoo/elide) | 4.6.8 | 711 
 [github-api](https://github.com/kohsuke/github-api) | 1.116 | 696 
 [cxf](https://github.com/apache/cxf) | 3.4.0 | 664 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
