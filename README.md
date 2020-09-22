@@ -46,9 +46,7 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.1.24 | 22201
 [nacos](https://github.com/alibaba/nacos) | 1.3.3 | 14149
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta3 | 11344
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.3 | 11336
 [mockito](https://github.com/mockito/mockito) | 3.5.11 | 11031
-[tomcat](https://github.com/apache/tomcat) | 7.0.106 | 4852
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.3 | 4131
 [elide](https://github.com/yahoo/elide) | 4.6.8 | 711
 
