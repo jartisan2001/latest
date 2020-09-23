@@ -40,13 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.3.4.RELEASE | 50580
-[springboot](https://github.com/spring-projects/spring-boot) | 2.1.17.RELEASE | 50544
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.10.RELEASE | 50544
 [arthas](https://github.com/alibaba/arthas) | 3.4.2 | 23073
-[druid](https://github.com/alibaba/druid) | 1.1.24 | 22201
-[nacos](https://github.com/alibaba/nacos) | 1.3.3 | 14149
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta3 | 11344
 [mockito](https://github.com/mockito/mockito) | 3.5.11 | 11031
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.3 | 4131
 [elide](https://github.com/yahoo/elide) | 4.6.8 | 711
