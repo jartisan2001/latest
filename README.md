@@ -43,6 +43,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.4.RELEASE | 50580
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.17.RELEASE | 50544
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.10.RELEASE | 50544
+[arthas](https://github.com/alibaba/arthas) | 3.4.2 | 23073
 [druid](https://github.com/alibaba/druid) | 1.1.24 | 22201
 [nacos](https://github.com/alibaba/nacos) | 1.3.3 | 14149
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta3 | 11344
@@ -61,7 +62,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068 
 [netty](https://github.com/netty/netty) | 4.1.52.Final | 24656 
-[arthas](https://github.com/alibaba/arthas) | 3.4.1 | 22938 
+[arthas](https://github.com/alibaba/arthas) | 3.4.2 | 23073 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889 
 [druid](https://github.com/alibaba/druid) | 1.1.24 | 22201 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059 
@@ -77,7 +78,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta3 | 11344 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [mockito](https://github.com/mockito/mockito) | 3.5.11 | 11031 
-[hadoop](https://github.com/apache/hadoop) | 3.1.4 | 10773 
+[hadoop](https://github.com/apache/hadoop) | 2.10.1 | 10902 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.0 | 8984 
