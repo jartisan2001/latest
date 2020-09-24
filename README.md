@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [arthas](https://github.com/alibaba/arthas) | 3.4.2 | 23073
-[mockito](https://github.com/mockito/mockito) | 3.5.11 | 11031
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.3 | 4131
 [elide](https://github.com/yahoo/elide) | 4.6.8 | 711
 
