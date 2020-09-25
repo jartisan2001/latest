@@ -40,16 +40,19 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.2 | 51321
 [arthas](https://github.com/alibaba/arthas) | 3.4.2 | 23073
 [mockito](https://github.com/mockito/mockito) | 3.5.13 | 11055
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.3 | 4131
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.3 | 2019
 [elide](https://github.com/yahoo/elide) | 4.6.8 | 711
+[commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 243
 
 ### 收录列表
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.1 | 50859 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.2 | 51321 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.4.RELEASE | 50580 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
@@ -110,7 +113,7 @@ repo | releases | star
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2022 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.2 | 1983 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.3 | 2019 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.11 | 1957 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200824 | 1853 
@@ -134,7 +137,7 @@ repo | releases | star
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.3 | 361 
 [commons-codec](https://github.com/apache/commons-codec) | 1.15 | 269 
-[commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.7.0 | 220 
+[commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 243 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 173 
 [commons-compress](https://github.com/apache/commons-compress) | 1.20 | 139 
 [Json-lib](https://github.com/aalmiray/Json-lib) | 2.4 | 83 
