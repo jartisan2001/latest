@@ -44,6 +44,7 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.4.2 | 23073
 [mockito](https://github.com/mockito/mockito) | 3.5.13 | 11055
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.3 | 4131
+[hbase](https://github.com/apache/hbase) | 2.3.2 | 3719
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.3 | 2019
 [elide](https://github.com/yahoo/elide) | 4.6.8 | 711
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 243
@@ -98,7 +99,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 3.0.5 | 3748 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
 [solr](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
-[hbase](https://github.com/apache/hbase) | 2.2.6 | 3699 
+[hbase](https://github.com/apache/hbase) | 2.3.2 | 3719 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
 [camel](https://github.com/apache/camel) | 3.5.0 | 3376 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
