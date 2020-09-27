@@ -44,7 +44,6 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.4.2 | 23073
 [mockito](https://github.com/mockito/mockito) | 3.5.13 | 11055
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.3 | 4131
-[hbase](https://github.com/apache/hbase) | 2.3.2 | 3719
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3045
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.3 | 2019
 [elide](https://github.com/yahoo/elide) | 4.6.8 | 711
