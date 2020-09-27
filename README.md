@@ -45,6 +45,7 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.5.13 | 11055
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.3 | 4131
 [hbase](https://github.com/apache/hbase) | 2.3.2 | 3719
+[pmd](https://github.com/pmd/pmd) | 6.28.0 | 3045
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.3 | 2019
 [elide](https://github.com/yahoo/elide) | 4.6.8 | 711
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 243
@@ -107,7 +108,7 @@ repo | releases | star
 [drools](https://github.com/kiegroup/drools) | 7.43.1.Final | 3200 
 [shiro](https://github.com/apache/shiro) | 1.6.0 | 3111 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
-[pmd](https://github.com/pmd/pmd) | 6.27.0 | 3017 
+[pmd](https://github.com/pmd/pmd) | 6.28.0 | 3045 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.31.v20200723 | 2916 
 [kylin](https://github.com/apache/kylin) | 4.0.0-alpha | 2770 
