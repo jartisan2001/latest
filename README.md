@@ -41,8 +41,10 @@
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.2 | 51321
+[arthas](https://github.com/alibaba/arthas) | 3.4.3 | 23128
 [arthas](https://github.com/alibaba/arthas) | 3.4.2 | 23073
 [mockito](https://github.com/mockito/mockito) | 3.5.13 | 11055
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.2 | 5515
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.3 | 4131
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3045
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.3 | 2019
@@ -60,7 +62,7 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068 
 [netty](https://github.com/netty/netty) | 4.1.52.Final | 24656 
-[arthas](https://github.com/alibaba/arthas) | 3.4.2 | 23073 
+[arthas](https://github.com/alibaba/arthas) | 3.4.3 | 23128 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889 
 [druid](https://github.com/alibaba/druid) | 1.1.24 | 22201 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059 
@@ -87,7 +89,7 @@ repo | releases | star
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta2 | 6140 
 [storm](https://github.com/apache/storm) | 2.2.0 | 6093 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.1 | 5487 
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.2 | 5515 
 [tomcat](https://github.com/apache/tomcat) | 7.0.106 | 4852 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
