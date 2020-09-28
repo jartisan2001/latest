@@ -42,14 +42,10 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.2 | 51321
 [arthas](https://github.com/alibaba/arthas) | 3.4.3 | 23128
-[arthas](https://github.com/alibaba/arthas) | 3.4.2 | 23073
 [mockito](https://github.com/mockito/mockito) | 3.5.13 | 11055
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.2 | 5515
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.3 | 4131
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3045
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.3 | 2019
-[elide](https://github.com/yahoo/elide) | 4.6.8 | 711
-[commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 243
 
 ### 收录列表
 ---
