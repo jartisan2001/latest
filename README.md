@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.2 | 51321
 [arthas](https://github.com/alibaba/arthas) | 3.4.3 | 23128
 [redisson](https://github.com/redisson/redisson) | 3.13.5 | 14431
 [mockito](https://github.com/mockito/mockito) | 3.5.13 | 11055
