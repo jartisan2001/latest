@@ -42,6 +42,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.2 | 51321
 [arthas](https://github.com/alibaba/arthas) | 3.4.3 | 23128
+[redisson](https://github.com/redisson/redisson) | 3.13.5 | 14431
 [mockito](https://github.com/mockito/mockito) | 3.5.13 | 11055
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.2 | 5515
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3045
@@ -65,7 +66,7 @@ repo | releases | star
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.1 | 16567 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
-[redisson](https://github.com/redisson/redisson) | 3.13.4 | 14152 
+[redisson](https://github.com/redisson/redisson) | 3.13.5 | 14431 
 [nacos](https://github.com/alibaba/nacos) | 1.3.3 | 14149 
 [flink](https://github.com/apache/flink) | 1.11.2 | 14132 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
