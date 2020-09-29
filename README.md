@@ -100,7 +100,7 @@ repo | releases | star
 [solr](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
 [hbase](https://github.com/apache/hbase) | 2.3.2 | 3719 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
-[camel](https://github.com/apache/camel) | 3.5.0 | 3376 
+[camel](https://github.com/apache/camel) | 3.4.4 | 3410 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [drools](https://github.com/kiegroup/drools) | 7.43.1.Final | 3200 
