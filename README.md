@@ -44,6 +44,7 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.13.5 | 14431
 [mockito](https://github.com/mockito/mockito) | 3.5.13 | 11055
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.2 | 5515
+[groovy](https://github.com/apache/groovy) | 3.0.6 | 3844
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3045
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.3 | 2019
 
@@ -93,8 +94,8 @@ repo | releases | star
 [beam](https://github.com/apache/beam) | 2.24.0 | 4246 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.3 | 4131 
+[groovy](https://github.com/apache/groovy) | 3.0.6 | 3844 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
-[groovy](https://github.com/apache/groovy) | 3.0.5 | 3748 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
 [solr](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
 [hbase](https://github.com/apache/hbase) | 2.3.2 | 3719 
@@ -124,7 +125,7 @@ repo | releases | star
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
 [jbpm](https://github.com/kiegroup/jbpm) | 7.43.1.Final | 1146 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
-[struts](https://github.com/apache/struts) | 2.5.22 | 993 
+[struts](https://github.com/apache/struts) | 2.5.25 | 1029 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
 [poi](https://github.com/apache/poi) | 4.1.2 | 916 
 [mina](https://github.com/apache/mina) | 2.1.4 | 754 
