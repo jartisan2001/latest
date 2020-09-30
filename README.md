@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [arthas](https://github.com/alibaba/arthas) | 3.4.3 | 23128
 [redisson](https://github.com/redisson/redisson) | 3.13.5 | 14431
-[mockito](https://github.com/mockito/mockito) | 3.5.13 | 11055
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.2 | 5515
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3844
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3045
