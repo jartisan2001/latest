@@ -45,7 +45,6 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.2 | 5515
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3844
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3045
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.3 | 2019
 
 ### 收录列表
 ---
