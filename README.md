@@ -43,8 +43,13 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.4.3 | 23128
 [redisson](https://github.com/redisson/redisson) | 3.13.5 | 14431
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.2 | 5515
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.22.Final | 4398
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.0 | 4156
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3844
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3045
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.32.v20200930 | 2959
+[jackson](https://github.com/FasterXML/jackson-core) | 2.11.3 | 1867
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.13 | 384
 
 ### 收录列表
 ---
@@ -87,11 +92,11 @@ repo | releases | star
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.2 | 5515 
 [tomcat](https://github.com/apache/tomcat) | 7.0.106 | 4852 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.22.Final | 4398 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.21.Final | 4367 
 [beam](https://github.com/apache/beam) | 2.24.0 | 4246 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.0 | 4156 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.0.3 | 4131 
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3844 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
@@ -106,7 +111,7 @@ repo | releases | star
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3045 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.31.v20200723 | 2916 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.32.v20200930 | 2959 
 [kylin](https://github.com/apache/kylin) | 4.0.0-alpha | 2770 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
@@ -114,7 +119,7 @@ repo | releases | star
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.3 | 2019 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.11 | 1957 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20200824 | 1853 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.11.3 | 1867 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
 [avro](https://github.com/apache/avro) | 1.10.0 | 1607 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
@@ -133,7 +138,7 @@ repo | releases | star
 [cxf](https://github.com/apache/cxf) | 3.4.0 | 664 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.3 | 361 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.13 | 384 
 [commons-codec](https://github.com/apache/commons-codec) | 1.15 | 269 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 243 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 173 
