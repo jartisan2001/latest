@@ -46,7 +46,6 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.22.Final | 4398
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.0 | 4156
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3844
-[pmd](https://github.com/pmd/pmd) | 6.28.0 | 3045
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.32.v20200930 | 2959
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.3 | 1867
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.13 | 384
