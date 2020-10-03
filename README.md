@@ -46,6 +46,8 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.22.Final | 4398
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.0 | 4156
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3844
+[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta2 | 2960
+[jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta2 | 2960
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.32.v20200930 | 2959
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.3 | 1867
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.13 | 384
@@ -110,7 +112,7 @@ repo | releases | star
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3045 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 2999 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.32.v20200930 | 2959 
+[jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta2 | 2960 
 [kylin](https://github.com/apache/kylin) | 4.0.0-alpha | 2770 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2150 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2032 
