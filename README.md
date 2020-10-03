@@ -40,9 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[arthas](https://github.com/alibaba/arthas) | 3.4.3 | 23128
 [redisson](https://github.com/redisson/redisson) | 3.13.5 | 14431
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.2 | 5515
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.22.Final | 4398
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.0 | 4156
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3844
