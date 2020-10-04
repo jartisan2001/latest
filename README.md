@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[redisson](https://github.com/redisson/redisson) | 3.13.5 | 14431
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.22.Final | 4398
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.0 | 4156
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3844
