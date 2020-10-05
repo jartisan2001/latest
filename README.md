@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.22.Final | 4398
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.0 | 4156
-[groovy](https://github.com/apache/groovy) | 3.0.6 | 3844
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta2 | 2960
 [jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta2 | 2960
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.32.v20200930 | 2959
