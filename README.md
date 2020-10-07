@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43545
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.22.Final | 4398
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.0 | 4156
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta2 | 2960
@@ -54,8 +55,8 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.2 | 51321 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.4.RELEASE | 50580 
+[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43545 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 43255 
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.19 | 42112 
 [guava](https://github.com/google/guava) | 29.0-jre | 36699 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33068 
 [netty](https://github.com/netty/netty) | 4.1.52.Final | 24656 
