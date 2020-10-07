@@ -41,12 +41,18 @@
 repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43545
+[druid](https://github.com/alibaba/druid) | 1.2.0 | 22320
+[druid](https://github.com/alibaba/druid) | 1.2.1 | 22320
+[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.6 | 14346
+[jib](https://github.com/GoogleContainerTools/jib) | 2.6.0 | 9721
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.22.Final | 4398
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.0 | 4156
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta2 | 2960
 [jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta2 | 2960
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.32.v20200930 | 2959
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.3 | 1867
+[jbpm](https://github.com/kiegroup/jbpm) | 7.44.0.Final | 1154
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc0 | 386
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.13 | 384
 
 ### 收录列表
@@ -62,23 +68,23 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.52.Final | 24656 
 [arthas](https://github.com/alibaba/arthas) | 3.4.3 | 23128 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889 
-[druid](https://github.com/alibaba/druid) | 1.1.24 | 22201 
+[druid](https://github.com/alibaba/druid) | 1.2.1 | 22320 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.1 | 16567 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
 [redisson](https://github.com/redisson/redisson) | 3.13.5 | 14431 
+[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.6 | 14346 
 [nacos](https://github.com/alibaba/nacos) | 1.3.3 | 14149 
 [flink](https://github.com/apache/flink) | 1.11.2 | 14132 
-[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.5 | 13608 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 12856 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 11556 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta3 | 11344 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 11267 
 [mockito](https://github.com/mockito/mockito) | 3.5.13 | 11055 
 [hadoop](https://github.com/apache/hadoop) | 2.10.1 | 10902 
+[jib](https://github.com/GoogleContainerTools/jib) | 2.6.0 | 9721 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
-[jib](https://github.com/GoogleContainerTools/jib) | 2.5.2 | 9351 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.0 | 8984 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
 [zookeeper](https://github.com/apache/zookeeper) | 3.6.2 | 8526 
@@ -124,7 +130,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.21 | 1231 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.43.1.Final | 1146 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.44.0.Final | 1154 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [struts](https://github.com/apache/struts) | 2.5.25 | 1029 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
@@ -136,7 +142,7 @@ repo | releases | star
 [cxf](https://github.com/apache/cxf) | 3.4.0 | 664 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.13 | 384 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc0 | 386 
 [commons-codec](https://github.com/apache/commons-codec) | 1.15 | 269 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 243 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 173 
