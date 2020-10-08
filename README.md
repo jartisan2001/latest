@@ -45,16 +45,13 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.2.1 | 22320
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.6 | 14346
 [jib](https://github.com/GoogleContainerTools/jib) | 2.6.0 | 9721
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.0 | 4156
 [lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
 [solr](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
 [drools](https://github.com/kiegroup/drools) | 7.44.0.Final | 3230
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta2 | 2960
 [jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta2 | 2960
-[jackson](https://github.com/FasterXML/jackson-core) | 2.11.3 | 1867
 [jbpm](https://github.com/kiegroup/jbpm) | 7.44.0.Final | 1154
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc0 | 386
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.13 | 384
 
 ### 收录列表
 ---
