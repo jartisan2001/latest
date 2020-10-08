@@ -46,6 +46,9 @@ repo | releases | star
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.6 | 14346
 [jib](https://github.com/GoogleContainerTools/jib) | 2.6.0 | 9721
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.0 | 4156
+[lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
+[solr](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
+[drools](https://github.com/kiegroup/drools) | 7.44.0.Final | 3230
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta2 | 2960
 [jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta2 | 2960
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.3 | 1867
@@ -101,14 +104,14 @@ repo | releases | star
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4147 
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3844 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 3840 
-[lucene](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
-[solr](https://github.com/apache/lucene-solr) | 8.6.2 | 3724 
+[lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3803 
+[solr](https://github.com/apache/lucene-solr) | 8.6.3 | 3803 
 [hbase](https://github.com/apache/hbase) | 2.3.2 | 3719 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
 [camel](https://github.com/apache/camel) | 3.4.4 | 3410 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
+[drools](https://github.com/kiegroup/drools) | 7.44.0.Final | 3230 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
-[drools](https://github.com/kiegroup/drools) | 7.43.1.Final | 3200 
 [shiro](https://github.com/apache/shiro) | 1.6.0 | 3111 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3045 
