@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43545
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.74 | 22457
 [druid](https://github.com/alibaba/druid) | 1.2.0 | 22320
 [druid](https://github.com/alibaba/druid) | 1.2.1 | 22320
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.6 | 14346
@@ -66,8 +67,8 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.52.Final | 24656 
 [arthas](https://github.com/alibaba/arthas) | 3.4.3 | 23128 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 22889 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.74 | 22457 
 [druid](https://github.com/alibaba/druid) | 1.2.1 | 22320 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.73 | 22059 
 [gson](https://github.com/google/gson) | 2.8.6 | 17321 
 [kafka](https://github.com/apache/kafka) | 2.5.1 | 16567 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 15432 
