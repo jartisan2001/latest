@@ -46,6 +46,9 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.2.1 | 22320
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.6 | 14346
 [jib](https://github.com/GoogleContainerTools/jib) | 2.6.0 | 9721
+[tomcat](https://github.com/apache/tomcat) | 10.0.0-M9 | 4879
+[tomcat](https://github.com/apache/tomcat) | 9.0.39 | 4879
+[tomcat](https://github.com/apache/tomcat) | 8.5.59 | 4879
 [lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
 [solr](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc0 | 386
@@ -89,7 +92,7 @@ repo | releases | star
 [storm](https://github.com/apache/storm) | 2.2.0 | 6093 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 5957 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.36.2 | 5515 
-[tomcat](https://github.com/apache/tomcat) | 7.0.106 | 4852 
+[tomcat](https://github.com/apache/tomcat) | 8.5.59 | 4879 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4506 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.22.Final | 4398 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.6 | 4396 
