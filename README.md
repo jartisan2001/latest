@@ -52,6 +52,7 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 8.5.59 | 4879
 [lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
 [solr](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
+[drools](https://github.com/kiegroup/drools) | 7.45.0.t20201009 | 3232
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc0 | 386
 
 ### 收录列表
@@ -108,7 +109,7 @@ repo | releases | star
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3550 
 [camel](https://github.com/apache/camel) | 3.4.4 | 3410 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3323 
-[drools](https://github.com/kiegroup/drools) | 7.44.0.Final | 3230 
+[drools](https://github.com/kiegroup/drools) | 7.45.0.t20201009 | 3232 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3201 
 [shiro](https://github.com/apache/shiro) | 1.6.0 | 3111 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3086 
