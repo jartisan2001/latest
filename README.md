@@ -46,6 +46,7 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.2.1 | 22320
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.6 | 14346
 [jib](https://github.com/GoogleContainerTools/jib) | 2.6.0 | 9721
+[lombok](https://github.com/rzwitserloot/lombok) | 1.18.14 | 9624
 [tomcat](https://github.com/apache/tomcat) | 10.0.0-M9 | 4879
 [tomcat](https://github.com/apache/tomcat) | 9.0.39 | 4879
 [tomcat](https://github.com/apache/tomcat) | 8.5.59 | 4879
@@ -82,9 +83,9 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.5.13 | 11055 
 [hadoop](https://github.com/apache/hadoop) | 2.10.1 | 10902 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.6.0 | 9721 
+[lombok](https://github.com/rzwitserloot/lombok) | 1.18.14 | 9624 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.0 | 8984 
-[lombok](https://github.com/rzwitserloot/lombok) | 1.18.12 | 8877 
 [zookeeper](https://github.com/apache/zookeeper) | 3.6.2 | 8526 
 [junit4](https://github.com/junit-team/junit4) | 4.13 | 7764 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6285 
