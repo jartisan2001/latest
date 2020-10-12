@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43545
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.74 | 22457
 [druid](https://github.com/alibaba/druid) | 1.2.0 | 22320
 [druid](https://github.com/alibaba/druid) | 1.2.1 | 22320
@@ -48,8 +47,6 @@ repo | releases | star
 [jib](https://github.com/GoogleContainerTools/jib) | 2.6.0 | 9721
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.14 | 9624
 [junit4](https://github.com/junit-team/junit4) | 4.13.1 | 7971
-[tomcat](https://github.com/apache/tomcat) | 10.0.0-M9 | 4879
-[tomcat](https://github.com/apache/tomcat) | 9.0.39 | 4879
 [tomcat](https://github.com/apache/tomcat) | 8.5.59 | 4879
 [lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
 [solr](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
