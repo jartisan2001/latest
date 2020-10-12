@@ -53,6 +53,8 @@ repo | releases | star
 [lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
 [solr](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
 [drools](https://github.com/kiegroup/drools) | 7.45.0.t20201009 | 3232
+[jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201009 | 1155
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.6 | 672
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc0 | 386
 
 ### 收录列表
@@ -130,7 +132,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1269 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.21 | 1231 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1209 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.44.0.Final | 1154 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201009 | 1155 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1075 
 [struts](https://github.com/apache/struts) | 2.5.25 | 1029 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 950 
@@ -139,8 +141,8 @@ repo | releases | star
 [commons-io](https://github.com/apache/commons-io) | 2.8.0 | 726 
 [elide](https://github.com/yahoo/elide) | 4.6.8 | 711 
 [github-api](https://github.com/kohsuke/github-api) | 1.116 | 696 
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.6 | 672 
 [cxf](https://github.com/apache/cxf) | 3.4.0 | 664 
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.5 | 606 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 596 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc0 | 386 
 [commons-codec](https://github.com/apache/commons-codec) | 1.15 | 269 
