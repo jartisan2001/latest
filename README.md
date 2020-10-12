@@ -47,12 +47,14 @@ repo | releases | star
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.6 | 14346
 [jib](https://github.com/GoogleContainerTools/jib) | 2.6.0 | 9721
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.14 | 9624
+[junit4](https://github.com/junit-team/junit4) | 4.13.1 | 7971
 [tomcat](https://github.com/apache/tomcat) | 10.0.0-M9 | 4879
 [tomcat](https://github.com/apache/tomcat) | 9.0.39 | 4879
 [tomcat](https://github.com/apache/tomcat) | 8.5.59 | 4879
 [lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
 [solr](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
 [drools](https://github.com/kiegroup/drools) | 7.45.0.t20201009 | 3232
+[jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc1 | 1869
 [jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201009 | 1155
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.6 | 672
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc0 | 386
@@ -90,7 +92,7 @@ repo | releases | star
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9475 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.0 | 8984 
 [zookeeper](https://github.com/apache/zookeeper) | 3.6.2 | 8526 
-[junit4](https://github.com/junit-team/junit4) | 4.13 | 7764 
+[junit4](https://github.com/junit-team/junit4) | 4.13.1 | 7971 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 6285 
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta2 | 6140 
 [storm](https://github.com/apache/storm) | 2.2.0 | 6093 
@@ -125,7 +127,7 @@ repo | releases | star
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.3 | 2019 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.11 | 1957 
 [flume](https://github.com/apache/flume) | 1.9.0 | 1907 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.11.3 | 1867 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc1 | 1869 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1808 
 [avro](https://github.com/apache/avro) | 1.10.0 | 1607 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1404 
