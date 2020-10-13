@@ -41,13 +41,8 @@
 repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.74 | 22457
-[druid](https://github.com/alibaba/druid) | 1.2.0 | 22320
-[druid](https://github.com/alibaba/druid) | 1.2.1 | 22320
-[mybatis](https://github.com/mybatis/mybatis-3) | 3.5.6 | 14346
-[jib](https://github.com/GoogleContainerTools/jib) | 2.6.0 | 9721
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.14 | 9624
 [junit4](https://github.com/junit-team/junit4) | 4.13.1 | 7971
-[tomcat](https://github.com/apache/tomcat) | 8.5.59 | 4879
 [lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
 [solr](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
 [drools](https://github.com/kiegroup/drools) | 7.45.0.t20201009 | 3232
@@ -55,7 +50,6 @@ repo | releases | star
 [jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201009 | 1155
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.6 | 672
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc1 | 387
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc0 | 386
 
 ### 收录列表
 ---
