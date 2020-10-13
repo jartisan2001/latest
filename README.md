@@ -54,6 +54,7 @@ repo | releases | star
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc1 | 1869
 [jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201009 | 1155
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.6 | 672
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc1 | 387
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc0 | 386
 
 ### 收录列表
@@ -143,7 +144,7 @@ repo | releases | star
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.6 | 672 
 [cxf](https://github.com/apache/cxf) | 3.4.0 | 669 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 645 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc0 | 387 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc1 | 387 
 [commons-codec](https://github.com/apache/commons-codec) | 1.15 | 275 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 244 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 184 
