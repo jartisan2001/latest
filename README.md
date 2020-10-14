@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.74 | 22457
+[redisson](https://github.com/redisson/redisson) | 3.13.6 | 14522
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.14 | 9624
 [junit4](https://github.com/junit-team/junit4) | 4.13.1 | 7971
 [lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
@@ -70,7 +71,7 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 17193 
 [kafka](https://github.com/apache/kafka) | 2.6.0 | 17058 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 15943 
-[redisson](https://github.com/redisson/redisson) | 3.13.5 | 14507 
+[redisson](https://github.com/redisson/redisson) | 3.13.6 | 14522 
 [nacos](https://github.com/alibaba/nacos) | 1.3.3 | 14446 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.6 | 14367 
 [flink](https://github.com/apache/flink) | 1.11.2 | 14331 
