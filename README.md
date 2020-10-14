@@ -40,10 +40,12 @@
 ---
 repo | releases | star
 ---|---|---
+[netty](https://github.com/netty/netty) | 4.1.53.Final | 24925
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.74 | 22457
 [redisson](https://github.com/redisson/redisson) | 3.13.6 | 14522
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.14 | 9624
 [junit4](https://github.com/junit-team/junit4) | 4.13.1 | 7971
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.1 | 4197
 [lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
 [solr](https://github.com/apache/lucene-solr) | 8.6.3 | 3803
 [drools](https://github.com/kiegroup/drools) | 7.45.0.t20201009 | 3232
@@ -62,7 +64,7 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43583 
 [guava](https://github.com/google/guava) | 29.0-jre | 39010 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33743 
-[netty](https://github.com/netty/netty) | 4.1.52.Final | 24908 
+[netty](https://github.com/netty/netty) | 4.1.53.Final | 24925 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 23415 
 [arthas](https://github.com/alibaba/arthas) | 3.4.3 | 23254 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.74 | 22472 
@@ -98,7 +100,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.22.Final | 4409 
 [beam](https://github.com/apache/beam) | 2.24.0 | 4296 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4200 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.0 | 4192 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.1 | 4197 
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3858 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3808 
 [solr](https://github.com/apache/lucene-solr) | 8.6.3 | 3808 
