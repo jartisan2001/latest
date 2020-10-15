@@ -42,7 +42,6 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.53.Final | 24925
 [redisson](https://github.com/redisson/redisson) | 3.13.6 | 14522
-[lombok](https://github.com/rzwitserloot/lombok) | 1.18.14 | 9624
 [junit4](https://github.com/junit-team/junit4) | 4.13.1 | 7971
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.1 | 4197
 [drools](https://github.com/kiegroup/drools) | 7.45.0.t20201009 | 3232
