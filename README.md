@@ -46,6 +46,7 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.1 | 4197
 [drools](https://github.com/kiegroup/drools) | 7.45.0.t20201009 | 3232
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc1 | 1869
+[jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201014 | 1159
 [jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201009 | 1155
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.6 | 672
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc1 | 387
@@ -125,7 +126,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1348 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1280 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.21 | 1258 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201009 | 1155 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201014 | 1159 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1130 
 [poi](https://github.com/apache/poi) | 4.1.2 | 1049 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 1034 
