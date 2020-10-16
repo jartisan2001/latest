@@ -42,9 +42,13 @@ repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.53.Final | 24925
 [redisson](https://github.com/redisson/redisson) | 3.13.6 | 14522
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.4 | 11398
+[lombok](https://github.com/rzwitserloot/lombok) | 1.18.16 | 9645
 [junit4](https://github.com/junit-team/junit4) | 4.13.1 | 7971
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.1 | 4197
+[drools](https://github.com/kiegroup/drools) | 7.45.0.t20201014 | 3242
 [drools](https://github.com/kiegroup/drools) | 7.45.0.t20201009 | 3232
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.4 | 2043
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc1 | 1869
 [jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201014 | 1159
 [jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201009 | 1155
@@ -76,12 +80,12 @@ repo | releases | star
 [flink](https://github.com/apache/flink) | 1.11.2 | 14331 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 13849 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 12183 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.Beta3 | 11384 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.4 | 11398 
 [mockito](https://github.com/mockito/mockito) | 3.5.13 | 11092 
 [hadoop](https://github.com/apache/hadoop) | 2.10.1 | 10946 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.6.0 | 9742 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9702 
-[lombok](https://github.com/rzwitserloot/lombok) | 1.18.14 | 9632 
+[lombok](https://github.com/rzwitserloot/lombok) | 1.18.16 | 9645 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.0 | 9181 
 [zookeeper](https://github.com/apache/zookeeper) | 3.6.2 | 8638 
 [junit4](https://github.com/junit-team/junit4) | 4.13.1 | 7970 
@@ -107,7 +111,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3476 
 [camel](https://github.com/apache/camel) | 3.4.4 | 3437 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3374 
-[drools](https://github.com/kiegroup/drools) | 7.45.0.t20201009 | 3234 
+[drools](https://github.com/kiegroup/drools) | 7.45.0.t20201014 | 3242 
 [shiro](https://github.com/apache/shiro) | 1.6.0 | 3201 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 3117 
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3071 
@@ -116,7 +120,7 @@ repo | releases | star
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2330 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2244 
 [weixin-popular](https://github.com/liyiorg/weixin-popular) | 2.8.30 | 2209 
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.3 | 2036 
+[spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.4 | 2043 
 [flume](https://github.com/apache/flume) | 1.9.0 | 2013 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.11 | 2004 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1945 
