@@ -40,6 +40,8 @@
 ---
 repo | releases | star
 ---|---|---
+[guava](https://github.com/google/guava) | 30.0-android | 39037
+[guava](https://github.com/google/guava) | 30.0-jre | 39037
 [netty](https://github.com/netty/netty) | 4.1.53.Final | 24925
 [redisson](https://github.com/redisson/redisson) | 3.13.6 | 14522
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.4 | 11398
@@ -61,7 +63,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.4.RELEASE | 51041 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 44232 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43583 
-[guava](https://github.com/google/guava) | 29.0-jre | 39010 
+[guava](https://github.com/google/guava) | 30.0-jre | 39037 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33743 
 [netty](https://github.com/netty/netty) | 4.1.53.Final | 24925 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 23415 
