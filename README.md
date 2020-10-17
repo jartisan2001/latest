@@ -46,13 +46,11 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.13.6 | 14522
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.4 | 11398
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.16 | 9645
-[junit4](https://github.com/junit-team/junit4) | 4.13.1 | 7971
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.1 | 4197
 [drools](https://github.com/kiegroup/drools) | 7.45.0.t20201014 | 3242
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.4 | 2043
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc1 | 1869
 [jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201014 | 1159
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.6 | 672
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc1 | 387
 
 ### 收录列表
