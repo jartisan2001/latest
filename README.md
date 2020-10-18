@@ -49,7 +49,6 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.1 | 4197
 [drools](https://github.com/kiegroup/drools) | 7.45.0.t20201014 | 3242
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.4 | 2043
-[jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc1 | 1869
 [jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201014 | 1159
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc1 | 387
 
