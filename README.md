@@ -42,15 +42,12 @@ repo | releases | star
 ---|---|---
 [guava](https://github.com/google/guava) | 30.0-android | 39037
 [guava](https://github.com/google/guava) | 30.0-jre | 39037
-[netty](https://github.com/netty/netty) | 4.1.53.Final | 24925
-[redisson](https://github.com/redisson/redisson) | 3.13.6 | 14522
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.4 | 11398
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.16 | 9645
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.1 | 4197
 [drools](https://github.com/kiegroup/drools) | 7.45.0.t20201014 | 3242
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.4 | 2043
 [jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201014 | 1159
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc1 | 387
 
 ### 收录列表
 ---
