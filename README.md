@@ -43,11 +43,13 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 30.0-android | 39037
 [guava](https://github.com/google/guava) | 30.0-jre | 39037
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.4 | 11398
+[mockito](https://github.com/mockito/mockito) | 3.5.15 | 11115
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.16 | 9645
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.1 | 4197
 [drools](https://github.com/kiegroup/drools) | 7.45.0.t20201014 | 3242
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.4 | 2043
 [jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201014 | 1159
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc2 | 388
 
 ### 收录列表
 ---
@@ -136,7 +138,7 @@ repo | releases | star
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.6 | 673 
 [cxf](https://github.com/apache/cxf) | 3.4.0 | 671 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 645 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc1 | 388 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc2 | 388 
 [commons-codec](https://github.com/apache/commons-codec) | 1.15 | 277 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 244 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 185 
