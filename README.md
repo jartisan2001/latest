@@ -45,6 +45,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.4 | 11398
 [mockito](https://github.com/mockito/mockito) | 3.5.15 | 11115
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.16 | 9645
+[camel](https://github.com/apache/camel) | 3.6.0 | 3449
 [drools](https://github.com/kiegroup/drools) | 7.45.0.t20201014 | 3242
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.1.4 | 2043
 [jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201014 | 1159
@@ -104,7 +105,7 @@ repo | releases | star
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3704 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3673 
 [ignite](https://github.com/apache/ignite) | 2.8.1 | 3485 
-[camel](https://github.com/apache/camel) | 3.4.4 | 3449 
+[camel](https://github.com/apache/camel) | 3.6.0 | 3449 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3392 
 [drools](https://github.com/kiegroup/drools) | 7.45.0.t20201014 | 3252 
 [shiro](https://github.com/apache/shiro) | 1.6.0 | 3213 
