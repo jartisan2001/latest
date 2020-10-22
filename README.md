@@ -45,7 +45,9 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.5.15 | 11115
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.16 | 9645
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.7 | 4504
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.2 | 4222
 [camel](https://github.com/apache/camel) | 3.6.0 | 3449
+[jetty server](https://github.com/eclipse/jetty.project) | 9.3.29.v20201019 | 2972
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc2 | 388
 
 ### 收录列表
@@ -93,7 +95,7 @@ repo | releases | star
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.7 | 4504 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.22.Final | 4422 
 [beam](https://github.com/apache/beam) | 2.24.0 | 4318 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.1 | 4221 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.2 | 4222 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4220 
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3861 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3828 
@@ -101,14 +103,14 @@ repo | releases | star
 [hbase](https://github.com/apache/hbase) | 2.3.2 | 3749 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3706 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3675 
-[ignite](https://github.com/apache/ignite) | 2.9.0 | 3486 
+[ignite](https://github.com/apache/ignite) | 2.9.0 | 3490 
 [camel](https://github.com/apache/camel) | 3.6.0 | 3452 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3395 
 [drools](https://github.com/kiegroup/drools) | 7.45.0.t20201014 | 3253 
 [shiro](https://github.com/apache/shiro) | 1.6.0 | 3217 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 3125 
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3092 
-[jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta2 | 2971 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.3.29.v20201019 | 2972 
 [kylin](https://github.com/apache/kylin) | 3.1.1 | 2798 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2340 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2255 
