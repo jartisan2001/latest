@@ -43,10 +43,8 @@ repo | releases | star
 [guava](https://github.com/google/guava) | 30.0-android | 39037
 [guava](https://github.com/google/guava) | 30.0-jre | 39037
 [mockito](https://github.com/mockito/mockito) | 3.5.15 | 11115
-[lombok](https://github.com/rzwitserloot/lombok) | 1.18.16 | 9645
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.7 | 4504
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.2 | 4222
-[camel](https://github.com/apache/camel) | 3.6.0 | 3449
 [jetty server](https://github.com/eclipse/jetty.project) | 9.3.29.v20201019 | 2972
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc2 | 388
 
