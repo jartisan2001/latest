@@ -42,8 +42,6 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.13 | 51900
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.3 | 51900
-[guava](https://github.com/google/guava) | 30.0-android | 39037
-[guava](https://github.com/google/guava) | 30.0-jre | 39037
 [nacos](https://github.com/alibaba/nacos) | 1.4.0-BETA | 14579
 [mockito](https://github.com/mockito/mockito) | 3.5.15 | 11115
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.7 | 4504
