@@ -49,6 +49,9 @@ repo | releases | star
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.7 | 4504
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.2 | 4222
 [jetty server](https://github.com/eclipse/jetty.project) | 9.3.29.v20201019 | 2972
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.33.v20201020 | 2972
+[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta3 | 2972
+[jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta3 | 2972
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc2 | 388
 
 ### 收录列表
@@ -111,7 +114,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.6.0 | 3220 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 3125 
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3092 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.3.29.v20201019 | 2972 
+[jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta3 | 2972 
 [kylin](https://github.com/apache/kylin) | 3.1.1 | 2799 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2340 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2257 
