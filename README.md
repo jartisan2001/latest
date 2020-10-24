@@ -44,12 +44,16 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.3 | 51900
 [nacos](https://github.com/alibaba/nacos) | 1.4.0-BETA | 14579
 [mockito](https://github.com/mockito/mockito) | 3.5.15 | 11115
+[joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4505
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.7 | 4504
+[beam](https://github.com/apache/beam) | 2.25.0 | 4321
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.2 | 4222
+[drools](https://github.com/kiegroup/drools) | 7.45.0.Final | 3260
 [jetty server](https://github.com/eclipse/jetty.project) | 9.3.29.v20201019 | 2972
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.33.v20201020 | 2972
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta3 | 2972
 [jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta3 | 2972
+[jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.Final | 1162
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc2 | 388
 
 ### 收录列表
@@ -94,9 +98,9 @@ repo | releases | star
 [tomcat](https://github.com/apache/tomcat) | 8.5.59 | 4922 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4598 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 4534 
-[joda-time](https://github.com/JodaOrg/joda-time) | 2.10.7 | 4505 
+[joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4505 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.22.Final | 4422 
-[beam](https://github.com/apache/beam) | 2.24.0 | 4322 
+[beam](https://github.com/apache/beam) | 2.25.0 | 4321 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.2 | 4227 
 [junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4224 
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3867 
@@ -108,7 +112,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.9.0 | 3491 
 [camel](https://github.com/apache/camel) | 3.6.0 | 3453 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3398 
-[drools](https://github.com/kiegroup/drools) | 7.45.0.t20201014 | 3259 
+[drools](https://github.com/kiegroup/drools) | 7.45.0.Final | 3260 
 [shiro](https://github.com/apache/shiro) | 1.6.0 | 3222 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 3125 
 [pmd](https://github.com/pmd/pmd) | 6.28.0 | 3093 
@@ -127,7 +131,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1353 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1283 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.21 | 1266 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.t20201014 | 1162 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.Final | 1162 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1136 
 [poi](https://github.com/apache/poi) | 4.1.2 | 1059 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 1041 
