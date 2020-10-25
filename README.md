@@ -43,7 +43,6 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 6.8.13 | 51900
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.3 | 51900
 [nacos](https://github.com/alibaba/nacos) | 1.4.0-BETA | 14579
-[mockito](https://github.com/mockito/mockito) | 3.5.15 | 11115
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4505
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.7 | 4504
 [beam](https://github.com/apache/beam) | 2.25.0 | 4321
@@ -55,7 +54,6 @@ repo | releases | star
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta3 | 2972
 [jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta3 | 2972
 [jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.Final | 1162
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc2 | 388
 
 ### 收录列表
 ---
