@@ -47,14 +47,11 @@ repo | releases | star
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.7 | 4504
 [beam](https://github.com/apache/beam) | 2.25.0 | 4321
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.2 | 4222
-[drools](https://github.com/kiegroup/drools) | 7.45.0.Final | 3260
 [pmd](https://github.com/pmd/pmd) | 6.29.0 | 3094
-[jetty server](https://github.com/eclipse/jetty.project) | 9.3.29.v20201019 | 2972
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.33.v20201020 | 2972
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta3 | 2972
 [jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta3 | 2972
 [jackson](https://github.com/FasterXML/jackson-core) | 2.6.7.4 | 1877
-[jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.Final | 1162
 
 ### 收录列表
 ---
