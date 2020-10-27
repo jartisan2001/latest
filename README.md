@@ -46,6 +46,7 @@ repo | releases | star
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4505
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.7 | 4504
 [beam](https://github.com/apache/beam) | 2.25.0 | 4321
+[junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4228
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.2 | 4222
 [pmd](https://github.com/pmd/pmd) | 6.29.0 | 3094
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.33.v20201020 | 2972
@@ -99,7 +100,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.22.Final | 4425 
 [beam](https://github.com/apache/beam) | 2.25.0 | 4323 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.2 | 4233 
-[junit5](https://github.com/junit-team/junit5) | 5.7.0 | 4225 
+[junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4228 
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3869 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3832 
 [solr](https://github.com/apache/lucene-solr) | 8.6.3 | 3832 
