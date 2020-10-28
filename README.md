@@ -48,6 +48,7 @@ repo | releases | star
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta3 | 2972
 [jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta3 | 2972
 [jackson](https://github.com/FasterXML/jackson-core) | 2.6.7.4 | 1877
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc3 | 389
 
 ### 收录列表
 ---
@@ -136,7 +137,7 @@ repo | releases | star
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.6 | 674 
 [cxf](https://github.com/apache/cxf) | 3.4.0 | 673 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 646 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc2 | 389 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc3 | 389 
 [commons-codec](https://github.com/apache/commons-codec) | 1.15 | 277 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 245 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 185 
