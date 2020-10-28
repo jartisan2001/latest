@@ -40,13 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
-[nacos](https://github.com/alibaba/nacos) | 1.4.0-BETA | 14579
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4505
 [junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4228
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.2 | 4222
 [pmd](https://github.com/pmd/pmd) | 6.29.0 | 3094
-[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0.beta3 | 2972
-[jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta3 | 2972
 [jackson](https://github.com/FasterXML/jackson-core) | 2.6.7.4 | 1877
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc3 | 389
 
