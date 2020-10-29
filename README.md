@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[mockito](https://github.com/mockito/mockito) | 3.6.0 | 11147
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4505
 [junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4228
 [pmd](https://github.com/pmd/pmd) | 6.29.0 | 3094
@@ -72,7 +73,7 @@ repo | releases | star
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 13941 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 12263 
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.4 | 11426 
-[mockito](https://github.com/mockito/mockito) | 3.5.15 | 11130 
+[mockito](https://github.com/mockito/mockito) | 3.6.0 | 11147 
 [hadoop](https://github.com/apache/hadoop) | 2.10.1 | 10990 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.6.0 | 9802 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9730 
