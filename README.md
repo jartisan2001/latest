@@ -43,7 +43,6 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.6.0 | 11147
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4505
 [junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4228
-[shiro](https://github.com/apache/shiro) | 1.7.0 | 3231
 [pmd](https://github.com/pmd/pmd) | 6.29.0 | 3094
 [jackson](https://github.com/FasterXML/jackson-core) | 2.6.7.4 | 1877
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc3 | 389
