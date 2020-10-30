@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.18.RELEASE | 51372
 [mockito](https://github.com/mockito/mockito) | 3.6.0 | 11147
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4505
 [junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4228
@@ -52,7 +53,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.3 | 51928 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.3.4.RELEASE | 51275 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.1.18.RELEASE | 51372 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 44399 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43650 
 [guava](https://github.com/google/guava) | 30.0-jre | 39118 
