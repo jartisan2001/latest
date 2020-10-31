@@ -43,7 +43,10 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.18.RELEASE | 51372
 [mockito](https://github.com/mockito/mockito) | 3.6.0 | 11147
 [junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4228
+[drools](https://github.com/kiegroup/drools) | 7.46.0.t20201030 | 3275
 [jackson](https://github.com/FasterXML/jackson-core) | 2.6.7.4 | 1877
+[jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.t20201030 | 1167
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.23 | 396
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc3 | 389
 
 ### 收录列表
@@ -102,7 +105,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.9.0 | 3500 
 [camel](https://github.com/apache/camel) | 3.6.0 | 3472 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3410 
-[drools](https://github.com/kiegroup/drools) | 7.45.0.Final | 3275 
+[drools](https://github.com/kiegroup/drools) | 7.46.0.t20201030 | 3275 
 [shiro](https://github.com/apache/shiro) | 1.7.0 | 3233 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 3132 
 [pmd](https://github.com/pmd/pmd) | 6.29.0 | 3099 
@@ -121,7 +124,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1356 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1284 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.21 | 1270 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.45.0.Final | 1167 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.t20201030 | 1167 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1137 
 [poi](https://github.com/apache/poi) | 4.1.2 | 1061 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.13.3 | 1045 
@@ -133,7 +136,7 @@ repo | releases | star
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.6 | 676 
 [cxf](https://github.com/apache/cxf) | 3.4.0 | 675 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 649 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc3 | 396 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.23 | 396 
 [commons-codec](https://github.com/apache/commons-codec) | 1.15 | 278 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 247 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 185 
