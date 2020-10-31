@@ -44,7 +44,6 @@ repo | releases | star
 [mockito](https://github.com/mockito/mockito) | 3.6.0 | 11147
 [junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4228
 [drools](https://github.com/kiegroup/drools) | 7.46.0.t20201030 | 3275
-[jackson](https://github.com/FasterXML/jackson-core) | 2.6.7.4 | 1877
 [jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.t20201030 | 1167
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.23 | 396
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc3 | 389
