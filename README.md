@@ -43,14 +43,11 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.11.RELEASE | 51425
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.5.RELEASE | 51412
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.18.RELEASE | 51372
-[mockito](https://github.com/mockito/mockito) | 3.6.0 | 11147
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.37 | 5567
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.23.Final | 4435
-[junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4228
 [drools](https://github.com/kiegroup/drools) | 7.46.0.t20201030 | 3275
 [jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.t20201030 | 1167
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.23 | 396
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc3 | 389
 
 ### 收录列表
 ---
