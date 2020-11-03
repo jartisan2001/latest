@@ -50,6 +50,7 @@ repo | releases | star
 [hbase](https://github.com/apache/hbase) | 2.3.3 | 3772
 [drools](https://github.com/kiegroup/drools) | 7.46.0.t20201030 | 3275
 [jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.t20201030 | 1167
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc4 | 397
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.23 | 396
 
 ### 收录列表
@@ -139,7 +140,7 @@ repo | releases | star
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.6 | 676 
 [cxf](https://github.com/apache/cxf) | 3.4.0 | 676 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 649 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.23 | 397 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc4 | 397 
 [commons-codec](https://github.com/apache/commons-codec) | 1.15 | 278 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 247 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 185 
