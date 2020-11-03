@@ -47,7 +47,6 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR1 | 11452
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.37 | 5567
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.23.Final | 4435
-[hbase](https://github.com/apache/hbase) | 2.3.3 | 3772
 [drools](https://github.com/kiegroup/drools) | 7.46.0.t20201030 | 3275
 [jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.t20201030 | 1167
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc4 | 397
