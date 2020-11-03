@@ -43,8 +43,11 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.11.RELEASE | 51425
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.5.RELEASE | 51412
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.18.RELEASE | 51372
+[nacos](https://github.com/alibaba/nacos) | 1.4.0 | 14748
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR1 | 11452
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.37 | 5567
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.23.Final | 4435
+[hbase](https://github.com/apache/hbase) | 2.3.3 | 3772
 [drools](https://github.com/kiegroup/drools) | 7.46.0.t20201030 | 3275
 [jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.t20201030 | 1167
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.23 | 396
@@ -68,13 +71,13 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 17419 
 [kafka](https://github.com/apache/kafka) | 2.6.0 | 17187 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 16214 
-[nacos](https://github.com/alibaba/nacos) | 1.4.0-BETA | 14739 
+[nacos](https://github.com/alibaba/nacos) | 1.4.0 | 14748 
 [redisson](https://github.com/redisson/redisson) | 3.13.6 | 14706 
 [flink](https://github.com/apache/flink) | 1.11.2 | 14495 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.6 | 14475 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 13997 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 4.1.1 | 12301 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.4 | 11448 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR1 | 11452 
 [mockito](https://github.com/mockito/mockito) | 3.6.0 | 11160 
 [hadoop](https://github.com/apache/hadoop) | 2.10.1 | 11002 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.6.0 | 9830 
@@ -99,7 +102,7 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3876 
 [lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3842 
 [solr](https://github.com/apache/lucene-solr) | 8.6.3 | 3842 
-[hbase](https://github.com/apache/hbase) | 2.3.2 | 3769 
+[hbase](https://github.com/apache/hbase) | 2.3.3 | 3772 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3713 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3684 
 [ignite](https://github.com/apache/ignite) | 2.9.0 | 3503 
