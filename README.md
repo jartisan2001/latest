@@ -43,12 +43,16 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.11.RELEASE | 51425
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.5.RELEASE | 51412
 [springboot](https://github.com/spring-projects/spring-boot) | 2.1.18.RELEASE | 51372
+[druid](https://github.com/alibaba/druid) | 1.2.2 | 22511
 [nacos](https://github.com/alibaba/nacos) | 1.4.0 | 14748
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR1 | 11452
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.37 | 5567
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.23.Final | 4435
+[lucene](https://github.com/apache/lucene-solr) | 8.7.0 | 3847
+[solr](https://github.com/apache/lucene-solr) | 8.7.0 | 3847
 [drools](https://github.com/kiegroup/drools) | 7.46.0.t20201030 | 3275
 [jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.t20201030 | 1167
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 677
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc4 | 397
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.23 | 396
 
@@ -66,7 +70,7 @@ repo | releases | star
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 23624 
 [arthas](https://github.com/alibaba/arthas) | 3.4.3 | 23499 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.74 | 22549 
-[druid](https://github.com/alibaba/druid) | 1.2.1 | 22492 
+[druid](https://github.com/alibaba/druid) | 1.2.2 | 22511 
 [gson](https://github.com/google/gson) | 2.8.6 | 18721 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 17419 
 [kafka](https://github.com/apache/kafka) | 2.6.0 | 17187 
@@ -100,8 +104,8 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.2 | 4255 
 [junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4246 
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3876 
-[lucene](https://github.com/apache/lucene-solr) | 8.6.3 | 3842 
-[solr](https://github.com/apache/lucene-solr) | 8.6.3 | 3842 
+[lucene](https://github.com/apache/lucene-solr) | 8.7.0 | 3847 
+[solr](https://github.com/apache/lucene-solr) | 8.7.0 | 3847 
 [hbase](https://github.com/apache/hbase) | 2.3.3 | 3772 
 [cglib](https://github.com/cglib/cglib) | 3.3.0 | 3713 
 [JSON-java](https://github.com/stleary/JSON-java) | 20200518 | 3684 
@@ -136,7 +140,7 @@ repo | releases | star
 [commons-io](https://github.com/apache/commons-io) | 2.8.0 | 743 
 [elide](https://github.com/yahoo/elide) | 4.6.8 | 720 
 [github-api](https://github.com/kohsuke/github-api) | 1.116 | 707 
-[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.6 | 676 
+[dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 677 
 [cxf](https://github.com/apache/cxf) | 3.4.0 | 676 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 649 
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc4 | 397 
