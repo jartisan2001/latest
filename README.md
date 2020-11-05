@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.5.RELEASE | 51412
+[arthas](https://github.com/alibaba/arthas) | 3.4.4 | 23535
 [druid](https://github.com/alibaba/druid) | 1.2.2 | 22511
 [nacos](https://github.com/alibaba/nacos) | 1.4.0 | 14748
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR1 | 11452
@@ -66,7 +67,7 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33910 
 [netty](https://github.com/netty/netty) | 4.1.53.Final | 25095 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 23624 
-[arthas](https://github.com/alibaba/arthas) | 3.4.3 | 23499 
+[arthas](https://github.com/alibaba/arthas) | 3.4.4 | 23535 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.74 | 22549 
 [druid](https://github.com/alibaba/druid) | 1.2.2 | 22511 
 [gson](https://github.com/google/gson) | 2.8.6 | 18721 
