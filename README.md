@@ -50,6 +50,7 @@ repo | releases | star
 [lucene](https://github.com/apache/lucene-solr) | 8.7.0 | 3847
 [solr](https://github.com/apache/lucene-solr) | 8.7.0 | 3847
 [drools](https://github.com/kiegroup/drools) | 7.46.0.t20201030 | 3275
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.34.v20201102 | 2988
 [jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.t20201030 | 1167
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 677
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc4 | 397
@@ -91,7 +92,7 @@ repo | releases | star
 [junit4](https://github.com/junit-team/junit4) | 4.13.1 | 7988 
 [Activiti](https://github.com/Activiti/Activiti) | 7.1.0.M5 | 7130 
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 6890 
-[cassandra](https://github.com/apache/cassandra) | 4.0-beta2 | 6256 
+[cassandra](https://github.com/apache/cassandra) | 4.0-beta3 | 6261 
 [storm](https://github.com/apache/storm) | 2.2.0 | 6159 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.37 | 5568 
 [tomcat](https://github.com/apache/tomcat) | 8.5.59 | 4939 
@@ -115,7 +116,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.7.0 | 3233 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 3132 
 [pmd](https://github.com/pmd/pmd) | 6.29.0 | 3100 
-[jetty server](https://github.com/eclipse/jetty.project) | 11.0.0.beta3 | 2981 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.34.v20201102 | 2988 
 [kylin](https://github.com/apache/kylin) | 3.1.1 | 2821 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2349 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2268 
