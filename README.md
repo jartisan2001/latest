@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.3.5.RELEASE | 51412
 [arthas](https://github.com/alibaba/arthas) | 3.4.4 | 23535
 [druid](https://github.com/alibaba/druid) | 1.2.2 | 22511
 [nacos](https://github.com/alibaba/nacos) | 1.4.0 | 14748
@@ -49,9 +48,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.23.Final | 4435
 [lucene](https://github.com/apache/lucene-solr) | 8.7.0 | 3847
 [solr](https://github.com/apache/lucene-solr) | 8.7.0 | 3847
-[drools](https://github.com/kiegroup/drools) | 7.46.0.t20201030 | 3275
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.34.v20201102 | 2988
-[jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.t20201030 | 1167
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 677
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc4 | 397
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.23 | 396
