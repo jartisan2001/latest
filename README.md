@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-1 | 44633
 [arthas](https://github.com/alibaba/arthas) | 3.4.4 | 23535
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.75 | 22577
 [druid](https://github.com/alibaba/druid) | 1.2.2 | 22511
@@ -47,6 +48,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR1 | 11452
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.37 | 5567
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.23.Final | 4435
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.3 | 4271
 [lucene](https://github.com/apache/lucene-solr) | 8.7.0 | 3847
 [solr](https://github.com/apache/lucene-solr) | 8.7.0 | 3847
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.34.v20201102 | 2988
@@ -60,7 +62,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.3 | 52022 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.5.RELEASE | 51427 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.13.0 | 44556 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-1 | 44633 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43684 
 [guava](https://github.com/google/guava) | 30.0-jre | 39181 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33910 
@@ -99,7 +101,7 @@ repo | releases | star
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4512 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.23.Final | 4435 
 [beam](https://github.com/apache/beam) | 2.25.0 | 4337 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.2 | 4255 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.3 | 4271 
 [junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4246 
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3876 
 [lucene](https://github.com/apache/lucene-solr) | 8.7.0 | 3847 
