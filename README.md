@@ -46,7 +46,6 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.2.2 | 22511
 [nacos](https://github.com/alibaba/nacos) | 1.4.0 | 14748
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR1 | 11452
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.37 | 5567
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.23.Final | 4435
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.3 | 4271
 [lucene](https://github.com/apache/lucene-solr) | 8.7.0 | 3847
@@ -54,7 +53,6 @@ repo | releases | star
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.34.v20201102 | 2988
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 677
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc4 | 397
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.23 | 396
 
 ### 收录列表
 ---
