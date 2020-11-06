@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [arthas](https://github.com/alibaba/arthas) | 3.4.4 | 23535
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.75 | 22577
 [druid](https://github.com/alibaba/druid) | 1.2.2 | 22511
 [nacos](https://github.com/alibaba/nacos) | 1.4.0 | 14748
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR1 | 11452
@@ -66,7 +67,7 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.53.Final | 25095 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 23624 
 [arthas](https://github.com/alibaba/arthas) | 3.4.4 | 23535 
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.74 | 22549 
+[fastjson](https://github.com/alibaba/fastjson) | 1.2.75 | 22577 
 [druid](https://github.com/alibaba/druid) | 1.2.2 | 22511 
 [gson](https://github.com/google/gson) | 2.8.6 | 18721 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 17419 
