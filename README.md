@@ -50,6 +50,7 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.3 | 4271
 [lucene](https://github.com/apache/lucene-solr) | 8.7.0 | 3847
 [solr](https://github.com/apache/lucene-solr) | 8.7.0 | 3847
+[drools](https://github.com/kiegroup/drools) | 7.46.0.Beta1 | 3290
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.34.v20201102 | 2988
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 677
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc4 | 397
@@ -110,7 +111,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.9.0 | 3508 
 [camel](https://github.com/apache/camel) | 3.6.0 | 3478 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3418 
-[drools](https://github.com/kiegroup/drools) | 7.46.0.t20201030 | 3290 
+[drools](https://github.com/kiegroup/drools) | 7.46.0.Beta1 | 3290 
 [shiro](https://github.com/apache/shiro) | 1.7.0 | 3237 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 3136 
 [pmd](https://github.com/pmd/pmd) | 6.29.0 | 3108 
