@@ -45,7 +45,6 @@ repo | releases | star
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.75 | 22577
 [druid](https://github.com/alibaba/druid) | 1.2.2 | 22511
 [nacos](https://github.com/alibaba/nacos) | 1.4.0 | 14748
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR1 | 11452
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.23.Final | 4435
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.3 | 4271
 [lucene](https://github.com/apache/lucene-solr) | 8.7.0 | 3847
