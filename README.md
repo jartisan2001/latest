@@ -44,11 +44,9 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.4.4 | 23535
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.75 | 22577
 [druid](https://github.com/alibaba/druid) | 1.2.3 | 22553
-[druid](https://github.com/alibaba/druid) | 1.2.2 | 22511
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.3 | 4271
 [drools](https://github.com/kiegroup/drools) | 7.46.0.Beta1 | 3290
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 677
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc4 | 397
 
 ### 收录列表
 ---
