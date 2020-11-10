@@ -46,7 +46,10 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.2.3 | 22553
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.3 | 4271
 [drools](https://github.com/kiegroup/drools) | 7.46.0.Beta1 | 3290
+[cxf](https://github.com/apache/cxf) | 3.3.8 | 678
+[cxf](https://github.com/apache/cxf) | 3.4.1 | 678
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 677
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc5 | 399
 
 ### 收录列表
 ---
@@ -132,10 +135,10 @@ repo | releases | star
 [commons-io](https://github.com/apache/commons-io) | 2.8.0 | 744 
 [elide](https://github.com/yahoo/elide) | 4.6.8 | 723 
 [github-api](https://github.com/kohsuke/github-api) | 1.116 | 708 
-[cxf](https://github.com/apache/cxf) | 3.4.0 | 678 
+[cxf](https://github.com/apache/cxf) | 3.4.1 | 678 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 677 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 650 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc4 | 399 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc5 | 399 
 [commons-codec](https://github.com/apache/commons-codec) | 1.15 | 279 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 247 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 186 
