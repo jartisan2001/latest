@@ -41,7 +41,6 @@
 repo | releases | star
 ---|---|---
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-1 | 44633
-[fastjson](https://github.com/alibaba/fastjson) | 1.2.75 | 22577
 [druid](https://github.com/alibaba/druid) | 1.2.3 | 22553
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.19.Final | 4441
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.3 | 4271
