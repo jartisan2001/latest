@@ -43,6 +43,7 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-1 | 44633
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.75 | 22577
 [druid](https://github.com/alibaba/druid) | 1.2.3 | 22553
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.19.Final | 4441
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.3 | 4271
 [drools](https://github.com/kiegroup/drools) | 7.46.0.Beta1 | 3290
 [log4j2](https://github.com/apache/logging-log4j2) | 2.14.0 | 1059
@@ -91,7 +92,7 @@ repo | releases | star
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 4643 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4606 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4518 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.23.Final | 4441 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.19.Final | 4441 
 [beam](https://github.com/apache/beam) | 2.25.0 | 4354 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.3 | 4291 
 [junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4254 
