@@ -42,13 +42,10 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.10.0 | 52190
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-2 | 44710
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-1 | 44633
 [netty](https://github.com/netty/netty) | 4.1.54.Final | 25207
 [druid](https://github.com/alibaba/druid) | 1.2.3 | 22553
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.1 | 9281
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.19.Final | 4441
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.3 | 4271
-[drools](https://github.com/kiegroup/drools) | 7.46.0.Beta1 | 3290
 [log4j2](https://github.com/apache/logging-log4j2) | 2.14.0 | 1059
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc5 | 399
 
