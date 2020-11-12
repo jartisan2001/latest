@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.10.0 | 52190
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-2 | 44710
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-1 | 44633
 [netty](https://github.com/netty/netty) | 4.1.54.Final | 25207
@@ -55,7 +56,7 @@ repo | releases | star
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.9.3 | 52185 
+[elasticsearch](https://github.com/elastic/elasticsearch) | 7.10.0 | 52190 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.5.RELEASE | 51615 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-2 | 44711 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43724 
