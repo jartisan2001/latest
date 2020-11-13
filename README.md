@@ -41,12 +41,21 @@
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.10.0 | 52190
+[springboot](https://github.com/spring-projects/spring-boot) | 2.3.6.RELEASE | 51642
+[springboot](https://github.com/spring-projects/spring-boot) | 2.4.0 | 51642
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-2 | 44710
 [netty](https://github.com/netty/netty) | 4.1.54.Final | 25207
 [druid](https://github.com/alibaba/druid) | 1.2.3 | 22553
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.1 | 9281
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.19.Final | 4441
+[drools](https://github.com/kiegroup/drools) | 7.46.0.Final | 3306
+[jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.Final | 1174
 [log4j2](https://github.com/apache/logging-log4j2) | 2.14.0 | 1059
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.24 | 400
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.14 | 400
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.9 | 400
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.4 | 400
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.20 | 400
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc5 | 399
 
 ### 收录列表
@@ -54,7 +63,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.10.0 | 52190 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.3.5.RELEASE | 51615 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.4.0 | 51642 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-2 | 44711 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43724 
 [guava](https://github.com/google/guava) | 30.0-jre | 39264 
@@ -105,7 +114,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.9.0 | 3513 
 [camel](https://github.com/apache/camel) | 3.6.0 | 3486 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3426 
-[drools](https://github.com/kiegroup/drools) | 7.46.0.Beta1 | 3301 
+[drools](https://github.com/kiegroup/drools) | 7.46.0.Final | 3306 
 [shiro](https://github.com/apache/shiro) | 1.7.0 | 3240 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 3140 
 [pmd](https://github.com/pmd/pmd) | 6.29.0 | 3120 
@@ -124,7 +133,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1360 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1287 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.21 | 1278 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.t20201030 | 1172 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.Final | 1174 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1137 
 [poi](https://github.com/apache/poi) | 4.1.2 | 1069 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.14.0 | 1060 
@@ -136,7 +145,7 @@ repo | releases | star
 [cxf](https://github.com/apache/cxf) | 3.4.1 | 679 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 677 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 651 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc5 | 400 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.20 | 400 
 [commons-codec](https://github.com/apache/commons-codec) | 1.15 | 279 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 247 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 186 
