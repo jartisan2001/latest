@@ -50,7 +50,6 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.19.Final | 4441
 [drools](https://github.com/kiegroup/drools) | 7.46.0.Final | 3306
 [jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.Final | 1174
-[log4j2](https://github.com/apache/logging-log4j2) | 2.14.0 | 1059
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.24 | 400
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.14 | 400
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.9 | 400
