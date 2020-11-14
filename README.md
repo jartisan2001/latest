@@ -43,6 +43,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.10.0 | 52190
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.6.RELEASE | 51642
 [springboot](https://github.com/spring-projects/spring-boot) | 2.4.0 | 51642
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-3 | 44740
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-2 | 44710
 [netty](https://github.com/netty/netty) | 4.1.54.Final | 25207
 [druid](https://github.com/alibaba/druid) | 1.2.3 | 22553
@@ -63,7 +64,7 @@ repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.10.0 | 52190 
 [springboot](https://github.com/spring-projects/spring-boot) | 2.4.0 | 51642 
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-2 | 44711 
+[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-3 | 44740 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43724 
 [guava](https://github.com/google/guava) | 30.0-jre | 39264 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 33994 
