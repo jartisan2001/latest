@@ -46,7 +46,6 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-3 | 44740
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-2 | 44710
 [netty](https://github.com/netty/netty) | 4.1.54.Final | 25207
-[druid](https://github.com/alibaba/druid) | 1.2.3 | 22553
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.1 | 9281
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.19.Final | 4441
 [drools](https://github.com/kiegroup/drools) | 7.46.0.Final | 3306
