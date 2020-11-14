@@ -51,6 +51,8 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.19.Final | 4441
 [drools](https://github.com/kiegroup/drools) | 7.46.0.Final | 3306
 [jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.Final | 1174
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5 | 401
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.10 | 401
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.24 | 400
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.14 | 400
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.9 | 400
@@ -145,7 +147,7 @@ repo | releases | star
 [cxf](https://github.com/apache/cxf) | 3.4.1 | 679 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 677 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 651 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.20 | 400 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.10 | 401 
 [commons-codec](https://github.com/apache/commons-codec) | 1.15 | 279 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 247 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 186 
