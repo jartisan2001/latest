@@ -50,6 +50,7 @@ repo | releases | star
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.1 | 9281
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.19.Final | 4441
 [drools](https://github.com/kiegroup/drools) | 7.46.0.Final | 3306
+[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.4 | 3145
 [jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.Final | 1174
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5 | 401
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.10 | 401
@@ -118,7 +119,7 @@ repo | releases | star
 [hive](https://github.com/apache/hive) | 2.3.7 | 3426 
 [drools](https://github.com/kiegroup/drools) | 7.46.0.Final | 3306 
 [shiro](https://github.com/apache/shiro) | 1.7.0 | 3240 
-[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.3 | 3140 
+[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.4 | 3145 
 [pmd](https://github.com/pmd/pmd) | 6.29.0 | 3120 
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.34.v20201102 | 2993 
 [kylin](https://github.com/apache/kylin) | 3.1.1 | 2839 
