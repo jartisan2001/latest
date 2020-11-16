@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[elasticsearch](https://github.com/elastic/elasticsearch) | 7.10.0 | 52190
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.6.RELEASE | 51642
 [springboot](https://github.com/spring-projects/spring-boot) | 2.4.0 | 51642
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0 | 44746
@@ -49,10 +48,8 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.54.Final | 25207
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.1 | 9281
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.19.Final | 4441
-[drools](https://github.com/kiegroup/drools) | 7.46.0.Final | 3306
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.4 | 3145
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc2 | 1884
-[jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.Final | 1174
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5 | 401
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.10 | 401
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.24 | 400
@@ -60,7 +57,6 @@ repo | releases | star
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.9 | 400
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.4 | 400
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.20 | 400
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc5 | 399
 
 ### 收录列表
 ---
