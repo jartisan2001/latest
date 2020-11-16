@@ -51,6 +51,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.19.Final | 4441
 [drools](https://github.com/kiegroup/drools) | 7.46.0.Final | 3306
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.4 | 3145
+[jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc2 | 1884
 [jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.Final | 1174
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5 | 401
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.10 | 401
@@ -130,7 +131,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 2025 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.11 | 2022 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1967 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.6.7.4 | 1884 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc2 | 1884 
 [avro](https://github.com/apache/avro) | 1.10.0 | 1707 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1540 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1360 
