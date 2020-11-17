@@ -44,11 +44,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.4.0 | 51642
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0 | 44746
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-3 | 44740
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-2 | 44710
-[netty](https://github.com/netty/netty) | 4.1.54.Final | 25207
-[spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.1 | 9281
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.20.Final | 4446
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.19.Final | 4441
 [JSON-java](https://github.com/stleary/JSON-java) | 20201115 | 3701
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.4 | 3145
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc2 | 1884
