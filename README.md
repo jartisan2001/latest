@@ -44,6 +44,10 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.4.0 | 51642
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0 | 44746
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-3 | 44740
+[tomcat](https://github.com/apache/tomcat) | 10.0.0-M10 | 4997
+[tomcat](https://github.com/apache/tomcat) | 9.0.40 | 4997
+[tomcat](https://github.com/apache/tomcat) | 8.5.60 | 4997
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.24.Final | 4448
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.20.Final | 4446
 [JSON-java](https://github.com/stleary/JSON-java) | 20201115 | 3701
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.4 | 3145
@@ -99,11 +103,11 @@ repo | releases | star
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta3 | 6283 
 [storm](https://github.com/apache/storm) | 2.2.0 | 6168 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.37 | 5607 
-[tomcat](https://github.com/apache/tomcat) | 8.5.59 | 4996 
+[tomcat](https://github.com/apache/tomcat) | 8.5.60 | 4997 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 4669 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4608 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4524 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.20.Final | 4447 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.24.Final | 4448 
 [beam](https://github.com/apache/beam) | 2.25.0 | 4366 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.3 | 4303 
 [junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4261 
