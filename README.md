@@ -40,10 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
-[springboot](https://github.com/spring-projects/spring-boot) | 2.4.0 | 51642
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0 | 44746
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0-rc-3 | 44740
-[tomcat](https://github.com/apache/tomcat) | 8.5.60 | 4997
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.24.Final | 4448
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.20.Final | 4446
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.4 | 4307
@@ -56,9 +53,6 @@ repo | releases | star
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.15 | 401
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.21 | 401
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc6 | 401
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.9 | 400
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.4 | 400
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.20 | 400
 
 ### 收录列表
 ---
