@@ -43,10 +43,12 @@ repo | releases | star
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0 | 44746
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.24.Final | 4448
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.20.Final | 4446
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.0 | 4316
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.4 | 4307
 [JSON-java](https://github.com/stleary/JSON-java) | 20201115 | 3701
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.4 | 3145
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc2 | 1884
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5.1 | 404
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5 | 401
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.10 | 401
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.25 | 401
@@ -99,7 +101,7 @@ repo | releases | star
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4525 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.24.Final | 4449 
 [beam](https://github.com/apache/beam) | 2.25.0 | 4373 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.4 | 4312 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.0 | 4316 
 [junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4271 
 [groovy](https://github.com/apache/groovy) | 3.0.6 | 3896 
 [lucene](https://github.com/apache/lucene-solr) | 8.7.0 | 3868 
@@ -141,7 +143,7 @@ repo | releases | star
 [cxf](https://github.com/apache/cxf) | 3.4.1 | 682 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 680 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 656 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc6 | 403 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5.1 | 404 
 [commons-codec](https://github.com/apache/commons-codec) | 1.15 | 279 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 248 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 186 
