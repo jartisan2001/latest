@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0 | 44746
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.24.Final | 4448
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.20.Final | 4446
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.0 | 4316
@@ -49,8 +48,6 @@ repo | releases | star
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.4 | 3145
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc2 | 1884
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5.1 | 404
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5 | 401
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.1.10 | 401
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.25 | 401
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.15 | 401
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.21 | 401
