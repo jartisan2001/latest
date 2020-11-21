@@ -45,8 +45,6 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.0 | 4316
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.4 | 4307
 [JSON-java](https://github.com/stleary/JSON-java) | 20201115 | 3701
-[mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.4 | 3145
-[jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc2 | 1884
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5.1 | 404
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.25 | 401
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.15 | 401
