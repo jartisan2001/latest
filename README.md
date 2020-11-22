@@ -45,11 +45,7 @@ repo | releases | star
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.20.Final | 4446
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.0 | 4316
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.4 | 4307
-[JSON-java](https://github.com/stleary/JSON-java) | 20201115 | 3701
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5.1 | 404
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.16.25 | 401
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.0.15 | 401
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 2.15.21 | 401
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc6 | 401
 
 ### 收录列表
