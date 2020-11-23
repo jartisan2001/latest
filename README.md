@@ -42,11 +42,9 @@ repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.14.0 | 14945
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.24.Final | 4448
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.3.20.Final | 4446
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.0 | 4316
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.4 | 4307
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5.1 | 404
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc6 | 401
 
 ### 收录列表
 ---
