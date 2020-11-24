@@ -42,10 +42,7 @@ repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.14.0 | 14945
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR2 | 11506
-[tomcat](https://github.com/apache/tomcat) | 7.0.107 | 5012
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.24.Final | 4448
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.0 | 4316
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.4 | 4307
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.35.v20201120 | 2999
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5.1 | 404
 
