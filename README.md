@@ -42,9 +42,11 @@ repo | releases | star
 ---|---|---
 [redisson](https://github.com/redisson/redisson) | 3.14.0 | 14945
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR2 | 11506
+[tomcat](https://github.com/apache/tomcat) | 7.0.107 | 5012
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.24.Final | 4448
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.0 | 4316
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.1.4 | 4307
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.35.v20201120 | 2999
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5.1 | 404
 
 ### 收录列表
@@ -86,7 +88,7 @@ repo | releases | star
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta3 | 6301 
 [storm](https://github.com/apache/storm) | 2.2.0 | 6166 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.37 | 5630 
-[tomcat](https://github.com/apache/tomcat) | 8.5.60 | 5011 
+[tomcat](https://github.com/apache/tomcat) | 7.0.107 | 5012 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 4697 
 [mesos](https://github.com/apache/mesos) | 1.10.0 | 4611 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4527 
@@ -107,7 +109,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.7.0 | 3252 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.4 | 3154 
 [pmd](https://github.com/pmd/pmd) | 6.29.0 | 3134 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.34.v20201102 | 2999 
+[jetty server](https://github.com/eclipse/jetty.project) | 9.4.35.v20201120 | 2999 
 [kylin](https://github.com/apache/kylin) | 3.1.1 | 2866 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2369 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2284 
