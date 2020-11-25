@@ -44,6 +44,8 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR2 | 11506
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.0 | 4316
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.35.v20201120 | 2999
+[github-api](https://github.com/kohsuke/github-api) | 1.117 | 712
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc7 | 408
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5.1 | 404
 
 ### 收录列表
@@ -129,7 +131,7 @@ repo | releases | star
 [mina](https://github.com/apache/mina) | 2.1.4 | 768 
 [commons-io](https://github.com/apache/commons-io) | 2.8.0 | 749 
 [elide](https://github.com/yahoo/elide) | 4.6.8 | 728 
-[github-api](https://github.com/kohsuke/github-api) | 1.116 | 712 
+[github-api](https://github.com/kohsuke/github-api) | 1.117 | 712 
 [cxf](https://github.com/apache/cxf) | 3.4.1 | 682 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 679 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 656 
