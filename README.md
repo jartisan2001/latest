@@ -43,11 +43,9 @@ repo | releases | star
 [redisson](https://github.com/redisson/redisson) | 3.14.0 | 14945
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR2 | 11506
 [mockito](https://github.com/mockito/mockito) | 3.6.28 | 11242
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.0 | 4316
 [jetty server](https://github.com/eclipse/jetty.project) | 9.4.35.v20201120 | 2999
 [github-api](https://github.com/kohsuke/github-api) | 1.117 | 712
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc7 | 408
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.2.5.1 | 404
 
 ### 收录列表
 ---
