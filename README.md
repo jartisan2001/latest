@@ -40,7 +40,6 @@
 ---
 repo | releases | star
 ---|---|---
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR2 | 11506
 [mockito](https://github.com/mockito/mockito) | 3.6.28 | 11242
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.2.0 | 2095
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0 | 1891
