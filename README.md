@@ -43,6 +43,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR2 | 11506
 [mockito](https://github.com/mockito/mockito) | 3.6.28 | 11242
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.2.0 | 2095
+[jackson](https://github.com/FasterXML/jackson-core) | 2.12.0 | 1891
 [github-api](https://github.com/kohsuke/github-api) | 1.117 | 712
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc7 | 408
 
@@ -115,7 +116,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 2036 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.11 | 2032 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1973 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.12.0-rc2 | 1891 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.12.0 | 1891 
 [avro](https://github.com/apache/avro) | 1.10.0 | 1723 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1551 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1373 
