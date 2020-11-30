@@ -45,7 +45,6 @@ repo | releases | star
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.2.0 | 2095
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0 | 1891
 [github-api](https://github.com/kohsuke/github-api) | 1.117 | 712
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc7 | 408
 
 ### 收录列表
 ---
