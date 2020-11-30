@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [mockito](https://github.com/mockito/mockito) | 3.6.28 | 11242
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.38 | 5643
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.2.0 | 2095
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0 | 1891
 [github-api](https://github.com/kohsuke/github-api) | 1.117 | 712
@@ -84,7 +85,7 @@ repo | releases | star
 [jjwt](https://github.com/jwtk/jjwt) | 0.9.1 | 6971 
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta3 | 6306 
 [storm](https://github.com/apache/storm) | 2.2.0 | 6168 
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.37 | 5643 
+[checkstyle](https://github.com/checkstyle/checkstyle) | 8.38 | 5643 
 [tomcat](https://github.com/apache/tomcat) | 7.0.107 | 5025 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 4720 
 [mesos](https://github.com/apache/mesos) | 1.11.0 | 4613 
