@@ -40,11 +40,9 @@
 ---
 repo | releases | star
 ---|---|---
-[mockito](https://github.com/mockito/mockito) | 3.6.28 | 11242
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.38 | 5643
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.2.0 | 2095
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0 | 1891
-[github-api](https://github.com/kohsuke/github-api) | 1.117 | 712
 
 ### 收录列表
 ---
