@@ -40,9 +40,13 @@
 ---
 repo | releases | star
 ---|---|---
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.7 | 17867
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.38 | 5643
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.25.Final | 4460
 [spotbugs](https://github.com/spotbugs/spotbugs) | 4.2.0 | 2095
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20201202 | 1893
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0 | 1891
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0 | 413
 
 ### 收录列表
 ---
@@ -60,7 +64,7 @@ repo | releases | star
 [druid](https://github.com/alibaba/druid) | 1.2.3 | 22774 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.75 | 22711 
 [gson](https://github.com/google/gson) | 2.8.6 | 18862 
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.6 | 17862 
+[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.7 | 17867 
 [kafka](https://github.com/apache/kafka) | 2.6.0 | 17431 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 16658 
 [nacos](https://github.com/alibaba/nacos) | 1.4.0 | 15209 
@@ -87,7 +91,7 @@ repo | releases | star
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 4735 
 [mesos](https://github.com/apache/mesos) | 1.11.0 | 4613 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4532 
-[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.25.Final | 4459 
+[hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.25.Final | 4460 
 [beam](https://github.com/apache/beam) | 2.25.0 | 4404 
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.0 | 4357 
 [junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4295 
@@ -113,7 +117,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 2039 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.11 | 2032 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1974 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.12.0 | 1893 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20201202 | 1893 
 [avro](https://github.com/apache/avro) | 1.10.0 | 1729 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1553 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1373 
@@ -131,7 +135,7 @@ repo | releases | star
 [cxf](https://github.com/apache/cxf) | 3.4.1 | 683 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 681 
 [dom4j](https://github.com/dom4j/dom4j) | 2.1.3 | 656 
-[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0-rc7 | 413 
+[gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0 | 413 
 [commons-codec](https://github.com/apache/commons-codec) | 1.15 | 279 
 [commons-dbcp2](https://github.com/apache/commons-dbcp) | 2.8.0 | 249 
 [commons-text](https://github.com/apache/commons-text) | 1.9 | 186 
