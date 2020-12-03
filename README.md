@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[arthas](https://github.com/alibaba/arthas) | 3.4.5 | 23886
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.7 | 17867
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.38 | 5643
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.25.Final | 4460
@@ -61,7 +62,7 @@ repo | releases | star
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 34160 
 [netty](https://github.com/netty/netty) | 4.1.54.Final | 25381 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 23976 
-[arthas](https://github.com/alibaba/arthas) | 3.4.4 | 23882 
+[arthas](https://github.com/alibaba/arthas) | 3.4.5 | 23886 
 [druid](https://github.com/alibaba/druid) | 1.2.3 | 22789 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.75 | 22716 
 [gson](https://github.com/google/gson) | 2.8.6 | 18866 
