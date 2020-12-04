@@ -47,7 +47,6 @@ repo | releases | star
 [groovy](https://github.com/apache/groovy) | 2.4.21 | 3913
 [groovy](https://github.com/apache/groovy) | 2.5.14 | 3913
 [groovy](https://github.com/apache/groovy) | 3.0.7 | 3913
-[spotbugs](https://github.com/spotbugs/spotbugs) | 4.2.0 | 2095
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.5.20201202 | 1895
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20201202 | 1893
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0 | 1891
