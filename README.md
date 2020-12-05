@@ -42,14 +42,19 @@ repo | releases | star
 ---|---|---
 [arthas](https://github.com/alibaba/arthas) | 3.4.5 | 23886
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.7 | 17867
+[nacos](https://github.com/alibaba/nacos) | 2.0.0-ALPHA.1 | 15250
+[jib](https://github.com/GoogleContainerTools/jib) | 2.7.0 | 10004
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.38 | 5643
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.25.Final | 4460
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.1 | 4418
 [groovy](https://github.com/apache/groovy) | 2.4.21 | 3913
 [groovy](https://github.com/apache/groovy) | 2.5.14 | 3913
 [groovy](https://github.com/apache/groovy) | 3.0.7 | 3913
+[drools](https://github.com/kiegroup/drools) | 7.47.0.Final | 3351
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.5.20201202 | 1895
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20201202 | 1893
 [jackson](https://github.com/FasterXML/jackson-core) | 2.12.0 | 1891
+[jbpm](https://github.com/kiegroup/jbpm) | 7.47.0.Final | 1181
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0 | 413
 
 ### 收录列表
@@ -71,7 +76,7 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.7 | 17903 
 [kafka](https://github.com/apache/kafka) | 2.6.0 | 17465 
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 16693 
-[nacos](https://github.com/alibaba/nacos) | 1.4.0 | 15237 
+[nacos](https://github.com/alibaba/nacos) | 2.0.0-ALPHA.1 | 15250 
 [redisson](https://github.com/redisson/redisson) | 3.14.0 | 15051 
 [flink](https://github.com/apache/flink) | 1.11.2 | 14798 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.6 | 14676 
@@ -80,7 +85,7 @@ repo | releases | star
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR2 | 11535 
 [mockito](https://github.com/mockito/mockito) | 3.6.28 | 11271 
 [hadoop](https://github.com/apache/hadoop) | 2.10.1 | 11108 
-[jib](https://github.com/GoogleContainerTools/jib) | 2.6.0 | 9992 
+[jib](https://github.com/GoogleContainerTools/jib) | 2.7.0 | 10004 
 [pagehelper](https://github.com/pagehelper/Mybatis-PageHelper) | 1.3.0 | 9885 
 [lombok](https://github.com/rzwitserloot/lombok) | 1.18.16 | 9796 
 [spring boot admin](https://github.com/codecentric/spring-boot-admin) | 2.3.1 | 9348 
@@ -96,8 +101,8 @@ repo | releases | star
 [mesos](https://github.com/apache/mesos) | 1.11.0 | 4613 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4532 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.25.Final | 4462 
+[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.1 | 4418 
 [beam](https://github.com/apache/beam) | 2.25.0 | 4408 
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.0 | 4361 
 [junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4298 
 [groovy](https://github.com/apache/groovy) | 3.0.7 | 3913 
 [lucene](https://github.com/apache/lucene-solr) | 8.7.0 | 3907 
@@ -108,7 +113,7 @@ repo | releases | star
 [ignite](https://github.com/apache/ignite) | 2.9.0 | 3543 
 [camel](https://github.com/apache/camel) | 3.6.0 | 3520 
 [hive](https://github.com/apache/hive) | 2.3.7 | 3459 
-[drools](https://github.com/kiegroup/drools) | 7.46.0.Final | 3348 
+[drools](https://github.com/kiegroup/drools) | 7.47.0.Final | 3351 
 [shiro](https://github.com/apache/shiro) | 1.7.0 | 3273 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.4 | 3160 
 [pmd](https://github.com/pmd/pmd) | 6.29.0 | 3144 
@@ -127,7 +132,7 @@ repo | releases | star
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1374 
 [pdfbox](https://github.com/apache/pdfbox) | 2.0.21 | 1304 
 [json-iterator](https://github.com/json-iterator/java) | 0.9.23 | 1292 
-[jbpm](https://github.com/kiegroup/jbpm) | 7.46.0.Final | 1181 
+[jbpm](https://github.com/kiegroup/jbpm) | 7.47.0.Final | 1181 
 [c3p0](https://github.com/swaldman/c3p0) | 0.9.5.5 | 1147 
 [poi](https://github.com/apache/poi) | 4.1.2 | 1082 
 [log4j2](https://github.com/apache/logging-log4j2) | 2.14.0 | 1070 
