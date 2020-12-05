@@ -44,7 +44,6 @@ repo | releases | star
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.7 | 17867
 [nacos](https://github.com/alibaba/nacos) | 2.0.0-ALPHA.1 | 15250
 [jib](https://github.com/GoogleContainerTools/jib) | 2.7.0 | 10004
-[checkstyle](https://github.com/checkstyle/checkstyle) | 8.38 | 5643
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.25.Final | 4460
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.1 | 4418
 [groovy](https://github.com/apache/groovy) | 2.4.21 | 3913
@@ -53,7 +52,6 @@ repo | releases | star
 [drools](https://github.com/kiegroup/drools) | 7.47.0.Final | 3351
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.5.20201202 | 1895
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20201202 | 1893
-[jackson](https://github.com/FasterXML/jackson-core) | 2.12.0 | 1891
 [jbpm](https://github.com/kiegroup/jbpm) | 7.47.0.Final | 1181
 [gerrit](https://github.com/GerritCodeReview/gerrit) | 3.3.0 | 413
 
