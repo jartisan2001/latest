@@ -43,12 +43,16 @@ repo | releases | star
 [arthas](https://github.com/alibaba/arthas) | 3.4.5 | 23886
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.7 | 17867
 [nacos](https://github.com/alibaba/nacos) | 2.0.0-ALPHA.1 | 15250
+[flink](https://github.com/apache/flink) | 1.12.0 | 14829
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0 | 11545
 [jib](https://github.com/GoogleContainerTools/jib) | 2.7.0 | 10004
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.1 | 4418
 [groovy](https://github.com/apache/groovy) | 2.4.21 | 3913
 [groovy](https://github.com/apache/groovy) | 2.5.14 | 3913
 [groovy](https://github.com/apache/groovy) | 3.0.7 | 3913
 [drools](https://github.com/kiegroup/drools) | 7.47.0.Final | 3351
+[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0 | 3005
+[jetty server](https://github.com/eclipse/jetty.project) | 11.0.0 | 3005
 [jackson](https://github.com/FasterXML/jackson-core) | 2.10.5.20201202 | 1895
 [jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20201202 | 1893
 [jbpm](https://github.com/kiegroup/jbpm) | 7.47.0.Final | 1181
@@ -74,11 +78,11 @@ repo | releases | star
 [springcloud-alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) | 1.1.3 | 16755 
 [nacos](https://github.com/alibaba/nacos) | 2.0.0-ALPHA.1 | 15291 
 [redisson](https://github.com/redisson/redisson) | 3.14.0 | 15086 
-[flink](https://github.com/apache/flink) | 1.11.2 | 14824 
+[flink](https://github.com/apache/flink) | 1.12.0 | 14829 
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.6 | 14698 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 14193 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 5.0.0-alpha | 12883 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0.CR2 | 11544 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0 | 11545 
 [mockito](https://github.com/mockito/mockito) | 3.6.28 | 11285 
 [hadoop](https://github.com/apache/hadoop) | 2.10.1 | 11118 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.7.0 | 10017 
@@ -113,7 +117,7 @@ repo | releases | star
 [shiro](https://github.com/apache/shiro) | 1.7.0 | 3279 
 [mybatis-spring](https://github.com/mybatis/spring-boot-starter) | 2.1.4 | 3160 
 [pmd](https://github.com/pmd/pmd) | 6.29.0 | 3149 
-[jetty server](https://github.com/eclipse/jetty.project) | 9.4.35.v20201120 | 3006 
+[jetty server](https://github.com/eclipse/jetty.project) | 11.0.0 | 3005 
 [kylin](https://github.com/apache/kylin) | 3.1.1 | 2886 
 [tablesaw](https://github.com/jtablesaw/tablesaw) | 0.38.1 | 2393 
 [maven](https://github.com/apache/maven) | 3.6.3 | 2333 
