@@ -41,21 +41,15 @@
 repo | releases | star
 ---|---|---
 [arthas](https://github.com/alibaba/arthas) | 3.4.5 | 23886
-[easyexcel](https://github.com/alibaba/easyexcel) | 2.2.7 | 17867
 [nacos](https://github.com/alibaba/nacos) | 2.0.0-ALPHA.1 | 15250
-[flink](https://github.com/apache/flink) | 1.12.0 | 14829
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0 | 11545
 [jib](https://github.com/GoogleContainerTools/jib) | 2.7.0 | 10004
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.1 | 4418
 [groovy](https://github.com/apache/groovy) | 2.4.21 | 3913
 [groovy](https://github.com/apache/groovy) | 2.5.14 | 3913
 [groovy](https://github.com/apache/groovy) | 3.0.7 | 3913
-[drools](https://github.com/kiegroup/drools) | 7.47.0.Final | 3351
 [jetty server](https://github.com/eclipse/jetty.project) | 10.0.0 | 3005
 [jetty server](https://github.com/eclipse/jetty.project) | 11.0.0 | 3005
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.5.20201202 | 1895
-[jackson](https://github.com/FasterXML/jackson-core) | 2.9.10.20201202 | 1893
-[jbpm](https://github.com/kiegroup/jbpm) | 7.47.0.Final | 1181
 
 ### 收录列表
 ---
