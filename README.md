@@ -45,6 +45,9 @@ repo | releases | star
 [nacos](https://github.com/alibaba/nacos) | 2.0.0-ALPHA.1 | 15250
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0 | 11545
 [jib](https://github.com/GoogleContainerTools/jib) | 2.7.0 | 10004
+[tomcat](https://github.com/apache/tomcat) | 10.0.0 | 5050
+[tomcat](https://github.com/apache/tomcat) | 9.0.41 | 5050
+[tomcat](https://github.com/apache/tomcat) | 8.5.61 | 5050
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.1 | 4418
 [groovy](https://github.com/apache/groovy) | 2.4.21 | 3913
 [groovy](https://github.com/apache/groovy) | 2.5.14 | 3913
@@ -91,7 +94,7 @@ repo | releases | star
 [cassandra](https://github.com/apache/cassandra) | 4.0-beta3 | 6318 
 [storm](https://github.com/apache/storm) | 2.2.0 | 6171 
 [checkstyle](https://github.com/checkstyle/checkstyle) | 8.38 | 5655 
-[tomcat](https://github.com/apache/tomcat) | 7.0.107 | 5045 
+[tomcat](https://github.com/apache/tomcat) | 8.5.61 | 5050 
 [jmeter](https://github.com/apache/jmeter) | 5.1.1 | 4752 
 [mesos](https://github.com/apache/mesos) | 1.11.0 | 4616 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4536 
