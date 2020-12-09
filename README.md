@@ -41,19 +41,10 @@
 repo | releases | star
 ---|---|---
 [netty](https://github.com/netty/netty) | 4.1.55.Final | 25432
-[arthas](https://github.com/alibaba/arthas) | 3.4.5 | 23886
 [nacos](https://github.com/alibaba/nacos) | 2.0.0-ALPHA.1 | 15250
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0 | 11545
 [jib](https://github.com/GoogleContainerTools/jib) | 2.7.0 | 10004
-[tomcat](https://github.com/apache/tomcat) | 10.0.0 | 5050
-[tomcat](https://github.com/apache/tomcat) | 9.0.41 | 5050
-[tomcat](https://github.com/apache/tomcat) | 8.5.61 | 5050
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.1 | 4418
-[groovy](https://github.com/apache/groovy) | 2.4.21 | 3913
-[groovy](https://github.com/apache/groovy) | 2.5.14 | 3913
-[groovy](https://github.com/apache/groovy) | 3.0.7 | 3913
-[jetty server](https://github.com/eclipse/jetty.project) | 10.0.0 | 3005
-[jetty server](https://github.com/eclipse/jetty.project) | 11.0.0 | 3005
 
 ### 收录列表
 ---
