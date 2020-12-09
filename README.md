@@ -40,6 +40,7 @@
 ---
 repo | releases | star
 ---|---|---
+[netty](https://github.com/netty/netty) | 4.1.55.Final | 25432
 [arthas](https://github.com/alibaba/arthas) | 3.4.5 | 23886
 [nacos](https://github.com/alibaba/nacos) | 2.0.0-ALPHA.1 | 15250
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0 | 11545
@@ -61,7 +62,7 @@ repo | releases | star
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43847 
 [guava](https://github.com/google/guava) | 30.0-jre | 39541 
 [dubbo](https://github.com/apache/incubator-dubbo) | 2.6.9 | 34202 
-[netty](https://github.com/netty/netty) | 4.1.54.Final | 25422 
+[netty](https://github.com/netty/netty) | 4.1.55.Final | 25432 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 24022 
 [arthas](https://github.com/alibaba/arthas) | 3.4.5 | 23940 
 [druid](https://github.com/alibaba/druid) | 1.2.3 | 22838 
