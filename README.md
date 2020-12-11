@@ -41,6 +41,7 @@
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.10.1 | 52590
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.12.RELEASE | 52209
 [netty](https://github.com/netty/netty) | 4.1.55.Final | 25432
 [nacos](https://github.com/alibaba/nacos) | 2.0.0-ALPHA.1 | 15250
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0 | 11545
@@ -52,7 +53,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.10.1 | 52601 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.4.0 | 52195 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.2.12.RELEASE | 52209 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0 | 45201 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43867 
 [guava](https://github.com/google/guava) | 30.0-jre | 39586 
