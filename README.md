@@ -43,10 +43,7 @@ repo | releases | star
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.10.1 | 52590
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.12.RELEASE | 52209
 [netty](https://github.com/netty/netty) | 4.1.55.Final | 25432
-[nacos](https://github.com/alibaba/nacos) | 2.0.0-ALPHA.1 | 15250
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0 | 11545
-[jib](https://github.com/GoogleContainerTools/jib) | 2.7.0 | 10004
-[micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.1 | 4418
 
 ### 收录列表
 ---
