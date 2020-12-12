@@ -47,6 +47,9 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.55.Final | 25432
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.5 | 11584
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0 | 11545
+[beam](https://github.com/apache/beam) | 2.26.0 | 4436
+[jackson](https://github.com/FasterXML/jackson-core) | 2.11.4 | 1896
+[elide](https://github.com/yahoo/elide) | 5.0.0-pr29 | 732
 
 ### 收录列表
 ---
@@ -93,7 +96,7 @@ repo | releases | star
 [micronaut](https://github.com/micronaut-projects/micronaut-core) | 2.2.1 | 4537 
 [joda-time](https://github.com/JodaOrg/joda-time) | 2.10.8 | 4537 
 [hibernate](https://github.com/hibernate/hibernate-orm) | 5.4.25.Final | 4463 
-[beam](https://github.com/apache/beam) | 2.25.0 | 4434 
+[beam](https://github.com/apache/beam) | 2.26.0 | 4436 
 [junit5](https://github.com/junit-team/junit5) | 5.6.3 | 4306 
 [groovy](https://github.com/apache/groovy) | 3.0.7 | 3928 
 [lucene](https://github.com/apache/lucene-solr) | 8.7.0 | 3918 
@@ -117,7 +120,7 @@ repo | releases | star
 [flume](https://github.com/apache/flume) | 1.9.0 | 2043 
 [commons-lang3](https://github.com/apache/commons-lang) | 3.11 | 2037 
 [logback](https://github.com/qos-ch/logback) | 1.3.0-alpha5 | 1983 
-[jackson](https://github.com/FasterXML/jackson-core) | 2.10.5.20201202 | 1896 
+[jackson](https://github.com/FasterXML/jackson-core) | 2.11.4 | 1896 
 [avro](https://github.com/apache/avro) | 1.10.1 | 1733 
 [slf4j](https://github.com/qos-ch/slf4j) | 1.7.30 | 1555 
 [spring-retry](https://github.com/spring-projects/spring-retry) | 1.3.0 | 1379 
@@ -130,7 +133,7 @@ repo | releases | star
 [struts](https://github.com/apache/struts) | 2.5.26 | 1043 
 [mina](https://github.com/apache/mina) | 2.1.4 | 769 
 [commons-io](https://github.com/apache/commons-io) | 2.8.0 | 752 
-[elide](https://github.com/yahoo/elide) | 4.6.8 | 732 
+[elide](https://github.com/yahoo/elide) | 5.0.0-pr29 | 732 
 [github-api](https://github.com/kohsuke/github-api) | 1.117 | 720 
 [dsl-json](https://github.com/ngs-doo/dsl-json) | 1.9.7 | 686 
 [cxf](https://github.com/apache/cxf) | 3.4.1 | 684 
