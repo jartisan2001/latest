@@ -41,8 +41,11 @@
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.10.1 | 52590
+[springboot](https://github.com/spring-projects/spring-boot) | 2.3.7.RELEASE | 52229
+[springboot](https://github.com/spring-projects/spring-boot) | 2.4.1 | 52229
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.12.RELEASE | 52209
 [netty](https://github.com/netty/netty) | 4.1.55.Final | 25432
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.5 | 11584
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0 | 11545
 
 ### 收录列表
@@ -50,7 +53,7 @@ repo | releases | star
 repo | releases | star
 ---|---|---
 [elasticsearch](https://github.com/elastic/elasticsearch) | 7.10.1 | 52601 
-[springboot](https://github.com/spring-projects/spring-boot) | 2.2.12.RELEASE | 52209 
+[springboot](https://github.com/spring-projects/spring-boot) | 2.4.1 | 52229 
 [protobuf-java](https://github.com/protocolbuffers/protobuf) | 3.14.0 | 45201 
 [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.20 | 43867 
 [guava](https://github.com/google/guava) | 30.0-jre | 39586 
@@ -70,7 +73,7 @@ repo | releases | star
 [mybatis](https://github.com/mybatis/mybatis-3) | 3.5.6 | 14707 
 [HikariCP](https://github.com/brettwooldridge/HikariCP) | 3.4.5 | 14220 
 [shardingsphere](https://github.com/apache/incubator-shardingsphere) | 5.0.0-alpha | 12921 
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0 | 11567 
+[vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.5 | 11584 
 [mockito](https://github.com/mockito/mockito) | 3.6.28 | 11289 
 [hadoop](https://github.com/apache/hadoop) | 2.10.1 | 11123 
 [jib](https://github.com/GoogleContainerTools/jib) | 2.7.0 | 10036 
