@@ -47,7 +47,6 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.55.Final | 25432
 [druid](https://github.com/alibaba/druid) | 1.2.4 | 22887
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.5 | 11584
-[vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0 | 11545
 [beam](https://github.com/apache/beam) | 2.26.0 | 4436
 [pmd](https://github.com/pmd/pmd) | 6.30.0 | 3151
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.4 | 1896
