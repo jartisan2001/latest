@@ -45,6 +45,7 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.4.1 | 52229
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.12.RELEASE | 52209
 [netty](https://github.com/netty/netty) | 4.1.55.Final | 25432
+[druid](https://github.com/alibaba/druid) | 1.2.4 | 22887
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.5 | 11584
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 4.0.0 | 11545
 [beam](https://github.com/apache/beam) | 2.26.0 | 4436
@@ -65,7 +66,7 @@ repo | releases | star
 [netty](https://github.com/netty/netty) | 4.1.55.Final | 25470 
 [p3c](https://github.com/alibaba/p3c) | 2.1.1 | 24063 
 [arthas](https://github.com/alibaba/arthas) | 3.4.5 | 24002 
-[druid](https://github.com/alibaba/druid) | 1.2.3 | 22886 
+[druid](https://github.com/alibaba/druid) | 1.2.4 | 22887 
 [fastjson](https://github.com/alibaba/fastjson) | 1.2.75 | 22767 
 [gson](https://github.com/google/gson) | 2.8.6 | 18908 
 [easyexcel](https://github.com/alibaba/easyexcel) | 2.2.7 | 18016 
