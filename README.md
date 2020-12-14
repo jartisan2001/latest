@@ -44,10 +44,8 @@ repo | releases | star
 [springboot](https://github.com/spring-projects/spring-boot) | 2.3.7.RELEASE | 52229
 [springboot](https://github.com/spring-projects/spring-boot) | 2.4.1 | 52229
 [springboot](https://github.com/spring-projects/spring-boot) | 2.2.12.RELEASE | 52209
-[netty](https://github.com/netty/netty) | 4.1.55.Final | 25432
 [druid](https://github.com/alibaba/druid) | 1.2.4 | 22887
 [vert.x](https://github.com/eclipse-vertx/vert.x) | 3.9.5 | 11584
-[beam](https://github.com/apache/beam) | 2.26.0 | 4436
 [pmd](https://github.com/pmd/pmd) | 6.30.0 | 3151
 [jackson](https://github.com/FasterXML/jackson-core) | 2.11.4 | 1896
 [elide](https://github.com/yahoo/elide) | 5.0.0-pr29 | 732
