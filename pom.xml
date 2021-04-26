@@ -23,7 +23,7 @@
 	<jsoup.version>1.12.1</jsoup.version>
 	<contiperf>2.3.4</contiperf>
 	<tablesaw>0.30.2</tablesaw>
-	<commons.io.version>2.6</commons.io.version>
+	<commons.io.version>2.7</commons.io.version>
 	<commons.collections4>4.2</commons.collections4>
 	<commons-compress>1.19</commons-compress>
 	<commons-text>1.6</commons-text>
