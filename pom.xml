@@ -14,7 +14,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <druid>1.1.19</druid>
-	<fastjson>1.2.72</fastjson>
+	<fastjson>1.2.83</fastjson>
     <spring.boot.mybatis>2.0.1</spring.boot.mybatis>
 	<spring.boot.pagehelper>1.2.12</spring.boot.pagehelper>
 	<jjwt>0.9.1</jjwt>
